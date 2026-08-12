@@ -1,12 +1,493 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>David Cyncynates</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="David Cyncynates is a theoretical physicist working on physics beyond the Standard Model, dark matter, axions, cosmology, gravity, and nonlinear field dynamics.">
+  <meta name="theme-color" content="#f4f0e7">
+  <link rel="canonical" href="https://davidcyncynates.github.io/">
+  <title>David Cyncynates · Theoretical Physics</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2222%22 fill=%22%230f727b%22/><text x=%2250%22 y=%2265%22 text-anchor=%22middle%22 font-size=%2252%22 font-family=%22Georgia,serif%22 fill=%22white%22>DC</text></svg>">
+
+  <meta property="og:title" content="David Cyncynates · Theoretical Physics">
+  <meta property="og:description" content="Particle phenomenology at the intersection of dark matter, cosmology, and gravity.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://davidcyncynates.github.io/">
+
+  <style>
+    :root {
+      --bg: #f4f0e7;
+      --surface: #fbfaf6;
+      --surface-2: #f7f4ec;
+      --text: #102a32;
+      --muted: #63777d;
+      --accent: #0f727b;
+      --accent-dark: #0a5259;
+      --accent-soft: #dbe9e7;
+      --warm: #b67b31;
+      --line: rgba(16, 42, 50, .15);
+      --line-strong: rgba(16, 42, 50, .28);
+      --shadow: 0 26px 70px rgba(25, 47, 54, .12);
+      --max: 1120px;
+      --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+      --sans: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; scroll-padding-top: 92px; }
+    body {
+      margin: 0;
+      min-width: 320px;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 86% 6%, rgba(15, 114, 123, .095), transparent 30rem),
+        radial-gradient(circle at 4% 34%, rgba(182, 123, 49, .065), transparent 25rem),
+        var(--bg);
+      font-family: var(--sans);
+      font-size: 17px;
+      line-height: 1.62;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: inherit; }
+    img { display: block; max-width: 100%; }
+    ::selection { background: var(--accent-soft); }
+
+    .shell { width: min(calc(100% - 40px), var(--max)); margin: 0 auto; }
+    .skip-link {
+      position: fixed; z-index: 1000; left: 1rem; top: -5rem;
+      padding: .7rem 1rem; border-radius: .7rem; background: var(--text); color: white;
+      text-decoration: none; transition: top .2s ease;
+    }
+    .skip-link:focus { top: 1rem; }
+
+    .site-header {
+      position: sticky; top: 0; z-index: 50;
+      border-bottom: 1px solid var(--line);
+      background: rgba(244, 240, 231, .92);
+      backdrop-filter: blur(16px) saturate(130%);
+      -webkit-backdrop-filter: blur(16px) saturate(130%);
+    }
+    .header-inner {
+      min-height: 76px; display: flex; align-items: center; justify-content: space-between; gap: 2rem;
+    }
+    .brand { display: inline-flex; align-items: center; gap: .75rem; text-decoration: none; font-family: var(--serif); font-weight: 700; font-size: 1.08rem; }
+    .brand-mark {
+      width: 42px; height: 42px; display: grid; place-items: center; border-radius: 13px;
+      background: var(--accent); color: white; font-family: var(--serif); font-size: .95rem;
+      box-shadow: 0 9px 24px rgba(15, 114, 123, .20);
+    }
+    .nav-wrap { display: flex; align-items: center; gap: 2.25rem; }
+    nav { display: flex; align-items: center; gap: 1.7rem; }
+    nav a { color: var(--muted); text-decoration: none; font-size: .92rem; font-weight: 700; }
+    nav a:hover, nav a:focus-visible { color: var(--accent); }
+
+    .cv-button, .button {
+      display: inline-flex; align-items: center; justify-content: center; gap: .45rem;
+      min-height: 48px; padding: .72rem 1.08rem; border: 1px solid var(--line-strong);
+      border-radius: 13px; background: rgba(255,255,255,.48); color: var(--text);
+      text-decoration: none; font-weight: 760; transition: transform .18s ease, border-color .18s ease, background .18s ease;
+    }
+    .cv-button:hover, .button:hover { transform: translateY(-2px); border-color: var(--accent); }
+    .button.primary { color: white; background: var(--accent); border-color: var(--accent); box-shadow: 0 10px 28px rgba(15,114,123,.20); }
+    .button.primary:hover { background: var(--accent-dark); }
+    .button.small { min-height: 40px; padding: .56rem .8rem; border-radius: 10px; font-size: .82rem; }
+
+    .hero { position: relative; overflow: hidden; border-bottom: 1px solid var(--line); }
+    .hero::after {
+      content: ""; position: absolute; width: 680px; height: 680px; border: 1px solid rgba(15,114,123,.16);
+      border-radius: 50%; right: -230px; top: 12px; box-shadow: 0 0 0 82px rgba(15,114,123,.035), 0 0 0 164px rgba(15,114,123,.022);
+      pointer-events: none;
+    }
+    .hero-inner {
+      position: relative; z-index: 1; min-height: 860px; padding: 8rem 0 6.8rem;
+      display: grid; grid-template-columns: minmax(0, 1.45fr) minmax(270px, .72fr); gap: clamp(3rem, 8vw, 8rem); align-items: center;
+    }
+    .eyebrow, .section-index, .tag, .talk-date, .code-label {
+      color: var(--accent); text-transform: uppercase; letter-spacing: .16em; font-weight: 850; font-size: .71rem;
+    }
+    h1, h2, h3, p { margin-top: 0; }
+    h1 {
+      margin: 1rem 0 1.4rem; font-family: var(--serif); font-size: clamp(4.4rem, 8.5vw, 7.7rem);
+      line-height: .88; letter-spacing: -.057em; font-weight: 700;
+    }
+    .hero-lede {
+      max-width: 720px; margin: 0 0 1.35rem; font-family: var(--serif); font-size: clamp(1.65rem, 3vw, 2.3rem);
+      line-height: 1.16; color: #294952;
+    }
+    .hero-copy { max-width: 720px; color: var(--muted); font-size: 1.08rem; }
+    .hero-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin: 2rem 0 1.55rem; }
+    .profile-links { display: flex; flex-wrap: wrap; gap: .65rem 1.15rem; }
+    .profile-links a { color: var(--muted); text-underline-offset: .2em; }
+    .profile-links a:hover { color: var(--accent); }
+
+    .portrait-area { position: relative; justify-self: center; }
+    .portrait-card {
+      width: min(100%, 330px); padding: 14px 14px 18px; border-radius: 32px;
+      background: rgba(255,255,255,.80); border: 1px solid rgba(255,255,255,.95); box-shadow: var(--shadow);
+      transform: rotate(1.2deg);
+    }
+    .portrait-card img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 24px; }
+    .portrait-meta { display: flex; justify-content: space-between; gap: 1rem; align-items: end; padding: .85rem .35rem 0; }
+    .portrait-meta strong { display: block; font-size: .88rem; line-height: 1.2; }
+    .portrait-meta span { display: block; color: var(--muted); font-size: .78rem; }
+    .status-dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 5px rgba(15,114,123,.12); margin: 0 .3rem .35rem 0; }
+
+    .section { padding: clamp(5rem, 9vw, 7.6rem) 0; border-bottom: 1px solid var(--line); }
+    .section-head { display: grid; grid-template-columns: 140px minmax(0, 1fr); gap: 1.5rem; margin-bottom: 3rem; }
+    .section-title-wrap h2 {
+      margin-bottom: .55rem; font-family: var(--serif); font-size: clamp(2.55rem, 5vw, 4.25rem); line-height: .98; letter-spacing: -.045em;
+    }
+    .section-title-wrap p { max-width: 720px; color: var(--muted); }
+
+    .research-grid, .feature-grid, .code-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 1rem; }
+    .research-card, .feature-paper, .code-card {
+      min-height: 260px; padding: 1.55rem; border: 1px solid var(--line); border-radius: 18px;
+      background: rgba(255,255,255,.65); box-shadow: 0 18px 48px rgba(28,49,56,.06);
+    }
+    .research-number { font-family: var(--serif); font-size: 1.1rem; color: var(--accent); }
+    .research-card h3, .code-card h3 { margin: 3.6rem 0 .55rem; font-family: var(--serif); font-size: 1.38rem; line-height: 1.08; }
+    .research-card p, .code-card p { color: var(--muted); font-size: .94rem; }
+
+    .feature-paper { position: relative; min-height: 275px; overflow: hidden; display: flex; flex-direction: column; }
+    .feature-paper::after {
+      content: ""; position: absolute; width: 92px; height: 92px; border-radius: 50%; right: -42px; bottom: -46px; background: var(--accent-soft);
+    }
+    .feature-top { display: flex; justify-content: space-between; gap: 1rem; color: var(--muted); font-size: .72rem; text-transform: uppercase; letter-spacing: .1em; }
+    .feature-paper h3 { margin: 3.2rem 0 .6rem; font-family: var(--serif); font-size: 1.45rem; line-height: 1.08; }
+    .feature-paper h3 a { text-decoration: none; }
+    .feature-paper h3 a:hover { color: var(--accent); }
+    .feature-paper p { color: var(--muted); font-size: .88rem; }
+    .paper-links { margin-top: auto; display: flex; gap: .85rem; position: relative; z-index: 1; }
+    .paper-links a { color: var(--accent-dark); font-size: .83rem; font-weight: 800; text-underline-offset: .18em; }
+
+    .publication-list { margin-top: 1.65rem; border-top: 1px solid var(--line); }
+    .publication {
+      display: grid; grid-template-columns: 72px minmax(0,1fr) auto; gap: 1.35rem; align-items: start;
+      padding: 1.05rem 0; border-bottom: 1px solid var(--line);
+    }
+    .pub-year { color: var(--accent); font-size: .78rem; font-weight: 800; }
+    .pub-title { margin: 0 0 .25rem; font-family: var(--serif); font-size: 1.03rem; line-height: 1.25; }
+    .pub-title a { text-decoration: none; }
+    .pub-title a:hover { color: var(--accent); }
+    .pub-authors { margin: 0; color: var(--muted); font-size: .82rem; }
+    .journal-link { white-space: nowrap; font-size: .77rem; font-weight: 800; color: var(--accent-dark); text-decoration: none; }
+    .journal-link:hover { text-decoration: underline; text-underline-offset: .2em; }
+    .section-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 1.5rem; }
+
+    .talks-list { display: grid; gap: .7rem; }
+    .talk {
+      display: grid; grid-template-columns: 108px minmax(0,1fr) auto; gap: 1.25rem; align-items: center;
+      padding: 1rem 1.2rem; border: 1px solid var(--line); border-radius: 14px; background: rgba(255,255,255,.55);
+    }
+    .talk h3 { margin: 0 0 .12rem; font-family: var(--serif); font-size: 1.02rem; }
+    .talk p { margin: 0; color: var(--muted); font-size: .82rem; }
+    .talk-link { color: var(--accent-dark); text-decoration: none; font-weight: 850; font-size: .78rem; white-space: nowrap; }
+    .talk-link:hover { text-decoration: underline; text-underline-offset: .2em; }
+    .media-note { margin-top: 1rem; padding: .9rem 1rem; border-left: 3px solid var(--warm); background: rgba(182,123,49,.08); color: var(--muted); font-size: .9rem; }
+    .media-note a { color: var(--text); font-weight: 750; }
+
+    .code-card { min-height: 225px; display: flex; flex-direction: column; }
+    .code-card h3 { margin: 3rem 0 .55rem; }
+    .code-card a { margin-top: auto; color: var(--accent-dark); font-size: .84rem; font-weight: 850; }
+
+    .contact-panel {
+      position: relative; overflow: hidden; padding: clamp(2.2rem, 5vw, 4rem);
+      border-radius: 24px; background: #104a52; color: white; box-shadow: 0 25px 70px rgba(18,62,69,.22);
+      display: flex; align-items: center; justify-content: space-between; gap: 2rem;
+    }
+    .contact-panel::after {
+      content: ""; position: absolute; width: 250px; height: 250px; right: -65px; top: -115px; border-radius: 50%;
+      border: 1px solid rgba(255,255,255,.12); box-shadow: 0 0 0 55px rgba(255,255,255,.035), 0 0 0 110px rgba(255,255,255,.022);
+    }
+    .contact-panel > * { position: relative; z-index: 1; }
+    .contact-panel h2 { margin-bottom: .55rem; font-family: var(--serif); font-size: clamp(2.2rem, 4.5vw, 3.8rem); line-height: .98; letter-spacing: -.035em; }
+    .contact-panel p { max-width: 760px; margin: 0; color: rgba(255,255,255,.72); }
+    .contact-panel .button { background: white; border-color: white; white-space: nowrap; }
+
+    footer { padding: 2.2rem 0 3rem; color: var(--muted); font-size: .82rem; }
+    .footer-inner { display: flex; justify-content: space-between; gap: 1rem; }
+
+    @media (max-width: 920px) {
+      nav { display: none; }
+      .hero-inner { min-height: auto; grid-template-columns: 1fr; padding-top: 6rem; }
+      .portrait-area { display: none; }
+      .hero-copy { max-width: 760px; }
+      .research-grid, .feature-grid, .code-grid { grid-template-columns: 1fr; }
+      .research-card, .feature-paper, .code-card { min-height: 220px; }
+      .section-head { grid-template-columns: 1fr; gap: .65rem; }
+      .publication { grid-template-columns: 60px minmax(0,1fr); }
+      .journal-link { grid-column: 2; }
+    }
+
+    @media (max-width: 650px) {
+      body { font-size: 16px; }
+      .shell { width: min(calc(100% - 28px), var(--max)); }
+      .header-inner { min-height: 68px; }
+      .brand > span:last-child { display: none; }
+      .brand-mark { width: 39px; height: 39px; border-radius: 12px; }
+      .cv-button { min-height: 44px; padding: .62rem .85rem; }
+      .hero::after { width: 540px; height: 540px; right: -365px; top: 28px; }
+      .hero-inner { padding: 4.6rem 0 4.8rem; }
+      h1 { font-size: clamp(3.75rem, 18vw, 5.3rem); line-height: .91; }
+      .hero-lede { font-size: 1.58rem; }
+      .hero-copy { font-size: 1rem; }
+      .section { padding: 4.7rem 0; }
+      .section-title-wrap h2 { font-size: 2.75rem; }
+      .talk { grid-template-columns: 1fr; gap: .25rem; padding: 1rem; }
+      .talk-link { margin-top: .35rem; }
+      .publication { grid-template-columns: 1fr; gap: .25rem; }
+      .journal-link { grid-column: 1; margin-top: .2rem; }
+      .contact-panel { align-items: flex-start; flex-direction: column; }
+      .footer-inner { flex-direction: column; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after { transition: none !important; }
+    }
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "David Cyncynates",
+    "jobTitle": "Postdoctoral Fellow",
+    "affiliation": {"@type": "Organization", "name": "The Abdus Salam International Centre for Theoretical Physics"},
+    "url": "https://davidcyncynates.github.io/",
+    "sameAs": [
+      "https://inspirehep.net/authors/1503335",
+      "https://scholar.google.com/citations?hl=en&user=8DublWEAAAAJ",
+      "https://orcid.org/0000-0002-2660-8407",
+      "https://github.com/DavidCyncynates",
+      "https://www.ictp.it/member/david-c-e-cyncynates-0"
+    ]
+  }
+  </script>
 </head>
-<body>
-  <h1>David Cyncynates</h1>
-  <p>Postdoctoral Fellow at ICTP</p>
-  <p>Particle physics, cosmology, and gravity.</p>
+<body id="top">
+  <a class="skip-link" href="#content">Skip to content</a>
+
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="#top" aria-label="David Cyncynates home">
+        <span class="brand-mark" aria-hidden="true">DC</span>
+        <span>David Cyncynates</span>
+      </a>
+      <div class="nav-wrap">
+        <nav aria-label="Primary navigation">
+          <a href="#research">Research</a>
+          <a href="#publications">Publications</a>
+          <a href="#talks">Talks</a>
+          <a href="#software">Code</a>
+          <a href="#contact">Contact</a>
+        </nav>
+        <a class="cv-button" href="Cyncynates_CV.pdf" target="_blank" rel="noopener">CV ↗</a>
+      </div>
+    </div>
+  </header>
+
+  <main id="content">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="shell hero-inner">
+        <div>
+          <div class="eyebrow">Theoretical physics · ICTP, Trieste</div>
+          <h1 id="hero-title">David<br>Cyncynates</h1>
+          <p class="hero-lede">Particle phenomenology at the intersection of dark matter, cosmology, and gravity.</p>
+          <p class="hero-copy">I am a postdoctoral fellow in the High Energy, Cosmology and Astroparticle Physics group at ICTP. I work on physics beyond the Standard Model, with a focus on axions and other ultralight fields, dark-matter production and detection, and nonlinear dynamics in the early Universe.</p>
+          <div class="hero-actions">
+            <a class="button primary" href="#publications">Selected work ↓</a>
+            <a class="button" href="mailto:davidcyn@ictp.it">Email me</a>
+          </div>
+          <div class="profile-links" aria-label="Research profiles">
+            <a href="https://inspirehep.net/authors/1503335" target="_blank" rel="noopener noreferrer">INSPIRE</a>
+            <a href="https://scholar.google.com/citations?hl=en&amp;user=8DublWEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+            <a href="https://orcid.org/0000-0002-2660-8407" target="_blank" rel="noopener noreferrer">ORCID</a>
+            <a href="https://github.com/DavidCyncynates" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://www.ictp.it/member/david-c-e-cyncynates-0" target="_blank" rel="noopener noreferrer">ICTP profile</a>
+          </div>
+        </div>
+
+        <div class="portrait-area" aria-label="Portrait and current position">
+          <div class="portrait-card">
+            <img src="data:image/jpeg;base64,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" alt="Portrait of David Cyncynates" width="350" height="350">
+            <div class="portrait-meta">
+              <div><strong>Postdoctoral Fellow</strong><span>ICTP · Trieste, Italy</span></div>
+              <span class="status-dot" aria-hidden="true"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="research">
+      <div class="shell">
+        <div class="section-head">
+          <div class="section-index">01 · Research</div>
+          <div class="section-title-wrap">
+            <h2>Well-motivated targets for new physics.</h2>
+            <p>My work connects theoretical structure and cosmological history to observable signatures in laboratory experiments, astrophysical systems, and the large-scale Universe.</p>
+          </div>
+        </div>
+
+        <div class="research-grid">
+          <article class="research-card">
+            <div class="research-number">I</div>
+            <h3>Axions &amp; ultralight fields</h3>
+            <p>Coupled axion sectors, the string axiverse, QCD-axion dark matter, and baryogenesis driven by light fields.</p>
+          </article>
+          <article class="research-card">
+            <div class="research-number">II</div>
+            <h3>Predictive dark-matter targets</h3>
+            <p>Using early-Universe dynamics to identify concrete targets for fifth-force, direct-detection, collider, and astrophysical searches.</p>
+          </article>
+          <article class="research-card">
+            <div class="research-number">III</div>
+            <h3>Nonlinear dynamics &amp; cosmology</h3>
+            <p>Resonance, fragmentation, oscillons, and other nonlinear phenomena that reshape the observable consequences of light fields.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="publications">
+      <div class="shell">
+        <div class="section-head">
+          <div class="section-index">02 · Publications</div>
+          <div class="section-title-wrap">
+            <h2>Recent and selected work.</h2>
+            <p>Paper titles link to arXiv. Journal labels link to the published versions where available.</p>
+          </div>
+        </div>
+
+        <div class="feature-grid">
+          <article class="feature-paper">
+            <div class="feature-top"><span>2026</span><span>Axions</span></div>
+            <h3><a href="https://arxiv.org/abs/2602.23424" target="_blank" rel="noopener noreferrer">Axiverse Lampposts</a></h3>
+            <p>with Masha Baryakhtar and Ella Henry</p>
+            <div class="paper-links"><a href="https://arxiv.org/abs/2602.23424" target="_blank" rel="noopener noreferrer">arXiv:2602.23424 ↗</a></div>
+          </article>
+          <article class="feature-paper">
+            <div class="feature-top"><span>2025</span><span>Baryogenesis</span></div>
+            <h3><a href="https://arxiv.org/abs/2511.15794" target="_blank" rel="noopener noreferrer">Axiverse Baryogenesis</a></h3>
+            <p>with Pouya Asadi and Stefania Gori</p>
+            <div class="paper-links"><a href="https://arxiv.org/abs/2511.15794" target="_blank" rel="noopener noreferrer">arXiv:2511.15794 ↗</a></div>
+          </article>
+          <article class="feature-paper">
+            <div class="feature-top"><span>2025</span><span>Scalar dark matter</span></div>
+            <h3><a href="https://arxiv.org/abs/2410.22409" target="_blank" rel="noopener noreferrer">Scalar Relics from the Hot Big Bang</a></h3>
+            <p>with Olivier Simon · Phys. Rev. Lett. 135, 101003</p>
+            <div class="paper-links">
+              <a href="https://arxiv.org/abs/2410.22409" target="_blank" rel="noopener noreferrer">arXiv</a>
+              <a href="https://link.aps.org/doi/10.1103/wjt8-9dh9" target="_blank" rel="noopener noreferrer">journal ↗</a>
+            </div>
+          </article>
+        </div>
+
+        <div class="publication-list" aria-label="Publication list">
+          <article class="publication">
+            <div class="pub-year">2025</div>
+            <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2408.16816" target="_blank" rel="noopener noreferrer">Minimal Targets for Dilaton Direct Detection</a></h3><p class="pub-authors">David Cyncynates and Olivier Simon</p></div>
+            <a class="journal-link" href="https://link.aps.org/doi/10.1103/8mc9-6cmr" target="_blank" rel="noopener noreferrer">PRD 112, 055002 ↗</a>
+          </article>
+          <article class="publication">
+            <div class="pub-year">2025</div>
+            <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2410.14774" target="_blank" rel="noopener noreferrer">Experimental Targets for Dark Photon Dark Matter</a></h3><p class="pub-authors">David Cyncynates and Zachary J. Weiner · Editors’ Suggestion</p></div>
+            <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.111.103535" target="_blank" rel="noopener noreferrer">PRD 111, 103535 ↗</a>
+          </article>
+          <article class="publication">
+            <div class="pub-year">2025</div>
+            <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2310.18397" target="_blank" rel="noopener noreferrer">Detectable and Defect-Free Dark Photon Dark Matter</a></h3><p class="pub-authors">David Cyncynates and Zachary J. Weiner</p></div>
+            <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevLett.134.211002" target="_blank" rel="noopener noreferrer">PRL 134, 211002 ↗</a>
+          </article>
+          <article class="publication">
+            <div class="pub-year">2023</div>
+            <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2306.04678" target="_blank" rel="noopener noreferrer">Heavy QCD Axion Dark Matter from Avoided Level Crossing</a></h3><p class="pub-authors">David Cyncynates and Jedidiah O. Thompson</p></div>
+            <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.108.L091703" target="_blank" rel="noopener noreferrer">PRD 108, L091703 ↗</a>
+          </article>
+          <article class="publication">
+            <div class="pub-year">2022</div>
+            <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2208.05501" target="_blank" rel="noopener noreferrer">Nonperturbative Structure in Coupled Axion Sectors and Implications for Direct Detection</a></h3><p class="pub-authors">David Cyncynates, Olivier Simon, Jedidiah O. Thompson, and Zachary J. Weiner</p></div>
+            <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.106.083503" target="_blank" rel="noopener noreferrer">PRD 106, 083503 ↗</a>
+          </article>
+          <article class="publication">
+            <div class="pub-year">2022</div>
+            <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2109.09755" target="_blank" rel="noopener noreferrer">Resonant Nonlinear Pairs in the Axiverse and Their Late-Time Direct and Astrophysical Signatures</a></h3><p class="pub-authors">David Cyncynates, Tudor Giurgica-Tiron, Olivier Simon, and Jedidiah O. Thompson</p></div>
+            <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.105.055005" target="_blank" rel="noopener noreferrer">PRD 105, 055005 ↗</a>
+          </article>
+          <article class="publication">
+            <div class="pub-year">2021</div>
+            <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2104.02069" target="_blank" rel="noopener noreferrer">The Structure of the Oscillon: The Dynamics of Attractive Self-Interaction</a></h3><p class="pub-authors">David Cyncynates and Tudor Giurgica-Tiron</p></div>
+            <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.103.116011" target="_blank" rel="noopener noreferrer">PRD 103, 116011 ↗</a>
+          </article>
+          <article class="publication">
+            <div class="pub-year">2017</div>
+            <div><h3 class="pub-title"><a href="https://arxiv.org/abs/1610.09680" target="_blank" rel="noopener noreferrer">Reconsidering Seismological Constraints on the Available Parameter Space of Macroscopic Dark Matter</a></h3><p class="pub-authors">David Cyncynates, Joshua Chiel, Jagjit Sidhu, and Glenn D. Starkman</p></div>
+            <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.95.063006" target="_blank" rel="noopener noreferrer">PRD 95, 063006 ↗</a>
+          </article>
+        </div>
+
+        <div class="section-actions">
+          <a class="button small" href="https://inspirehep.net/authors/1503335" target="_blank" rel="noopener noreferrer">All publications on INSPIRE ↗</a>
+          <a class="button small" href="Cyncynates_CV.pdf#page=2" target="_blank" rel="noopener">Publication list in CV ↗</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="talks">
+      <div class="shell">
+        <div class="section-head">
+          <div class="section-index">03 · Talks</div>
+          <div class="section-title-wrap">
+            <h2>Selected seminars &amp; conference talks.</h2>
+            <p>A selection of recent event pages, slides, and recorded talks. The CV contains the complete presentation history.</p>
+          </div>
+        </div>
+
+        <div class="talks-list">
+          <article class="talk"><div class="talk-date">Jul. 2026</div><div><h3>Axiverse Lampposts</h3><p>CETUP* · Sanford Underground Research Facility, South Dakota</p></div><a class="talk-link" href="https://indico.sanfordlab.org/event/176/contributions/3021/attachments/1413/3570/CETUP2026.pdf" target="_blank" rel="noopener noreferrer">slides ↗</a></article>
+          <article class="talk"><div class="talk-date">Jun. 2026</div><div><h3>Axiverse Lampposts</h3><p>4th General Meeting of COSMIC WISPers · Corfu</p></div><a class="talk-link" href="https://agenda.infn.it/event/49759/contributions/296014/" target="_blank" rel="noopener noreferrer">event ↗</a></article>
+          <article class="talk"><div class="talk-date">Jun. 2026</div><div><h3>Axiverse Lampposts</h3><p>ALPs Across Scales · Mainz Institute for Theoretical Physics</p></div><a class="talk-link" href="https://indico.mitp.uni-mainz.de/event/444/timetable/" target="_blank" rel="noopener noreferrer">program ↗</a></article>
+          <article class="talk"><div class="talk-date">Apr. 2026</div><div><h3>Axiverse Lampposts</h3><p>CERN Theory BSM Forum · Geneva</p></div><a class="talk-link" href="https://indico.cern.ch/event/1664078/" target="_blank" rel="noopener noreferrer">event ↗</a></article>
+          <article class="talk"><div class="talk-date">Jan. 2026</div><div><h3>Axiverse Baryogenesis</h3><p>Leinweber Institute for Theoretical Physics · Stanford</p></div><a class="talk-link" href="https://sitp.stanford.edu/events/axiverse-baryogenesis" target="_blank" rel="noopener noreferrer">event ↗</a></article>
+          <article class="talk"><div class="talk-date">Feb. 2025</div><div><h3>Scalar Relics from the Hot Big Bang</h3><p>Particle/Astrophysics Seminar · Case Western Reserve University</p></div><a class="talk-link" href="https://physics.case.edu/events/david-cyncynates/" target="_blank" rel="noopener noreferrer">event ↗</a></article>
+          <article class="talk"><div class="talk-date">Nov. 2021</div><div><h3>Friendship in the Axiverse</h3><p>Perimeter Institute Recorded Seminar Archive</p></div><a class="talk-link" href="https://pirsa.org/21110044" target="_blank" rel="noopener noreferrer">video + slides ↗</a></article>
+        </div>
+
+        <div class="media-note">In the news: <a href="https://phys.org/news/2025-06-cosmic-dark-photons.html" target="_blank" rel="noopener noreferrer">“Escaping cosmic strings: How dark photons could finally work as dark matter”</a> · Phys.org, 2025.</div>
+        <div class="section-actions"><a class="button small" href="Cyncynates_CV.pdf#page=3" target="_blank" rel="noopener">Complete talk list in CV ↗</a></div>
+      </div>
+    </section>
+
+    <section class="section" id="software">
+      <div class="shell">
+        <div class="section-head">
+          <div class="section-index">04 · Code</div>
+          <div class="section-title-wrap"><h2>Research software.</h2><p>Selected public repositories for axion, superradiance, and oscillon calculations.</p></div>
+        </div>
+        <div class="code-grid">
+          <article class="code-card"><span class="code-label">GitHub / TeX</span><h3>Axiverse Machine</h3><p>Notes and research material for calculations in coupled multi-axion systems.</p><a href="https://github.com/DavidCyncynates/Axiverse_Machine" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+          <article class="code-card"><span class="code-label">GitHub / Jupyter</span><h3>Superradiance</h3><p>Notebooks and supporting material for black-hole superradiance calculations.</p><a href="https://github.com/DavidCyncynates/Superradiance" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+          <article class="code-card"><span class="code-label">GitHub / MATLAB</span><h3>Simple Oscillon</h3><p>User-friendly code for computing oscillon profiles, radiation, energy, and lifetimes.</p><a href="https://github.com/SimpleOscillon/Code" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="contact">
+      <div class="shell">
+        <div class="contact-panel">
+          <div><h2>Research conversations are welcome.</h2><p>David Cyncynates · High Energy, Cosmology and Astroparticle Physics · The Abdus Salam International Centre for Theoretical Physics, Trieste.</p></div>
+          <a class="button" href="mailto:davidcyn@ictp.it">davidcyn@ictp.it</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner"><span>© <span id="year">2026</span> David Cyncynates</span><span>Hosted on <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a></span></div>
+  </footer>
+
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 </body>
 </html>
