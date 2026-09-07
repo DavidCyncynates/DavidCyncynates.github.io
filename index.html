@@ -3,14 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="David Cyncynates is a theoretical physicist working on physics beyond the Standard Model, dark matter, axions, cosmology, gravity, and nonlinear field dynamics.">
+  <meta name="description" content="David Cyncynates — theoretical physicist at ICTP. Publications, talks, research software, and the LZ Paper Map.">
   <meta name="theme-color" content="#f4f0e7">
   <link rel="canonical" href="https://davidcyncynates.github.io/">
   <title>David Cyncynates · Theoretical Physics</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2222%22 fill=%22%230f727b%22/><text x=%2250%22 y=%2265%22 text-anchor=%22middle%22 font-size=%2252%22 font-family=%22Georgia,serif%22 fill=%22white%22>DC</text></svg>">
 
   <meta property="og:title" content="David Cyncynates · Theoretical Physics">
-  <meta property="og:description" content="Particle phenomenology at the intersection of dark matter, cosmology, and gravity.">
+  <meta property="og:description" content="Publications, talks, research software, and the LZ Paper Map.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://davidcyncynates.github.io/">
 
@@ -103,25 +103,20 @@
     }
     h1, h2, h3, p { margin-top: 0; }
     h1 {
-      margin: .8rem 0 1.05rem; font-family: var(--serif); font-size: clamp(2.2rem, 4vw, 2.45rem);
+      margin: .8rem 0 0; font-family: var(--serif); font-size: clamp(2.2rem, 4vw, 2.45rem);
       line-height: .98; letter-spacing: -.035em; font-weight: 700;
     }
-    .hero-lede {
-      max-width: 700px; margin: 0 0 1rem; font-family: var(--serif); font-size: clamp(1.2rem, 2vw, 1.35rem);
-      line-height: 1.28; color: #294952;
-    }
-    .hero-copy { max-width: 720px; color: var(--muted); font-size: 1rem; }
-    .hero-actions { display: flex; flex-wrap: wrap; gap: .7rem; margin: 1.5rem 0 1.2rem; }
+    .hero-actions { display: flex; flex-wrap: wrap; gap: .7rem; margin: 1.25rem 0 1.2rem; }
     .profile-links { display: flex; flex-wrap: wrap; gap: .65rem 1.15rem; }
     .profile-links a { color: var(--muted); text-underline-offset: .2em; }
     .profile-links a:hover { color: var(--accent); }
 
-    .portrait-area { position: relative; justify-self: center; }
+    .portrait-area { position: relative; width: 220px; max-width: 100%; justify-self: center; }
     .portrait-card {
-      width: min(100%, 220px); padding: 8px 8px 11px; border-radius: 16px;
+      width: 100%; padding: 8px 8px 11px; border-radius: 16px;
       background: rgba(255,255,255,.58); border: 1px solid rgba(255,255,255,.92); box-shadow: var(--shadow);
     }
-    .portrait-card img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 11px; }
+    .portrait-card img { width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 11px; }
     .portrait-meta { padding: .65rem .2rem 0; }
     .portrait-meta strong { display: block; font-size: .84rem; line-height: 1.2; }
     .portrait-meta span { display: block; color: var(--muted); font-size: .82rem; }
@@ -131,16 +126,12 @@
     .section-title-wrap h2 {
       margin-bottom: .45rem; font-family: var(--serif); font-size: clamp(1.75rem, 3vw, 2.15rem); line-height: 1.08; letter-spacing: -.025em;
     }
-    .section-title-wrap p { max-width: 720px; color: var(--muted); }
-
-    .research-grid, .feature-grid, .code-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 1rem; }
-    .research-card, .feature-paper, .code-card {
+    .feature-grid, .code-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 1rem; }
+    .feature-paper, .code-card {
       min-height: 220px; padding: 1.35rem; border: 1px solid var(--line); border-radius: 16px;
       background: rgba(255,255,255,.65); box-shadow: 0 18px 48px rgba(28,49,56,.06);
     }
-    .research-number { font-family: var(--serif); font-size: 1.1rem; color: var(--accent); }
-    .research-card h3, .code-card h3 { margin: 1.8rem 0 .5rem; font-family: var(--serif); font-size: 1.22rem; line-height: 1.16; }
-    .research-card p, .code-card p { color: var(--muted); font-size: .94rem; }
+    .code-card h3 { margin: 1.8rem 0 .5rem; font-family: var(--serif); font-size: 1.22rem; line-height: 1.16; }
 
     .feature-paper { position: relative; min-height: 235px; overflow: hidden; display: flex; flex-direction: column; }
     .feature-paper::after {
@@ -180,7 +171,7 @@
     .media-note { margin-top: .8rem; padding: .8rem .9rem; border-left: 3px solid var(--warm); background: rgba(182,123,49,.08); color: var(--muted); font-size: .9rem; }
     .media-note a { color: var(--text); font-weight: 750; }
 
-    .code-card { min-height: 195px; display: flex; flex-direction: column; }
+    .code-card { min-height: 165px; display: flex; flex-direction: column; }
     .code-card h3 { margin: 1.7rem 0 .5rem; }
     .code-card a { margin-top: auto; color: var(--accent-dark); font-size: .84rem; font-weight: 850; }
 
@@ -191,9 +182,8 @@
       nav { display: none; }
       .hero-inner { min-height: auto; grid-template-columns: 1fr; padding-top: 4.25rem; }
       .portrait-area { display: none; }
-      .hero-copy { max-width: 760px; }
-      .research-grid, .feature-grid, .code-grid { grid-template-columns: 1fr; }
-      .research-card, .feature-paper, .code-card { min-height: 220px; }
+      .feature-grid, .code-grid { grid-template-columns: 1fr; }
+      .feature-paper, .code-card { min-height: 190px; }
       .section-head { grid-template-columns: 1fr; gap: .65rem; }
       .publication { grid-template-columns: 60px minmax(0,1fr); }
       .journal-link { grid-column: 2; }
@@ -208,8 +198,6 @@
       .cv-button { min-height: 44px; padding: .62rem .85rem; }
       .hero-inner { padding: 3.5rem 0 3.75rem; }
       h1 { font-size: clamp(2.1rem, 10vw, 2.35rem); line-height: .98; }
-      .hero-lede { font-size: 1.22rem; }
-      .hero-copy { font-size: 1rem; }
       .section { padding: 3.5rem 0; }
       .section-title-wrap h2 { font-size: 2rem; }
       .talk { grid-template-columns: 1fr; gap: .25rem; padding: 1rem; }
@@ -254,7 +242,6 @@
       </a>
       <div class="nav-wrap">
         <nav aria-label="Primary navigation">
-          <a href="#research">Research</a>
           <a href="#publications">Publications</a>
           <a href="#talks">Talks</a>
           <a href="#software">Code</a>
@@ -271,8 +258,6 @@
         <div>
           <div class="eyebrow">Theoretical physics · ICTP, Trieste</div>
           <h1 id="hero-title">David Cyncynates</h1>
-          <p class="hero-lede">Particle phenomenology at the intersection of dark matter, cosmology, and gravity.</p>
-          <p class="hero-copy">I am a postdoctoral fellow in the High Energy, Cosmology and Astroparticle Physics group at ICTP. I work on physics beyond the Standard Model, with a focus on axions and other ultralight fields, dark-matter production and detection, and nonlinear dynamics in the early Universe.</p>
           <div class="hero-actions">
             <a class="button primary" href="#publications">Selected work ↓</a>
             <a class="button" href="/lz-paper-map/">LZ paper map →</a>
@@ -297,43 +282,12 @@
       </div>
     </section>
 
-    <section class="section" id="research">
-      <div class="shell">
-        <div class="section-head">
-          <div class="section-index">01 · Research</div>
-          <div class="section-title-wrap">
-            <h2>Well-motivated targets for new physics.</h2>
-            <p>My work connects theoretical structure and cosmological history to observable signatures in laboratory experiments, astrophysical systems, and the large-scale Universe.</p>
-          </div>
-        </div>
-
-        <div class="research-grid">
-          <article class="research-card">
-            <div class="research-number">I</div>
-            <h3>Axions &amp; ultralight fields</h3>
-            <p>Coupled axion sectors, the string axiverse, QCD-axion dark matter, and baryogenesis driven by light fields.</p>
-          </article>
-          <article class="research-card">
-            <div class="research-number">II</div>
-            <h3>Predictive dark-matter targets</h3>
-            <p>Using early-Universe dynamics to identify concrete targets for fifth-force, direct-detection, collider, and astrophysical searches.</p>
-          </article>
-          <article class="research-card">
-            <div class="research-number">III</div>
-            <h3>Nonlinear dynamics &amp; cosmology</h3>
-            <p>Resonance, fragmentation, oscillons, and other nonlinear phenomena that reshape the observable consequences of light fields.</p>
-          </article>
-        </div>
-      </div>
-    </section>
-
     <section class="section" id="publications">
       <div class="shell">
         <div class="section-head">
-          <div class="section-index">02 · Publications</div>
+          <div class="section-index">01 · Publications</div>
           <div class="section-title-wrap">
-            <h2>Recent and selected work.</h2>
-            <p>Paper titles link to arXiv. Journal labels link to the published versions where available.</p>
+            <h2>Selected publications.</h2>
           </div>
         </div>
 
@@ -414,10 +368,9 @@
     <section class="section" id="talks">
       <div class="shell">
         <div class="section-head">
-          <div class="section-index">03 · Talks</div>
+          <div class="section-index">02 · Talks</div>
           <div class="section-title-wrap">
-            <h2>Selected seminars &amp; conference talks.</h2>
-            <p>A selection of recent event pages, slides, and recorded talks. The CV contains the complete presentation history.</p>
+            <h2>Selected talks.</h2>
           </div>
         </div>
 
@@ -439,13 +392,13 @@
     <section class="section" id="software">
       <div class="shell">
         <div class="section-head">
-          <div class="section-index">04 · Code</div>
-          <div class="section-title-wrap"><h2>Research software.</h2><p>Selected public repositories for axion, superradiance, and oscillon calculations.</p></div>
+          <div class="section-index">03 · Code</div>
+          <div class="section-title-wrap"><h2>Research software.</h2></div>
         </div>
         <div class="code-grid">
-          <article class="code-card"><span class="code-label">GitHub / TeX</span><h3>Axiverse Machine</h3><p>Notes and research material for calculations in coupled multi-axion systems.</p><a href="https://github.com/DavidCyncynates/Axiverse_Machine" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
-          <article class="code-card"><span class="code-label">GitHub / Jupyter</span><h3>Superradiance</h3><p>Notebooks and supporting material for black-hole superradiance calculations.</p><a href="https://github.com/DavidCyncynates/Superradiance" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
-          <article class="code-card"><span class="code-label">GitHub / MATLAB</span><h3>Simple Oscillon</h3><p>User-friendly code for computing oscillon profiles, radiation, energy, and lifetimes.</p><a href="https://github.com/SimpleOscillon/Code" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+          <article class="code-card"><span class="code-label">GitHub / TeX</span><h3>Axiverse Machine</h3><a href="https://github.com/DavidCyncynates/Axiverse_Machine" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+          <article class="code-card"><span class="code-label">GitHub / Jupyter</span><h3>Superradiance</h3><a href="https://github.com/DavidCyncynates/Superradiance" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+          <article class="code-card"><span class="code-label">GitHub / MATLAB</span><h3>Simple Oscillon</h3><a href="https://github.com/SimpleOscillon/Code" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
         </div>
       </div>
     </section>
