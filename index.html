@@ -133,10 +133,8 @@
     }
     .code-card h3 { margin: 1.8rem 0 .5rem; font-family: var(--serif); font-size: 1.22rem; line-height: 1.16; }
 
-    .feature-paper { position: relative; min-height: 235px; overflow: hidden; display: flex; flex-direction: column; }
-    .feature-paper::after {
-      content: ""; position: absolute; width: 92px; height: 92px; border-radius: 50%; right: -42px; bottom: -46px; background: var(--accent-soft);
-    }
+    .feature-paper { position: relative; isolation: isolate; min-height: 235px; overflow: hidden; display: flex; flex-direction: column; }
+    .feature-paper > :not(.paper-image-layer), .publication > :not(.paper-image-layer) { position: relative; z-index: 1; }
     .feature-top { display: flex; justify-content: space-between; gap: 1rem; color: var(--muted); font-size: .82rem; text-transform: uppercase; letter-spacing: .1em; }
     .feature-paper h3 { margin: 1.75rem 0 .55rem; font-family: var(--serif); font-size: 1.28rem; line-height: 1.15; }
     .feature-paper h3 a { text-decoration: none; }
@@ -148,7 +146,7 @@
     .publication-list { margin-top: 1.35rem; border-top: 1px solid var(--line); }
     .publication {
       display: grid; grid-template-columns: 72px minmax(0,1fr) auto; gap: 1.35rem; align-items: start;
-      padding: .9rem 0; border-bottom: 1px solid var(--line);
+      position: relative; isolation: isolate; overflow: hidden; padding: .9rem 0; border-bottom: 1px solid var(--line);
     }
     .pub-year { color: var(--accent); font-size: .82rem; font-weight: 800; }
     .pub-title { margin: 0 0 .25rem; font-family: var(--serif); font-size: 1.03rem; line-height: 1.25; }
@@ -159,24 +157,23 @@
     .journal-link:hover { text-decoration: underline; text-underline-offset: .2em; }
     .section-actions { display: flex; flex-wrap: wrap; gap: .7rem; margin-top: 1.25rem; }
 
-    .paper-preview {
-      position: fixed; z-index: 90; left: 0; top: 0; width: min(380px, calc(100vw - 32px));
-      padding: 8px; border: 1px solid var(--line-strong); border-radius: 13px;
-      background: rgba(251,250,246,.98); box-shadow: 0 20px 52px rgba(21,43,50,.18);
-      opacity: 0; visibility: hidden; transform: translateY(5px); pointer-events: none;
-      transition: opacity .14s ease, transform .14s ease, visibility 0s linear .14s;
+    .paper-image-layer {
+      position: absolute; z-index: 0; inset: 0; overflow: hidden; opacity: 0; pointer-events: none;
+      transition: opacity .42s ease;
     }
-    .paper-preview.is-visible {
-      opacity: 1; visibility: visible; transform: translateY(0);
-      transition: opacity .14s ease, transform .14s ease;
+    .paper-image-layer img {
+      width: 100%; height: 100%; object-fit: cover; object-position: var(--preview-position, 50% 50%);
+      transform: scale(1.08); filter: saturate(.82) contrast(.94); mix-blend-mode: multiply;
     }
-    .paper-preview img {
-      width: 100%; max-height: min(48vh, 390px); object-fit: contain; border-radius: 8px;
-      background: white;
+    .feature-paper.is-preview-visible .paper-image-layer { opacity: .15; }
+    .publication .paper-image-layer {
+      -webkit-mask-image: linear-gradient(to right, transparent 0%, transparent 33%, rgba(0,0,0,.35) 52%, #000 88%);
+      mask-image: linear-gradient(to right, transparent 0%, transparent 33%, rgba(0,0,0,.35) 52%, #000 88%);
     }
-    .paper-preview-caption {
-      padding: .55rem .35rem .25rem; color: var(--muted); font-size: .76rem; line-height: 1.35;
-    }
+    .publication.is-preview-visible .paper-image-layer { opacity: .5; }
+    .publication.is-preview-visible .pub-title,
+    .publication.is-preview-visible .pub-authors,
+    .publication.is-preview-visible .journal-link { text-shadow: 0 1px 9px rgba(244,240,231,.92); }
 
     .art-grid {
       display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
@@ -232,11 +229,7 @@
       .section-head { grid-template-columns: 1fr; gap: .65rem; }
       .publication { grid-template-columns: 60px minmax(0,1fr); }
       .journal-link { grid-column: 2; }
-      .paper-preview { display: none; }
-    }
-
-    @media (hover: none), (pointer: coarse) {
-      .paper-preview { display: none; }
+      .paper-image-layer { display: none; }
     }
 
     @media (max-width: 650px) {
@@ -343,19 +336,19 @@
         </div>
 
         <div class="feature-grid">
-          <article class="feature-paper" data-paper-preview="assets/paper-previews/2602.23424.webp" data-preview-alt="Axion relic-abundance density plot with a multicolored anthropic plateau across axion mass" data-preview-caption="Figure 10 · Axion relic-abundance density and the anthropic plateau">
+          <article class="feature-paper" data-paper-preview="assets/paper-previews/2602.23424.webp" data-preview-position="50% 54%">
             <div class="feature-top"><span>2026</span><span>Axions</span></div>
             <h3><a href="https://arxiv.org/abs/2602.23424" target="_blank" rel="noopener noreferrer">Axiverse Lampposts</a></h3>
             <p>with Masha Baryakhtar and Ella Henry</p>
             <div class="paper-links"><a href="https://arxiv.org/abs/2602.23424" target="_blank" rel="noopener noreferrer">arXiv:2602.23424 ↗</a></div>
           </article>
-          <article class="feature-paper" data-paper-preview="assets/paper-previews/2511.15794.webp" data-preview-alt="Three-stage schematic of paired axion potentials evolving from circular rings into warped configurations" data-preview-caption="Figure 3 · Coupled axion evolution through three potential configurations">
+          <article class="feature-paper" data-paper-preview="assets/paper-previews/2511.15794.webp">
             <div class="feature-top"><span>2025</span><span>Baryogenesis</span></div>
             <h3><a href="https://arxiv.org/abs/2511.15794" target="_blank" rel="noopener noreferrer">Axiverse Baryogenesis</a></h3>
             <p>with Pouya Asadi and Stefania Gori</p>
             <div class="paper-links"><a href="https://arxiv.org/abs/2511.15794" target="_blank" rel="noopener noreferrer">arXiv:2511.15794 ↗</a></div>
           </article>
-          <article class="feature-paper" data-paper-preview="assets/paper-previews/2410.22409.webp" data-preview-alt="Three stacked parameter-space plots for scalar couplings over a wide range of relic masses" data-preview-caption="Figure 1 · Scalar-coupling targets from the hot Big Bang">
+          <article class="feature-paper" data-paper-preview="assets/paper-previews/2410.22409.webp" data-preview-position="50% 42%">
             <div class="feature-top"><span>2025</span><span>Scalar dark matter</span></div>
             <h3><a href="https://arxiv.org/abs/2410.22409" target="_blank" rel="noopener noreferrer">Scalar Relics from the Hot Big Bang</a></h3>
             <p>with Olivier Simon · Phys. Rev. Lett. 135, 101003</p>
@@ -367,42 +360,42 @@
         </div>
 
         <div class="publication-list" aria-label="Publication list">
-          <article class="publication" data-paper-preview="assets/paper-previews/2408.16816.webp" data-preview-alt="Constraint plot for dilaton coupling versus scalar mass with experimental and cosmological regions" data-preview-caption="Figure 6 · Combined parameter space for dilaton direct detection">
+          <article class="publication" data-paper-preview="assets/paper-previews/2408.16816.webp" data-preview-position="50% 52%">
             <div class="pub-year">2025</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2408.16816" target="_blank" rel="noopener noreferrer">Minimal Targets for Dilaton Direct Detection</a></h3><p class="pub-authors">David Cyncynates and Olivier Simon</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/8mc9-6cmr" target="_blank" rel="noopener noreferrer">PRD 112, 055002 ↗</a>
           </article>
-          <article class="publication" data-paper-preview="assets/paper-previews/2410.14774.webp" data-preview-alt="Dark-photon kinetic-mixing parameter-space plot with shaded production and detection regions" data-preview-caption="Figure 10 · Dark-photon parameter-space atlas">
+          <article class="publication" data-paper-preview="assets/paper-previews/2410.14774.webp" data-preview-position="50% 52%">
             <div class="pub-year">2025</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2410.14774" target="_blank" rel="noopener noreferrer">Experimental Targets for Dark Photon Dark Matter</a></h3><p class="pub-authors">David Cyncynates and Zachary J. Weiner · Editors’ Suggestion</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.111.103535" target="_blank" rel="noopener noreferrer">PRD 111, 103535 ↗</a>
           </article>
-          <article class="publication" data-paper-preview="assets/paper-previews/2310.18397.webp" data-preview-alt="Schematic density evolution showing delayed dark-photon production and avoidance of defect formation" data-preview-caption="Figure 2 · Delayed production avoids defect formation">
+          <article class="publication" data-paper-preview="assets/paper-previews/2310.18397.webp">
             <div class="pub-year">2025</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2310.18397" target="_blank" rel="noopener noreferrer">Detectable and Defect-Free Dark Photon Dark Matter</a></h3><p class="pub-authors">David Cyncynates and Zachary J. Weiner</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevLett.134.211002" target="_blank" rel="noopener noreferrer">PRL 134, 211002 ↗</a>
           </article>
-          <article class="publication" data-paper-preview="assets/paper-previews/2306.04678.webp" data-preview-alt="Two-panel plot of energy densities and mass eigenvalues through an avoided level crossing" data-preview-caption="Figure 1 · Adiabatic transfer through an avoided level crossing">
+          <article class="publication" data-paper-preview="assets/paper-previews/2306.04678.webp" data-preview-position="50% 28%">
             <div class="pub-year">2023</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2306.04678" target="_blank" rel="noopener noreferrer">Heavy QCD Axion Dark Matter from Avoided Level Crossing</a></h3><p class="pub-authors">David Cyncynates and Jedidiah O. Thompson</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.108.L091703" target="_blank" rel="noopener noreferrer">PRD 108, L091703 ↗</a>
           </article>
-          <article class="publication" data-paper-preview="assets/paper-previews/2208.05501.webp" data-preview-alt="Eight simulation snapshots showing bright oscillons forming and dissipating in a dark density field" data-preview-caption="Figure 2 · Oscillon formation and dissipation in simulation">
+          <article class="publication" data-paper-preview="assets/paper-previews/2208.05501.webp" data-preview-position="50% 72%">
             <div class="pub-year">2022</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2208.05501" target="_blank" rel="noopener noreferrer">Nonperturbative Structure in Coupled Axion Sectors and Implications for Direct Detection</a></h3><p class="pub-authors">David Cyncynates, Olivier Simon, Jedidiah O. Thompson, and Zachary J. Weiner</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.106.083503" target="_blank" rel="noopener noreferrer">PRD 106, 083503 ↗</a>
           </article>
-          <article class="publication" data-paper-preview="assets/paper-previews/2109.09755.webp" data-preview-alt="Phase-space map of autoresonance regions with winding structures and a numerical trajectory" data-preview-caption="Figure 6 · Autoresonance across the initial-condition plane">
+          <article class="publication" data-paper-preview="assets/paper-previews/2109.09755.webp" data-preview-position="50% 26%">
             <div class="pub-year">2022</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2109.09755" target="_blank" rel="noopener noreferrer">Resonant Nonlinear Pairs in the Axiverse and Their Late-Time Direct and Astrophysical Signatures</a></h3><p class="pub-authors">David Cyncynates, Tudor Giurgica-Tiron, Olivier Simon, and Jedidiah O. Thompson</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.105.055005" target="_blank" rel="noopener noreferrer">PRD 105, 055005 ↗</a>
           </article>
-          <article class="publication" data-paper-preview="assets/paper-previews/2104.02069.webp" data-preview-alt="Colored heatmap of oscillon lifetime across interaction parameters with characteristic boundary lines" data-preview-caption="Figure 1 · Oscillon lifetime across the interaction landscape">
+          <article class="publication" data-paper-preview="assets/paper-previews/2104.02069.webp">
             <div class="pub-year">2021</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2104.02069" target="_blank" rel="noopener noreferrer">The Structure of the Oscillon: The Dynamics of Attractive Self-Interaction</a></h3><p class="pub-authors">David Cyncynates and Tudor Giurgica-Tiron</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.103.116011" target="_blank" rel="noopener noreferrer">PRD 103, 116011 ↗</a>
           </article>
-          <article class="publication" data-paper-preview="assets/paper-previews/1610.09680.webp" data-preview-alt="Macroscopic dark-matter parameter-space plot for cross section versus mass including a lunar seismic limit" data-preview-caption="Figure 3 · Revised lunar seismic constraint on macroscopic dark matter">
+          <article class="publication" data-paper-preview="assets/paper-previews/1610.09680.webp" data-preview-position="50% 56%">
             <div class="pub-year">2017</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/1610.09680" target="_blank" rel="noopener noreferrer">Reconsidering Seismological Constraints on the Available Parameter Space of Macroscopic Dark Matter</a></h3><p class="pub-authors">David Cyncynates, Joshua Chiel, Jagjit Sidhu, and Glenn D. Starkman</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.95.063006" target="_blank" rel="noopener noreferrer">PRD 95, 063006 ↗</a>
@@ -499,124 +492,84 @@
     <div class="shell footer-inner"><span>© <span id="year">2026</span> David Cyncynates</span><span>Hosted on <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a></span></div>
   </footer>
 
-  <aside class="paper-preview" id="paper-preview" role="tooltip" aria-hidden="true">
-    <img id="paper-preview-image" alt="" decoding="async">
-    <div class="paper-preview-caption" id="paper-preview-caption"></div>
-  </aside>
-
   <script>
     document.getElementById('year').textContent = new Date().getFullYear();
 
     (() => {
-      const preview = document.getElementById('paper-preview');
-      const image = document.getElementById('paper-preview-image');
-      const caption = document.getElementById('paper-preview-caption');
-      const canHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+      const canHover = window.matchMedia('(hover: hover) and (pointer: fine) and (min-width: 921px)').matches;
       const papers = document.querySelectorAll('[data-paper-preview]');
-      if (!preview || !image || !caption || !canHover || !papers.length) return;
+      if (!canHover || !papers.length) return;
 
-      let activePaper = null;
-      let hoverTimer = null;
       const hoverDelay = 500;
 
-      const placePreview = (paper) => {
-        const bounds = paper.getBoundingClientRect();
-        const card = preview.getBoundingClientRect();
-        const edge = 16;
-        const gap = 18;
-        const headerClearance = 82;
-        const roomRight = window.innerWidth - bounds.right - gap;
-        const roomLeft = bounds.left - gap;
-        const roomBelow = window.innerHeight - bounds.bottom - gap;
-        const roomAbove = bounds.top - headerClearance - gap;
-        let left;
-        let top;
-
-        if (roomRight >= card.width) {
-          left = bounds.right + gap;
-          top = bounds.top + (bounds.height - card.height) / 2;
-        } else if (roomLeft >= card.width) {
-          left = bounds.left - card.width - gap;
-          top = bounds.top + (bounds.height - card.height) / 2;
-        } else {
-          left = bounds.right - card.width;
-          top = roomBelow >= card.height || roomBelow >= roomAbove
-            ? bounds.bottom + gap
-            : bounds.top - card.height - gap;
-        }
-
-        left = Math.max(edge, Math.min(left, window.innerWidth - card.width - edge));
-        top = Math.max(headerClearance, Math.min(top, window.innerHeight - card.height - edge));
-        preview.style.left = `${Math.round(left)}px`;
-        preview.style.top = `${Math.round(top)}px`;
-      };
-
-      const reveal = (paper, source) => {
-        if (activePaper !== paper || image.dataset.source !== source) return;
-        placePreview(paper);
-        preview.classList.add('is-visible');
-        preview.setAttribute('aria-hidden', 'false');
-      };
-
-      const showPreview = (paper) => {
-        if (activePaper !== paper) return;
-        const source = paper.dataset.paperPreview;
-        const alt = paper.dataset.previewAlt || '';
-        preview.classList.remove('is-visible');
-        preview.setAttribute('aria-hidden', 'true');
-        caption.textContent = paper.dataset.previewCaption || '';
-        image.alt = alt;
-        image.onload = () => reveal(paper, source);
-        image.onerror = () => {
-          if (activePaper === paper) hidePreview(paper);
-        };
-        image.dataset.source = source;
-        if (image.getAttribute('src') !== source) image.setAttribute('src', source);
-        if (image.complete && image.naturalWidth) reveal(paper, source);
-      };
-
-      const hidePreview = (paper = activePaper) => {
-        if (paper && activePaper !== paper) return;
-        window.clearTimeout(hoverTimer);
-        hoverTimer = null;
-        activePaper = null;
-        preview.classList.remove('is-visible');
-        preview.setAttribute('aria-hidden', 'true');
-      };
-
-      const schedulePreview = (paper) => {
-        window.clearTimeout(hoverTimer);
-        hoverTimer = null;
-        activePaper = paper;
-        preview.classList.remove('is-visible');
-        preview.setAttribute('aria-hidden', 'true');
-        hoverTimer = window.setTimeout(() => {
-          hoverTimer = null;
-          showPreview(paper);
-        }, hoverDelay);
-      };
-
       papers.forEach((paper) => {
+        const layer = document.createElement('div');
+        const image = document.createElement('img');
+        let hoverTimer = null;
+        let imageReady = false;
+
+        layer.className = 'paper-image-layer';
+        layer.setAttribute('aria-hidden', 'true');
+        image.alt = '';
+        image.decoding = 'async';
+        image.style.objectPosition = paper.dataset.previewPosition || '50% 50%';
+        layer.append(image);
+        paper.prepend(layer);
+
+        const reveal = () => {
+          const makeVisible = () => {
+            if (paper.matches(':hover') || paper.matches(':focus-within')) {
+              paper.classList.add('is-preview-visible');
+            }
+          };
+
+          if (imageReady) {
+            makeVisible();
+            return;
+          }
+
+          image.onload = () => {
+            imageReady = true;
+            makeVisible();
+          };
+          image.onerror = () => image.removeAttribute('src');
+          image.src = paper.dataset.paperPreview;
+          if (image.complete && image.naturalWidth) {
+            imageReady = true;
+            makeVisible();
+          }
+        };
+
+        const hide = () => {
+          window.clearTimeout(hoverTimer);
+          hoverTimer = null;
+          paper.classList.remove('is-preview-visible');
+        };
+
+        const schedule = () => {
+          window.clearTimeout(hoverTimer);
+          hoverTimer = window.setTimeout(() => {
+            hoverTimer = null;
+            reveal();
+          }, hoverDelay);
+        };
+
         paper.addEventListener('mouseenter', () => {
-          if (!paper.matches(':focus-within')) schedulePreview(paper);
+          if (!paper.matches(':focus-within')) schedule();
         });
         paper.addEventListener('mouseleave', () => {
-          if (!paper.matches(':focus-within')) hidePreview(paper);
+          if (!paper.matches(':focus-within')) hide();
         });
         paper.addEventListener('focusin', (event) => {
           if (event.relatedTarget && paper.contains(event.relatedTarget)) return;
           window.clearTimeout(hoverTimer);
           hoverTimer = null;
-          activePaper = paper;
-          showPreview(paper);
+          reveal();
         });
         paper.addEventListener('focusout', (event) => {
-          if (!paper.contains(event.relatedTarget) && !paper.matches(':hover')) hidePreview(paper);
+          if (!paper.contains(event.relatedTarget) && !paper.matches(':hover')) hide();
         });
       });
-
-      window.addEventListener('scroll', () => hidePreview(), { passive: true });
-      window.addEventListener('resize', () => hidePreview());
     })();
   </script>
 </body>
