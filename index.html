@@ -167,9 +167,11 @@
     }
     .feature-paper.is-preview-visible .paper-image-layer { opacity: .15; }
     .publication .paper-image-layer {
-      -webkit-mask-image: linear-gradient(to right, transparent 0%, transparent 33%, rgba(0,0,0,.35) 52%, #000 88%);
-      mask-image: linear-gradient(to right, transparent 0%, transparent 33%, rgba(0,0,0,.35) 52%, #000 88%);
+      inset: 0 0 0 50%;
+      -webkit-mask-image: linear-gradient(to right, transparent 0%, rgba(0,0,0,.35) 38%, #000 88%);
+      mask-image: linear-gradient(to right, transparent 0%, rgba(0,0,0,.35) 38%, #000 88%);
     }
+    .publication .paper-image-layer img { transform: scale(1.02); }
     .publication.is-preview-visible .paper-image-layer { opacity: .5; }
     .publication.is-preview-visible .pub-title,
     .publication.is-preview-visible .pub-authors,
