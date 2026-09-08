@@ -159,6 +159,30 @@
     .journal-link:hover { text-decoration: underline; text-underline-offset: .2em; }
     .section-actions { display: flex; flex-wrap: wrap; gap: .7rem; margin-top: 1.25rem; }
 
+    .art-grid {
+      display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+      gap: clamp(1.15rem, 2.5vw, 1.8rem); align-items: start;
+    }
+    .art-piece { min-width: 0; margin: 0; }
+    .art-media {
+      display: block; overflow: hidden; border: 1px solid var(--line); border-radius: 14px;
+      background: rgba(255,255,255,.48); box-shadow: 0 14px 36px rgba(28,49,56,.055);
+      transition: border-color .18s ease;
+    }
+    .art-media:hover, .art-media:focus-visible { border-color: var(--accent); }
+    .art-media:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+    .art-media img { width: 100%; height: auto; }
+    .art-caption {
+      display: grid; grid-template-columns: minmax(0,1fr) auto; gap: .8rem;
+      align-items: start; padding: .85rem .12rem 0;
+    }
+    .art-caption h3 { margin: 0; font-family: var(--serif); font-size: 1.08rem; line-height: 1.2; }
+    .art-caption h3 a { text-decoration: none; }
+    .art-caption h3 a:hover { color: var(--accent); }
+    .art-caption p { max-width: 42rem; margin: .28rem 0 0; color: var(--muted); font-size: .8rem; line-height: 1.42; }
+    .art-file-link { color: var(--accent-dark); font-size: .78rem; font-weight: 800; text-decoration: none; white-space: nowrap; }
+    .art-file-link:hover { text-decoration: underline; text-underline-offset: .2em; }
+
     .talks-list { display: grid; gap: .55rem; }
     .talk {
       display: grid; grid-template-columns: 108px minmax(0,1fr) auto; gap: 1.25rem; align-items: center;
@@ -183,6 +207,8 @@
       .hero-inner { min-height: auto; grid-template-columns: 1fr; padding-top: 4.25rem; }
       .portrait-area { display: none; }
       .feature-grid, .code-grid { grid-template-columns: 1fr; }
+      .art-grid { grid-template-columns: 1fr; }
+      .art-piece--square { width: min(100%, 720px); }
       .feature-paper, .code-card { min-height: 190px; }
       .section-head { grid-template-columns: 1fr; gap: .65rem; }
       .publication { grid-template-columns: 60px minmax(0,1fr); }
@@ -243,6 +269,7 @@
       <div class="nav-wrap">
         <nav aria-label="Primary navigation">
           <a href="#publications">Publications</a>
+          <a href="#physics-art">Art</a>
           <a href="#talks">Talks</a>
           <a href="#software">Code</a>
           <a href="/lz-paper-map/">LZ Map</a>
@@ -365,10 +392,49 @@
       </div>
     </section>
 
+    <section class="section" id="physics-art">
+      <div class="shell">
+        <div class="section-head">
+          <div class="section-index">02 · Physics art</div>
+          <div class="section-title-wrap">
+            <h2>Physics art.</h2>
+          </div>
+        </div>
+
+        <div class="art-grid">
+          <figure class="art-piece">
+            <a class="art-media" href="assets/physics-art/axiverse-baryogenesis.png" target="_blank" rel="noopener" aria-label="Open the Axiverse Baryogenesis figure at full resolution">
+              <img src="assets/physics-art/axiverse-baryogenesis.webp" alt="Abstract scientific visualization in cyan, green, violet, and magenta, with a broad horizontal band and dense vertical streaks" width="1597" height="1280" loading="lazy" decoding="async">
+            </a>
+            <figcaption class="art-caption">
+              <div>
+                <h3><a href="https://arxiv.org/abs/2511.15794" target="_blank" rel="noopener noreferrer">Axiverse Baryogenesis</a></h3>
+                <p>Axion refinement histogram.</p>
+              </div>
+              <a class="art-file-link" href="assets/physics-art/axiverse-baryogenesis.png" target="_blank" rel="noopener">full resolution ↗</a>
+            </figcaption>
+          </figure>
+
+          <figure class="art-piece art-piece--square">
+            <a class="art-media" href="assets/physics-art/friendship-in-the-axiverse.pdf" target="_blank" rel="noopener" aria-label="Open the Friendship in the Axiverse figure as a PDF">
+              <img src="assets/physics-art/friendship-in-the-axiverse.webp" alt="Pale cyan and yellow oscillatory ribbons cross in an hourglass-like form against a dark navy field" width="1570" height="1570" loading="lazy" decoding="async">
+            </a>
+            <figcaption class="art-caption">
+              <div>
+                <h3><a href="https://arxiv.org/abs/2109.09755" target="_blank" rel="noopener noreferrer">Friendship in the Axiverse</a></h3>
+                <p>Resonant Nonlinear Pairs in the Axiverse and Their Late-Time Direct and Astrophysical Signatures.</p>
+              </div>
+              <a class="art-file-link" href="assets/physics-art/friendship-in-the-axiverse.pdf" target="_blank" rel="noopener">PDF ↗</a>
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
     <section class="section" id="talks">
       <div class="shell">
         <div class="section-head">
-          <div class="section-index">02 · Talks</div>
+          <div class="section-index">03 · Talks</div>
           <div class="section-title-wrap">
             <h2>Selected talks.</h2>
           </div>
@@ -392,7 +458,7 @@
     <section class="section" id="software">
       <div class="shell">
         <div class="section-head">
-          <div class="section-index">03 · Code</div>
+          <div class="section-index">04 · Code</div>
           <div class="section-title-wrap"><h2>Research software.</h2></div>
         </div>
         <div class="code-grid">
