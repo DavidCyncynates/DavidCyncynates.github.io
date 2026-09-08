@@ -159,6 +159,25 @@
     .journal-link:hover { text-decoration: underline; text-underline-offset: .2em; }
     .section-actions { display: flex; flex-wrap: wrap; gap: .7rem; margin-top: 1.25rem; }
 
+    .paper-preview {
+      position: fixed; z-index: 90; left: 0; top: 0; width: min(380px, calc(100vw - 32px));
+      padding: 8px; border: 1px solid var(--line-strong); border-radius: 13px;
+      background: rgba(251,250,246,.98); box-shadow: 0 20px 52px rgba(21,43,50,.18);
+      opacity: 0; visibility: hidden; transform: translateY(5px); pointer-events: none;
+      transition: opacity .14s ease, transform .14s ease, visibility 0s linear .14s;
+    }
+    .paper-preview.is-visible {
+      opacity: 1; visibility: visible; transform: translateY(0);
+      transition: opacity .14s ease, transform .14s ease;
+    }
+    .paper-preview img {
+      width: 100%; max-height: min(48vh, 390px); object-fit: contain; border-radius: 8px;
+      background: white;
+    }
+    .paper-preview-caption {
+      padding: .55rem .35rem .25rem; color: var(--muted); font-size: .76rem; line-height: 1.35;
+    }
+
     .art-grid {
       display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
       gap: clamp(1.15rem, 2.5vw, 1.8rem); align-items: start;
@@ -213,6 +232,11 @@
       .section-head { grid-template-columns: 1fr; gap: .65rem; }
       .publication { grid-template-columns: 60px minmax(0,1fr); }
       .journal-link { grid-column: 2; }
+      .paper-preview { display: none; }
+    }
+
+    @media (hover: none), (pointer: coarse) {
+      .paper-preview { display: none; }
     }
 
     @media (max-width: 650px) {
@@ -319,19 +343,19 @@
         </div>
 
         <div class="feature-grid">
-          <article class="feature-paper">
+          <article class="feature-paper" data-paper-preview="assets/paper-previews/2602.23424.webp" data-preview-alt="Axion relic-abundance density plot with a multicolored anthropic plateau across axion mass" data-preview-caption="Figure 10 · Axion relic-abundance density and the anthropic plateau">
             <div class="feature-top"><span>2026</span><span>Axions</span></div>
             <h3><a href="https://arxiv.org/abs/2602.23424" target="_blank" rel="noopener noreferrer">Axiverse Lampposts</a></h3>
             <p>with Masha Baryakhtar and Ella Henry</p>
             <div class="paper-links"><a href="https://arxiv.org/abs/2602.23424" target="_blank" rel="noopener noreferrer">arXiv:2602.23424 ↗</a></div>
           </article>
-          <article class="feature-paper">
+          <article class="feature-paper" data-paper-preview="assets/paper-previews/2511.15794.webp" data-preview-alt="Three-stage schematic of paired axion potentials evolving from circular rings into warped configurations" data-preview-caption="Figure 3 · Coupled axion evolution through three potential configurations">
             <div class="feature-top"><span>2025</span><span>Baryogenesis</span></div>
             <h3><a href="https://arxiv.org/abs/2511.15794" target="_blank" rel="noopener noreferrer">Axiverse Baryogenesis</a></h3>
             <p>with Pouya Asadi and Stefania Gori</p>
             <div class="paper-links"><a href="https://arxiv.org/abs/2511.15794" target="_blank" rel="noopener noreferrer">arXiv:2511.15794 ↗</a></div>
           </article>
-          <article class="feature-paper">
+          <article class="feature-paper" data-paper-preview="assets/paper-previews/2410.22409.webp" data-preview-alt="Three stacked parameter-space plots for scalar couplings over a wide range of relic masses" data-preview-caption="Figure 1 · Scalar-coupling targets from the hot Big Bang">
             <div class="feature-top"><span>2025</span><span>Scalar dark matter</span></div>
             <h3><a href="https://arxiv.org/abs/2410.22409" target="_blank" rel="noopener noreferrer">Scalar Relics from the Hot Big Bang</a></h3>
             <p>with Olivier Simon · Phys. Rev. Lett. 135, 101003</p>
@@ -343,42 +367,42 @@
         </div>
 
         <div class="publication-list" aria-label="Publication list">
-          <article class="publication">
+          <article class="publication" data-paper-preview="assets/paper-previews/2408.16816.webp" data-preview-alt="Constraint plot for dilaton coupling versus scalar mass with experimental and cosmological regions" data-preview-caption="Figure 6 · Combined parameter space for dilaton direct detection">
             <div class="pub-year">2025</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2408.16816" target="_blank" rel="noopener noreferrer">Minimal Targets for Dilaton Direct Detection</a></h3><p class="pub-authors">David Cyncynates and Olivier Simon</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/8mc9-6cmr" target="_blank" rel="noopener noreferrer">PRD 112, 055002 ↗</a>
           </article>
-          <article class="publication">
+          <article class="publication" data-paper-preview="assets/paper-previews/2410.14774.webp" data-preview-alt="Dark-photon kinetic-mixing parameter-space plot with shaded production and detection regions" data-preview-caption="Figure 10 · Dark-photon parameter-space atlas">
             <div class="pub-year">2025</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2410.14774" target="_blank" rel="noopener noreferrer">Experimental Targets for Dark Photon Dark Matter</a></h3><p class="pub-authors">David Cyncynates and Zachary J. Weiner · Editors’ Suggestion</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.111.103535" target="_blank" rel="noopener noreferrer">PRD 111, 103535 ↗</a>
           </article>
-          <article class="publication">
+          <article class="publication" data-paper-preview="assets/paper-previews/2310.18397.webp" data-preview-alt="Schematic density evolution showing delayed dark-photon production and avoidance of defect formation" data-preview-caption="Figure 2 · Delayed production avoids defect formation">
             <div class="pub-year">2025</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2310.18397" target="_blank" rel="noopener noreferrer">Detectable and Defect-Free Dark Photon Dark Matter</a></h3><p class="pub-authors">David Cyncynates and Zachary J. Weiner</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevLett.134.211002" target="_blank" rel="noopener noreferrer">PRL 134, 211002 ↗</a>
           </article>
-          <article class="publication">
+          <article class="publication" data-paper-preview="assets/paper-previews/2306.04678.webp" data-preview-alt="Two-panel plot of energy densities and mass eigenvalues through an avoided level crossing" data-preview-caption="Figure 1 · Adiabatic transfer through an avoided level crossing">
             <div class="pub-year">2023</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2306.04678" target="_blank" rel="noopener noreferrer">Heavy QCD Axion Dark Matter from Avoided Level Crossing</a></h3><p class="pub-authors">David Cyncynates and Jedidiah O. Thompson</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.108.L091703" target="_blank" rel="noopener noreferrer">PRD 108, L091703 ↗</a>
           </article>
-          <article class="publication">
+          <article class="publication" data-paper-preview="assets/paper-previews/2208.05501.webp" data-preview-alt="Eight simulation snapshots showing bright oscillons forming and dissipating in a dark density field" data-preview-caption="Figure 2 · Oscillon formation and dissipation in simulation">
             <div class="pub-year">2022</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2208.05501" target="_blank" rel="noopener noreferrer">Nonperturbative Structure in Coupled Axion Sectors and Implications for Direct Detection</a></h3><p class="pub-authors">David Cyncynates, Olivier Simon, Jedidiah O. Thompson, and Zachary J. Weiner</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.106.083503" target="_blank" rel="noopener noreferrer">PRD 106, 083503 ↗</a>
           </article>
-          <article class="publication">
+          <article class="publication" data-paper-preview="assets/paper-previews/2109.09755.webp" data-preview-alt="Phase-space map of autoresonance regions with winding structures and a numerical trajectory" data-preview-caption="Figure 6 · Autoresonance across the initial-condition plane">
             <div class="pub-year">2022</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2109.09755" target="_blank" rel="noopener noreferrer">Resonant Nonlinear Pairs in the Axiverse and Their Late-Time Direct and Astrophysical Signatures</a></h3><p class="pub-authors">David Cyncynates, Tudor Giurgica-Tiron, Olivier Simon, and Jedidiah O. Thompson</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.105.055005" target="_blank" rel="noopener noreferrer">PRD 105, 055005 ↗</a>
           </article>
-          <article class="publication">
+          <article class="publication" data-paper-preview="assets/paper-previews/2104.02069.webp" data-preview-alt="Colored heatmap of oscillon lifetime across interaction parameters with characteristic boundary lines" data-preview-caption="Figure 1 · Oscillon lifetime across the interaction landscape">
             <div class="pub-year">2021</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/2104.02069" target="_blank" rel="noopener noreferrer">The Structure of the Oscillon: The Dynamics of Attractive Self-Interaction</a></h3><p class="pub-authors">David Cyncynates and Tudor Giurgica-Tiron</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.103.116011" target="_blank" rel="noopener noreferrer">PRD 103, 116011 ↗</a>
           </article>
-          <article class="publication">
+          <article class="publication" data-paper-preview="assets/paper-previews/1610.09680.webp" data-preview-alt="Macroscopic dark-matter parameter-space plot for cross section versus mass including a lunar seismic limit" data-preview-caption="Figure 3 · Revised lunar seismic constraint on macroscopic dark matter">
             <div class="pub-year">2017</div>
             <div><h3 class="pub-title"><a href="https://arxiv.org/abs/1610.09680" target="_blank" rel="noopener noreferrer">Reconsidering Seismological Constraints on the Available Parameter Space of Macroscopic Dark Matter</a></h3><p class="pub-authors">David Cyncynates, Joshua Chiel, Jagjit Sidhu, and Glenn D. Starkman</p></div>
             <a class="journal-link" href="https://link.aps.org/doi/10.1103/PhysRevD.95.063006" target="_blank" rel="noopener noreferrer">PRD 95, 063006 ↗</a>
@@ -475,6 +499,98 @@
     <div class="shell footer-inner"><span>© <span id="year">2026</span> David Cyncynates</span><span>Hosted on <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a></span></div>
   </footer>
 
-  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+  <aside class="paper-preview" id="paper-preview" role="tooltip" aria-hidden="true">
+    <img id="paper-preview-image" alt="" decoding="async">
+    <div class="paper-preview-caption" id="paper-preview-caption"></div>
+  </aside>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    (() => {
+      const preview = document.getElementById('paper-preview');
+      const image = document.getElementById('paper-preview-image');
+      const caption = document.getElementById('paper-preview-caption');
+      const canHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+      const papers = document.querySelectorAll('[data-paper-preview]');
+      if (!preview || !image || !caption || !canHover || !papers.length) return;
+
+      let activePaper = null;
+      let pointerX = 0;
+      let pointerY = 0;
+
+      const placePreview = () => {
+        const card = preview.getBoundingClientRect();
+        const edge = 16;
+        const gap = 18;
+        const headerClearance = 82;
+        let left = pointerX + gap;
+        let top = pointerY + gap;
+
+        if (left + card.width > window.innerWidth - edge) left = pointerX - card.width - gap;
+        if (top + card.height > window.innerHeight - edge) top = pointerY - card.height - gap;
+
+        left = Math.max(edge, Math.min(left, window.innerWidth - card.width - edge));
+        top = Math.max(headerClearance, Math.min(top, window.innerHeight - card.height - edge));
+        preview.style.left = `${Math.round(left)}px`;
+        preview.style.top = `${Math.round(top)}px`;
+      };
+
+      const reveal = (paper, source) => {
+        if (activePaper !== paper || image.dataset.source !== source) return;
+        placePreview();
+        preview.classList.add('is-visible');
+        preview.setAttribute('aria-hidden', 'false');
+      };
+
+      const showPreview = (paper, x, y) => {
+        activePaper = paper;
+        pointerX = x;
+        pointerY = y;
+        const source = paper.dataset.paperPreview;
+        const alt = paper.dataset.previewAlt || '';
+        preview.classList.remove('is-visible');
+        preview.setAttribute('aria-hidden', 'true');
+        caption.textContent = paper.dataset.previewCaption || '';
+        image.alt = alt;
+        image.onload = () => reveal(paper, source);
+        image.onerror = () => {
+          if (activePaper === paper) activePaper = null;
+        };
+        image.dataset.source = source;
+        if (image.getAttribute('src') !== source) image.setAttribute('src', source);
+        if (image.complete && image.naturalWidth) reveal(paper, source);
+      };
+
+      const hidePreview = (paper = activePaper) => {
+        if (paper && activePaper !== paper) return;
+        activePaper = null;
+        preview.classList.remove('is-visible');
+        preview.setAttribute('aria-hidden', 'true');
+      };
+
+      papers.forEach((paper) => {
+        paper.addEventListener('mouseenter', (event) => showPreview(paper, event.clientX, event.clientY));
+        paper.addEventListener('mousemove', (event) => {
+          if (activePaper !== paper || preview.classList.contains('is-visible')) return;
+          pointerX = event.clientX;
+          pointerY = event.clientY;
+        });
+        paper.addEventListener('mouseleave', () => {
+          if (!paper.matches(':focus-within')) hidePreview(paper);
+        });
+        paper.addEventListener('focusin', () => {
+          const bounds = paper.getBoundingClientRect();
+          showPreview(paper, bounds.right - 24, bounds.top + bounds.height / 2);
+        });
+        paper.addEventListener('focusout', (event) => {
+          if (!paper.contains(event.relatedTarget) && !paper.matches(':hover')) hidePreview(paper);
+        });
+      });
+
+      window.addEventListener('scroll', () => hidePreview(), { passive: true });
+      window.addEventListener('resize', () => hidePreview());
+    })();
+  </script>
 </body>
 </html>
