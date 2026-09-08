@@ -516,19 +516,34 @@
       if (!preview || !image || !caption || !canHover || !papers.length) return;
 
       let activePaper = null;
-      let pointerX = 0;
-      let pointerY = 0;
+      let hoverTimer = null;
+      const hoverDelay = 500;
 
-      const placePreview = () => {
+      const placePreview = (paper) => {
+        const bounds = paper.getBoundingClientRect();
         const card = preview.getBoundingClientRect();
         const edge = 16;
         const gap = 18;
         const headerClearance = 82;
-        let left = pointerX + gap;
-        let top = pointerY + gap;
+        const roomRight = window.innerWidth - bounds.right - gap;
+        const roomLeft = bounds.left - gap;
+        const roomBelow = window.innerHeight - bounds.bottom - gap;
+        const roomAbove = bounds.top - headerClearance - gap;
+        let left;
+        let top;
 
-        if (left + card.width > window.innerWidth - edge) left = pointerX - card.width - gap;
-        if (top + card.height > window.innerHeight - edge) top = pointerY - card.height - gap;
+        if (roomRight >= card.width) {
+          left = bounds.right + gap;
+          top = bounds.top + (bounds.height - card.height) / 2;
+        } else if (roomLeft >= card.width) {
+          left = bounds.left - card.width - gap;
+          top = bounds.top + (bounds.height - card.height) / 2;
+        } else {
+          left = bounds.right - card.width;
+          top = roomBelow >= card.height || roomBelow >= roomAbove
+            ? bounds.bottom + gap
+            : bounds.top - card.height - gap;
+        }
 
         left = Math.max(edge, Math.min(left, window.innerWidth - card.width - edge));
         top = Math.max(headerClearance, Math.min(top, window.innerHeight - card.height - edge));
@@ -538,15 +553,13 @@
 
       const reveal = (paper, source) => {
         if (activePaper !== paper || image.dataset.source !== source) return;
-        placePreview();
+        placePreview(paper);
         preview.classList.add('is-visible');
         preview.setAttribute('aria-hidden', 'false');
       };
 
-      const showPreview = (paper, x, y) => {
-        activePaper = paper;
-        pointerX = x;
-        pointerY = y;
+      const showPreview = (paper) => {
+        if (activePaper !== paper) return;
         const source = paper.dataset.paperPreview;
         const alt = paper.dataset.previewAlt || '';
         preview.classList.remove('is-visible');
@@ -555,7 +568,7 @@
         image.alt = alt;
         image.onload = () => reveal(paper, source);
         image.onerror = () => {
-          if (activePaper === paper) activePaper = null;
+          if (activePaper === paper) hidePreview(paper);
         };
         image.dataset.source = source;
         if (image.getAttribute('src') !== source) image.setAttribute('src', source);
@@ -564,24 +577,38 @@
 
       const hidePreview = (paper = activePaper) => {
         if (paper && activePaper !== paper) return;
+        window.clearTimeout(hoverTimer);
+        hoverTimer = null;
         activePaper = null;
         preview.classList.remove('is-visible');
         preview.setAttribute('aria-hidden', 'true');
       };
 
+      const schedulePreview = (paper) => {
+        window.clearTimeout(hoverTimer);
+        hoverTimer = null;
+        activePaper = paper;
+        preview.classList.remove('is-visible');
+        preview.setAttribute('aria-hidden', 'true');
+        hoverTimer = window.setTimeout(() => {
+          hoverTimer = null;
+          showPreview(paper);
+        }, hoverDelay);
+      };
+
       papers.forEach((paper) => {
-        paper.addEventListener('mouseenter', (event) => showPreview(paper, event.clientX, event.clientY));
-        paper.addEventListener('mousemove', (event) => {
-          if (activePaper !== paper || preview.classList.contains('is-visible')) return;
-          pointerX = event.clientX;
-          pointerY = event.clientY;
+        paper.addEventListener('mouseenter', () => {
+          if (!paper.matches(':focus-within')) schedulePreview(paper);
         });
         paper.addEventListener('mouseleave', () => {
           if (!paper.matches(':focus-within')) hidePreview(paper);
         });
-        paper.addEventListener('focusin', () => {
-          const bounds = paper.getBoundingClientRect();
-          showPreview(paper, bounds.right - 24, bounds.top + bounds.height / 2);
+        paper.addEventListener('focusin', (event) => {
+          if (event.relatedTarget && paper.contains(event.relatedTarget)) return;
+          window.clearTimeout(hoverTimer);
+          hoverTimer = null;
+          activePaper = paper;
+          showPreview(paper);
         });
         paper.addEventListener('focusout', (event) => {
           if (!paper.contains(event.relatedTarget) && !paper.matches(':hover')) hidePreview(paper);
