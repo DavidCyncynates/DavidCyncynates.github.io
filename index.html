@@ -694,12 +694,9 @@
       const papers = document.querySelectorAll('[data-paper-preview]');
       if (!canHover || !papers.length) return;
 
-      const hoverDelay = 500;
-
       papers.forEach((paper) => {
         const layer = document.createElement('div');
         const image = document.createElement('img');
-        let hoverTimer = null;
         let imageReady = false;
 
         layer.className = 'paper-image-layer';
@@ -735,29 +732,17 @@
         };
 
         const hide = () => {
-          window.clearTimeout(hoverTimer);
-          hoverTimer = null;
           paper.classList.remove('is-preview-visible');
         };
 
-        const schedule = () => {
-          window.clearTimeout(hoverTimer);
-          hoverTimer = window.setTimeout(() => {
-            hoverTimer = null;
-            reveal();
-          }, hoverDelay);
-        };
-
         paper.addEventListener('mouseenter', () => {
-          if (!paper.matches(':focus-within')) schedule();
+          if (!paper.matches(':focus-within')) reveal();
         });
         paper.addEventListener('mouseleave', () => {
           if (!paper.matches(':focus-within')) hide();
         });
         paper.addEventListener('focusin', (event) => {
           if (event.relatedTarget && paper.contains(event.relatedTarget)) return;
-          window.clearTimeout(hoverTimer);
-          hoverTimer = null;
           reveal();
         });
         paper.addEventListener('focusout', (event) => {
