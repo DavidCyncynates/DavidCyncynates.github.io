@@ -41,7 +41,7 @@
       document.documentElement.style.colorScheme = theme;
       document.querySelector('#theme-color')?.setAttribute(
         'content',
-        theme === 'dark' ? '#111614' : '#f4f0e7',
+        theme === 'dark' ? '#191a18' : '#f4f0e7',
       );
     })();
   </script>
@@ -90,39 +90,39 @@
     }
 
     :root.dark {
-      --bg: #111614;
-      --surface: #161d1a;
-      --surface-2: #1d2522;
-      --text: #e5e8e3;
-      --muted: #a2ada7;
-      --accent: #75bac0;
-      --accent-dark: #a5d6d9;
-      --accent-fill: #286f75;
-      --accent-fill-hover: #2d747a;
-      --accent-soft: #274245;
-      --warm: #d3a463;
-      --line: rgba(229, 232, 227, .14);
-      --line-strong: rgba(229, 232, 227, .27);
+      --bg: #191a18;
+      --surface: #22231f;
+      --surface-2: #292a26;
+      --text: #e8e4dc;
+      --muted: #aaa69d;
+      --accent: #67a9a5;
+      --accent-dark: #9ac7c4;
+      --accent-fill: #356f6c;
+      --accent-fill-hover: #3e7c78;
+      --accent-soft: #2e403c;
+      --warm: #d0a06a;
+      --line: rgba(232, 228, 220, .13);
+      --line-strong: rgba(232, 228, 220, .26);
       --shadow: 0 10px 28px rgba(0, 0, 0, .28);
-      --cool-glow: rgba(75, 147, 151, .13);
-      --warm-glow: rgba(190, 139, 75, .075);
-      --header-bg: rgba(17, 22, 20, .92);
-      --control-bg: rgba(183,203,194,.07);
-      --card-bg: rgba(24,32,29,.78);
-      --portrait-bg: rgba(27,36,33,.82);
-      --portrait-border: rgba(229,232,227,.14);
-      --talk-bg: rgba(27,36,33,.72);
-      --art-bg: rgba(27,36,33,.62);
-      --warm-soft: rgba(211,164,99,.1);
-      --inverse-bg: #b7cbc2;
-      --inverse-text: #13201c;
+      --cool-glow: rgba(103, 169, 165, .07);
+      --warm-glow: rgba(181, 135, 83, .08);
+      --header-bg: rgba(25, 26, 24, .92);
+      --control-bg: rgba(232,228,220,.055);
+      --card-bg: rgba(34,35,31,.78);
+      --portrait-bg: rgba(41,42,38,.82);
+      --portrait-border: rgba(232,228,220,.13);
+      --talk-bg: rgba(41,42,38,.72);
+      --art-bg: rgba(41,42,38,.62);
+      --warm-soft: rgba(208,160,106,.1);
+      --inverse-bg: #d9d4ca;
+      --inverse-text: #20211e;
       --accent-ink: #ffffff;
-      --accent-shadow: rgba(64,145,151,.18);
+      --accent-shadow: rgba(70,128,124,.18);
       --card-shadow: 0 18px 48px rgba(0,0,0,.16);
       --art-shadow: 0 14px 36px rgba(0,0,0,.15);
       --preview-blend: screen;
       --preview-filter: invert(1) hue-rotate(180deg) saturate(.76) contrast(.9);
-      --preview-text-shadow: 0 1px 10px rgba(17,22,20,.96);
+      --preview-text-shadow: 0 1px 10px rgba(25,26,24,.96);
       --feature-preview-opacity: .12;
       --row-preview-opacity: .34;
       color-scheme: dark;
@@ -644,7 +644,7 @@
         document.documentElement.classList.toggle('dark', theme === 'dark');
         document.documentElement.dataset.theme = theme;
         document.documentElement.style.colorScheme = theme;
-        themeColor?.setAttribute('content', theme === 'dark' ? '#111614' : '#f4f0e7');
+        themeColor?.setAttribute('content', theme === 'dark' ? '#191a18' : '#f4f0e7');
         themeToggle?.setAttribute('aria-pressed', String(theme === 'dark'));
         themeToggle?.setAttribute('aria-label', 'Dark mode');
         themeToggle?.setAttribute('title', `Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`);
