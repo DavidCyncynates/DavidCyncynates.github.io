@@ -1,0 +1,34 @@
+name: HEP jobs checks
+on:
+  pull_request:
+    paths: ['hep-jobs/**', '.github/workflows/hep-jobs-checks.yml']
+  push:
+    branches: [main]
+    paths: ['hep-jobs/**', '.github/workflows/hep-jobs-checks.yml']
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: hep-jobs
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Rebuild committed evidence
+        run: |
+          AS_OF=$(python3 -c 'import json; print(json.load(open("data/catalog.json"))["metadata"]["generatedAt"])')
+          python3 scripts/build_catalog.py --as-of "$AS_OF"
+          git diff --exit-code -- data/catalog.json data/jobs.json data/institutions.json data/sources.json catalog.html
+      - name: Validate map data
+        run: python3 scripts/validate_catalog.py --require-map-ready
+      - name: Deadline and maintenance tests
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - name: Browser rules tests
+        run: node --test scripts/test_ui.mjs

@@ -1,0 +1,175 @@
+[
+  {
+    "id": "inspire-jobs",
+    "name": "INSPIRE Jobs",
+    "url": "https://inspirehep.net/jobs",
+    "kind": "discipline-board",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "HEP theory",
+      "HEP experiment"
+    ],
+    "notes": "Discovery only; verify deadline wording in employer advertisement.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "academic-jobs-online",
+    "name": "AcademicJobsOnline",
+    "url": "https://academicjobsonline.org/ajo",
+    "kind": "application-board",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "physics",
+      "astronomy"
+    ],
+    "notes": "Structured headers may differ from the advertisement body; preserve both when conflicting.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "aas-job-register",
+    "name": "AAS Job Register",
+    "url": "https://aas.org/jobregister",
+    "kind": "discipline-board",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "astroparticle physics",
+      "cosmology",
+      "astrophysics"
+    ],
+    "notes": "Employer-posted advertisements; screen ordinary astronomy separately from HEP.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "euraxess",
+    "name": "EURAXESS",
+    "url": "https://euraxess.ec.europa.eu/jobs/search",
+    "kind": "regional-board",
+    "coverage": [
+      "Europe",
+      "global"
+    ],
+    "fields": [
+      "physics"
+    ],
+    "notes": "Separate vacancies, funding calls and hosting offers. Researcher R1–R4 labels describe career stages, not Carnegie institution designations.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "jps-jobs",
+    "name": "Physical Society of Japan",
+    "url": "https://www.jps.or.jp/keijiban/jinji.php",
+    "kind": "society-board",
+    "coverage": [
+      "Japan"
+    ],
+    "fields": [
+      "physics"
+    ],
+    "notes": "Search Japanese-language advertisements as well as English listings.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "lisa-jobs",
+    "name": "LISA Consortium positions",
+    "url": "https://www.lisamission.org/fellowship-and-tenure-track-opportunities-in-gravitational-wave-physics-mallorca-spain/",
+    "kind": "announcement-source",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "gravitational waves"
+    ],
+    "notes": "An observed announcement linking to the positions index; index discovery remains to do.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "et-jobs",
+    "name": "Einstein Telescope Germany opportunities",
+    "url": "https://www.einstein-teleskop.de/stellenangebote/",
+    "kind": "collaboration-board",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "gravitational waves"
+    ],
+    "notes": "Includes postdocs and technical jobs; faculty and equivalent roles require screening.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "alice-jobs",
+    "name": "ALICE public job announcements",
+    "url": "https://alice-collaboration.web.cern.ch/node/36810",
+    "kind": "collaboration-board",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "HEP experiment"
+    ],
+    "notes": "Observed newsletter links to job announcements. Follow to employer notices; do not assume expired historical newsletter entries are open.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "aei-ryc",
+    "name": "Spanish State Research Agency: Ramón y Cajal",
+    "url": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-ramon-cajal-ryc-2026/convocatoria",
+    "kind": "national-programme",
+    "coverage": [
+      "Spain"
+    ],
+    "fields": [
+      "physics"
+    ],
+    "notes": "Official national stage; institute endorsement stages have separate deadlines.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "carnegie",
+    "name": "Carnegie institution classifications",
+    "url": "https://carnegieclassifications.acenet.edu/data-center/",
+    "kind": "classification",
+    "coverage": [
+      "United States"
+    ],
+    "fields": [],
+    "notes": "Official 2025 research designations; campus-specific, not HEP group quality. CC BY-NC-SA 4.0 source metadata retained.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  }
+]

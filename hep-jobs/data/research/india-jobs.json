@@ -1,0 +1,142 @@
+[
+  {
+    "id": "iop-bhubaneswar-hep-2026-08",
+    "institutionId": "institute-of-physics-bhubaneswar",
+    "institutionName": "Institute of Physics, Bhubaneswar",
+    "countryCode": "IN",
+    "city": "Bhubaneswar",
+    "title": "Assistant Professor (E) / Reader (F) in High Energy Physics",
+    "rank": [
+      "Assistant Professor (E)",
+      "Reader (F)"
+    ],
+    "fields": [
+      "high-energy theory",
+      "high-energy experiment",
+      "string theory",
+      "quantum gravity",
+      "quantum field theory",
+      "cosmology",
+      "astroparticle physics",
+      "heavy-ion physics"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Advertisement IOP/Recruit/08/2026 is dated October 1, 2026 and closes November 14, 2026. It continues an earlier recruitment advertisement, with existing applications still considered.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-11-14",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://www.iopb.res.in/wp-content/uploads/2026/09/Advertisement-for-Faculty-Position-at-IOP.pdf.pdf",
+        "description": "Applications must reach the institute on or before this date."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://www.iopb.res.in/job-opening/",
+      "https://www.iopb.res.in/job_opening/hep-faculty-advertisement/",
+      "https://www.iopb.res.in/wp-content/uploads/2026/09/Advertisement-for-Faculty-Position-at-IOP.pdf.pdf"
+    ],
+    "summary": "Faculty recruitment across theoretical and experimental high-energy physics, including strings, gravity, fields, cosmology, astroparticles, and heavy ions. The advertisement invites Indian nationals and requires two or five years of relevant experience, depending on rank.",
+    "notes": [
+      "Eligibility: the application instructions explicitly invite Indian nationals. Preserve this restriction prominently.",
+      "Ranks are retained as advertised; no US tenure-track equivalence is inferred.",
+      "This is advertisement IOP/Recruit/08/2026, continuing IOP/Recruit/02/2026. Earlier applicants need not reapply unless updating their records.",
+      "The current three-page scanned advertisement was visually checked, including the November 14 deadline on pages 1, 2, and 3."
+    ],
+    "discovery": "institution-board",
+    "verificationBasis": "Official current job board and its linked October 2026 advertisement, visually inspected.",
+    "institutionSources": [
+      {
+        "url": "https://www.iopb.res.in/job-opening/",
+        "kind": "recruitment",
+        "verified": true
+      },
+      {
+        "url": "https://www.iopb.res.in/job_opening/hep-faculty-advertisement/",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ],
+    "eligibilityNotes": [
+      "Indian nationals invited.",
+      "PhD in Physics and normally at least two years of experience for Assistant Professor (E), or five years for Reader (F); exceptional-candidate relaxations stated.",
+      "Preferred age below 35 or 38 years, respectively; phrased as a preference in the advertisement."
+    ]
+  },
+  {
+    "id": "tifr-mumbai-faculty-2026-16",
+    "institutionId": "tata-institute-fundamental-research",
+    "institutionName": "Tata Institute of Fundamental Research",
+    "countryCode": "IN",
+    "city": "Mumbai",
+    "title": "Faculty Positions — High Energy and Theoretical Physics (Advt. 2026/16)",
+    "rank": [
+      "Reader (tenure track)",
+      "Associate Professor (tenured)",
+      "Professor (tenured)"
+    ],
+    "fields": [
+      "high-energy experiment",
+      "high-energy theory",
+      "lattice gauge theory",
+      "string theory",
+      "cosmology"
+    ],
+    "scope": "broad-physics",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Central advertisement 2026/16 defines an evaluation period from July 1 to December 31, 2026 and explicitly links the Mumbai High Energy Physics and Theoretical Physics departments.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-12-31",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://main.tifr.res.in/maincampus/viewNoticeFile.php?f=T2VJdndNNzVhbGtHUEEzbXVxam9aQT09&s=WFdXaTkwL1ZDTGdxaHp6eHA1bkh1QT09",
+        "description": "End of the advertised evaluation period; applications can be submitted before it ends and are reviewed on receipt."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://main.tifr.res.in/maincampus/viewNoticeFile.php?f=T2VJdndNNzVhbGtHUEEzbXVxam9aQT09&s=WFdXaTkwL1ZDTGdxaHp6eHA1bkh1QT09",
+      "https://www.tifr.res.in/dhep/facultyPositions.php",
+      "https://theory.tifr.res.in/jobs.html"
+    ],
+    "summary": "Institute-wide faculty call with separate Mumbai application routes for experimental high-energy physics and theoretical physics. The call explicitly offers tenure-track Reader appointments and tenured Associate Professor or Professor appointments, depending on experience.",
+    "notes": [
+      "This record covers the Mumbai HEP and theoretical-physics routes within a broader institute-wide call; other campuses and unrelated disciplines are not plotted as additional vacancies.",
+      "Applicants apply directly to the relevant department head. Department-specific instructions and reference requirements differ.",
+      "Rolling assessment occurs within the stated evaluation period; this is not an unlimited open-until-filled deadline.",
+      "The theoretical-physics page also contains older postdoctoral advertisements. Only its Regular Faculty Applications section was used."
+    ],
+    "discovery": "institution-board",
+    "verificationBasis": "Official two-page advertisement 2026/16 visually inspected, plus its linked departmental faculty-recruitment pages.",
+    "institutionSources": [
+      {
+        "url": "https://www.tifr.res.in/positions",
+        "kind": "recruitment",
+        "verified": true
+      },
+      {
+        "url": "https://www.tifr.res.in/dhep/facultyPositions.php",
+        "kind": "department",
+        "verified": true
+      },
+      {
+        "url": "https://theory.tifr.res.in/jobs.html",
+        "kind": "department",
+        "verified": true
+      }
+    ]
+  }
+]

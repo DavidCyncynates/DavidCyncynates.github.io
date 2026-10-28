@@ -1,0 +1,364 @@
+[
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "targeted-primary-source-expansion",
+    "id": "ut-austin-experimental-particle-2027",
+    "institutionId": "ut-austin",
+    "institutionName": "University of Texas at Austin",
+    "countryCode": "US",
+    "city": "Austin",
+    "title": "Assistant Professor in Experimental Particle Physics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "experimental particle physics",
+      "neutrino physics",
+      "dark matter",
+      "rare-event searches"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Employer advertisement posted October 13, 2026 with December 2, 2026 full-consideration date.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-12-02",
+        "time": "23:59",
+        "timezone": "America/Chicago",
+        "kind": "priority",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33062",
+        "description": "Full consideration for all application materials received by 11:59 p.m. CST."
+      }
+    ],
+    "openUntilFilled": null,
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33062",
+      "https://apply.interfolio.com/194655",
+      "https://faculty.utexas.edu/career?p=1&q=&units=College+of+Natural+Sciences"
+    ],
+    "summary": "Tenure-track assistant-professor search for experimentalists studying non-collider rare phenomena, including neutrino oscillations, neutrinoless double-beta decay, and direct dark-matter detection.",
+    "notes": [
+      "The December 2 date is a full-consideration milestone, not an explicit hard closure.",
+      "No appointment start date is stated in the accessible advertisement.",
+      "Apply through Interfolio 194655; AJO hosts the employer advertisement but does not accept applications for this job."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://faculty.utexas.edu/career?p=1&q=&units=College+of+Natural+Sciences",
+        "kind": "recruitment",
+        "verified": true
+      },
+      {
+        "url": "https://ph.utexas.edu/",
+        "kind": "department",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Live employer AJO advertisement and university faculty vacancy index."
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "targeted-primary-source-expansion",
+    "id": "ohio-state-experimental-hep-nuclear-2027",
+    "institutionId": "ohio-state",
+    "institutionName": "Ohio State University",
+    "countryCode": "US",
+    "city": "Columbus",
+    "title": "Open-Rank Tenure-Track Faculty Position in Experimental Nuclear or High Energy Physics",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "experimental particle physics",
+      "experimental nuclear physics",
+      "astroparticle physics",
+      "dark matter",
+      "neutrinos",
+      "multimessenger astrophysics"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Employer advertisement posted October 22, 2026 specifies an Autumn 2027 start.",
+    "startDate": "Autumn 2027",
+    "deadlines": [
+      {
+        "date": "2026-11-01",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33202",
+        "description": "Committee begins reviewing applications."
+      },
+      {
+        "date": "2026-11-15",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33202",
+        "description": "Explicit final application-submission date."
+      }
+    ],
+    "openUntilFilled": false,
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33202",
+      "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Open-Rank-Tenure-Track-Faculty-Position-in-Experimental-Nuclear-or-High-Energy-Physics_R161214-1"
+    ],
+    "summary": "Open-rank experimental particle or nuclear physics search connecting these fields with astrophysics. Areas include dark matter, neutrinos, cosmic rays, gamma rays, gravitational waves, and nuclear astrophysics.",
+    "notes": [
+      "Distinct requisition R161214 from the already catalogued Ohio State theoretical HEP search R160038.",
+      "The ad gives both November 1 review start and November 15 final deadline; no timezone is stated in the body."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://physics.osu.edu/",
+        "kind": "department",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Live employer AJO advertisement with explicit start, review, and final deadline."
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "needs-review",
+    "checkedOn": "2026-10-28",
+    "discovery": "targeted-primary-source-expansion",
+    "id": "national-taiwan-physics-2027",
+    "institutionId": "national-taiwan-university",
+    "institutionName": "National Taiwan University",
+    "countryCode": "TW",
+    "city": "Taipei",
+    "title": "Faculty Positions in Physics, Applied Physics, and Astrophysics",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "broad physics",
+      "particle theory",
+      "experimental particle physics",
+      "astrophysics"
+    ],
+    "scope": "broad-physics",
+    "cycleEvidence": "Official department announcement dated July 1, 2026 specifies August 2027 appointments.",
+    "startDate": "August 2027",
+    "deadlines": [
+      {
+        "date": "2026-10-14",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://phys.ntu.edu.tw/News_Content_n_39670_s_264091.html",
+        "description": "Department requests all materials by this date and says review continues until filled."
+      },
+      {
+        "date": "2026-10-15",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://phys.ntu.edu.tw/News_Content_n_39670_s_264091.html",
+        "description": "Department states review starts on this date."
+      }
+    ],
+    "openUntilFilled": true,
+    "sourceUrls": [
+      "https://phys.ntu.edu.tw/News_Content_n_39670_s_264091.html",
+      "https://academicjobsonline.org/ajo/jobs/32269"
+    ],
+    "summary": "Several open-rank positions across physics, applied physics, and astrophysics. The advertisement explicitly includes high-energy and particle experiment and theory among its areas of interest.",
+    "notes": [
+      "The department gives October 14 for all materials; the linked AJO header instead lists October 13 at 23:59:59 without a timezone. This discrepancy is unresolved.",
+      "The department says review continues until all positions are filled; neither elapsed priority date is assumed to prove current closure.",
+      "Broad recruitment with explicit HEP interest, not a dedicated particle-physics vacancy."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://phys.ntu.edu.tw/News_Content_n_39670_s_264091.html",
+        "kind": "recruitment",
+        "verified": true
+      },
+      {
+        "url": "https://www.phys.ntu.edu.tw/enphysics/Default.html",
+        "kind": "department",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Live official department announcement and linked employer AJO advertisement; date discrepancy retained for review."
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "targeted-primary-source-expansion",
+    "id": "national-tsing-hua-physics-2027-round2",
+    "institutionId": "national-tsing-hua-university",
+    "institutionName": "National Tsing Hua University",
+    "countryCode": "TW",
+    "city": "Hsinchu",
+    "title": "Faculty Positions in Physics and Astronomy — second round",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "broad physics",
+      "particle theory",
+      "experimental particle physics",
+      "astrophysics",
+      "quantum computing",
+      "AMO physics"
+    ],
+    "scope": "broad-physics",
+    "cycleEvidence": "Employer advertisement gives October 31, 2026 second-round deadline for August 1, 2027 appointments.",
+    "startDate": "2027-08-01",
+    "deadlines": [
+      {
+        "date": "2026-10-31",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32613",
+        "description": "Second-round application deadline; no timezone is specified in the advertisement body."
+      }
+    ],
+    "openUntilFilled": null,
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/32613"
+    ],
+    "summary": "Full-time faculty appointments from assistant-professor level upward across physics and astronomy. Particle theory and experiment are included; the stated hiring emphasis is quantum computing and AMO physics.",
+    "notes": [
+      "This record covers the second recruitment round. The separate August 15 first-round date is past and is not reused as this round's deadline.",
+      "All physics fields are welcome, with particular emphasis on quantum computing and AMO; classify as broad physics rather than a dedicated HEP search.",
+      "Advertisement body directs materials and recommendation letters by email; AJO also displays an online submission checklist. Confirm the submission route with the department."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://phys.site.nthu.edu.tw/",
+        "kind": "department",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Live employer AJO advertisement explicitly states all-field scope, second-round deadline, and appointment date."
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "targeted-primary-source-expansion",
+    "id": "cagliari-experimental-particle-rttl-2026",
+    "institutionId": "university-of-cagliari",
+    "institutionName": "University of Cagliari",
+    "countryCode": "IT",
+    "city": "Cagliari",
+    "title": "Tenure-track Researcher in Experimental Physics of Fundamental Interactions (RTT)",
+    "rank": [
+      "Tenure-track Researcher (RTT)"
+    ],
+    "fields": [
+      "experimental particle physics",
+      "accelerator experiments",
+      "heavy-ion physics"
+    ],
+    "scope": "core",
+    "cycleEvidence": "University call D.R. 984 dated September 21, 2026, with applications closing October 22, 2026.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-10-22",
+        "time": "23:59",
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://personale.unica.it/docric/public/fileadmin/user_upload/2026/RTT/DR_bando/DR984_2026_Bando_8_rttL_45D_0926.pdf",
+        "description": "Call article 3 specifies the final electronic submission date and time."
+      }
+    ],
+    "openUntilFilled": false,
+    "explicitClosed": true,
+    "closureSourceUrl": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-45d-0926",
+    "sourceUrls": [
+      "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-45d-0926",
+      "https://personale.unica.it/docric/public/fileadmin/user_upload/2026/RTT/DR_bando/DR984_2026_Bando_8_rttL_45D_0926.pdf",
+      "https://alice-collaboration.web.cern.ch/node/36805"
+    ],
+    "summary": "One six-year tenure-track researcher appointment in experimental high-energy physics at CERN LHC and SPS proton or heavy-ion experiments, with teaching and supervision in the Physics Department.",
+    "notes": [
+      "The official recruitment page explicitly marks the call SCADUTO (expired); kept for the cycle archive.",
+      "Physics is one post, selection rttL_45D_0926_02/PHYS-01, within a university call covering eight different fields; do not count eight HEP vacancies.",
+      "The call sets a six-year non-renewable RTT contract; no exact start date or timezone is stated.",
+      "Foreign PhD holders must provide recognition or the required recognition request under the call's rules; consult the full call."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-45d-0926",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Live official call index confirms closure; official PDF article 3 and physics annex 1 verify deadline, contract, and subject."
+  },
+  {
+    "id": "elte-tenure-track-physics-54161",
+    "institutionId": "elte",
+    "institutionName": "Eötvös Loránd University",
+    "countryCode": "HU",
+    "city": "Budapest",
+    "title": "Tenure-track assistant professorship",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "physics",
+      "astronomy",
+      "broad physics"
+    ],
+    "scope": "broad-physics",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Current official call is dated September 14, 2026 with a December 31, 2026 submission milestone.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-12-31",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54161",
+        "description": "Requested submission date; the call explicitly says positions remain open until filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54161",
+      "https://physics.elte.hu/en/vacancies"
+    ],
+    "summary": "Five-year tenure-track assistant-professor appointments across physics and astronomy, with possible tenure after evaluation and teaching at bachelor, master, and doctoral levels.",
+    "notes": [
+      "This is the current call 54161, dated September 14, 2026 and explicitly listed under Current job vacancies. The older call 54165 remains a separate closed record.",
+      "Applications are requested by December 31, 2026 but the call remains open until filled; recorded as a priority milestone rather than a hard closure.",
+      "All research topics are welcome. Prior postdoctoral experience is expected; no appointment start date is given."
+    ],
+    "discovery": "daily-search-chat",
+    "verificationBasis": "Official vacancies index explicitly links a current September 14, 2026 call (54161), distinct from the older closed call (54165).",
+    "explicitClosed": false,
+    "institutionSources": [
+      {
+        "url": "https://physics.elte.hu/en/vacancies",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ]
+  }
+]

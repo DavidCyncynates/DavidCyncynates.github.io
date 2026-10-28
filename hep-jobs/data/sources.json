@@ -1,0 +1,2244 @@
+[
+  {
+    "id": "aas-job-register",
+    "name": "AAS Job Register",
+    "url": "https://aas.org/jobregister",
+    "kind": "discipline-board",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "astroparticle physics",
+      "cosmology",
+      "astrophysics"
+    ],
+    "notes": "Employer-posted advertisements; screen ordinary astronomy separately from HEP.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "academic-jobs-online",
+    "name": "AcademicJobsOnline",
+    "url": "https://academicjobsonline.org/ajo",
+    "kind": "application-board",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "physics",
+      "astronomy"
+    ],
+    "notes": "Structured headers may differ from the advertisement body; preserve both when conflicting.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "aei-ryc",
+    "name": "Spanish State Research Agency: Ramón y Cajal",
+    "url": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-ramon-cajal-ryc-2026/convocatoria",
+    "kind": "national-programme",
+    "coverage": [
+      "Spain"
+    ],
+    "fields": [
+      "physics"
+    ],
+    "notes": "Official national stage; institute endorsement stages have separate deadlines.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "institutionIds": [
+      "ifae",
+      "uib"
+    ],
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "alice-jobs",
+    "name": "ALICE public job announcements",
+    "url": "https://alice-collaboration.web.cern.ch/node/36810",
+    "kind": "collaboration-board",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "HEP experiment"
+    ],
+    "notes": "Observed newsletter links to job announcements. Follow to employer notices; do not assume expired historical newsletter entries are open.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "carnegie",
+    "name": "Carnegie institution classifications",
+    "url": "https://carnegieclassifications.acenet.edu/data-center/",
+    "kind": "classification",
+    "coverage": [
+      "United States"
+    ],
+    "fields": [],
+    "notes": "Official 2025 research designations; campus-specific, not HEP group quality. CC BY-NC-SA 4.0 source metadata retained.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "et-jobs",
+    "name": "Einstein Telescope Germany opportunities",
+    "url": "https://www.einstein-teleskop.de/stellenangebote/",
+    "kind": "collaboration-board",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "gravitational waves"
+    ],
+    "notes": "Includes postdocs and technical jobs; faculty and equivalent roles require screening.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "euraxess",
+    "name": "EURAXESS",
+    "url": "https://euraxess.ec.europa.eu/jobs/search",
+    "kind": "regional-board",
+    "coverage": [
+      "Europe",
+      "global"
+    ],
+    "fields": [
+      "physics"
+    ],
+    "notes": "Separate vacancies, funding calls and hosting offers. Researcher R1–R4 labels describe career stages, not Carnegie institution designations.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "inspire-jobs",
+    "name": "INSPIRE Jobs",
+    "url": "https://inspirehep.net/jobs",
+    "kind": "discipline-board",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "HEP theory",
+      "HEP experiment"
+    ],
+    "notes": "Discovery only; verify deadline wording in employer advertisement.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "jps-jobs",
+    "name": "Physical Society of Japan",
+    "url": "https://www.jps.or.jp/keijiban/jinji.php",
+    "kind": "society-board",
+    "coverage": [
+      "Japan"
+    ],
+    "fields": [
+      "physics"
+    ],
+    "notes": "Search Japanese-language advertisements as well as English listings.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "lisa-jobs",
+    "name": "LISA Consortium positions",
+    "url": "https://www.lisamission.org/fellowship-and-tenure-track-opportunities-in-gravitational-wave-physics-mallorca-spain/",
+    "kind": "announcement-source",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "gravitational waves"
+    ],
+    "notes": "An observed announcement linking to the positions index; index discovery remains to do.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "institutionIds": [
+      "uib"
+    ],
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-0179aea01f0c",
+    "url": "https://careers.cern/jobs/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cern"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-030397c47405",
+    "url": "https://personale.unica.it/docric/public/fileadmin/user_upload/2026/RTT/DR_bando/DR984_2026_Bando_8_rttL_45D_0926.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-030e4d153662",
+    "url": "https://physics.osu.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-0ce93ff7d632",
+    "url": "https://faculty.utexas.edu/career?p=1&q=&units=College+of+Natural+Sciences",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-0de3fae08739",
+    "url": "https://lsa.umich.edu/litp/open-positions.html",
+    "kind": "group",
+    "institutionIds": [
+      "michigan-ann-arbor"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "group"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-0f7f30566d2f",
+    "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Open-Rank-Tenure-Track-Faculty-Position-in-Experimental-Nuclear-or-High-Energy-Physics_R161214-1",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-11f2528e107c",
+    "url": "https://academicjobsonline.org/ajo/jobs/32603",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-14809006faca",
+    "url": "https://apply.interfolio.com/189792",
+    "kind": "advertisement",
+    "institutionIds": [
+      "scripps-pitzer-natural-sciences"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-1abc8ad038f1",
+    "url": "https://lsa.umich.edu/physics/about-us/jobs.html",
+    "kind": "department",
+    "institutionIds": [
+      "michigan-ann-arbor"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-1f81a82e3778",
+    "url": "https://aas.org/jobregister/ad/ebe9db3c",
+    "kind": "advertisement",
+    "institutionIds": [
+      "carnegie-mellon"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-209c7e441f91",
+    "url": "https://ukjobs.uky.edu/postings/648332",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-23b8ab2e6730",
+    "url": "https://phys.ntu.edu.tw/News_Content_n_39670_s_264091.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-taiwan-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-24d7b92a63b0",
+    "url": "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54161",
+    "kind": "advertisement",
+    "institutionIds": [
+      "elte"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-2685a30776be",
+    "url": "https://apply.interfolio.com/192963",
+    "kind": "recruitment",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-29d281c2334d",
+    "url": "https://www.ictp.it/home/work-ictp",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ictp-trieste"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-2a0497a7a4c4",
+    "url": "https://www.ictp-saifr.org/simonsfapesp2026/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ictp-saifr"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-2c8a7152bad0",
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-Associate-Professor-of-Physics--Tenure-Tenure-Track-_REQ_0000082843-1",
+    "kind": "advertisement",
+    "institutionIds": [
+      "penn-state-university-park"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-2e8b4d085694",
+    "url": "https://www.lsu.edu/physics/",
+    "kind": "department",
+    "institutionIds": [
+      "louisiana-state-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-30e387666a6b",
+    "url": "https://phys.site.nthu.edu.tw/",
+    "kind": "department",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-34132fb1d163",
+    "url": "https://www.uct.ac.za/staff/general-vacancies",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-cape-town"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-35f6965f0963",
+    "url": "https://www.iopb.res.in/job_opening/hep-faculty-advertisement/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "iop-bhubaneswar"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-36b7365a3a1d",
+    "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": false
+  },
+  {
+    "id": "source-37b33c2de390",
+    "url": "https://academicjobsonline.org/ajo/jobs/32607",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-39d73d0166b6",
+    "url": "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-melbourne"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
+      "Official university careers page links to this portal. The fetched portal returned no readable listing text; use browser inspection for a full scan."
+    ]
+  },
+  {
+    "id": "source-3a195e767849",
+    "url": "https://lsu.wd1.myworkdayjobs.com/en-US/LSU/job/Open-Rank--Tenure-track-Assistant-Professor--Tenure-track-Associate-Professor-or-Professor--Theoretical-Gravity-Physics-_R00121003",
+    "kind": "advertisement",
+    "institutionIds": [
+      "louisiana-state-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-3ba051a37ffe",
+    "url": "https://www.theory.tifr.res.in/jobs.html",
+    "kind": "department",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "discoveryMethod": "search-index",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
+      "Departmental faculty recruitment page was available in the search index, but the subsequent direct fetch timed out."
+    ]
+  },
+  {
+    "id": "source-3d0ed61561ac",
+    "url": "https://www.ifae.es/careers/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ifae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": false
+  },
+  {
+    "id": "source-3d9c9a305a95",
+    "url": "https://ihep.cas.cn/zszp/zpxx/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-3e4dc1230661",
+    "url": "https://applications.caltech.edu/jobs",
+    "kind": "recruitment",
+    "institutionIds": [
+      "caltech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-469f3bdb717f",
+    "url": "https://www.physicsandastronomy.pitt.edu/about/department-openings",
+    "kind": "department",
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "department"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-46b1e783a2d4",
+    "url": "https://grg.uib.es/jobs/index.php",
+    "kind": "group",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "group"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-488991baa7d1",
+    "url": "https://apply.interfolio.com/195599",
+    "kind": "advertisement",
+    "institutionIds": [
+      "carnegie-mellon"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-4aaaf536ea0c",
+    "url": "https://academicjobsonline.org/ajo/jobs/32678",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cornell-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-4bd35945176e",
+    "url": "https://www.desy.de/career",
+    "kind": "recruitment",
+    "institutionIds": [
+      "desy"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-4f3e96e77a34",
+    "url": "https://www.ipmu.jp/en/job-opportunities",
+    "kind": "recruitment",
+    "institutionIds": [
+      "kavli-ipmu"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-50d7f6e05785",
+    "url": "https://academicjobsonline.org/ajo/jobs/32269",
+    "kind": "advertisement",
+    "institutionIds": [
+      "national-taiwan-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-5272d43aac0e",
+    "url": "https://physics.elte.hu/en/vacancies",
+    "kind": "department",
+    "institutionIds": [
+      "elte"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment",
+      "department"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-55231d7006aa",
+    "url": "https://www.ifae.es/careers/jobs/2026/09/call-for-expressions-of-interest-ramon-y-cajal-fellowship-programme-2026/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ifae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-5c214c3196fc",
+    "url": "https://inspirehep.net/jobs?field_of_interest=physics&page=1&size=25&sort=mostrecent",
+    "kind": "advertisement",
+    "institutionIds": [
+      "elte"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-5f2763bec065",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-45d-0926",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-6027019f7ea0",
+    "url": "https://facultyrecruiting.epfl.ch/position/65044488",
+    "kind": "advertisement",
+    "institutionIds": [
+      "epfl"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-61747b79380e",
+    "url": "https://academicjobsonline.org/ajo/jobs/33141",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ictp-saifr"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-61e94cfd9b5d",
+    "url": "https://aprecruit.berkeley.edu/JPF05524",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uc-berkeley"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-6247f6822e3e",
+    "url": "https://main.tifr.res.in/maincampus/viewNoticeFile.php?f=T2VJdndNNzVhbGtHUEEzbXVxam9aQT09&s=WFdXaTkwL1ZDTGdxaHp6eHA1bkh1QT09",
+    "kind": "advertisement",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-6acec7cd59f6",
+    "url": "https://physics.rice.edu",
+    "kind": "department",
+    "institutionIds": [
+      "rice-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-6cef3912a8a5",
+    "url": "https://apply.interfolio.com/192707",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-6d4b5172825a",
+    "url": "https://alice-collaboration.web.cern.ch/node/36805",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-70fdadc86184",
+    "url": "https://main.tifr.res.in/portal/work_at_tifr.php",
+    "kind": "recruitment",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-71efdfb858a2",
+    "url": "https://science.uct.ac.za/department-physics",
+    "kind": "department",
+    "institutionIds": [
+      "university-cape-town"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-76b9168ae78b",
+    "url": "https://www.physics.mcgill.ca/pos/",
+    "kind": "department",
+    "institutionIds": [
+      "mcgill"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-775e5bf850f7",
+    "url": "https://www.desy.de/career/job_offers/index_eng.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "desy"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
+      "Official careers page links here; direct automated retrieval was blocked by robots policy. No vacancy absence inferred."
+    ]
+  },
+  {
+    "id": "source-77ee45d40683",
+    "url": "https://apply.interfolio.com/192965",
+    "kind": "recruitment",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-7817c7cc3bf7",
+    "url": "https://www.cmu.edu/astro-cosmology/people/index.html",
+    "kind": "group",
+    "institutionIds": [
+      "carnegie-mellon"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "group"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-79c7dec84d5c",
+    "url": "https://academicjobsonline.org/ajo/jobs/33167",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-7c18bfa63a51",
+    "url": "https://williammary.wd12.myworkdayjobs.com/en-US/WM/details/Assistant-Professor-of-Physics_JR102162-1",
+    "kind": "advertisement",
+    "institutionIds": [
+      "william-and-mary"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-7d5f722047fe",
+    "url": "https://www.ou.edu/cas/physics-astronomy/job-opportunities",
+    "kind": "department",
+    "institutionIds": [
+      "oklahoma"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "department"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-7fd1071baf33",
+    "url": "https://www.uib.es/taulers/ocupacio",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-819437de9adb",
+    "url": "https://jobs.uct.ac.za/search",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-cape-town"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "search-index",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-85254c1f991f",
+    "url": "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/current/phys_270_163.php",
+    "kind": "advertisement",
+    "institutionIds": [
+      "victoria"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-871d432d25ec",
+    "url": "https://www.iopb.res.in/job-opening/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "iop-bhubaneswar"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-87c516b49d2a",
+    "url": "https://www.tifr.res.in/dhep/facultyPositions.php",
+    "kind": "department",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "department"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-88275453dab0",
+    "url": "https://cdsp.wm.edu/physics/?mapstat=1",
+    "kind": "department",
+    "institutionIds": [
+      "william-and-mary"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-8878aba24048",
+    "url": "https://apply.interfolio.com/191207",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uw-bothell"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-8a0873b46cb1",
+    "url": "https://aprecruit.berkeley.edu/apply",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uc-berkeley"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-8f18190062fd",
+    "url": "https://academicjobsonline.org/ajo/jobs/33162",
+    "kind": "advertisement",
+    "institutionIds": [
+      "rice-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-8f4fafacd05d",
+    "url": "https://mcgill.wd3.myworkdayjobs.com/en-US/McGill_Careers/job/Rutherford-Physics/Assistant-Professor-in-Astrophysics_JR0000080354",
+    "kind": "advertisement",
+    "institutionIds": [
+      "mcgill"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-8fa790b8392b",
+    "url": "https://aas.org/jobregister/ad/33a81251",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-909384e028d2",
+    "url": "https://theory.tifr.res.in/jobs.html",
+    "kind": "department",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "department"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-915355a557a4",
+    "url": "https://apply.interfolio.com/194655",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-91cad0559e95",
+    "url": "https://english.ihep.cas.cn/ju/jo/index.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-91d892746dd7",
+    "url": "https://ph.utexas.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-92298534f83f",
+    "url": "https://academicjobsonline.org/ajo/PennState",
+    "kind": "recruitment",
+    "institutionIds": [
+      "penn-state-university-park"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-9630338036da",
+    "url": "https://ap.washington.edu/ahr/academic-jobs/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uw-bothell"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-96b2a1fc3254",
+    "url": "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54165",
+    "kind": "advertisement",
+    "institutionIds": [
+      "elte"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-98d3ce503398",
+    "url": "https://www.physics.mcgill.ca/pos/astro-06-en.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "mcgill"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-9c5f6a06f1ca",
+    "url": "https://academicjobsonline.org/ajo/jobs/32613",
+    "kind": "advertisement",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-a0684fd9e695",
+    "url": "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+    "kind": "advertisement",
+    "institutionIds": [
+      "tennessee-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-a406a694e409",
+    "url": "https://www.iopb.res.in/wp-content/uploads/2026/09/Advertisement-for-Faculty-Position-at-IOP.pdf.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "iop-bhubaneswar"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-a69fd7446a5e",
+    "url": "https://ap.washington.edu/ahr/position-details/?job_id=189352",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uw-bothell"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-a88a59ead1f3",
+    "url": "https://apply.interfolio.com/195430",
+    "kind": "advertisement",
+    "institutionIds": [
+      "rice-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-ac612f46fb18",
+    "url": "https://jobs.tntech.edu/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "tennessee-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-ad3687e3339a",
+    "url": "https://pa.as.uky.edu/astro",
+    "kind": "group",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "group"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-aeaee72997fa",
+    "url": "https://www.ictp-saifr.org/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ictp-saifr"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
+      "The home-page Jobs menu links current research-professor calls."
+    ]
+  },
+  {
+    "id": "source-b006131a9ea0",
+    "url": "https://www.cmu.edu/faculty-office/prospective/faculty-careers/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "carnegie-mellon"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-b27bf6c77cc4",
+    "url": "https://www.binghamton.edu/academics/provost/faculty-resources/employment.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "binghamton"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-b28ccc1834da",
+    "url": "https://physics.berkeley.edu/welcome/employment",
+    "kind": "department",
+    "institutionIds": [
+      "uc-berkeley"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "department"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-b8fde9437aaf",
+    "url": "https://aas.org/jobregister/ad/0017344c",
+    "kind": "advertisement",
+    "institutionIds": [
+      "scripps-pitzer-natural-sciences"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-be8a49d2a900",
+    "url": "https://www.lsu.edu/hrm/careers/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "louisiana-state-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-c09d962a1c87",
+    "url": "https://apply.interfolio.com/188444",
+    "kind": "advertisement",
+    "institutionIds": [
+      "michigan-ann-arbor"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-c344b1bc01f9",
+    "url": "https://aas.org/jobregister/ad/5b64bbe4",
+    "kind": "advertisement",
+    "institutionIds": [
+      "tennessee-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-c98e47e8a2f0",
+    "url": "https://academicjobsonline.org/ajo/jobs/32898",
+    "kind": "advertisement",
+    "institutionIds": [
+      "oklahoma"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-ca1372f393d9",
+    "url": "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=204910",
+    "kind": "advertisement",
+    "institutionIds": [
+      "binghamton"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-cf0a13e01f21",
+    "url": "https://academicjobsonline.org/ajo/jobs/32892",
+    "kind": "advertisement",
+    "institutionIds": [
+      "penn-state-university-park"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-d04046d76973",
+    "url": "https://academicjobsonline.org/ajo/jobs/33025",
+    "kind": "advertisement",
+    "institutionIds": [
+      "mit"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-d06c4534a738",
+    "url": "https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/job-opportunities/",
+    "kind": "group",
+    "institutionIds": [
+      "mit"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "group"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-d6bcda16a105",
+    "url": "https://facultyrecruiting.epfl.ch/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "epfl"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": false
+  },
+  {
+    "id": "source-d96821079d00",
+    "url": "https://www.join.pitt.edu/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-d9818668a6ec",
+    "url": "https://academicjobsonline.org/ajo/jobs/32618",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-dd2ee6a5575f",
+    "url": "https://prod.lsa.umich.edu/physics/news-events/all-news/search-news/assistant-professor-of-physics-open-position.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "michigan-ann-arbor"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-ddc92035ca2e",
+    "url": "https://faculty.utexas.edu/career/193143",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-de00024c8380",
+    "url": "https://academicjobsonline.org/ajo/jobs/32889",
+    "kind": "advertisement",
+    "institutionIds": [
+      "penn-state-university-park"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-de37bf41e003",
+    "url": "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "victoria"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": false
+  },
+  {
+    "id": "source-e16f435343ed",
+    "url": "https://apply.interfolio.com/193146",
+    "kind": "advertisement",
+    "institutionIds": [
+      "oklahoma"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-e1c911449308",
+    "url": "https://about.unimelb.edu.au/careers",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-melbourne"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-e1e02a466f35",
+    "url": "https://www.astro.cornell.edu",
+    "kind": "department",
+    "institutionIds": [
+      "cornell-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-e204f82ac576",
+    "url": "https://academicjobsonline.org/ajo/jobs/33132",
+    "kind": "advertisement",
+    "institutionIds": [
+      "william-and-mary"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-e54e87259020",
+    "url": "https://www.tifr.res.in/positions",
+    "kind": "recruitment",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-e5679ac7bc07",
+    "url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Academic/job/Assistant-Associate-Professor-of-Physics--Tenure-Tenure-Track-_REQ_0000082843-1",
+    "kind": "advertisement",
+    "institutionIds": [
+      "penn-state-university-park"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-e628677692c2",
+    "url": "https://pa.as.uky.edu",
+    "kind": "department",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-ea60a2b57601",
+    "url": "https://cfopitt.taleo.net/careersection/pitt_faculty_external/jobdetail.ftl?job=26006538&lang=en",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-eaba48dae837",
+    "url": "https://physics.uchicago.edu/about/job-opportunities/",
+    "kind": "department",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "department"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-eb6330222098",
+    "url": "https://academicjobsonline.org/ajo/jobs/33243",
+    "kind": "advertisement",
+    "institutionIds": [
+      "victoria"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-f06894f7be37",
+    "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Open-Rank-Tenure-Track-Faculty-Position-in-Theoretical-High-Energy-Physics_R160038-1",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-f149cb86e5f4",
+    "url": "https://www.phys.ntu.edu.tw/enphysics/Default.html",
+    "kind": "department",
+    "institutionIds": [
+      "national-taiwan-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-f3f2af2d0966",
+    "url": "https://aas.org/jobregister/ad/8852332e",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-f55836612e80",
+    "url": "https://www.scrippscollege.edu/hr/faculty",
+    "kind": "recruitment",
+    "institutionIds": [
+      "scripps-pitzer-natural-sciences"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "linkVerified": true
+  },
+  {
+    "id": "source-f6f752d12e95",
+    "url": "https://main.tifr.res.in/maincampus/careers.php",
+    "kind": "recruitment",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-fbd0cce5ef6d",
+    "url": "https://physics.mit.edu/about-physics/employment-opportunities/",
+    "kind": "department",
+    "institutionIds": [
+      "mit"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "department"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true
+  },
+  {
+    "id": "source-fd1cfe6a551b",
+    "url": "https://applications.caltech.edu/jobs/physics",
+    "kind": "advertisement",
+    "institutionIds": [
+      "caltech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-fd6e1a12fcb6",
+    "url": "https://academicjobsonline.org/ajo/jobs/33202",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-fdac0eda3958",
+    "url": "https://academicjobsonline.org/ajo/jobs/33062",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-fde39c45365f",
+    "url": "https://www.epfl.ch/about/working/faculty-position-in-experimantal-particle-physics/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "epfl"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  }
+]

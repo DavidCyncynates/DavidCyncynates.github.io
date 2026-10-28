@@ -1,0 +1,395 @@
+[
+  {
+    "id": "cern",
+    "name": "CERN",
+    "countryCode": "CH",
+    "city": "Meyrin (Geneva)",
+    "profile": "research-institute",
+    "profileSourceUrl": "https://careers.cern/jobs/",
+    "sourcePages": [
+      {
+        "url": "https://careers.cern/jobs/",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "theoretical physicist",
+      "experimental physicist",
+      "staff scientist",
+      "physicien"
+    ],
+    "notes": [
+      "CERN spans the Swiss–French border. Store the actual work location on each vacancy.",
+      "Distinguish fixed-term research fellowships, staff contracts and permanent positions."
+    ]
+  },
+  {
+    "id": "desy",
+    "name": "Deutsches Elektronen-Synchrotron (DESY)",
+    "countryCode": "DE",
+    "city": "Hamburg",
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.desy.de/career",
+    "sourcePages": [
+      {
+        "url": "https://www.desy.de/career",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      },
+      {
+        "url": "https://www.desy.de/career/job_offers/index_eng.html",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
+          "Official careers page links here; direct automated retrieval was blocked by robots policy. No vacancy absence inferred."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "Stellenangebote",
+      "Wissenschaftler",
+      "Teilchenphysik",
+      "unbefristet",
+      "Professur"
+    ],
+    "notes": [
+      "Check the advertised campus, including Zeuthen; Hamburg is not the location of every DESY job."
+    ]
+  },
+  {
+    "id": "kavli-ipmu",
+    "name": "Kavli IPMU, University of Tokyo",
+    "countryCode": "JP",
+    "city": "Kashiwa",
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.ipmu.jp/en/place-and-people",
+    "sourcePages": [
+      {
+        "url": "https://www.ipmu.jp/en/job-opportunities",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "教員公募",
+      "教授",
+      "准教授",
+      "助教",
+      "任期",
+      "Kavli IPMU faculty"
+    ],
+    "notes": [
+      "University-affiliated institute on the University of Tokyo Kashiwa campus; do not geocode to central Tokyo.",
+      "Scientific-staff listings include postdoctoral appointments requiring exclusion from the faculty catalog."
+    ]
+  },
+  {
+    "id": "ihep-cas",
+    "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+    "countryCode": "CN",
+    "city": "Beijing",
+    "profile": "research-institute",
+    "profileSourceUrl": "https://english.ihep.cas.cn/ju/jo/index.html",
+    "sourcePages": [
+      {
+        "url": "https://english.ihep.cas.cn/ju/jo/index.html",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "人才招聘",
+      "研究员",
+      "副研究员",
+      "助理教授",
+      "高能物理",
+      "教职"
+    ],
+    "notes": [
+      "Review Chinese and English sources separately; neither list is assumed to duplicate the other.",
+      "Use vacancy-specific locations for facilities outside Beijing."
+    ]
+  },
+  {
+    "id": "iop-bhubaneswar",
+    "name": "Institute of Physics, Bhubaneswar",
+    "countryCode": "IN",
+    "city": "Bhubaneswar",
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.iopb.res.in/job/2026/Faculty_Advt_App_JAN_26.pdf",
+    "sourcePages": [
+      {
+        "url": "https://www.iopb.res.in/job-opening/",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "Assistant Professor",
+      "Reader",
+      "faculty recruitment",
+      "High Energy Physics",
+      "HEP"
+    ],
+    "notes": [
+      "The source page links current and past advertisements; each job needs its own dated notice and cycle check."
+    ]
+  },
+  {
+    "id": "tifr-mumbai",
+    "name": "Tata Institute of Fundamental Research, Mumbai",
+    "countryCode": "IN",
+    "city": "Mumbai",
+    "profile": "research-institute",
+    "profileSourceUrl": "https://main.tifr.res.in/portal/work_at_tifr.php",
+    "sourcePages": [
+      {
+        "url": "https://main.tifr.res.in/portal/work_at_tifr.php",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      },
+      {
+        "url": "https://main.tifr.res.in/maincampus/careers.php",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      },
+      {
+        "url": "https://www.theory.tifr.res.in/jobs.html",
+        "kind": "department",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "search-index",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
+          "Departmental faculty recruitment page was available in the search index, but the subsequent direct fetch timed out."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty positions",
+      "Reader",
+      "Associate Professor",
+      "Department of Theoretical Physics",
+      "High Energy Physics"
+    ],
+    "notes": [
+      "Keep Mumbai, Hyderabad and other TIFR centers separate when locating a vacancy.",
+      "Central recruitment and departmental rolling faculty procedures both require checking."
+    ]
+  },
+  {
+    "id": "university-cape-town",
+    "name": "University of Cape Town",
+    "countryCode": "ZA",
+    "city": "Cape Town",
+    "profile": "university",
+    "profileSourceUrl": "https://science.uct.ac.za/department-physics",
+    "sourcePages": [
+      {
+        "url": "https://www.uct.ac.za/staff/general-vacancies",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      },
+      {
+        "url": "https://jobs.uct.ac.za/search",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "search-index",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      },
+      {
+        "url": "https://science.uct.ac.za/department-physics",
+        "kind": "department",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "Lecturer",
+      "Senior Lecturer",
+      "Associate Professor",
+      "Physics",
+      "high energy",
+      "nGAP"
+    ],
+    "notes": [
+      "The department identifies High Energy Physics among its research themes.",
+      "Discovery of the recruitment sources is not evidence of a current physics vacancy."
+    ]
+  },
+  {
+    "id": "university-melbourne",
+    "name": "University of Melbourne",
+    "countryCode": "AU",
+    "city": "Melbourne",
+    "profile": "university",
+    "profileSourceUrl": "https://about.unimelb.edu.au/careers",
+    "sourcePages": [
+      {
+        "url": "https://about.unimelb.edu.au/careers",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      },
+      {
+        "url": "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
+          "Official university careers page links to this portal. The fetched portal returned no readable listing text; use browser inspection for a full scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "Lecturer",
+      "Senior Lecturer",
+      "Associate Professor",
+      "continuing",
+      "Physics",
+      "particle physics"
+    ],
+    "notes": [
+      "Distinguish continuing teaching-and-research positions from fixed-term research fellow and casual teaching appointments."
+    ]
+  },
+  {
+    "id": "ictp-saifr",
+    "name": "ICTP South American Institute for Fundamental Research",
+    "countryCode": "BR",
+    "city": "São Paulo",
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.ictp-saifr.org/",
+    "sourcePages": [
+      {
+        "url": "https://www.ictp-saifr.org/",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
+          "The home-page Jobs menu links current research-professor calls."
+        ]
+      },
+      {
+        "url": "https://www.ictp-saifr.org/simonsfapesp2026/",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "concurso",
+      "professor",
+      "pesquisador",
+      "física teórica",
+      "research professor"
+    ],
+    "notes": [
+      "Research center hosted at IFT-UNESP; retain the formal employer from each advertisement.",
+      "A research-professor appointment and a possible subsequent tenured competition must not be conflated."
+    ]
+  },
+  {
+    "id": "ictp-trieste",
+    "name": "Abdus Salam International Centre for Theoretical Physics",
+    "countryCode": "IT",
+    "city": "Trieste",
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.ictp.it/home/work-ictp",
+    "sourcePages": [
+      {
+        "url": "https://www.ictp.it/home/work-ictp",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "research scientist",
+      "associate research officer",
+      "High Energy",
+      "HECAP",
+      "permanent"
+    ],
+    "notes": [
+      "Official vacancy list links to UNESCO recruitment notices. Screen scientific appointments separately from support roles and postdoctoral opportunities."
+    ]
+  }
+]

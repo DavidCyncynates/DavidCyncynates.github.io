@@ -1,0 +1,400 @@
+[
+  {
+    "cycle": "2026-2027",
+    "startDate": null,
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Funding and permanent integration are conditional on the national competition and subsequent arrangements.",
+      "Do not substitute the national deadline for the expired host EOI deadline."
+    ],
+    "id": "ifae-ryc-eoi-2026",
+    "institutionId": "ifae",
+    "institutionName": "Institut de Física d’Altes Energies (IFAE)",
+    "countryCode": "ES",
+    "city": "Bellaterra",
+    "title": "Ramón y Cajal 2026: host expressions of interest",
+    "rank": [
+      "Independent research fellow"
+    ],
+    "fields": [
+      "Particle physics",
+      "Astroparticle physics",
+      "Cosmology"
+    ],
+    "scope": "core",
+    "kind": "expression-of-interest",
+    "cycleEvidence": "IFAE advertises expressions of interest for the 2026 national call, opening November 2026.",
+    "deadlines": [
+      {
+        "date": "2026-10-16",
+        "time": null,
+        "timezone": null,
+        "kind": "eoi",
+        "sourceUrl": "https://www.ifae.es/careers/jobs/2026/09/call-for-expressions-of-interest-ramon-y-cajal-fellowship-programme-2026/",
+        "description": "Host endorsement expression-of-interest deadline; no extension verified.",
+        "closesStage": true,
+        "stage": "host-eoi"
+      },
+      {
+        "date": "2026-12-10",
+        "time": "14:00",
+        "timezone": "Europe/Madrid",
+        "kind": "hard",
+        "sourceUrl": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-ramon-cajal-ryc-2026/convocatoria",
+        "description": "Separate national fellowship application deadline; it does not reopen the host EOI.",
+        "stage": "national-application",
+        "closesStage": false
+      }
+    ],
+    "sourceUrls": [
+      "https://www.ifae.es/careers/jobs/2026/09/call-for-expressions-of-interest-ramon-y-cajal-fellowship-programme-2026/",
+      "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-ramon-cajal-ryc-2026/convocatoria"
+    ],
+    "summary": "Host endorsement for a competitive five-year national research fellowship in particle physics, astroparticle physics or cosmology. It is not an already-funded faculty vacancy.",
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://www.ifae.es/careers/",
+        "kind": "recruitment",
+        "verified": false
+      },
+      {
+        "url": "https://www.ifae.es/careers/jobs/2026/09/call-for-expressions-of-interest-ramon-y-cajal-fellowship-programme-2026/",
+        "kind": "advertisement",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "startDate": null,
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "October 25 is explicitly a full-consideration date; late host endorsement has not been confirmed.",
+      "Funding-agency date takes precedence over conflicting national-date wording in the host announcement.",
+      "Ordinary postdoctoral fellowships mentioned in the same announcement are excluded."
+    ],
+    "id": "uib-ryc-eoi-2026",
+    "institutionId": "uib",
+    "institutionName": "University of the Balearic Islands",
+    "countryCode": "ES",
+    "city": "Palma",
+    "title": "GRAVITY group: Ramón y Cajal host expressions of interest",
+    "rank": [
+      "Independent research fellow"
+    ],
+    "fields": [
+      "Gravitational waves",
+      "Numerical relativity",
+      "Astrophysics"
+    ],
+    "scope": "adjacent",
+    "kind": "expression-of-interest",
+    "cycleEvidence": "Host announcement dated October 7, 2026 links the Ramón y Cajal 2026 competition.",
+    "deadlines": [
+      {
+        "date": "2026-10-25",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://www.lisamission.org/fellowship-and-tenure-track-opportunities-in-gravitational-wave-physics-mallorca-spain/",
+        "description": "Full-consideration date for host EOI; the advertisement does not confirm a hard cutoff.",
+        "stage": "host-eoi",
+        "closesStage": false
+      },
+      {
+        "date": "2026-12-10",
+        "time": "14:00",
+        "timezone": "Europe/Madrid",
+        "kind": "hard",
+        "sourceUrl": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-ramon-cajal-ryc-2026/convocatoria",
+        "description": "National funding-agency deadline, correcting December 11 in the host announcement.",
+        "stage": "national-application",
+        "closesStage": false
+      }
+    ],
+    "sourceUrls": [
+      "https://www.lisamission.org/fellowship-and-tenure-track-opportunities-in-gravitational-wave-physics-mallorca-spain/",
+      "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-ramon-cajal-ryc-2026/convocatoria"
+    ],
+    "summary": "The GRAVITY group offers potential support for competitive fellowship applications in gravitational-wave analysis, waveform modelling and numerical relativity. This entry covers the Ramón y Cajal route only.",
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://grg.uib.es/jobs/index.php",
+        "kind": "group",
+        "verified": true
+      },
+      {
+        "url": "https://www.uib.es/taulers/ocupacio",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "startDate": null,
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "id": "victoria-theory-2026",
+    "institutionId": "victoria",
+    "institutionName": "University of Victoria",
+    "countryCode": "CA",
+    "city": "Victoria",
+    "title": "Faculty Position in Theoretical High-Energy Physics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "HEP theory"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycleEvidence": "Employer advertisement posted October 26, 2026 with applications reviewed from January 4, 2027.",
+    "deadlines": [
+      {
+        "date": "2027-01-04",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33243",
+        "description": "Review of applications begins; AJO also lists this as its application date."
+      }
+    ],
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33243",
+      "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/current/phys_270_163.php"
+    ],
+    "summary": "Tenure-track theoretical high-energy physics appointment, broadly defined, intended to complement and expand the particle theory group.",
+    "discovery": "initial-source-expansion",
+    "institutionSources": [
+      {
+        "url": "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/",
+        "kind": "recruitment",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "startDate": "2027",
+    "openUntilFilled": null,
+    "verification": "needs-review",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Indexed official advertisement gives October 15, 2026 application deadline and 2027 start. This date has passed.",
+      "Fresh direct checks on October 28 did not recover the ad: official detail page returns 404; application portal shows a general login rather than the position.",
+      "Retain as an archived unconfirmed lead; no claim of an extended or reopened application window."
+    ],
+    "id": "epfl-experimental-particle-2026",
+    "institutionId": "epfl",
+    "institutionName": "École polytechnique fédérale de Lausanne",
+    "countryCode": "CH",
+    "city": "Lausanne",
+    "title": "Faculty Position in Experimental Particle Physics",
+    "rank": [
+      "Tenure-track faculty"
+    ],
+    "fields": [
+      "HEP experiment",
+      "Detectors"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycleEvidence": "Official indexed advertisement gives a 2027 start and October 15, 2026 deadline.",
+    "deadlines": [
+      {
+        "date": "2026-10-15",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://www.epfl.ch/about/working/faculty-position-in-experimantal-particle-physics/",
+        "description": "Application deadline in the indexed official advertisement."
+      }
+    ],
+    "sourceUrls": [
+      "https://www.epfl.ch/about/working/faculty-position-in-experimantal-particle-physics/",
+      "https://facultyrecruiting.epfl.ch/position/65044488"
+    ],
+    "summary": "Experimental particle-physics tenure-track search, with particular interest in AI and detector instrumentation.",
+    "discovery": "initial-source-expansion",
+    "institutionSources": [
+      {
+        "url": "https://facultyrecruiting.epfl.ch/",
+        "kind": "recruitment",
+        "verified": false
+      }
+    ],
+    "verificationBasis": "Indexed official advertisement remains readable; current detail URL returns HTTP 404 and the old application link redirects to the general faculty-recruiting login."
+  },
+  {
+    "cycle": "2026-2027",
+    "startDate": "2027-autumn",
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Direct primary-page retrieval confirms the Autumn 2027 start, October 15 review start, and November 1 final submission deadline.",
+      "Machine-readable validThrough is November 2, but the explicit applicant instructions say November 1; the earlier explicit submission deadline governs."
+    ],
+    "id": "ohio-state-theory-2026",
+    "institutionId": "ohio-state",
+    "institutionName": "The Ohio State University",
+    "countryCode": "US",
+    "city": "Columbus",
+    "title": "Open-Rank Tenure-Track Faculty Position in Theoretical High Energy Physics",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "HEP theory",
+      "Astroparticle physics",
+      "Cosmology"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycleEvidence": "Official indexed requisition R160038 specifies Autumn 2027 start and November 1, 2026 final application deadline.",
+    "deadlines": [
+      {
+        "date": "2026-10-15",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Open-Rank-Tenure-Track-Faculty-Position-in-Theoretical-High-Energy-Physics_R160038-1",
+        "description": "Review begins."
+      },
+      {
+        "date": "2026-11-01",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Open-Rank-Tenure-Track-Faculty-Position-in-Theoretical-High-Energy-Physics_R160038-1",
+        "description": "Explicit final application-submission date in the live employer advertisement."
+      }
+    ],
+    "sourceUrls": [
+      "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Open-Rank-Tenure-Track-Faculty-Position-in-Theoretical-High-Energy-Physics_R160038-1"
+    ],
+    "summary": "Theoretical high-energy physics at its intersection with astrophysics, including particle physics, QFT and string theory.",
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers",
+        "kind": "recruitment",
+        "verified": false
+      }
+    ],
+    "verificationBasis": "Live public Workday HTML and embedded JobPosting metadata retrieved directly October 28."
+  },
+  {
+    "cycle": "2026-2027",
+    "startDate": "2027-08",
+    "openUntilFilled": true,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Identity resolved: despite the AJO header reference 191434, its actual application link is Interfolio 193146, matching the department advertisement.",
+      "The department labels November 14 as a due date but explicitly describes review after that date until filled. AJO header December 15 is retained as conflicting listing metadata here, not a confirmed hard application cutoff.",
+      "Both full advertisements specify the same August 2027 assistant/associate experimental HEP appointment."
+    ],
+    "id": "oklahoma-experimental-hep-2026",
+    "institutionId": "oklahoma",
+    "institutionName": "University of Oklahoma",
+    "countryCode": "US",
+    "city": "Norman",
+    "title": "Assistant or Associate Professor of Experimental High Energy Physics",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor"
+    ],
+    "fields": [
+      "HEP experiment"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycleEvidence": "Department advertises an August 2027 appointment with review after November 14, 2026.",
+    "deadlines": [
+      {
+        "date": "2026-11-14",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://www.ou.edu/cas/physics-astronomy/job-opportunities",
+        "description": "Complete applications are reviewed after November 14; review continues until filled."
+      }
+    ],
+    "sourceUrls": [
+      "https://www.ou.edu/cas/physics-astronomy/job-opportunities",
+      "https://apply.interfolio.com/193146",
+      "https://academicjobsonline.org/ajo/jobs/32898"
+    ],
+    "summary": "Experimental HEP search welcoming all subfields, with an assistant or associate appointment anticipated in August 2027.",
+    "discovery": "initial-source-expansion",
+    "institutionSources": [
+      {
+        "url": "https://www.ou.edu/cas/physics-astronomy/job-opportunities",
+        "kind": "department",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Live department advertisement and employer AJO body both link the same Interfolio application 193146 and give the same review date."
+  },
+  {
+    "cycle": "2026-2027",
+    "startDate": null,
+    "openUntilFilled": true,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "A future permanent appointment is not guaranteed by this advertisement. Keep appointment type distinct from a direct tenure-track vacancy."
+    ],
+    "id": "ictp-saifr-research-professor-2026",
+    "institutionId": "ictp-saifr",
+    "institutionName": "ICTP South American Institute for Fundamental Research / IFT-UNESP",
+    "countryCode": "BR",
+    "city": "São Paulo",
+    "title": "Simons-FAPESP Research Professor",
+    "rank": [
+      "Research Professor"
+    ],
+    "fields": [
+      "Cosmology",
+      "Gravitational waves"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycleEvidence": "Current call recommends applications before January 22, 2027 and discusses a separate tenured search in 2027.",
+    "deadlines": [
+      {
+        "date": "2027-01-22",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://www.ictp-saifr.org/simonsfapesp2026/",
+        "description": "Applicants are strongly encouraged to apply before this date; applications remain open until filled."
+      }
+    ],
+    "sourceUrls": [
+      "https://www.ictp-saifr.org/simonsfapesp2026/",
+      "https://academicjobsonline.org/ajo/jobs/33141"
+    ],
+    "summary": "Research professorship in cosmology and gravitational waves with graduate teaching and supervision. The advertisement describes possible consideration in a separate future tenured competition.",
+    "discovery": "initial-source-expansion",
+    "institutionSources": [
+      {
+        "url": "https://www.ictp-saifr.org/simonsfapesp2026/",
+        "kind": "advertisement",
+        "verified": true
+      }
+    ]
+  }
+]
