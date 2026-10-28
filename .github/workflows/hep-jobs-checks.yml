@@ -31,4 +31,4 @@ jobs:
       - name: Deadline and maintenance tests
         run: python3 -m unittest discover -s scripts -p 'test_*.py'
       - name: Browser rules tests
-        run: node --test scripts/test_ui.mjs
+        run: node --test scripts/test_*.mjs
