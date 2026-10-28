@@ -1,0 +1,38 @@
+{
+  "checkedOn": "2026-10-28",
+  "institutions": 84,
+  "institutionOutcomes": {
+    "complete": 42,
+    "partial": 40,
+    "blocked": 2
+  },
+  "sourceAttempts": 349,
+  "distinctSourceUrls": 340,
+  "originalDirectoryLinks": 168,
+  "newVerifiedJobs": 8,
+  "revisedJobIds": [
+    "cnrs-l2it-gravitational-waves-cpj-2026"
+  ],
+  "followupLeads": 18,
+  "counts": {
+    "jobs": 103,
+    "verifiedJobs": 83,
+    "reviewJobs": 20,
+    "defaultEligibleAtSnapshot": 66,
+    "institutions": 84,
+    "sources": 455,
+    "jobCountries": 21,
+    "institutionCountries": 23,
+    "institutionScans": {
+      "complete": 42,
+      "partial": 40,
+      "blocked": 2
+    },
+    "jobsByScope": {
+      "broad-physics": 24,
+      "core": 50,
+      "adjacent": 29
+    }
+  },
+  "limits": "Completed reviews cover the recorded current vacancy lists, filters, and pagination. Partial and blocked outcomes remain explicit; no global or historical exhaustiveness is claimed."
+}

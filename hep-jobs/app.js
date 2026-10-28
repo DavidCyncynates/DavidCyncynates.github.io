@@ -93,7 +93,13 @@ $('#filters').addEventListener('input',e=>{if(!catalog)return;region=null;if(e.t
 $('#filters').addEventListener('reset',()=>{clearTimeout(searchTimer);region=null;setTimeout(()=>{render();fitResults()},0)});
 $('#clear-region').addEventListener('click',()=>{region=null;renderList()});$('#fit').addEventListener('click',()=>{region=null;renderList();fitResults()});
 $('#directory-search').addEventListener('input',renderDirectory);
-function renderDirectory(){const q=$('#directory-search').value.toLowerCase().trim();const rows=catalog.institutions.filter(i=>[i.name,i.city,country(i.countryCode)].join(' ').toLowerCase().includes(q));$('#directory-list').innerHTML=rows.length?rows.map(i=>`<article class="institution"><h3>${esc(i.name)}</h3><p>${esc(i.city)} · ${esc(country(i.countryCode))}</p>${institutionBadges(i)}<div>${i.sourceIds.map((id,n)=>{const s=dirSources.get(id);return s?link(s.url,s.kind==='department'?'Department':s.kind==='group'?'Research group':s.kind==='recruitment'?'Job board':'Vacancy source'):''}).join('')}</div><p class="source-status">${i.lastFullScan?'Source scan: '+esc(i.lastFullScan):'Complete vacancy scan pending'}</p></article>`).join(''):'<p class="empty">No institutions match.</p>'}
+function scanMarkup(i){
+ const s=i.scan||{state:'pending'}, labels={complete:'Vacancy lists checked',partial:'Partial scan',blocked:'Source access blocked',pending:'Not yet checked',stale:'Scan due'};
+ const stamp=s.checkedAt?' · '+dateText(s.checkedAt.slice(0,10)):'';
+ const details=[...new Set([s.coverage,s.summary,...(s.limitations||[])].filter(Boolean))];
+ return `<p class="source-status">${esc(labels[s.state]||labels.pending)}${esc(stamp)}</p>${details.length?`<details class="scan-details"><summary>Scan scope</summary>${details.map(t=>'<p>'+esc(t)+'</p>').join('')}${s.evidenceUrls?.length?'<p>'+s.evidenceUrls.map((u,n)=>link(u,'Checked source '+(n+1))).join(' · ')+'</p>':''}</details>`:''}`;
+}
+function renderDirectory(){const q=$('#directory-search').value.toLowerCase().trim();const rows=catalog.institutions.filter(i=>[i.name,i.city,country(i.countryCode)].join(' ').toLowerCase().includes(q));$('#directory-list').innerHTML=rows.length?rows.map(i=>`<article class="institution"><h3>${esc(i.name)}</h3><p>${esc(i.city)} · ${esc(country(i.countryCode))}</p>${institutionBadges(i)}<div>${i.sourceIds.map((id,n)=>{const s=dirSources.get(id);return s?link(s.url,s.kind==='department'?'Department':s.kind==='group'?'Research group':s.kind==='recruitment'?'Job board':'Vacancy source'):''}).join('')}</div>${scanMarkup(i)}</article>`).join(''):'<p class="empty">No institutions match.</p>'}
 async function init(){
  try{
   const res=await fetch('data/catalog.json');if(!res.ok)throw Error('Catalog unavailable');catalog=await res.json();byInst=new Map(catalog.institutions.map(i=>[i.id,i]));dirSources=new Map(catalog.sources.map(s=>[s.id,s]));

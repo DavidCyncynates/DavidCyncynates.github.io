@@ -1264,7 +1264,8 @@
         "timezone": null,
         "kind": "listed",
         "sourceUrl": "https://inspirehep.net/api/jobs/3195961",
-        "description": "Date listed in INSPIRE metadata; employer deadline wording and closure semantics could not be confirmed."
+        "description": "Date listed in INSPIRE metadata; employer deadline wording and closure semantics could not be confirmed.",
+        "active": false
       }
     ],
     "openUntilFilled": null,
@@ -1276,10 +1277,12 @@
     "summary": "Faculty search for physics-driven methods in machine learning, artificial intelligence and data-intensive science across the department.",
     "notes": [
       "Broad physics search; high-energy physics is not the sole eligible field.",
-      "Held outside the default map: the date is present in INSPIRE metadata but not in the retrieved employer description, and the official deadline page was inaccessible. Do not infer a hard cutoff or ongoing availability."
+      "Employer detail now explicitly states the job posting has expired. October 19 metadata remains inactive/listed history rather than an inferred hard deadline."
     ],
     "verificationBasis": "Employer-submitted listing read; deadline meaning needs primary-source confirmation.",
-    "institutionSources": []
+    "institutionSources": [],
+    "explicitClosed": true,
+    "closureSourceUrl": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29040&jobTitle=Assistant+%2F+Associate+Professor+in+Data-Intensive+Physics+and+AI"
   },
   {
     "cycle": "2026-2027",
@@ -1522,7 +1525,7 @@
   {
     "cycle": "2026-2027",
     "kind": "formal-vacancy",
-    "verification": "needs-review",
+    "verification": "verified",
     "checkedOn": "2026-10-28",
     "discovery": "targeted-primary-source-expansion",
     "id": "cnrs-l2it-gravitational-waves-cpj-2026",
@@ -1547,15 +1550,25 @@
     "deadlines": [
       {
         "date": "2026-09-02",
+        "time": "17:00",
+        "timezone": "Europe/Paris",
+        "kind": "hard",
+        "sourceUrl": "https://www.l2it.in2p3.fr/en/emplois-et-stages/",
+        "description": "Application deadline explicitly Wednesday 2 September 2026 at 17:00 CEST."
+      },
+      {
+        "date": "2026-09-02",
         "time": null,
         "timezone": null,
         "kind": "listed",
         "sourceUrl": "https://inspirehep.net/api/jobs/3183025",
-        "description": "Date listed in INSPIRE metadata; employer deadline wording and closure semantics could not be confirmed."
+        "description": "Date listed in INSPIRE metadata; employer deadline wording and closure semantics could not be confirmed. Superseded by the explicit deadline in the later employer-source check.",
+        "active": false
       }
     ],
     "openUntilFilled": null,
     "sourceUrls": [
+      "https://www.l2it.in2p3.fr/en/emplois-et-stages/",
       "https://inspirehep.net/jobs/3183025",
       "https://inspirehep.net/api/jobs/3183025",
       "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-024/Default.aspx?lang=EN"
@@ -1563,10 +1576,9 @@
     "summary": "CNRS tenure-track chair at L2IT in Toulouse using present and future gravitational-wave observations to study fundamental physics and the Universe.",
     "notes": [
       "Employer reference CPJ-2026-024.",
-      "Original CNRS advertisement is no longer displayed at its linked URL; the archived employer-submitted INSPIRE record supplies the advertised deadline.",
-      "Held outside the default map: the date is present in INSPIRE metadata but not in the retrieved employer description, and the official deadline page was inaccessible. Do not infer a hard cutoff or ongoing availability."
+      "CNRS offer URL no longer displays the ad. The L2IT laboratory jobs list independently states the application cutoff; no closure inferred from the missing ad."
     ],
-    "verificationBasis": "Employer-submitted listing read; deadline meaning needs primary-source confirmation.",
+    "verificationBasis": "Official L2IT jobs list explicitly confirms CPJ tenure track and application cutoff.",
     "institutionSources": []
   },
   {

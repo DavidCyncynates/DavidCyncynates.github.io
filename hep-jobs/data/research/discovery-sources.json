@@ -189,7 +189,9 @@
     "id": "source-c132bbe00c29",
     "url": "https://icc.ub.edu/job-offers",
     "kind": "recruitment",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-barcelona"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -241,7 +243,9 @@
     "id": "source-28c97bf380a1",
     "url": "https://jobs.unige.ch/www/wd_portal.show_job?p_web_page_id=75916&p_web_site_id=1",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-geneva"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -267,7 +271,9 @@
     "id": "source-2adf0c3441b2",
     "url": "https://igfae.usc.es/igfae/oferta/convocatoria-direccion/",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "igfae"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -293,7 +299,9 @@
     "id": "source-fad02182d75d",
     "url": "https://www.imperial.ac.uk/jobs/search-jobs/",
     "kind": "recruitment",
-    "institutionIds": [],
+    "institutionIds": [
+      "imperial-college-london"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -306,7 +314,9 @@
     "id": "source-019793a6a784",
     "url": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29599&jobTitle=Assistant+%2F+Associate+Professor+in+Particle+Physics",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "imperial-college-london"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -319,7 +329,9 @@
     "id": "source-e94d0521847e",
     "url": "https://inspirehep.net/jobs/3215354",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "imperial-college-london"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -332,7 +344,9 @@
     "id": "source-a4f9a327d06f",
     "url": "https://www.fuw.edu.pl/tl_files/praca/2026/2026-09-01_adiunkt_badawczo_dydaktyczny_IFT_WF-1210-16-2026_ENG_do_30-11-2026.pdf",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-warsaw"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -345,7 +359,9 @@
     "id": "source-5cbc7c4c19fd",
     "url": "https://icc.ub.edu/node/1715527",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-barcelona"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -358,7 +374,9 @@
     "id": "source-c126bd8cca0f",
     "url": "https://jobportal.ku.dk/videnskabelige-stillinger/?show=167785",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-copenhagen"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -371,7 +389,9 @@
     "id": "source-dad30c150d92",
     "url": "https://www.maths.ox.ac.uk/node/81914",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-oxford"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -384,7 +404,9 @@
     "id": "source-6a29a67ead4d",
     "url": "https://inspirehep.net/jobs/3200481",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "helsinki-institute-physics"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -397,7 +419,9 @@
     "id": "source-8daf45e62f08",
     "url": "https://www.ujf.cas.cz/en/about-institute/Career/job-offers/",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "nuclear-physics-institute-cas"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -410,7 +434,9 @@
     "id": "source-7bf52b9703d7",
     "url": "https://www.unina.it/it/w/r5_rtt_2026",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -423,7 +449,9 @@
     "id": "source-b6cb1230f9ac",
     "url": "https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=26000998&tz=GMT%2B01%3A00&tzname=Europe%2FLondon",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "durham-university"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -436,7 +464,9 @@
     "id": "source-2426aa49dd3f",
     "url": "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaadlpctxh",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "rwth-aachen"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -462,7 +492,9 @@
     "id": "source-5ae0521ebfb6",
     "url": "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-024/Default.aspx?lang=EN",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "cnrs-l2it"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -488,7 +520,9 @@
     "id": "source-fc553af85e36",
     "url": "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/w3-professur-fuer-beschleunigerphysik?set_language=en",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-bonn"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -501,7 +535,9 @@
     "id": "source-871cca6e5500",
     "url": "https://inspirehep.net/api/jobs/3215354",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "imperial-college-london"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -514,7 +550,9 @@
     "id": "source-23f38efb4235",
     "url": "https://inspirehep.net/api/jobs/3210713",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-barcelona"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -527,7 +565,9 @@
     "id": "source-a0ab1a577282",
     "url": "https://inspirehep.net/api/jobs/3208143",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-geneva"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -540,7 +580,9 @@
     "id": "source-0f194786ad6f",
     "url": "https://inspirehep.net/api/jobs/3208120",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-warsaw"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -553,7 +595,9 @@
     "id": "source-9b95b752b436",
     "url": "https://inspirehep.net/api/jobs/3207702",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "igfae"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -566,7 +610,9 @@
     "id": "source-027c0a8cb93e",
     "url": "https://inspirehep.net/api/jobs/3200481",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "helsinki-institute-physics"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -579,7 +625,9 @@
     "id": "source-7e8fd4f50f65",
     "url": "https://inspirehep.net/api/jobs/3197131",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-copenhagen"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -592,7 +640,9 @@
     "id": "source-e73c40f72b53",
     "url": "https://inspirehep.net/api/jobs/3195961",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "imperial-college-london"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -605,7 +655,9 @@
     "id": "source-bf0a004d510f",
     "url": "https://inspirehep.net/api/jobs/3189637",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-oxford"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -618,7 +670,9 @@
     "id": "source-511ed0f051df",
     "url": "https://inspirehep.net/api/jobs/3189627",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -631,7 +685,9 @@
     "id": "source-71fe417d1501",
     "url": "https://inspirehep.net/api/jobs/3186998",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "imperial-college-london"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -644,7 +700,9 @@
     "id": "source-554c38c80000",
     "url": "https://inspirehep.net/api/jobs/3185361",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "durham-university"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -657,7 +715,9 @@
     "id": "source-7b59da0047d3",
     "url": "https://inspirehep.net/api/jobs/3185307",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "rwth-aachen"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -670,7 +730,9 @@
     "id": "source-db47a61c8aa4",
     "url": "https://inspirehep.net/api/jobs/3183112",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -683,7 +745,9 @@
     "id": "source-0efa84149b59",
     "url": "https://inspirehep.net/api/jobs/3183025",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "cnrs-l2it"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -696,7 +760,9 @@
     "id": "source-03c0a39fd0ac",
     "url": "https://inspirehep.net/api/jobs/3181705",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -709,7 +775,9 @@
     "id": "source-a5c235978264",
     "url": "https://inspirehep.net/api/jobs/3177368",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-oxford"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -722,7 +790,9 @@
     "id": "source-63e4890a96b0",
     "url": "https://inspirehep.net/api/jobs/3172216",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-bonn"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -735,7 +805,9 @@
     "id": "source-5b24ba53b5ef",
     "url": "https://inspirehep.net/api/jobs/3219186",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "nuclear-physics-institute-cas"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -748,7 +820,9 @@
     "id": "source-560f07e8dbca",
     "url": "https://academicjobsonline.org/ajo/UCPH/NBI/ASTRO27PROF",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-copenhagen"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -807,7 +881,9 @@
     "url": "https://academicjobsonline.org/ajo/jobs/32733",
     "id": "source-dcd62b1d3882",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "southern-methodist"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -817,7 +893,9 @@
     "url": "https://academicjobsonline.org/ajo/jobs/32858",
     "id": "source-341497733aff",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "vanderbilt"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -827,7 +905,9 @@
     "url": "https://academicjobsonline.org/ajo/jobs/32648",
     "id": "source-748b937d1a45",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "purdue"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -837,7 +917,9 @@
     "url": "https://academicjobsonline.org/ajo/jobs/32608",
     "id": "source-a756d912f3f6",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "chicago"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -847,7 +929,9 @@
     "url": "https://explore.jobs.ufl.edu/en-us/job/541316/assistant-professor-astrophysics",
     "id": "source-bb2aaffab877",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-of-florida"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -857,7 +941,9 @@
     "url": "https://academicjobsonline.org/ajo/jobs/32960",
     "id": "source-de60cbacd041",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "james-madison"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -867,7 +953,9 @@
     "url": "https://careers.uh.edu/jobs/assistant-professor-nuclear-theorist-houston-texas-united-states",
     "id": "source-10ab972596ca",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-of-houston"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -877,7 +965,9 @@
     "url": "https://jobs.apply.vt.edu/jobs/tenure-track-faculty-position-in-theoretical-neutrino-physics-blacksburg-virginia-united-states",
     "id": "source-f48a04c8ec55",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "virginia-tech"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -887,7 +977,9 @@
     "url": "https://inspirehep.net/api/jobs/3195090",
     "id": "source-441a9face2b8",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -897,7 +989,9 @@
     "url": "https://inspirehep.net/api/jobs/3198780",
     "id": "source-9bd8d381afe7",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-biobio"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -907,7 +1001,9 @@
     "url": "https://inspirehep.net/api/jobs/3188903",
     "id": "source-f3c91565265f",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "universidad-andres-bello"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -917,7 +1013,9 @@
     "url": "https://inspirehep.net/api/jobs/3215688",
     "id": "source-8afad470e8a7",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "lehigh"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -927,7 +1025,9 @@
     "url": "https://inspirehep.net/api/jobs/3198864",
     "id": "source-2a9f96ccebf3",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "georgia-tech"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -937,7 +1037,9 @@
     "url": "https://jobs.villanova.edu/postings/36409",
     "id": "source-5f48455ab933",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "villanova"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -947,7 +1049,9 @@
     "url": "https://www.iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026",
     "id": "source-8c8795b0b835",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -957,7 +1061,9 @@
     "url": "https://portal.if.usp.br/ataac/pt-br/node/8209",
     "id": "source-d001bba37d5a",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -967,7 +1073,9 @@
     "url": "https://portal.if.usp.br/ataac/pt-br/node/8208",
     "id": "source-7eb77c7b3c38",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -977,7 +1085,9 @@
     "url": "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs/HCM/11197",
     "id": "source-78ebcc015d13",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "universite-laval"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -987,7 +1097,9 @@
     "url": "https://www.sfu.ca/physics/about-us/employment/",
     "id": "source-91eca797df6e",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "simon-fraser"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1107,7 +1219,9 @@
     "url": "https://portal.if.usp.br/ataac/pt-br/node/8165",
     "id": "source-259194fcc9bf",
     "kind": "recruitment",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1157,7 +1271,9 @@
     "url": "https://iag.usp.br/concursos/concursos-para-docentes",
     "id": "source-3c7eb8767682",
     "kind": "recruitment",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1167,7 +1283,9 @@
     "url": "https://portal.if.usp.br/ataac/pt-br/concursos_andamento",
     "id": "source-10cf3e15d283",
     "kind": "recruitment",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1227,7 +1345,9 @@
     "url": "https://academicjobsonline.org/ajo/jobs/29808",
     "id": "source-0a4852140122",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "hkust"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1237,7 +1357,9 @@
     "url": "https://academicjobsonline.org/ajo/jobs/29809",
     "id": "source-b49e390adb23",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "hkust"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1247,7 +1369,9 @@
     "url": "https://academicjobsonline.org/ajo/jobs/29810",
     "id": "source-02b3e5972587",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "hkust"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1257,7 +1381,9 @@
     "url": "https://www.srmap.edu.in/careers/",
     "id": "source-f66d39ba00db",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "srm-university-ap"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1327,7 +1453,9 @@
     "url": "https://inspirehep.net/jobs/3190489",
     "id": "source-28440de2153b",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "sgt-university"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1337,7 +1465,9 @@
     "url": "https://inspirehep.net/jobs/3181469",
     "id": "source-1504cbd84660",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "jilin-university"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1367,7 +1497,9 @@
     "url": "https://inspirehep.net/jobs/3129038",
     "id": "source-2ed4d1c5d8be",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "yantai-university"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1377,7 +1509,9 @@
     "url": "https://phys.nycu.edu.tw/faculty-position-iop-nycu/",
     "id": "source-3b98e68ca141",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "national-yang-ming-chiao-tung"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1387,7 +1521,9 @@
     "url": "https://academicjobsonline.org/ajo/jobs/32304",
     "id": "source-655be499317c",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "tdli-sjtu"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1397,7 +1533,9 @@
     "url": "https://academicjobsonline.org/ajo/jobs/32236",
     "id": "source-437d3811a20b",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "academia-sinica-iop"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1407,7 +1545,9 @@
     "url": "https://academicjobsonline.org/ajo/jobs/32429",
     "id": "source-746beb9c0b1b",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "national-cheng-kung"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1417,7 +1557,9 @@
     "url": "https://facapp.iitm.ac.in/",
     "id": "source-6b95102e3231",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "iit-madras"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1427,7 +1569,9 @@
     "url": "https://facapp.iitm.ac.in/2026ra/",
     "id": "source-c1a5488a47c1",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "iit-madras"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1447,7 +1591,9 @@
     "url": "https://www.shinshu-u.ac.jp/faculty/science/others/assets/92832d2b77bb4a17439347ad5bddff93.pdf",
     "id": "source-1d920f643fd8",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "shinshu-university"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1457,7 +1603,9 @@
     "url": "https://physics.haifa.ac.il/2026/07/19/tenure-track-position-in-physics-2027/?lang=en",
     "id": "source-4f0e6e41aa51",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "university-haifa"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1467,7 +1615,9 @@
     "url": "https://www.kek.jp/en/career/ipns26-1e",
     "id": "source-c4ac888fa0a5",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "kek-tokai"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1487,7 +1637,9 @@
     "url": "https://www.kek.jp/en/career/accl-26-5e",
     "id": "source-eca436765c3c",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "kek-tsukuba"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
@@ -1507,10 +1659,5084 @@
     "url": "https://www.kek.jp/en/career/accl26-4e",
     "id": "source-c94dbc10d72c",
     "kind": "advertisement",
-    "institutionIds": [],
+    "institutionIds": [
+      "kek-multicampus"
+    ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
     "checkState": "source-discovered"
+  },
+  {
+    "id": "source-b27bf6c77cc4",
+    "url": "https://www.binghamton.edu/academics/provost/faculty-resources/employment.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "binghamton"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3e4dc1230661",
+    "url": "https://applications.caltech.edu/jobs",
+    "kind": "recruitment",
+    "institutionIds": [
+      "caltech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7817c7cc3bf7",
+    "url": "https://www.cmu.edu/astro-cosmology/people/index.html",
+    "kind": "group",
+    "institutionIds": [
+      "carnegie-mellon"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b006131a9ea0",
+    "url": "https://www.cmu.edu/faculty-office/prospective/faculty-careers/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "carnegie-mellon"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e1e02a466f35",
+    "url": "https://www.astro.cornell.edu",
+    "kind": "department",
+    "institutionIds": [
+      "cornell-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2da2fc47b426",
+    "url": "https://hr.gatech.edu/careers",
+    "kind": "recruitment",
+    "institutionIds": [
+      "georgia-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f70fc5b4d2fe",
+    "url": "https://physics.gatech.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "georgia-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2a0497a7a4c4",
+    "url": "https://www.ictp-saifr.org/simonsfapesp2026/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ictp-saifr"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-aeaee72997fa",
+    "url": "https://www.ictp-saifr.org/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ictp-saifr"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7351354ac384",
+    "url": "https://www.jmu.edu/physics/index.shtml",
+    "kind": "department",
+    "institutionIds": [
+      "james-madison"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2e8b4d085694",
+    "url": "https://www.lsu.edu/physics/",
+    "kind": "department",
+    "institutionIds": [
+      "louisiana-state-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-be8a49d2a900",
+    "url": "https://www.lsu.edu/hrm/careers/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "louisiana-state-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d06c4534a738",
+    "url": "https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/job-opportunities/",
+    "kind": "group",
+    "institutionIds": [
+      "mit"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fbd0cce5ef6d",
+    "url": "https://physics.mit.edu/about-physics/employment-opportunities/",
+    "kind": "department",
+    "institutionIds": [
+      "mit"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-76b9168ae78b",
+    "url": "https://www.physics.mcgill.ca/pos/",
+    "kind": "department",
+    "institutionIds": [
+      "mcgill"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-92298534f83f",
+    "url": "https://academicjobsonline.org/ajo/PennState",
+    "kind": "recruitment",
+    "institutionIds": [
+      "penn-state-university-park"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f55836612e80",
+    "url": "https://www.scrippscollege.edu/hr/faculty",
+    "kind": "recruitment",
+    "institutionIds": [
+      "scripps-pitzer-natural-sciences"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-72ddb0dd1611",
+    "url": "https://www.physics.purdue.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "purdue"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6acec7cd59f6",
+    "url": "https://physics.rice.edu",
+    "kind": "department",
+    "institutionIds": [
+      "rice-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-24d351b75b24",
+    "url": "https://www.physics.smu.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "southern-methodist"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ac612f46fb18",
+    "url": "https://jobs.tntech.edu/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "tennessee-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-030e4d153662",
+    "url": "https://physics.osu.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-36b7365a3a1d",
+    "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8a0873b46cb1",
+    "url": "https://aprecruit.berkeley.edu/apply",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uc-berkeley"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b28ccc1834da",
+    "url": "https://physics.berkeley.edu/welcome/employment",
+    "kind": "department",
+    "institutionIds": [
+      "uc-berkeley"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2685a30776be",
+    "url": "https://apply.interfolio.com/192963",
+    "kind": "recruitment",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-77ee45d40683",
+    "url": "https://apply.interfolio.com/192965",
+    "kind": "recruitment",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-eaba48dae837",
+    "url": "https://physics.uchicago.edu/about/job-opportunities/",
+    "kind": "department",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-209c7e441f91",
+    "url": "https://ukjobs.uky.edu/postings/648332",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ad3687e3339a",
+    "url": "https://pa.as.uky.edu/astro",
+    "kind": "group",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e628677692c2",
+    "url": "https://pa.as.uky.edu",
+    "kind": "department",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0de3fae08739",
+    "url": "https://lsa.umich.edu/litp/open-positions.html",
+    "kind": "group",
+    "institutionIds": [
+      "michigan-ann-arbor"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1abc8ad038f1",
+    "url": "https://lsa.umich.edu/physics/about-us/jobs.html",
+    "kind": "department",
+    "institutionIds": [
+      "michigan-ann-arbor"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7d5f722047fe",
+    "url": "https://www.ou.edu/cas/physics-astronomy/job-opportunities",
+    "kind": "department",
+    "institutionIds": [
+      "oklahoma"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-469f3bdb717f",
+    "url": "https://www.physicsandastronomy.pitt.edu/about/department-openings",
+    "kind": "department",
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d96821079d00",
+    "url": "https://www.join.pitt.edu/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0ce93ff7d632",
+    "url": "https://faculty.utexas.edu/career?p=1&q=&units=College+of+Natural+Sciences",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-91d892746dd7",
+    "url": "https://ph.utexas.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-de37bf41e003",
+    "url": "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "victoria"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9630338036da",
+    "url": "https://ap.washington.edu/ahr/academic-jobs/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uw-bothell"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c751a5b2c81e",
+    "url": "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs",
+    "kind": "recruitment",
+    "institutionIds": [
+      "universite-laval"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-84d900fb89a3",
+    "url": "https://as.vanderbilt.edu/physics/",
+    "kind": "department",
+    "institutionIds": [
+      "vanderbilt"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-41aa5e1068f7",
+    "url": "http://www.phys.vt.edu",
+    "kind": "department",
+    "institutionIds": [
+      "virginia-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-88275453dab0",
+    "url": "https://cdsp.wm.edu/physics/?mapstat=1",
+    "kind": "department",
+    "institutionIds": [
+      "william-and-mary"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0bbb01cd7e99",
+    "url": "https://facultyjobs.lehigh.edu/faculty",
+    "kind": "recruitment",
+    "institutionIds": [
+      "lehigh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e53fdad2cca6",
+    "url": "https://www.physics.purdue.edu/about/positions/index.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "purdue"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-03cb0a76e99e",
+    "url": "https://academicjobsonline.org/ajo/Rice",
+    "kind": "recruitment",
+    "institutionIds": [
+      "rice-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4888263dabf6",
+    "url": "https://physics.rice.edu/open-positions",
+    "kind": "recruitment",
+    "institutionIds": [
+      "rice-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-70288d2f51b1",
+    "url": "https://www.smu.edu/dedman/about/employment",
+    "kind": "recruitment",
+    "institutionIds": [
+      "southern-methodist"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4578744f4933",
+    "url": "https://www.phys.vt.edu/employment.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "virginia-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-54c01505a8b5",
+    "url": "https://physics.osu.edu/about-us/faculty-search-information",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c4848dddba3c",
+    "url": "https://physics.osu.edu/employment-opportunities",
+    "kind": "department",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-27f3be074a12",
+    "url": "https://physics.gatech.edu/about/employment",
+    "kind": "department",
+    "institutionIds": [
+      "georgia-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-aaf583b2c135",
+    "url": "https://academicjobsonline.org/ajo/Cornell",
+    "kind": "department",
+    "institutionIds": [
+      "cornell-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-521ef59034d1",
+    "url": "https://apps.hr.cornell.edu/recruiting/facultycareer.cfm",
+    "kind": "department",
+    "institutionIds": [
+      "cornell-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1c71a7326096",
+    "url": "https://hr.cornell.edu/jobs",
+    "kind": "department",
+    "institutionIds": [
+      "cornell-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c20571552e35",
+    "url": "https://www.jmu.edu/physics/employment-opps.shtml",
+    "kind": "department",
+    "institutionIds": [
+      "james-madison"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-77c98a46829b",
+    "url": "https://jobs.jmu.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "james-madison"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-59abf896e8f8",
+    "url": "https://jobs.jmu.edu/jobs/search?query=physics",
+    "kind": "recruitment",
+    "institutionIds": [
+      "james-madison"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-69745461e3ff",
+    "url": "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=physics",
+    "kind": "department",
+    "institutionIds": [
+      "tennessee-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-32abccb7d126",
+    "url": "https://fisica.unab.cl/",
+    "kind": "department",
+    "institutionIds": [
+      "universidad-andres-bello"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e05aa6cc6af2",
+    "url": "https://www.ubiobio.cl/concursos/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-biobio"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8ec348b8de09",
+    "url": "https://www.ubiobio.cl/concursos/?trk=public_post_reshare-text",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-biobio"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-477fae1a8145",
+    "url": "https://portal.if.usp.br/ataac/pt-br/concursos_andamento?page=1",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1f41292cf72b",
+    "url": "https://explore.jobs.ufl.edu/en-us/search/?search-keyword=physics",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-florida"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9521cfe88683",
+    "url": "https://www.uh.edu/provost/faculty/prospective-faculty/",
+    "kind": "department",
+    "institutionIds": [
+      "university-of-houston"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e485ec3ebefc",
+    "url": "https://careers.uh.edu/jobs/search/uh-postings?category_uids%5B%5D=d3b80de9ada098478edbd5589a0ffeee&category_uids%5B%5D=db3c1fb9609f486fa85f3e228dd5f7e2&page=1&query=",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-houston"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5bc4995ee4b7",
+    "url": "https://careers.uh.edu/jobs/search/uh-postings?query=physics",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-houston"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-579e32ceb35d",
+    "url": "https://ukjobs.uky.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3468f8d8c61c",
+    "url": "https://ukjobs.uky.edu/postings/search?225=&988%5B%5D=2&commit=Search&query=&query_v0_posted_at_date=",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c8ff19d82591",
+    "url": "https://ukjobs.uky.edu/postings/search?query=physics&988%5B%5D=2&commit=Search",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6a89b4bce9a8",
+    "url": "https://faculty.utexas.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-bb64ee2ea52f",
+    "url": "https://faculty.utexas.edu/career?p=1&q=physics",
+    "kind": "department",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f90ed5afaf23",
+    "url": "https://www.vanderbilt.edu/provost/jobs/",
+    "kind": "department",
+    "institutionIds": [
+      "vanderbilt"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1bb3b34b7872",
+    "url": "https://jobs.villanova.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "villanova"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8c1d953c7855",
+    "url": "https://jobs.villanova.edu/postings/search?397=&399=&400=3&commit=Search&query=&query_organizational_tier_3_id=any&query_v0_posted_at_date=&utf8=%E2%9C%93",
+    "kind": "recruitment",
+    "institutionIds": [
+      "villanova"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-606cd3631958",
+    "url": "https://jobs.villanova.edu/postings/search?query=Astrophysics",
+    "kind": "recruitment",
+    "institutionIds": [
+      "villanova"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7a4c1547290b",
+    "url": "https://cdsp.wm.edu/physics/",
+    "kind": "department",
+    "institutionIds": [
+      "william-and-mary"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f8e1657b9b86",
+    "url": "https://jobs.wm.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "william-and-mary"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fd1cfe6a551b",
+    "url": "https://applications.caltech.edu/jobs/physics",
+    "kind": "advertisement",
+    "institutionIds": [
+      "caltech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ac76661b07d9",
+    "url": "https://facultyjobs.lehigh.edu/node/1338",
+    "kind": "advertisement",
+    "institutionIds": [
+      "lehigh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-98d3ce503398",
+    "url": "https://www.physics.mcgill.ca/pos/astro-06-en.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "mcgill"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-de00024c8380",
+    "url": "https://academicjobsonline.org/ajo/jobs/32889",
+    "kind": "advertisement",
+    "institutionIds": [
+      "penn-state-university-park"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-cf0a13e01f21",
+    "url": "https://academicjobsonline.org/ajo/jobs/32892",
+    "kind": "advertisement",
+    "institutionIds": [
+      "penn-state-university-park"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8f18190062fd",
+    "url": "https://academicjobsonline.org/ajo/jobs/33162",
+    "kind": "advertisement",
+    "institutionIds": [
+      "rice-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-bd4e952202e6",
+    "url": "https://academicjobsonline.org/ajo/jobs/33086",
+    "kind": "advertisement",
+    "institutionIds": [
+      "mit"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4aaaf536ea0c",
+    "url": "https://academicjobsonline.org/ajo/jobs/32678",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cornell-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-304cdbc6fe71",
+    "url": "https://aprecruit.berkeley.edu/JPF05406",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uc-berkeley"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8bd901e802da",
+    "url": "https://aprecruit.berkeley.edu/JPF05460",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uc-berkeley"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5ebc68afc5f1",
+    "url": "https://aprecruit.berkeley.edu/JPF05223",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uc-berkeley"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6c006fa5dd23",
+    "url": "https://lsa.umich.edu/physics/news-events/all-news/search-news/assistant-professor-of-physics-open-position.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "michigan-ann-arbor"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e048112ebd89",
+    "url": "https://www.scrippscollege.edu/hr/faculty/tenure-track-position-in-astrophysics-in-the-department-of-natural-sciences-pitzer-and-scripps-colleges",
+    "kind": "advertisement",
+    "institutionIds": [
+      "scripps-pitzer-natural-sciences"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-67914975f6c3",
+    "url": "https://explore.jobs.ufl.edu/en-us/job/541742/assistant-professor-for-astronomical-instrumentation",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-florida"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1ef98d66d22a",
+    "url": "https://aas.org/jobregister/ad/4b7a9ca7",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-florida"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-181b4fcf0f3c",
+    "url": "https://explore.jobs.ufl.edu/en-us/job/541567/assistant-scientist-instrument-science",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-florida"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0fad04cf603a",
+    "url": "https://explore.jobs.ufl.edu/en-us/job/529043/tenure-track-assistant-professor-experimental-optics-for-gravitational-wave-detection",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-florida"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-cbfe48ced7b0",
+    "url": "https://jobs.villanova.edu/postings/36501",
+    "kind": "advertisement",
+    "institutionIds": [
+      "villanova"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f34e6544d485",
+    "url": "https://jobs.villanova.edu/postings/36614",
+    "kind": "advertisement",
+    "institutionIds": [
+      "villanova"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-aab1d139d6db",
+    "url": "https://ukjobs.uky.edu/postings/652281",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-85254c1f991f",
+    "url": "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/current/phys_270_163.php",
+    "kind": "advertisement",
+    "institutionIds": [
+      "victoria"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a69fd7446a5e",
+    "url": "https://ap.washington.edu/ahr/position-details/?job_id=189352",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uw-bothell"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-702548789c63",
+    "url": "https://aas.org/jobregister/ad/a5ed92fc",
+    "kind": "advertisement",
+    "institutionIds": [
+      "carnegie-mellon"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-39a5633d4e9e",
+    "url": "https://portal.if.usp.br/ataac/pt-br/node/8145",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-42954feea8ce",
+    "url": "https://portal.if.usp.br/ataac/pt-br/node/8122",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-493153e601d3",
+    "url": "https://portal.if.usp.br/ataac/pt-br/node/8100",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3ae745ca5e16",
+    "url": "https://portal.if.usp.br/ataac/pt-br/node/8096",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8c7595772e35",
+    "url": "https://portal.if.usp.br/ataac/pt-br/node/8086",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ca65d4da1c48",
+    "url": "https://iag.usp.br/concursos-para-docentes/professor-doutor-aga-013-2026",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7aef042c3788",
+    "url": "https://www.physicsandastronomy.pitt.edu/sites/default/files/image-gallery/Faculty%20and%20Pitt%20PACC%20Director%20Ad.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ebe3339fbcaa",
+    "url": "https://www.physicsandastronomy.pitt.edu/sites/default/files/image-gallery/Faculty%20Ad_Astrophysics_2026.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ca1372f393d9",
+    "url": "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=204910",
+    "kind": "advertisement",
+    "institutionIds": [
+      "binghamton"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f8bdcdc4d0d3",
+    "url": "https://apply.interfolio.com/195638",
+    "kind": "advertisement",
+    "institutionIds": [
+      "carnegie-mellon"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-488991baa7d1",
+    "url": "https://apply.interfolio.com/195599",
+    "kind": "advertisement",
+    "institutionIds": [
+      "carnegie-mellon"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-29d281c2334d",
+    "url": "https://www.ictp.it/home/work-ictp",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ictp-trieste"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0179aea01f0c",
+    "url": "https://careers.cern/jobs/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cern"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2817a357826a",
+    "url": "https://inspirehep.net/jobs/3181705",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-38768b3a5b5c",
+    "url": "https://inspirehep.net/jobs/3183112",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4bd35945176e",
+    "url": "https://www.desy.de/career",
+    "kind": "recruitment",
+    "institutionIds": [
+      "desy"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-775e5bf850f7",
+    "url": "https://www.desy.de/career/job_offers/index_eng.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "desy"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-19cbdb644a34",
+    "url": "https://inspirehep.net/jobs/3185361",
+    "kind": "recruitment",
+    "institutionIds": [
+      "durham-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5272d43aac0e",
+    "url": "https://physics.elte.hu/en/vacancies",
+    "kind": "department",
+    "institutionIds": [
+      "elte"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6b5fcece38d9",
+    "url": "https://inspirehep.net/jobs/3207702",
+    "kind": "recruitment",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9dece7c05f96",
+    "url": "https://igfae.usc.es/igfae/en/oferta/director-call/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1ea8777c3ef3",
+    "url": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=28831&jobTitle=Assistant+%2F+Associate+Professor+in+Gravitational+Wave+Physics",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2e73a33989ed",
+    "url": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29040&jobTitle=Assistant+%2F+Associate+Professor+in+Data-Intensive+Physics+and+AI",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4abfc7034cdc",
+    "url": "https://inspirehep.net/jobs/3186998",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7368325cdc63",
+    "url": "https://inspirehep.net/jobs/3195961",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3d0ed61561ac",
+    "url": "https://www.ifae.es/careers/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ifae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-55231d7006aa",
+    "url": "https://www.ifae.es/careers/jobs/2026/09/call-for-expressions-of-interest-ramon-y-cajal-fellowship-programme-2026/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ifae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f0cfe82487f5",
+    "url": "https://inspirehep.net/jobs/3183025",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cnrs-l2it"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a2e86e11ec37",
+    "url": "https://inspirehep.net/jobs/3219186",
+    "kind": "recruitment",
+    "institutionIds": [
+      "nuclear-physics-institute-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7a82a261843f",
+    "url": "https://inspirehep.net/jobs/3185307",
+    "kind": "recruitment",
+    "institutionIds": [
+      "rwth-aachen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-99b0fe30d16f",
+    "url": "https://inspirehep.net/jobs/3210713",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-barcelona"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1728ff33ac4d",
+    "url": "https://inspirehep.net/jobs/3172216",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-bonn"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5f2763bec065",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-45d-0926",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e53d348a56af",
+    "url": "https://nbia.nbi.ku.dk/",
+    "kind": "group",
+    "institutionIds": [
+      "university-copenhagen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f3071427e999",
+    "url": "https://inspirehep.net/jobs/3197131",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-copenhagen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-79ac17e5ee0d",
+    "url": "https://inspirehep.net/jobs/3208143",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-geneva"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-da6ed0d0c8b1",
+    "url": "https://inspirehep.net/jobs/3189627",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7c9d5657b176",
+    "url": "https://inspirehep.net/jobs/3189637",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d17020f07949",
+    "url": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186058",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e20c0258f84c",
+    "url": "https://inspirehep.net/jobs/3177368",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1632b9ad7c40",
+    "url": "https://inspirehep.net/jobs/3208120",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-46b1e783a2d4",
+    "url": "https://grg.uib.es/jobs/index.php",
+    "kind": "group",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7fd1071baf33",
+    "url": "https://www.uib.es/taulers/ocupacio",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d6bcda16a105",
+    "url": "https://facultyrecruiting.epfl.ch/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "epfl"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-da1b6e0e084c",
+    "url": "https://careers.cern/jobs/th-sp-2026-68-ld/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cern"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-aa52c0e01c58",
+    "url": "https://carrieres.cnrs.fr/en/chair-recruitment/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-923128b21310",
+    "url": "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-032/Default.aspx",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-528b76bb3d6d",
+    "url": "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-001/Default.aspx",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a9982f7e56c2",
+    "url": "https://v22.desy.de/index_eng.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "desy"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-707fc778105d",
+    "url": "https://orca.dur.ac.uk/joinus.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "durham-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-604fd949d311",
+    "url": "https://dur.ac.uk/departments/academic/physics/about-us/job-opportunities/",
+    "kind": "department",
+    "institutionIds": [
+      "durham-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-24d7b92a63b0",
+    "url": "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54161",
+    "kind": "advertisement",
+    "institutionIds": [
+      "elte"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a91778bf9009",
+    "url": "https://igfae.usc.es/igfae/en/jobs/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9f8292ac2811",
+    "url": "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-22/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5f76f5293cad",
+    "url": "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-21/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d82d2ac97159",
+    "url": "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-20/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1e3f22612344",
+    "url": "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-19/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-102778ff1f84",
+    "url": "https://www.hip.fi/jobs-vacancies/",
+    "kind": "department",
+    "institutionIds": [
+      "helsinki-institute-physics"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f303bd2d57f0",
+    "url": "https://www.helsinki.fi/en/about-us/careers/open-positions",
+    "kind": "recruitment",
+    "institutionIds": [
+      "helsinki-institute-physics"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-922cdac5a1e4",
+    "url": "https://www.imperial.ac.uk/physics/opportunities/",
+    "kind": "department",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4b910fd737a5",
+    "url": "https://www.ifae.es/careers/jobs/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ifae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-cfaef6d207a0",
+    "url": "https://www.ifae.es/careers/jobs/page/2/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ifae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e0992a517b3b",
+    "url": "https://www.ifae.es/careers/jobs/2026/07/ramon-y-cajal-fellowship-programme-2026-tenure-track-position-in-gravitational-wave-physics-at-ifae/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ifae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d732b60e293e",
+    "url": "https://www.l2it.in2p3.fr/en/emplois-et-stages/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cnrs-l2it"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a42ddf0e6cd1",
+    "url": "https://www.berufungsportal.rwth-aachen.de/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "rwth-aachen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-26e7824ddbf3",
+    "url": "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/vacancies-professors",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-bonn"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-96d71ffedaed",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ad10676e71e3",
+    "url": "https://employment.ku.dk/faculty/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-copenhagen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-20ba0b4f263a",
+    "url": "https://jobportal.ku.dk/videnskabelige-stillinger/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-copenhagen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-65f494a662b1",
+    "url": "https://nbi.ku.dk/english/jobs",
+    "kind": "department",
+    "institutionIds": [
+      "university-copenhagen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4f461de8cbad",
+    "url": "https://www.unige.ch/sciences/physique/la-section/emplois",
+    "kind": "department",
+    "institutionIds": [
+      "university-geneva"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-482d6595f95e",
+    "url": "https://www.unige.ch/sciences/physique/theorique/en/emplois/",
+    "kind": "department",
+    "institutionIds": [
+      "university-geneva"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e2ce2f6e02fa",
+    "url": "https://www.unige.ch/dpnc/en/jobs/",
+    "kind": "department",
+    "institutionIds": [
+      "university-geneva"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e3b300a3a1de",
+    "url": "https://www.fisica.unina.it/it_IT/reclutamento-ricercatori-a-t.d.",
+    "kind": "department",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-81459c9f4c89",
+    "url": "https://www.physics.ox.ac.uk/about-us/work-us",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ee3e60faaf8a",
+    "url": "https://www.maths.ox.ac.uk/about-us/vacancies",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0861afe9c823",
+    "url": "https://www.maths.ox.ac.uk/node/39835",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9c98d5f12f83",
+    "url": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186704",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a1eee8c8d78f",
+    "url": "https://www.fuw.edu.pl/job-offers.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3e33db7223bb",
+    "url": "https://www.fuw.edu.pl/praca.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e22455fcbaea",
+    "url": "https://www.uw.edu.pl/kategoria-praca/job-offers/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-079301940f76",
+    "url": "https://investigacio.uib.es/Contractacio/Convocatories-vigents/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-45d0aa1f7c14",
+    "url": "https://www.epfl.ch/about/working/page-26457-en-html/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "epfl"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6de62612a816",
+    "url": "https://www.epfl.ch/schools/sb/research/iphys/open-positions/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "epfl"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fde39c45365f",
+    "url": "https://www.epfl.ch/about/working/faculty-position-in-experimantal-particle-physics/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "epfl"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-dd747f06dda6",
+    "url": "https://sede.usc.es/sede/publica/taboleiro/verAnuncioPublicable/148452/carga.htm",
+    "kind": "advertisement",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2c965c7b83a9",
+    "url": "https://sede.usc.es/sede/publica/taboleiro/verAnuncioPublicable/148405/carga.htm",
+    "kind": "advertisement",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-45441f44409d",
+    "url": "https://sede.usc.es/sede/publica/taboleiro/verAnuncioPublicable/148404/carga.htm",
+    "kind": "advertisement",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3d9c9a305a95",
+    "url": "https://ihep.cas.cn/zszp/zpxx/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-91cad0559e95",
+    "url": "https://english.ihep.cas.cn/ju/jo/index.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-35f6965f0963",
+    "url": "https://www.iopb.res.in/job_opening/hep-faculty-advertisement/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "iop-bhubaneswar"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-871d432d25ec",
+    "url": "https://www.iopb.res.in/job-opening/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "iop-bhubaneswar"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4f3e96e77a34",
+    "url": "https://www.ipmu.jp/en/job-opportunities",
+    "kind": "recruitment",
+    "institutionIds": [
+      "kavli-ipmu"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-23b8ab2e6730",
+    "url": "https://phys.ntu.edu.tw/News_Content_n_39670_s_264091.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-taiwan-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f149cb86e5f4",
+    "url": "https://www.phys.ntu.edu.tw/enphysics/Default.html",
+    "kind": "department",
+    "institutionIds": [
+      "national-taiwan-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-30e387666a6b",
+    "url": "https://phys.site.nthu.edu.tw/",
+    "kind": "department",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3ba051a37ffe",
+    "url": "https://www.theory.tifr.res.in/jobs.html",
+    "kind": "department",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-70fdadc86184",
+    "url": "https://main.tifr.res.in/portal/work_at_tifr.php",
+    "kind": "recruitment",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-87c516b49d2a",
+    "url": "https://www.tifr.res.in/dhep/facultyPositions.php",
+    "kind": "department",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-909384e028d2",
+    "url": "https://theory.tifr.res.in/jobs.html",
+    "kind": "department",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e54e87259020",
+    "url": "https://www.tifr.res.in/positions",
+    "kind": "recruitment",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f6f752d12e95",
+    "url": "https://main.tifr.res.in/maincampus/careers.php",
+    "kind": "recruitment",
+    "institutionIds": [
+      "tifr-mumbai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-34132fb1d163",
+    "url": "https://www.uct.ac.za/staff/general-vacancies",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-cape-town"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-71efdfb858a2",
+    "url": "https://science.uct.ac.za/department-physics",
+    "kind": "department",
+    "institutionIds": [
+      "university-cape-town"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-819437de9adb",
+    "url": "https://jobs.uct.ac.za/search",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-cape-town"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-39d73d0166b6",
+    "url": "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-melbourne"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e1c911449308",
+    "url": "https://about.unimelb.edu.au/careers",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-melbourne"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f390cfda612a",
+    "url": "https://www.phys.sinica.edu.tw/news_en.php?eng=T&id=job",
+    "kind": "recruitment",
+    "institutionIds": [
+      "academia-sinica-iop"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-565607abe2f3",
+    "url": "https://physics.hkust.edu.hk/jobs",
+    "kind": "recruitment",
+    "institutionIds": [
+      "hkust"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-162be672afd7",
+    "url": "https://www.kek.jp/en/career/classification/researcher",
+    "kind": "recruitment",
+    "institutionIds": [
+      "kek-tokai",
+      "kek-tsukuba",
+      "kek-multicampus"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-87b1907006c6",
+    "url": "https://www.phys.ncku.edu.tw/news/career/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-cheng-kung"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a8224d875a1d",
+    "url": "https://www.phys.ntu.edu.tw/enphysics/Latestnews.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-taiwan-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fd9c424c9779",
+    "url": "https://sgtuniversity.ac.in/careers",
+    "kind": "recruitment",
+    "institutionIds": [
+      "sgt-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-09f03ecc5112",
+    "url": "https://www.shinshu-u.ac.jp/faculty/science/others/recruitment.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "shinshu-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f34080163a2c",
+    "url": "https://www.shinshu-u.ac.jp/faculty/science/en/others/recruitment.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "shinshu-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ade102d95da8",
+    "url": "https://tdli.sjtu.edu.cn/en/join-us/tenure-track-fellows",
+    "kind": "recruitment",
+    "institutionIds": [
+      "tdli-sjtu"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-109ec5023450",
+    "url": "https://tdli.sjtu.edu.cn/en/join-us/scientists",
+    "kind": "recruitment",
+    "institutionIds": [
+      "tdli-sjtu"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8c272d2abb01",
+    "url": "https://tdli.sjtu.edu.cn/en/post/16371",
+    "kind": "advertisement",
+    "institutionIds": [
+      "tdli-sjtu"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1586983c8187",
+    "url": "https://physics.haifa.ac.il/news/?lang=en",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-haifa"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b844a9ba1236",
+    "url": "https://physics.iitm.ac.in/facultyrecruitment.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "iit-madras"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-198898899ed7",
+    "url": "https://mbsfacapp.iitm.ac.in/",
+    "kind": "department",
+    "institutionIds": [
+      "iit-madras"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5503ea4a813c",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-22faf5aa715c",
+    "url": "https://ihep.cas.cn/zszp/zpxx/fzbzp/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d0064285e7b3",
+    "url": "https://english.ihep.cas.cn/ju/jo/index_1.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d4c16030a61a",
+    "url": "https://zprcb.jlu.edu.cn/talent-sys/public/home",
+    "kind": "recruitment",
+    "institutionIds": [
+      "jilin-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3bee74ff9505",
+    "url": "https://www.jlu.edu.cn/info/1095/57563.m.htm",
+    "kind": "advertisement",
+    "institutionIds": [
+      "jilin-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ebfd5336f40f",
+    "url": "https://careers.jlu.edu.cn/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "jilin-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e8135e220bb7",
+    "url": "https://phys.site.nthu.edu.tw/index.php?Lang=en",
+    "kind": "department",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9c5f6a06f1ca",
+    "url": "https://academicjobsonline.org/ajo/jobs/32613",
+    "kind": "advertisement",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-406226a10ed4",
+    "url": "https://phys.nycu.edu.tw/",
+    "kind": "department",
+    "institutionIds": [
+      "national-yang-ming-chiao-tung"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-86d7504ea09f",
+    "url": "https://oei.ytu.edu.cn/xygk/cpyc.htm",
+    "kind": "department",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8422205415cb",
+    "url": "https://rsc.ytu.edu.cn/index/zpxx.htm",
+    "kind": "recruitment",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-111b967692ad",
+    "url": "https://rsc.ytu.edu.cn/info/1196/3157.htm",
+    "kind": "advertisement",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-083231bec761",
+    "url": "https://www.kek.jp/en/career/accl26-2e",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kek-tsukuba"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-780cd7eefb80",
+    "url": "https://academicjobsonline.org/ajo/jobs/32595",
+    "kind": "advertisement",
+    "institutionIds": [
+      "tdli-sjtu"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e00b41715349",
+    "url": "https://english.ihep.cas.cn/ju/jo/202603/t20260324_1153693.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-36b19483d408",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202606/t20260601_8211833.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-08922ee3c1ba",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202605/t20260506_8196218.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-40ed279b1902",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202605/t20260506_8196055.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7aa55634f621",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260410_8184544.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f31fb8133e84",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260403_8181080.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d2dfc4cfe02f",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260403_8181071.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b36141b5cd17",
+    "url": "https://ihep.cas.cn/zszp/zpxx/fzbzp/202610/t20261027_8298865.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e001da596b39",
+    "url": "https://ihep.cas.cn/zszp/zpxx/fzbzp/202610/t20261023_8296929.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-546ee32f4af1",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202603/t20260319_8161479.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a4e176f8af0e",
+    "url": "https://english.ihep.cas.cn/ju/jo/202510/t20251011_1089295.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1cf295615ed6",
+    "url": "https://www.kek.jp/en/career/imss26-3e",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kek-tsukuba"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-553802c0f38d",
+    "url": "https://www.kek.jp/en/career/imss26-2e",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kek-tokai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6dc8aa51268d",
+    "url": "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career/job/Parkville-Victoria/Laser-Ablation--Automation-and-Digitisation-Research-Scientist_JR-018485-1",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-melbourne"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-bfc57f35426c",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202603/P020260319371298377441.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8ca843b22c19",
+    "url": "https://www.phys.sinica.edu.tw/",
+    "kind": "department",
+    "institutionIds": [
+      "academia-sinica-iop"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0e5037a7d40b",
+    "url": "https://www.kek.jp/en/guide/guide07",
+    "kind": "department",
+    "institutionIds": [
+      "kek-tsukuba"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0b2176be27a0",
+    "url": "https://www.shinshu-u.ac.jp/faculty/science/",
+    "kind": "department",
+    "institutionIds": [
+      "shinshu-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a758a17514fb",
+    "url": "https://www.shinshu-u.ac.jp/guidance/office-worker/",
+    "kind": "department",
+    "institutionIds": [
+      "shinshu-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7c6caec232f8",
+    "url": "https://oei.ytu.edu.cn/",
+    "kind": "department",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-36aba8743bc2",
+    "url": "https://rsc.ytu.edu.cn/index.htm",
+    "kind": "department",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-12f6a3f844fe",
+    "url": "https://physics.haifa.ac.il/?lang=en",
+    "kind": "department",
+    "institutionIds": [
+      "university-haifa"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-425f34ac7a47",
+    "url": "https://www.shinshu-u.ac.jp/faculty/science/faculty/index.html",
+    "kind": "department",
+    "institutionIds": [
+      "shinshu-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a0164923be2d",
+    "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1",
+    "kind": "recruitment",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2230db148b7e",
+    "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=2&postTypeCode=1",
+    "kind": "recruitment",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f88ceedaa55a",
+    "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=3&postTypeCode=1",
+    "kind": "recruitment",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2c519fd9e6b5",
+    "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=4&postTypeCode=1",
+    "kind": "recruitment",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f8c2803b1978",
+    "url": "https://astrophysics.uchicago.edu/about/job-opportunities/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-20b204f422a2",
+    "url": "https://academicjobsonline.org/ajo/James%20Madison%20University/Department%20of%20Physics%20and%20Astronomy",
+    "kind": "recruitment",
+    "institutionIds": [
+      "james-madison"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0ac2af8dbf23",
+    "url": "https://academicjobsonline.org/ajo/Vanderbilt%20University/Physics%20%26%20Astronomy",
+    "kind": "recruitment",
+    "institutionIds": [
+      "vanderbilt"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d09903e02575",
+    "url": "https://academicjobsonline.org/ajo/William%20%26%20Mary",
+    "kind": "recruitment",
+    "institutionIds": [
+      "william-and-mary"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e47c08c8b197",
+    "url": "https://academicjobsonline.org/ajo/OhioState",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e988b7682394",
+    "url": "https://ccapp.osu.edu/about/jobs-and-opportunities",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-89dd08352d1f",
+    "url": "https://astro.uchicago.edu/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e8812febb2d0",
+    "url": "https://apply.interfolio.com/192968",
+    "kind": "recruitment",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-eb424c0dd23f",
+    "url": "https://apply.interfolio.com/192971",
+    "kind": "recruitment",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f3f2af2d0966",
+    "url": "https://aas.org/jobregister/ad/8852332e",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d523655dabc8",
+    "url": "https://aas.org/jobregister/ad/9ba8483a",
+    "kind": "recruitment",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d9818668a6ec",
+    "url": "https://academicjobsonline.org/ajo/jobs/32618",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-11f2528e107c",
+    "url": "https://academicjobsonline.org/ajo/jobs/32603",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a3071aae25d7",
+    "url": "https://www.ictp-saifr.org/scientific-visit/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ictp-saifr"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-70769475c860",
+    "url": "https://academicjobsonline.org/ajo/James%20Madison%20University",
+    "kind": "recruitment",
+    "institutionIds": [
+      "james-madison"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-afc6d7a9f201",
+    "url": "https://academicjobsonline.org/ajo/Vanderbilt",
+    "kind": "recruitment",
+    "institutionIds": [
+      "vanderbilt"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1f5a44daae91",
+    "url": "https://academicjobsonline.org/ajo/Vanderbilt%20University",
+    "kind": "recruitment",
+    "institutionIds": [
+      "vanderbilt"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4909419cea97",
+    "url": "https://academicjobsonline.org/ajo/jobs/33110",
+    "kind": "recruitment",
+    "institutionIds": [
+      "vanderbilt"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4b3b4bc7495f",
+    "url": "https://academicjobsonline.org/ajo/jobs/33063",
+    "kind": "recruitment",
+    "institutionIds": [
+      "vanderbilt"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7b517efd0c59",
+    "url": "https://academicjobsonline.org/ajo/William%26Mary",
+    "kind": "recruitment",
+    "institutionIds": [
+      "william-and-mary"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7bb80ee0b71f",
+    "url": "https://academicjobsonline.org/ajo/William%20%26%20Mary/Physics",
+    "kind": "recruitment",
+    "institutionIds": [
+      "william-and-mary"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e204f82ac576",
+    "url": "https://academicjobsonline.org/ajo/jobs/33132",
+    "kind": "advertisement",
+    "institutionIds": [
+      "william-and-mary"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f8065ee40210",
+    "url": "https://astronomy.osu.edu/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7428befd0371",
+    "url": "https://ccapp.osu.edu/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-54bb3190809b",
+    "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Assistant-Associate-Professor-in-Astronomy_R159581-1",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-da3f7d1a5ab3",
+    "url": "https://aas.org/jobregister/ad/57dd4cbb",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ohio-state"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f3922c55ae38",
+    "url": "https://astronomy.utexas.edu/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4d47c0e1d054",
+    "url": "https://astronomy.utexas.edu/info-faculty-staff",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e5060b9e0326",
+    "url": "https://physics.utexas.edu/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5ed7eddddc25",
+    "url": "https://physics.utexas.edu/about-overview/faculty-recruiting",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5cfd36028bdc",
+    "url": "https://aas.org/jobregister/ad/2d1b76f2",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-96474dc3f22f",
+    "url": "https://aas.org/jobregister/ad/210c5bdf",
+    "kind": "recruitment",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3a195e767849",
+    "url": "https://lsu.wd1.myworkdayjobs.com/en-US/LSU/job/Open-Rank--Tenure-track-Assistant-Professor--Tenure-track-Associate-Professor-or-Professor--Theoretical-Gravity-Physics-_R00121003",
+    "kind": "advertisement",
+    "institutionIds": [
+      "louisiana-state-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8c5c64b731c6",
+    "url": "https://www.lsu.edu/science/quantum-hires.php",
+    "kind": "recruitment",
+    "institutionIds": [
+      "louisiana-state-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d095cca96d1a",
+    "url": "https://explore.jobs.ufl.edu/en-us/search/?search-keyword=astronomy",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-florida"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3d2993ad1d2c",
+    "url": "https://jobs.villanova.edu/postings/search?query=physics",
+    "kind": "recruitment",
+    "institutionIds": [
+      "villanova"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a4a6b32423df",
+    "url": "https://ukjobs.uky.edu/postings/search?query=physics",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e82fe1079737",
+    "url": "https://ukjobs.uky.edu/postings/650517",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-36f796be2e22",
+    "url": "https://ukjobs.uky.edu/postings/648992",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-37b33c2de390",
+    "url": "https://academicjobsonline.org/ajo/jobs/32607",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a59d4a5d82d2",
+    "url": "https://academicjobsonline.org/ajo/jobs/32680",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cornell-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-627a39eb7455",
+    "url": "https://academicjobsonline.org/ajo/jobs/32675",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cornell-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9fa09d5669a0",
+    "url": "https://academicjobsonline.org/ajo/jobs/32893",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cornell-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f59221c06ef0",
+    "url": "https://academicjobsonline.org/ajo?joblst-0-0-2687-0-g-----=",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cornell-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-89a12b9d835d",
+    "url": "https://www.unina.it/ateneo/concorsi/concorsi-docenti-e-ricercatori/reclutamento-ricercatori-a-tempo-determinato",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a87b4b592edb",
+    "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari/anno-2026",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6f8979049a5a",
+    "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-aa384d63a25d",
+    "url": "https://rrhh.uib.cat/arees/pdi/convocatories",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ab72c72fbc91",
+    "url": "https://rrhh.uib.cat/arees/pdi/convocatories/personal-docent-numerari",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-23f5d90044ea",
+    "url": "https://rrhh.uib.cat/arees/pdi/convocatories/ppl",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fe1ebdbcaf1d",
+    "url": "https://rrhh.uib.cat/arees/pdi/convocatories/ppl-estabilitzacio",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1c0c64698454",
+    "url": "https://rrhh.uib.cat/arees/pdi/convocatories/ajudant-doctor-2",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a9c90677a3a6",
+    "url": "https://rrhh.uib.cat/arees/pdi/convocatories/professorat-associat",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0ce0dfc75113",
+    "url": "https://rrhh.uib.cat/arees/pdi/convocatories/professorat-associat-estabilitzacio",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-10800726e37d",
+    "url": "https://rrhh.uib.cat/arees/pdi/convocatories/borses",
+    "kind": "recruitment",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-73d3f9f128c8",
+    "url": "https://www.unina.it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9df9323cffaf",
+    "url": "https://www.unina.it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori/procedure-in-corso",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f3f7bf018f58",
+    "url": "https://www.unina.it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori/procedure-concluse",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c0e1208cba8b",
+    "url": "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/reclutamento-ricercatori-a-tempo-determinato/procedure-in-corso",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8134c947a191",
+    "url": "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/reclutamento-ricercatori-a-tempo-determinato/procedure-concluse",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-786ae6bab197",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/infotype/job_offer_announcement",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-149cf53edc12",
+    "url": "https://academicjobsonline.org/ajo/AS/IoP",
+    "kind": "recruitment",
+    "institutionIds": [
+      "academia-sinica-iop"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-73757e2bbd64",
+    "url": "https://inspirehep.net/api/jobs/3190489",
+    "kind": "advertisement",
+    "institutionIds": [
+      "sgt-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6fc7710e5cad",
+    "url": "https://mbsfacapp.iitm.ac.in/mbs26/",
+    "kind": "department",
+    "institutionIds": [
+      "iit-madras"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2049783e7a38",
+    "url": "https://web.iitm.ac.in/admin/opportunities.html",
+    "kind": "department",
+    "institutionIds": [
+      "iit-madras"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9ba1ec81e1c4",
+    "url": "https://www.iitm.ac.in/sites/default/files/Others/Faculty-Recruitment-handbook.pdf",
+    "kind": "department",
+    "institutionIds": [
+      "iit-madras"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-40c4dc00ea0d",
+    "url": "https://www.jlu.edu.cn/system/_content/download.jsp?owner=1180385364&urltype=news.DownloadAttachUrl&wbfileid=1341778",
+    "kind": "recruitment",
+    "institutionIds": [
+      "jilin-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-24e5e4faae16",
+    "url": "https://inspirehep.net/api/jobs/3181469",
+    "kind": "advertisement",
+    "institutionIds": [
+      "jilin-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7c1ef0720090",
+    "url": "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-yang-ming-chiao-tung"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7dc541b104d7",
+    "url": "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/page/2/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-yang-ming-chiao-tung"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-236c3105e6fe",
+    "url": "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/page/3/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-yang-ming-chiao-tung"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-cce3876f7389",
+    "url": "https://phys.site.nthu.edu.tw/p/403-1335-3568-1.php?Lang=zh-tw",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6d883cea149d",
+    "url": "https://phys.site.nthu.edu.tw/p/403-1335-3568-2.php?Lang=zh-tw",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d35eaad3806e",
+    "url": "https://phys.site.nthu.edu.tw/p/403-1335-3568-3.php?Lang=zh-tw",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-904b9ca6a039",
+    "url": "https://phys.site.nthu.edu.tw/p/403-1335-3568-4.php?Lang=zh-tw",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-60a0ea6e1b87",
+    "url": "https://phys.site.nthu.edu.tw/p/403-1335-3568-5.php?Lang=zh-tw",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1b0c5db932c5",
+    "url": "https://phys.site.nthu.edu.tw/p/403-1335-3568-6.php?Lang=zh-tw",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-cc2d95d60065",
+    "url": "https://phys.site.nthu.edu.tw/p/406-1335-309567,r3568.php?Lang=zh-tw",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-291b9b42ca9d",
+    "url": "https://phys.site.nthu.edu.tw/p/450-1335-267435,c0.php?Lang=zh-tw",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-tsing-hua-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4715586fb91c",
+    "url": "https://inspirehep.net/api/jobs/3129038",
+    "kind": "advertisement",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f37725911fe4",
+    "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4d83cb160b57",
+    "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e5ba42c53948",
+    "url": "https://v22.desy.de/e67416/records321660/index_eng.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "desy"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b2f4431695c7",
+    "url": "https://www.uw.edu.pl/kategoria-praca/konkursy-na-stanowiska-nauczycieli-akademickich/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-40995a62934a",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtte-55d-1026-06/meds-16",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d1718530446a",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtte-47d-0926",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-aaf8d6030f54",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtta-46d-0926",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c55a50a4f32c",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttlr-44d-0926-09/iind-03",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b6912575d056",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttar-30d-0726",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0d9c182483b7",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttap-29d-0726",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fc4c467a3362",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtta-24d-0426-05/bios-15",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b9347008c4e4",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtte-19d-0426",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7c9493ca1200",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtta-18d-0426",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-07d4dab53280",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-17d-0426",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c225dcd4d203",
+    "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-14d-0326-06/meds-05",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f356ba203739",
+    "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari/anno-2026/ords-42d-0926",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-65b6ae2acc55",
+    "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026/assr-54d-1026-06meds-14",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e0dffef7479a",
+    "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026/assr-43d-0926-09/iind-08",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ac0c1c7a8863",
+    "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026/assr-39d-0926-09/iind-01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fe12d0e99024",
+    "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026/procedure-valutative-rtt",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-34ca91d5f4a7",
+    "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026/assr-12d-0326-06/meds-19",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-21b824203eb2",
+    "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026/assr-11d-0326",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ae909287852d",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/podglad2/open/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1669452fe79d",
+    "url": "https://www.fisica.unina.it/it_IT/chiamata-dei-professori",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ab908284c7b5",
+    "url": "https://www.fisica.unina.it/it_IT/tenure-track",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4558bf39d48e",
+    "url": "https://personale.unica.it/docric/public/fileadmin/user_upload/2026/ordinari/DR_bando/DR986_Bando_17_ords_42D_0926.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-cagliari"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5f0f682f8314",
+    "url": "https://www.unina.it/ateneo/concorsi/concorsi-docenti-e-ricercatori/chiamata-dei-professori",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6484382db3a3",
+    "url": "https://www.unina.it/ateneo/concorsi/concorsi-docenti-e-ricercatori/tenure-track",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-170d0f36b09c",
+    "url": "https://rrhh.uib.cat/w/marc-2026?title_redirect=Personal+Docent+Funcionari&redirect=%2Farees%2Fpdi%2Fconvocatories%2Fpersonal-docent-numerari",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-64d8d67a8170",
+    "url": "https://rrhh.uib.cat/w/gener-2026-copia-?title_redirect=Personal+Docent+Funcionari&redirect=%2Farees%2Fpdi%2Fconvocatories%2Fpersonal-docent-numerari",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0a5076a1ec79",
+    "url": "https://rrhh.uib.cat/w/novembre-2025-copia-2-?title_redirect=Personal+Docent+Funcionari&redirect=%2Farees%2Fpdi%2Fconvocatories%2Fpersonal-docent-numerari",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c9635a2c89af",
+    "url": "https://www.boe.es/boe/dias/2026/09/21/pdfs/BOE-A-2026-19584.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d5a8f84615fe",
+    "url": "https://rrhh.uib.cat/w/octubre-2025-copia-1-?title_redirect=Professor+Permanent+Laboral&redirect=%2Farees%2Fpdi%2Fconvocatories%2Fppl",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a53f73a5b15e",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/854963corslplacestlmaig2026_en-gb-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c5497d10c96a",
+    "url": "https://rrhh.uib.cat/w/desembre-2025?title_redirect=Professorat+Ajudant+Doctor&redirect=%2Farees%2Fpdi%2Fconvocatories%2Fajudant-doctor-2",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-22627a83f399",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/boib-pdf-1",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-652e729ec6eb",
+    "url": "https://seu.uib.cat/es/tablon?path=anuncio%2F6764%2F",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-54bc332079be",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/boe_cu_19052026-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-21df3690e6de",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/bases-angles_resolucion-12-05-2026_cu-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-af3a5472e59d",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/boe_tu_19052026-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1a706ff2eb78",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/bases-angles_resolucion-12-05-2026_tu_gb-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b56c847896dd",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/boe_23-03-26_9cu-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6806004b90e9",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/bases-angles_resolucion-16-03-2026_9-cu_gb-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7ba8f9149191",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/convocatoria-cu-al-boe_22-01-26-1-png",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-dc6ee708e06d",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/bases-angles_resolucion-15-01-2026_cu_gb-png",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fca95cd10d4b",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/convocatoria-tu-al-boe_22-01-26-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6f8cfa9ad3ae",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/bases-angles_resolucion-15-01-2026_tu_gb-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-208c047d8ad9",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/terms-and-conditions_bases_angles_convtl-gener-2026-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-25672fb01229",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/836812corconvocatoria_places_tlgener2026_en-gb-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e5e007e3a361",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/836471corslbasesconvocatoriapdiajudantsdoctors_gener_en-gb_rev-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ba958488e16f",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/basesconvocatoriapdiajudantsdoctors_angles-pdf-1",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-91be24b3b7ab",
+    "url": "https://rrhh.uib.cat/documents/d/rrhh-public/terms-and-conditions_bases_angles_convtl-maig2026-pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uib"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-db7cf60f14b9",
+    "url": "https://www.unina.it/it/w/1_po_2026_24c6_15",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-401f2444d984",
+    "url": "https://www.unina.it/it/w/1_po_2026_24c6_10",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-99a53bcefc2b",
+    "url": "https://www.unina.it/it/w/1_pa_2026_24c6",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9956272d9f99",
+    "url": "https://www.unina.it/it/w/1_pa_2026_24c6_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f5455620e3e7",
+    "url": "https://www.unina.it/it/w/1_pa_2026_24c6_02",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1bb71734b3e6",
+    "url": "https://www.unina.it/it/w/r3_rtt_2026_06",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b2854fe66643",
+    "url": "https://www.unina.it/it/w/r4_rtt_2026_04",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5a5cb9dc723d",
+    "url": "https://www.unina.it/it/w/a2_rtt_2026_02",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-db117f5bac37",
+    "url": "https://www.unina.it/it/w/a3_rtt_2026_02",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-afa6a79cb4fe",
+    "url": "https://www.unina.it/it/w/rtt1_2026_dm193_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-235310598d2a",
+    "url": "https://www.unina.it/it/w/rtt1_2026_dm193",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-65d32a48e5dc",
+    "url": "https://www.unina.it/it/w/r4_rtt_2026_05",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-780d9e839792",
+    "url": "https://www.unina.it/it/w/r3_rtt_2026_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-232fe2ca7bf8",
+    "url": "https://www.unina.it/it/w/a2_rtt_2026_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ae8af93ac23c",
+    "url": "https://www.unina.it/it/w/r3_rtt_2026_05",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-936cf0dfad21",
+    "url": "https://www.unina.it/it/w/r3_rtt_2026_04",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c437055ba275",
+    "url": "https://www.unina.it/it/w/r4_rtt_2026_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-41a74b3e5b38",
+    "url": "https://www.unina.it/it/w/3_rtdb_2026_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1a7062e4f2ce",
+    "url": "https://www.unina.it/it/w/r5_rtt_2026_02",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ea266fb1d145",
+    "url": "https://www.unina.it/it/w/r5_rtt_2026_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9458e5a41167",
+    "url": "https://www.unina.it/it/w/r3_rtt_2026_07",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fa6fae1f89a3",
+    "url": "https://www.unina.it/it/w/r3_rtt_2026_03",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a66fedb80372",
+    "url": "https://www.unina.it/it/w/2_rtdb_2026_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f495c996dde5",
+    "url": "https://www.unina.it/it/w/e2_rtt_2026_03",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b9a7ad518f06",
+    "url": "https://www.unina.it/it/w/r3_rtt_2026_02",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8c1fbd8c4344",
+    "url": "https://www.unina.it/it/w/a2_rtt_2026_03",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fab9bf7b568f",
+    "url": "https://www.unina.it/it/w/r4_rtt_2026_03",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4cba0c5ecc83",
+    "url": "https://www.unina.it/it/w/r3_rtt_2026_08",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2e16662ca885",
+    "url": "https://www.unina.it/it/w/r4_rtt_2026_02",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ac875b9d2225",
+    "url": "https://www.unina.it/it/w/r4_rtt_2026",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e0fee49c1285",
+    "url": "https://www.unina.it/it/w/a3_rtt_2026",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-bb56d0925d54",
+    "url": "https://www.unina.it/it/w/3_rtdb_2026",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7f368a0cfb49",
+    "url": "https://www.unina.it/it/w/e2_rtt_2026",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6249d8ee7c6c",
+    "url": "https://www.unina.it/it/w/2_rtdb_2026",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-19a6034cd49f",
+    "url": "https://www.unina.it/it/w/e1_rtt_2026",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6b8915f0e8aa",
+    "url": "https://www.unina.it/it/w/r1_rtt_2026",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1b86a3b50509",
+    "url": "https://www.unina.it/it/w/a1_rtt_2026",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0da100ee63b6",
+    "url": "https://www.unina.it/it/w/r2_rtt_2026",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-46a212e176a9",
+    "url": "https://www.unina.it/it/w/1_rtdb_2026",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-67d3b085c1de",
+    "url": "https://www.unina.it/it/w/a3_rtt_2026_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ca255905e9a0",
+    "url": "https://www.unina.it/it/w/a3_rtt_2026_03",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d82705b24813",
+    "url": "https://www.unina.it/it/w/a1_rtt_2026_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a4bef3e8a084",
+    "url": "https://www.unina.it/it/w/r2_rtt_2026_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-62a017a517eb",
+    "url": "https://www.unina.it/it/w/e1_rtt_2026_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-44a95d49c908",
+    "url": "https://www.unina.it/it/w/r1_rtt_2026-copia-",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-62e2d3a13d83",
+    "url": "https://www.unina.it/it/w/r2_rtt_2026_02",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2a416e5a01b3",
+    "url": "https://www.unina.it/it/w/1_rtdb_2026_01",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9432eefb7a96",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3628/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-49460f6bf775",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3647/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-95db03b73420",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3651/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d6cdefbb9191",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3654/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-6b0884947a56",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3655/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-823ff09eacfc",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3656/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8a506e889dce",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3660/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-61705b68f2ca",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3679/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-49917b089a22",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3700/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e07b764e79ae",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3731/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-121e5d8cb7a6",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3750/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-64f77e467a41",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3791/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c94c79093945",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3806/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-15e552d9c75b",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3821/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8f5759158f0e",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3836/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f60cb7ca729c",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3843/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9429c8818df4",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3844/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-56f598858e09",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3851/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-255d7d96c759",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3886/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b50a6f8d0908",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3887/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-28e5d65a654b",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3927/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-46d5166f2a85",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3969/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-203e74960f63",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3977/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b0c12091089e",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3992/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-353e3406aa2d",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3993/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-99c0587d5a62",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/4024/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0ab39be1f1a1",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/4040/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-24fbdca47942",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/4134/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9edaee8c3573",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/4168/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5737c273b71c",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/4172/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-726c02b77e1a",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/4173/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b56453d30c59",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/4174/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d9eac8414350",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/4212/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-43e12e04a8e9",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/4246/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3201ea5fb01e",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/4247/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-aae3dd0e5e0f",
+    "url": "https://www.unina.it/documents/20117/4358381/1_PA_2026_24C6_bando.pdf/cfa91132-7d06-7812-16c5-c542b1a12a23?version=1.0&t=1772194200022",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-74ab2218d289",
+    "url": "https://www.unina.it/documents/20117/5708453/A2_RTT_2026_bando.pdf/3055ae83-4b44-294e-1c03-9887881626a5?version=1.0&t=1782815700023",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-646d20e90c3c",
+    "url": "https://www.unina.it/documents/20117/5727589/R4_RTT_2026_00_bando.pdf/95864a91-6be1-37bc-574d-c91b0cc4d4df?version=1.0&t=1783419000024",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-46d93fba1401",
+    "url": "https://www.unina.it/documents/20117/5707330/R3_RTT_2026_Bando.pdf/ff599e97-e662-207e-34fb-8d41c035273b?version=1.0&t=1782816900022",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-79b89acff5df",
+    "url": "https://www.unina.it/documents/20117/5773189/R5_RTT_2026_Bando.pdf/0a87875b-225b-47aa-e21b-0cb5c316a994?version=1.0&t=1784887800126",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fb6cc7a325c3",
+    "url": "https://www.unina.it/documents/20117/5728679/A3_RTT_2026_00_bando.pdf/d0d97143-5616-6ff9-81f3-c74e95b0e30f?version=1.0&t=1783421100019",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5967af5c9326",
+    "url": "https://www.unina.it/documents/20117/5727516/3_RTDB_2026_00_bando.pdf/22e13be0-bc2b-e530-f5d2-d9ee7d669327?version=1.0&t=1783419000020",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-af65e3318ce5",
+    "url": "https://www.unina.it/documents/20117/5702133/E2_RTT_2026_Bando.pdf/ca96948e-9772-540f-0d50-8973a959bb1c?version=1.0&t=1782816300023",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a90192c9ab2f",
+    "url": "https://www.unina.it/documents/20117/5702133/E2_RTT_2026_Rettifica_Bando.pdf/398d7572-73e7-756b-2a76-87987928e5cd?version=1.0&t=1782831600021",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d68de8e8d21c",
+    "url": "https://www.unina.it/documents/20117/5632480/2_RTDB_2026_00_bando.pdf/e535564e-85a3-d910-220a-b1a1d9a4357a?version=1.0&t=1780049400049",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-110d1d3ad2c6",
+    "url": "https://www.unina.it/documents/20117/5625584/E1_RTT_2026_00_bando.pdf/55e55ca2-0a3d-48c6-5592-ad15e2cc9088?version=1.0&t=1780049400041",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b1e84aab0e36",
+    "url": "https://www.unina.it/documents/20117/4012478/R1_RTT_2026_bando.pdf/80d77b20-71fc-5486-1c5b-3205890b9334?version=1.0&t=1769775000028",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b94862b18754",
+    "url": "https://www.unina.it/documents/20117/4012502/A1_RTT_2026_bando.pdf/d963c774-2891-50ad-b120-a765392bbc5e?version=1.0&t=1769775000038",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4b297a294586",
+    "url": "https://www.unina.it/documents/20117/4364202/R2_RTT_2026_bando.pdf/86f11b2b-8e47-8eff-3f33-e5f671b5c769?version=1.0&t=1772194200033",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-80bd487e6deb",
+    "url": "https://www.unina.it/documents/20117/4010510/1_RTDB_2026_bando.pdf/47689248-fef2-2199-dee9-474b591d46bb?version=1.0&t=1769775000035",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-722dddb9537a",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/3782/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4b871b1f8126",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/4135/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-34138346a5d7",
+    "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/4183/datafile/pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-72be71c27399",
+    "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostViewNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1&postId=18C31F6CE4A14220817A0BD825F38313UFJM",
+    "kind": "advertisement",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-72415b80ecb6",
+    "url": "https://www.srmap.edu.in/wp-content/uploads/2026/01/recruitment-ad-srmap.jpeg",
+    "kind": "advertisement",
+    "institutionIds": [
+      "srm-university-ap"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3a4d8e011c9a",
+    "url": "https://durham.taleo.net/careersection/du_ext/jobsearch.ftl",
+    "kind": "recruitment",
+    "institutionIds": [
+      "durham-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a3c2f20ad7b1",
+    "url": "https://jobs.unige.ch/www/wd_portal.show_page?p_web_page_id=5188",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-geneva"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a8d5d20a7abb",
+    "url": "https://jobs.villanova.edu/postings/search",
+    "kind": "recruitment",
+    "institutionIds": [
+      "villanova"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1cbb77ae56d2",
+    "url": "https://careers.uh.edu/jobs/search/uh-postings",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-houston"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7ffb63a49c0f",
+    "url": "https://ukjobs.uky.edu/postings/search",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-kentucky"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-cb80c27bcc17",
+    "url": "https://academicjobsonline.org/ajo?joblst-0-0-2687-0-g-----",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cornell-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1690330756df",
+    "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostViewNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1&postId=FE9BA2B521204952B3EA65BBF9729F1BCI9N",
+    "kind": "advertisement",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-bc163276ff89",
+    "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostViewNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1&postId=48B41C8040ED4D76939E0CEA3FB97378UG24",
+    "kind": "advertisement",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5ea6fa509f1c",
+    "url": "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/preview/26059/?keyword=physics",
+    "kind": "advertisement",
+    "institutionIds": [
+      "tennessee-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "cadenceDays": 7
   }
 ]

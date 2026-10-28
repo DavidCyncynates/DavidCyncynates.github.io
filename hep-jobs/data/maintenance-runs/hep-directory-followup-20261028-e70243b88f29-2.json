@@ -1,0 +1,585 @@
+{
+  "runId": "hep-directory-followup-20261028-e70243b88f29-2",
+  "startedAt": "2026-10-28T19:37:43Z",
+  "finishedAt": "2026-10-28T19:40:29Z",
+  "checks": [
+    {
+      "sourceId": "source-73757e2bbd64",
+      "checkedAt": "2026-10-28T19:37:43Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3190489"
+      ],
+      "summary": "Employer-submitted full advertisement read through the public API: dated August 13, 2026, CCSP foreign faculty in early-universe cosmology, structure formation and gravitational waves; explicit December 31, 2026 application deadline. Existing record unchanged.",
+      "coverage": "Complete advertisement body and metadata read; this is not a vacancy directory.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f303bd2d57f0",
+      "checkedAt": "2026-10-28T19:38:26.473Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.helsinki.fi/en/about-us/careers/open-positions"
+      ],
+      "summary": "No HEP/cosmology/adjacent or broad-physics faculty vacancy in the current central list. The only quantum-computing role is explicitly postdoctoral.",
+      "coverage": "Unfiltered current university vacancy list: all 24 positions inspected after activating Show more; no further results control remains visible.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "displayed": 24,
+        "total": 24,
+        "showMoreVisible": false
+      }
+    },
+    {
+      "sourceId": "source-e5ba42c53948",
+      "checkedAt": "2026-10-28T19:38:29.062741+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://v22.desy.de/e67416/records321660/index_eng.html"
+      ],
+      "summary": "MMA048/2026 is limited to two years, with no explicit faculty or permanent-track status; excluded from faculty map.",
+      "coverage": "Full DESY Accelerator Scientist vacancy. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a87b4b592edb",
+      "checkedAt": "2026-10-28T19:38:29.063187+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari/anno-2026"
+      ],
+      "summary": "One new archived full-professor search in experimental fundamental interactions; distinct from the RTT position.",
+      "coverage": "Complete 2026 full-professor index, sole 17-position call, all field entries and the PHYS-01/A annex.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No filter unless scope specifies year, department, or status; HEP/cosmology/adjacent/broad-physics faculty screen.",
+      "pagination": {
+        "calls": 1,
+        "positionsInMultifieldCall": 17,
+        "mode": "single year index"
+      }
+    },
+    {
+      "sourceId": "source-6f8979049a5a",
+      "checkedAt": "2026-10-28T19:38:29.063330+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026"
+      ],
+      "summary": "No additional relevant HEP faculty call; named RTT evaluations are internal promotions.",
+      "coverage": "Complete 2026 associate-professor index: all six linked pages, including internal RTT evaluations.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No filter unless scope specifies year, department, or status; HEP/cosmology/adjacent/broad-physics faculty screen.",
+      "pagination": {
+        "linkedPages": 6,
+        "mode": "single year index"
+      }
+    },
+    {
+      "sourceId": "source-aa384d63a25d",
+      "checkedAt": "2026-10-28T19:38:29.063454+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/arees/pdi/convocatories"
+      ],
+      "summary": "Faculty category reviewed; detailed gaps are retained in the institution assessment.",
+      "coverage": "All seven faculty categories linked from the PDI directory.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-b2f4431695c7",
+      "checkedAt": "2026-10-28T19:38:29.063576+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.uw.edu.pl/kategoria-praca/konkursy-na-stanowiska-nauczycieli-akademickich/"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a4f9a327d06f",
+      "checkedAt": "2026-10-28T19:38:29.281141+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.fuw.edu.pl/tl_files/praca/2026/2026-09-01_adiunkt_badawczo_dydaktyczny_IFT_WF-1210-16-2026_ENG_do_30-11-2026.pdf"
+      ],
+      "summary": "WF-1210-16/2026: two assistant professors, Nov 30 deadline; Oct 1 2027 start, 33 months with possibility of indefinite extension. Current department deadline takes precedence over stale central feed.",
+      "coverage": "All three pages of refreshed employer theoretical-physics faculty PDF. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-40995a62934a",
+      "checkedAt": "2026-10-28T19:38:29.313692+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtte-55d-1026-06/meds-16"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-d1718530446a",
+      "checkedAt": "2026-10-28T19:38:29.353628+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtte-47d-0926"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-aaf8d6030f54",
+      "checkedAt": "2026-10-28T19:38:29.582419+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtta-46d-0926"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5f2763bec065",
+      "checkedAt": "2026-10-28T19:38:29.613156+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-45d-0926"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c55a50a4f32c",
+      "checkedAt": "2026-10-28T19:38:29.844341+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttlr-44d-0926-09/iind-03"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b6912575d056",
+      "checkedAt": "2026-10-28T19:38:29.875467+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttar-30d-0726"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-0d9c182483b7",
+      "checkedAt": "2026-10-28T19:38:29.909335+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttap-29d-0726"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-fc4c467a3362",
+      "checkedAt": "2026-10-28T19:38:29.995762+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtta-24d-0426-05/bios-15"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b9347008c4e4",
+      "checkedAt": "2026-10-28T19:38:30.150161+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtte-19d-0426"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7c9493ca1200",
+      "checkedAt": "2026-10-28T19:38:30.152397+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtta-18d-0426"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-07d4dab53280",
+      "checkedAt": "2026-10-28T19:38:30.159384+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-17d-0426"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c225dcd4d203",
+      "checkedAt": "2026-10-28T19:38:30.181655+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-14d-0326-06/meds-05"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-72415b80ecb6",
+      "checkedAt": "2026-10-28T19:38:39.736Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.srmap.edu.in/wp-content/uploads/2026/01/recruitment-ad-srmap.jpeg"
+      ],
+      "summary": "Poster advertises Professor, Associate Professor and Assistant Professor across subjects including Physics, but explicitly requires online applications by February 15, 2026. This poster does not establish a new 2026–27 cycle or rolling opening; exclude it as a separate current-cycle job.",
+      "coverage": "Full recruitment poster read visually in browser.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f356ba203739",
+      "checkedAt": "2026-10-28T19:39:14.654774+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari/anno-2026/ords-42d-0926"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-65b6ae2acc55",
+      "checkedAt": "2026-10-28T19:39:14.655196+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026/assr-54d-1026-06meds-14"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e0dffef7479a",
+      "checkedAt": "2026-10-28T19:39:14.655353+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026/assr-43d-0926-09/iind-08"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ac0c1c7a8863",
+      "checkedAt": "2026-10-28T19:39:14.655497+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026/assr-39d-0926-09/iind-01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-fe12d0e99024",
+      "checkedAt": "2026-10-28T19:39:14.655652+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026/procedure-valutative-rtt"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-34ca91d5f4a7",
+      "checkedAt": "2026-10-28T19:39:14.958935+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026/assr-12d-0326-06/meds-19"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-21b824203eb2",
+      "checkedAt": "2026-10-28T19:39:14.961639+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026/assr-11d-0326"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ab72c72fbc91",
+      "checkedAt": "2026-10-28T19:39:14.965609+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/arees/pdi/convocatories/personal-docent-numerari"
+      ],
+      "summary": "Faculty category reviewed; detailed gaps are retained in the institution assessment.",
+      "coverage": "Current September 2026 civil-service professor call and Jan/March/May 2026 archive indices inspected; September full PDF and all accessible 2026 linked vacancy PDFs screened.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-23f5d90044ea",
+      "checkedAt": "2026-10-28T19:39:14.970003+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/arees/pdi/convocatories/ppl"
+      ],
+      "summary": "New archived theoretical-physics/astronomy permanent senior lecturer confirmed; no other relevant HEP role in the complete May list.",
+      "coverage": "Current May 2026 permanent lecturer list: all 14 PDF pages including every vacancy; January archive is explicitly2025–26.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesInLinkedVacancyPdf": 14,
+        "mode": "single category with linked complete PDF"
+      }
+    },
+    {
+      "sourceId": "source-fe1ebdbcaf1d",
+      "checkedAt": "2026-10-28T19:39:14.978773+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/arees/pdi/convocatories/ppl-estabilitzacio"
+      ],
+      "summary": "Faculty category reviewed; detailed gaps are retained in the institution assessment.",
+      "coverage": "Permanent-lecturer stabilisation category inspected; no relevant new current-cycle physics call identified in readable content.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-1c0c64698454",
+      "checkedAt": "2026-10-28T19:39:15.232522+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/arees/pdi/convocatories/ajudant-doctor-2"
+      ],
+      "summary": "Faculty category reviewed; detailed gaps are retained in the institution assessment.",
+      "coverage": "Current May 2026 assistant-lecturer category and official funding annex read; detailed vacancy annex is behind a certificate failure.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-a9c90677a3a6",
+      "checkedAt": "2026-10-28T19:39:15.763766+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/arees/pdi/convocatories/professorat-associat"
+      ],
+      "summary": "Faculty category reviewed; detailed gaps are retained in the institution assessment.",
+      "coverage": "Current October 2026 professional part-time associate category read; exact field annex is hosted on the certificate-blocked e-notice board.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-0ce0dfc75113",
+      "checkedAt": "2026-10-28T19:39:19.832419+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/arees/pdi/convocatories/professorat-associat-estabilitzacio"
+      ],
+      "summary": "Faculty category reviewed; detailed gaps are retained in the institution assessment.",
+      "coverage": "Current October 2026 associate stabilisation category read; detailed e-notice annex remains blocked.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-10800726e37d",
+      "checkedAt": "2026-10-28T19:39:20.819408+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/arees/pdi/convocatories/borses"
+      ],
+      "summary": "Faculty category reviewed; detailed gaps are retained in the institution assessment.",
+      "coverage": "Temporary teaching-cover employment pool category read; this is a pool rather than a research faculty search.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-ae909287852d",
+      "checkedAt": "2026-10-28T19:39:21.172371+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/podglad2/open/"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1669452fe79d",
+      "checkedAt": "2026-10-28T19:39:21.425387+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.fisica.unina.it/it_IT/chiamata-dei-professori"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ab908284c7b5",
+      "checkedAt": "2026-10-28T19:39:21.435451+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.fisica.unina.it/it_IT/tenure-track"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-149cf53edc12",
+      "checkedAt": "2026-10-28T19:39:58Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/AS/IoP"
+      ],
+      "summary": "Employer faculty index contains two entries: the existing 2026 faculty search and a theoretical nuclear/particle astrophysics postdoc. No additional faculty call.",
+      "coverage": "Entire employer IOP index: two entries on one unpaginated page.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 2,
+        "filters": "none"
+      }
+    },
+    {
+      "sourceId": "source-236c3105e6fe",
+      "checkedAt": "2026-10-28T19:39:58Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/page/3/"
+      ],
+      "summary": "Web reader returned cache miss; subsequently recovered through public HTTP.",
+      "coverage": "Attempted final archive page.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-437d3811a20b",
+      "checkedAt": "2026-10-28T19:40:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32236"
+      ],
+      "summary": "The faculty index links to the existing IOPF2026 faculty call; retained unchanged.",
+      "coverage": "Existing faculty advertisement linked from the fully reviewed employer index.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-2049783e7a38",
+      "checkedAt": "2026-10-28T19:40:29Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://web.iitm.ac.in/admin/opportunities.html"
+      ],
+      "summary": "Administrative careers page distinguishes faculty recruitment, non-teaching recruitment and an internal recruitment portal.",
+      "coverage": "Public navigation page only.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-6b95102e3231",
+      "checkedAt": "2026-10-28T19:40:29Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://facapp.iitm.ac.in/"
+      ],
+      "summary": "Public external-faculty index lists the 2026 rolling assistant-professor advertisement and explicitly says online application is closed.",
+      "coverage": "Entire current external faculty portal index; one call, no pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 1,
+        "filters": "none"
+      }
+    },
+    {
+      "sourceId": "source-7dc541b104d7",
+      "checkedAt": "2026-10-28T19:40:29Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/page/2/"
+      ],
+      "summary": "All ten entries read: September 2025 through November 2023, including external old faculty calls and postdocs/support/industry notices. No additional current-cycle NYCU faculty search.",
+      "coverage": "Complete page 2 of 3, ten entries.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 10,
+        "page": 2,
+        "totalPages": 3,
+        "filters": "none"
+      }
+    },
+    {
+      "sourceId": "source-9ba1ec81e1c4",
+      "checkedAt": "2026-10-28T19:40:29Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.iitm.ac.in/sites/default/files/Others/Faculty-Recruitment-handbook.pdf"
+      ],
+      "summary": "Web PDF reader rejected the file because it exceeds its content-length limit.",
+      "coverage": "Attempted recruitment handbook read.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    }
+  ],
+  "summary": "Follow-up institution-directory scan: recorded bounded reviews, access attempts and coverage gaps."
+}

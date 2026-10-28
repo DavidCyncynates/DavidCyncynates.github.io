@@ -1,0 +1,1823 @@
+{
+  "runId": "hep-directory-followup-20261028-e70243b88f29-5",
+  "startedAt": "2026-10-28T19:44:05.516Z",
+  "finishedAt": "2026-10-28T19:47:56.463Z",
+  "checks": [
+    {
+      "sourceId": "source-fad02182d75d",
+      "checkedAt": "2026-10-28T19:44:05.516Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.imperial.ac.uk/jobs/search-jobs/"
+      ],
+      "summary": "Bounded current physics, astronomy, and cosmology board review complete. One faculty opening: the already mapped Particle Physics search 29599. Remaining results are doctoral, postdoctoral, support, or unrelated research jobs.",
+      "coverage": "Browser queries completed for physics (all 14 results, Show more exhausted), astronomy (0), and cosmology (0).",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": {
+        "keywords": [
+          "physics",
+          "astronomy",
+          "cosmology"
+        ]
+      },
+      "pagination": {
+        "physics": 14,
+        "astronomy": 0,
+        "cosmology": 0
+      }
+    },
+    {
+      "sourceId": "source-786ae6bab197",
+      "checkedAt": "2026-10-28T19:44:11.307852+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/infotype/job_offer_announcement"
+      ],
+      "summary": "Existing theoretical-physics faculty opening retained. Astronomy matches are explicitly postdocs; other current physics matches are postdoctoral, doctoral or photonics. Feed has stale October 1 deadline for WF-1210-16/2026; newer department PDF explicitly gives November 30.",
+      "coverage": "Complete public feed, 2130 records, filtered to Physics(unit 5), Heavy Ion Laboratory(unit 30), Astronomical Observatory(unit 44), published status and deadlines in 2026 or 2027. All 38 matching PDFs screened; no server pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No filter unless scope specifies year, department, or status; HEP/cosmology/adjacent/broad-physics faculty screen.",
+      "pagination": {
+        "feedRecords": 2130,
+        "physicsPdfs": 35,
+        "astronomyPdfs": 3,
+        "heavyIonMatches": 0,
+        "mode": "single complete public JSON array"
+      }
+    },
+    {
+      "sourceId": "source-91be24b3b7ab",
+      "checkedAt": "2026-10-28T19:44:11.308265+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/terms-and-conditions_bases_angles_convtl-maig2026-pdf"
+      ],
+      "summary": "Supports rank, field, deadline or eligibility of the corresponding proposed addition.",
+      "coverage": "Official full vacancy list/terms PDF read for the proposed archived addition. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-db7cf60f14b9",
+      "checkedAt": "2026-10-28T19:44:11.308417+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/1_po_2026_24c6_15"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-401f2444d984",
+      "checkedAt": "2026-10-28T19:44:11.308556+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/1_po_2026_24c6_10"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-99a53bcefc2b",
+      "checkedAt": "2026-10-28T19:44:11.308677+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/1_pa_2026_24c6"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-9956272d9f99",
+      "checkedAt": "2026-10-28T19:44:11.729614+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/1_pa_2026_24c6_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f5455620e3e7",
+      "checkedAt": "2026-10-28T19:44:11.758185+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/1_pa_2026_24c6_02"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1bb71734b3e6",
+      "checkedAt": "2026-10-28T19:44:11.813816+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r3_rtt_2026_06"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b2854fe66643",
+      "checkedAt": "2026-10-28T19:44:12.191903+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r4_rtt_2026_04"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5a5cb9dc723d",
+      "checkedAt": "2026-10-28T19:44:12.236156+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/a2_rtt_2026_02"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-db117f5bac37",
+      "checkedAt": "2026-10-28T19:44:12.244470+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/a3_rtt_2026_02"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-afa6a79cb4fe",
+      "checkedAt": "2026-10-28T19:44:12.426173+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/rtt1_2026_dm193_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-235310598d2a",
+      "checkedAt": "2026-10-28T19:44:12.553984+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/rtt1_2026_dm193"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-65d32a48e5dc",
+      "checkedAt": "2026-10-28T19:44:12.616225+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r4_rtt_2026_05"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-780d9e839792",
+      "checkedAt": "2026-10-28T19:44:12.670322+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r3_rtt_2026_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-232fe2ca7bf8",
+      "checkedAt": "2026-10-28T19:44:12.707066+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/a2_rtt_2026_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ae8af93ac23c",
+      "checkedAt": "2026-10-28T19:44:12.852687+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r3_rtt_2026_05"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-936cf0dfad21",
+      "checkedAt": "2026-10-28T19:44:12.954371+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r3_rtt_2026_04"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c437055ba275",
+      "checkedAt": "2026-10-28T19:44:13.029451+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r4_rtt_2026_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-41a74b3e5b38",
+      "checkedAt": "2026-10-28T19:44:13.070397+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/3_rtdb_2026_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1a7062e4f2ce",
+      "checkedAt": "2026-10-28T19:44:13.138041+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r5_rtt_2026_02"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ea266fb1d145",
+      "checkedAt": "2026-10-28T19:44:13.290990+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r5_rtt_2026_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-9458e5a41167",
+      "checkedAt": "2026-10-28T19:44:13.388880+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r3_rtt_2026_07"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-fa6fae1f89a3",
+      "checkedAt": "2026-10-28T19:44:13.472128+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r3_rtt_2026_03"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a66fedb80372",
+      "checkedAt": "2026-10-28T19:44:13.504893+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/2_rtdb_2026_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f495c996dde5",
+      "checkedAt": "2026-10-28T19:44:13.602463+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/e2_rtt_2026_03"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b9a7ad518f06",
+      "checkedAt": "2026-10-28T19:44:13.717065+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r3_rtt_2026_02"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8c1fbd8c4344",
+      "checkedAt": "2026-10-28T19:44:13.799505+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/a2_rtt_2026_03"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-fab9bf7b568f",
+      "checkedAt": "2026-10-28T19:44:13.885466+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r4_rtt_2026_03"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-4cba0c5ecc83",
+      "checkedAt": "2026-10-28T19:44:13.903906+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r3_rtt_2026_08"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-2e16662ca885",
+      "checkedAt": "2026-10-28T19:44:14.018285+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r4_rtt_2026_02"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7bf52b9703d7",
+      "checkedAt": "2026-10-28T19:44:14.135052+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r5_rtt_2026"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ac875b9d2225",
+      "checkedAt": "2026-10-28T19:44:14.176300+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r4_rtt_2026"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e0fee49c1285",
+      "checkedAt": "2026-10-28T19:44:14.323956+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/a3_rtt_2026"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-bb56d0925d54",
+      "checkedAt": "2026-10-28T19:44:14.343939+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/3_rtdb_2026"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7f368a0cfb49",
+      "checkedAt": "2026-10-28T19:44:14.417155+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/e2_rtt_2026"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-6249d8ee7c6c",
+      "checkedAt": "2026-10-28T19:44:14.586953+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/2_rtdb_2026"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-19a6034cd49f",
+      "checkedAt": "2026-10-28T19:44:14.602297+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/e1_rtt_2026"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-6b8915f0e8aa",
+      "checkedAt": "2026-10-28T19:44:14.697091+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r1_rtt_2026"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1b86a3b50509",
+      "checkedAt": "2026-10-28T19:44:14.704405+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/a1_rtt_2026"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-0da100ee63b6",
+      "checkedAt": "2026-10-28T19:44:14.829161+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r2_rtt_2026"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-46a212e176a9",
+      "checkedAt": "2026-10-28T19:44:14.973060+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/1_rtdb_2026"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-67d3b085c1de",
+      "checkedAt": "2026-10-28T19:44:14.979799+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/a3_rtt_2026_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ca255905e9a0",
+      "checkedAt": "2026-10-28T19:44:15.077564+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/a3_rtt_2026_03"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-d82705b24813",
+      "checkedAt": "2026-10-28T19:44:15.100170+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/a1_rtt_2026_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a4bef3e8a084",
+      "checkedAt": "2026-10-28T19:44:15.220678+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r2_rtt_2026_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-62a017a517eb",
+      "checkedAt": "2026-10-28T19:44:15.382838+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/e1_rtt_2026_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-44a95d49c908",
+      "checkedAt": "2026-10-28T19:44:15.395603+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r1_rtt_2026-copia-"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-62e2d3a13d83",
+      "checkedAt": "2026-10-28T19:44:15.500421+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r2_rtt_2026_02"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-2a416e5a01b3",
+      "checkedAt": "2026-10-28T19:44:15.577885+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/1_rtdb_2026_01"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-2e73a33989ed",
+      "checkedAt": "2026-10-28T19:44:25.936Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29040&jobTitle=Assistant+%2F+Associate+Professor+in+Data-Intensive+Physics+and+AI"
+      ],
+      "summary": "The employer explicitly states that this job posting has expired. The original closing time is no longer displayed. This confirms closure without establishing the meaning of the old October 19 metadata date.",
+      "coverage": "Official job detail rendered in the browser.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a42ddf0e6cd1",
+      "checkedAt": "2026-10-28T19:44:49.206Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.berufungsportal.rwth-aachen.de/"
+      ],
+      "summary": "The only current public position is Architecture: Structure Material Resource, W2 with tenure track to W3, deadline November 15, 2026. No physics vacancy appears in this bounded professor appointment list.",
+      "coverage": "All public Available Positions cards read: one card and no pagination or filter controls.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "displayed": 1,
+        "total": 1
+      }
+    },
+    {
+      "sourceId": "source-9432eefb7a96",
+      "checkedAt": "2026-10-28T19:45:02.348309+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3628/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-49460f6bf775",
+      "checkedAt": "2026-10-28T19:45:02.348991+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3647/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-95db03b73420",
+      "checkedAt": "2026-10-28T19:45:02.349163+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3651/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-d6cdefbb9191",
+      "checkedAt": "2026-10-28T19:45:02.349323+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3654/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-6b0884947a56",
+      "checkedAt": "2026-10-28T19:45:02.349457+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3655/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-823ff09eacfc",
+      "checkedAt": "2026-10-28T19:45:02.874386+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3656/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8a506e889dce",
+      "checkedAt": "2026-10-28T19:45:02.901170+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3660/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-61705b68f2ca",
+      "checkedAt": "2026-10-28T19:45:02.910459+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3679/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-49917b089a22",
+      "checkedAt": "2026-10-28T19:45:02.925583+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3700/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e07b764e79ae",
+      "checkedAt": "2026-10-28T19:45:03.114760+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3731/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-121e5d8cb7a6",
+      "checkedAt": "2026-10-28T19:45:03.484265+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3750/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-64f77e467a41",
+      "checkedAt": "2026-10-28T19:45:03.566591+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3791/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c94c79093945",
+      "checkedAt": "2026-10-28T19:45:03.599579+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3806/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-15e552d9c75b",
+      "checkedAt": "2026-10-28T19:45:03.709476+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3821/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8f5759158f0e",
+      "checkedAt": "2026-10-28T19:45:03.751554+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3836/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f60cb7ca729c",
+      "checkedAt": "2026-10-28T19:45:04.014607+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3843/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-9429c8818df4",
+      "checkedAt": "2026-10-28T19:45:04.174659+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3844/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-56f598858e09",
+      "checkedAt": "2026-10-28T19:45:04.180819+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3851/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-255d7d96c759",
+      "checkedAt": "2026-10-28T19:45:04.233204+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3886/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b50a6f8d0908",
+      "checkedAt": "2026-10-28T19:45:04.345518+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3887/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-28e5d65a654b",
+      "checkedAt": "2026-10-28T19:45:04.697282+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3927/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-46d5166f2a85",
+      "checkedAt": "2026-10-28T19:45:04.793597+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3969/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-203e74960f63",
+      "checkedAt": "2026-10-28T19:45:04.833099+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3977/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b0c12091089e",
+      "checkedAt": "2026-10-28T19:45:04.845613+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3992/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-353e3406aa2d",
+      "checkedAt": "2026-10-28T19:45:04.871047+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3993/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-99c0587d5a62",
+      "checkedAt": "2026-10-28T19:45:05.316783+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/4024/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-0ab39be1f1a1",
+      "checkedAt": "2026-10-28T19:45:05.375097+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/4040/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-24fbdca47942",
+      "checkedAt": "2026-10-28T19:45:05.381946+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/4134/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-9edaee8c3573",
+      "checkedAt": "2026-10-28T19:45:05.396439+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/4168/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5737c273b71c",
+      "checkedAt": "2026-10-28T19:45:05.482707+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/4172/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-726c02b77e1a",
+      "checkedAt": "2026-10-28T19:45:05.935942+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/4173/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b56453d30c59",
+      "checkedAt": "2026-10-28T19:45:05.936120+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/4174/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-d9eac8414350",
+      "checkedAt": "2026-10-28T19:45:05.957228+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/4212/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-43e12e04a8e9",
+      "checkedAt": "2026-10-28T19:45:05.963514+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/4246/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-3201ea5fb01e",
+      "checkedAt": "2026-10-28T19:45:06.019595+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/4247/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c132bbe00c29",
+      "checkedAt": "2026-10-28T19:45:40.218Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://icc.ub.edu/job-offers"
+      ],
+      "summary": "ICCUB board could not be inspected in browser.",
+      "coverage": "Browser navigation timed out; no vacancy content available.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-3a195e767849",
+      "checkedAt": "2026-10-28T19:46:08+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://lsu.wd1.myworkdayjobs.com/en-US/LSU/job/Open-Rank--Tenure-track-Assistant-Professor--Tenure-track-Associate-Professor-or-Professor--Theoretical-Gravity-Physics-_R00121003"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-8c5c64b731c6",
+      "checkedAt": "2026-10-28T19:46:08+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.lsu.edu/science/quantum-hires.php"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-f8065ee40210",
+      "checkedAt": "2026-10-28T19:46:08+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://astronomy.osu.edu/"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-f8e1657b9b86",
+      "checkedAt": "2026-10-28T19:46:08+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobs.wm.edu/"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-aae3dd0e5e0f",
+      "checkedAt": "2026-10-28T19:46:15.688563+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/4358381/1_PA_2026_24C6_bando.pdf/cfa91132-7d06-7812-16c5-c542b1a12a23?version=1.0&t=1772194200022"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-74ab2218d289",
+      "checkedAt": "2026-10-28T19:46:15.689017+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/5708453/A2_RTT_2026_bando.pdf/3055ae83-4b44-294e-1c03-9887881626a5?version=1.0&t=1782815700023"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-646d20e90c3c",
+      "checkedAt": "2026-10-28T19:46:15.689231+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/5727589/R4_RTT_2026_00_bando.pdf/95864a91-6be1-37bc-574d-c91b0cc4d4df?version=1.0&t=1783419000024"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-46d93fba1401",
+      "checkedAt": "2026-10-28T19:46:15.689389+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/5707330/R3_RTT_2026_Bando.pdf/ff599e97-e662-207e-34fb-8d41c035273b?version=1.0&t=1782816900022"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-79b89acff5df",
+      "checkedAt": "2026-10-28T19:46:15.689538+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/5773189/R5_RTT_2026_Bando.pdf/0a87875b-225b-47aa-e21b-0cb5c316a994?version=1.0&t=1784887800126"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-fb6cc7a325c3",
+      "checkedAt": "2026-10-28T19:46:15.999817+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/5728679/A3_RTT_2026_00_bando.pdf/d0d97143-5616-6ff9-81f3-c74e95b0e30f?version=1.0&t=1783421100019"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5967af5c9326",
+      "checkedAt": "2026-10-28T19:46:16.015109+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/5727516/3_RTDB_2026_00_bando.pdf/22e13be0-bc2b-e530-f5d2-d9ee7d669327?version=1.0&t=1783419000020"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-af65e3318ce5",
+      "checkedAt": "2026-10-28T19:46:16.018138+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/5702133/E2_RTT_2026_Bando.pdf/ca96948e-9772-540f-0d50-8973a959bb1c?version=1.0&t=1782816300023"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a90192c9ab2f",
+      "checkedAt": "2026-10-28T19:46:16.044296+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/5702133/E2_RTT_2026_Rettifica_Bando.pdf/398d7572-73e7-756b-2a76-87987928e5cd?version=1.0&t=1782831600021"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-d68de8e8d21c",
+      "checkedAt": "2026-10-28T19:46:16.049164+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/5632480/2_RTDB_2026_00_bando.pdf/e535564e-85a3-d910-220a-b1a1d9a4357a?version=1.0&t=1780049400049"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-110d1d3ad2c6",
+      "checkedAt": "2026-10-28T19:46:16.327192+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/5625584/E1_RTT_2026_00_bando.pdf/55e55ca2-0a3d-48c6-5592-ad15e2cc9088?version=1.0&t=1780049400041"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b1e84aab0e36",
+      "checkedAt": "2026-10-28T19:46:16.354275+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/4012478/R1_RTT_2026_bando.pdf/80d77b20-71fc-5486-1c5b-3205890b9334?version=1.0&t=1769775000028"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b94862b18754",
+      "checkedAt": "2026-10-28T19:46:16.362721+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/4012502/A1_RTT_2026_bando.pdf/d963c774-2891-50ad-b120-a765392bbc5e?version=1.0&t=1769775000038"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-4b297a294586",
+      "checkedAt": "2026-10-28T19:46:16.407572+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/4364202/R2_RTT_2026_bando.pdf/86f11b2b-8e47-8eff-3f33-e5f671b5c769?version=1.0&t=1772194200033"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-80bd487e6deb",
+      "checkedAt": "2026-10-28T19:46:16.664521+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/documents/20117/4010510/1_RTDB_2026_bando.pdf/47689248-fef2-2199-dee9-474b591d46bb?version=1.0&t=1769775000035"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-54bb3190809b",
+      "checkedAt": "2026-10-28T19:46:17+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Assistant-Associate-Professor-in-Astronomy_R159581-1"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-e204f82ac576",
+      "checkedAt": "2026-10-28T19:46:23+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/33132"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-5cfd36028bdc",
+      "checkedAt": "2026-10-28T19:46:32+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/2d1b76f2"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-702548789c63",
+      "checkedAt": "2026-10-28T19:46:32+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/a5ed92fc"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-96474dc3f22f",
+      "checkedAt": "2026-10-28T19:46:32+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/210c5bdf"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-da3f7d1a5ab3",
+      "checkedAt": "2026-10-28T19:46:32+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/57dd4cbb"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-7428befd0371",
+      "checkedAt": "2026-10-28T19:46:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ccapp.osu.edu/"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-7b517efd0c59",
+      "checkedAt": "2026-10-28T19:46:42+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/William%26Mary"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-e47c08c8b197",
+      "checkedAt": "2026-10-28T19:46:42+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/OhioState"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Entire Ohio State AJO list, six entries: three Physics faculty calls, CCAPP postdoctoral fellowship and two Anthropology calls. The faculty titles screened; Astronomy itself is not represented in this list.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true,
+        "filters": "Relevant faculty vacancies within the explicitly stated list scope"
+      },
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-f3922c55ae38",
+      "checkedAt": "2026-10-28T19:46:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://astronomy.utexas.edu/"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-4d47c0e1d054",
+      "checkedAt": "2026-10-28T19:47:06+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://astronomy.utexas.edu/info-faculty-staff"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-89dd08352d1f",
+      "checkedAt": "2026-10-28T19:47:06+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://astro.uchicago.edu/"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-aeaee72997fa",
+      "checkedAt": "2026-10-28T19:47:06+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.ictp-saifr.org/"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "The institute homepage Jobs navigation is the named vacancy list: Simons-FAPESP Research Professor and Scientific Visits. The faculty body was read; visits are outside faculty scope. No pagination or other Jobs entries. This scope excludes separate IFT/UNESP-wide competitions.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true,
+        "filters": "Relevant faculty vacancies within the explicitly stated list scope"
+      },
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-c20571552e35",
+      "checkedAt": "2026-10-28T19:47:06+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.jmu.edu/physics/employment-opps.shtml"
+      ],
+      "summary": "January 2026 page still claims no current vacancies despite an October 2026 employer AJO advertisement. No closure inferred.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-e988b7682394",
+      "checkedAt": "2026-10-28T19:47:06+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://ccapp.osu.edu/about/jobs-and-opportunities"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Entire CCAPP Jobs and Opportunities page, only postdoctoral fellowship advertised; ordinary postdoc excluded. No pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true,
+        "filters": "Relevant faculty vacancies within the explicitly stated list scope"
+      },
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-722dddb9537a",
+      "checkedAt": "2026-10-28T19:47:09.218976+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3782/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-4b871b1f8126",
+      "checkedAt": "2026-10-28T19:47:09.219489+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/4135/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-34138346a5d7",
+      "checkedAt": "2026-10-28T19:47:09.219632+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/4183/datafile/pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a3071aae25d7",
+      "checkedAt": "2026-10-28T19:47:18+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.ictp-saifr.org/scientific-visit/"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-2a0497a7a4c4",
+      "checkedAt": "2026-10-28T19:47:26+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.ictp-saifr.org/simonsfapesp2026/"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-afc6d7a9f201",
+      "checkedAt": "2026-10-28T19:47:26+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/Vanderbilt"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-e5060b9e0326",
+      "checkedAt": "2026-10-28T19:47:26+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.utexas.edu/"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-f8c2803b1978",
+      "checkedAt": "2026-10-28T19:47:26+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://astrophysics.uchicago.edu/about/job-opportunities/"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single Astronomy and Astrophysics faculty list, all four rank-specific links for Extreme Universe and Origins of Life; equivalent employer-authored AJO/AAS bodies read where Interfolio was blank.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true,
+        "filters": "Relevant faculty vacancies within the explicitly stated list scope"
+      },
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-ad10676e71e3",
+      "checkedAt": "2026-10-28T19:47:34.697Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://employment.ku.dk/faculty/"
+      ],
+      "summary": "The official faculty portal could not be read in this attempt.",
+      "coverage": "Browser returned connection timeout; no faculty-list content.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-2685a30776be",
+      "checkedAt": "2026-10-28T19:47:35+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/192963"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-5ed7eddddc25",
+      "checkedAt": "2026-10-28T19:47:35+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.utexas.edu/about-overview/faculty-recruiting"
+      ],
+      "summary": "Page says there are no open faculty positions, in conflict with current catalogued advertisements; no closure inferred.",
+      "coverage": "Entire one-page Physics faculty-recruiting page read, but apparent stale/incomplete content prevents current-list completion.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-77ee45d40683",
+      "checkedAt": "2026-10-28T19:47:35+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/192965"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-d523655dabc8",
+      "checkedAt": "2026-10-28T19:47:35+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/9ba8483a"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-e8812febb2d0",
+      "checkedAt": "2026-10-28T19:47:35+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/192968"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-eb424c0dd23f",
+      "checkedAt": "2026-10-28T19:47:35+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/192971"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-f3f2af2d0966",
+      "checkedAt": "2026-10-28T19:47:35+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/8852332e"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-341497733aff",
+      "checkedAt": "2026-10-28T19:47:51+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32858"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-d9818668a6ec",
+      "checkedAt": "2026-10-28T19:47:51+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32618"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-de60cbacd041",
+      "checkedAt": "2026-10-28T19:47:51+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32960"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-eaba48dae837",
+      "checkedAt": "2026-10-28T19:47:51+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://physics.uchicago.edu/about/job-opportunities/"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single Physics faculty list, both assistant and tenured associate theoretical-physics searches; both employer AJO bodies read, postdoctoral and student sections excluded.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true,
+        "filters": "Relevant faculty vacancies within the explicitly stated list scope"
+      },
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-3a4d8e011c9a",
+      "checkedAt": "2026-10-28T19:47:56.463Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://durham.taleo.net/careersection/du_ext/jobsearch.ftl"
+      ],
+      "summary": "The only physics research role is a postdoctoral associate in quantum light and matter; the second match is an IT apprentice. No faculty vacancy in this query.",
+      "coverage": "Keyword physics returned two results, both read; page 1 of 1, Next disabled.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": {
+        "keyword": "physics"
+      }
+    }
+  ],
+  "summary": "Follow-up institution-directory scan: recorded bounded reviews, access attempts and coverage gaps."
+}

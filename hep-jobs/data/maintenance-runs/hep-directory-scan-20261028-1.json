@@ -1,0 +1,3934 @@
+{
+  "runId": "hep-directory-scan-20261028-1",
+  "startedAt": "2026-10-28T19:12:30+00:00",
+  "finishedAt": "2026-10-28T19:32:30.882706+00:00",
+  "checks": [
+    {
+      "sourceId": "source-b27bf6c77cc4",
+      "checkedAt": "2026-10-28T19:12:30+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.binghamton.edu/academics/provost/faculty-resources/employment.html"
+      ],
+      "summary": "Read university list; both detailed physics links returned HTTP 403.",
+      "coverage": "All current faculty-vacancy entries; Physics subsection contains HEP/cosmology assistant professor and physics lecturer. One page, no pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-3e4dc1230661",
+      "checkedAt": "2026-10-28T19:12:30+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://applications.caltech.edu/jobs"
+      ],
+      "summary": "One broad experimental/theoretical physics search is already catalogued.",
+      "coverage": "All faculty entries on the single Caltech positions page; physics and adjacent fields screened; postdoctoral, instructor and non-physics searches excluded.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-7817c7cc3bf7",
+      "checkedAt": "2026-10-28T19:12:30+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.cmu.edu/astro-cosmology/people/index.html"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-b006131a9ea0",
+      "checkedAt": "2026-10-28T19:12:30+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.cmu.edu/faculty-office/prospective/faculty-careers/"
+      ],
+      "summary": "Found existing astrophysics assistant search and a distinct senior McWilliams director search; detailed Interfolio pages unreadable.",
+      "coverage": "Single university faculty-careers list, Physics subsection and other section headings screened; all three Physics entries assessed by title and appointment type.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-e1e02a466f35",
+      "checkedAt": "2026-10-28T19:12:30+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.astro.cornell.edu"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-2a9f96ccebf3",
+      "checkedAt": "2026-10-28T19:12:30+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3198864"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-2da2fc47b426",
+      "checkedAt": "2026-10-28T19:12:30+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://hr.gatech.edu/careers"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-f70fc5b4d2fe",
+      "checkedAt": "2026-10-28T19:12:30+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.gatech.edu/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-437d3811a20b",
+      "checkedAt": "2026-10-28T19:12:54Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32236"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-02b3e5972587",
+      "checkedAt": "2026-10-28T19:12:54Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/29810"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-0a4852140122",
+      "checkedAt": "2026-10-28T19:12:54Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/29808"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b49e390adb23",
+      "checkedAt": "2026-10-28T19:12:54Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/29809"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c1a5488a47c1",
+      "checkedAt": "2026-10-28T19:12:54Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://facapp.iitm.ac.in/2026ra/"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-3d9c9a305a95",
+      "checkedAt": "2026-10-28T19:12:54Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-91cad0559e95",
+      "checkedAt": "2026-10-28T19:12:54Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://english.ihep.cas.cn/ju/jo/index.html"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-871d432d25ec",
+      "checkedAt": "2026-10-28T19:12:54Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.iopb.res.in/job-opening/"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-1504cbd84660",
+      "checkedAt": "2026-10-28T19:12:54Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3181469"
+      ],
+      "summary": "INSPIRE page returned only JavaScript application shell; no advertisement body.",
+      "coverage": "Attempted supplied source; no vacancy conclusion from this access failure.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-2a0497a7a4c4",
+      "checkedAt": "2026-10-28T19:13:01+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.ictp-saifr.org/simonsfapesp2026/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-aeaee72997fa",
+      "checkedAt": "2026-10-28T19:13:01+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.ictp-saifr.org/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-7351354ac384",
+      "checkedAt": "2026-10-28T19:13:01+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.jmu.edu/physics/index.shtml"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-de60cbacd041",
+      "checkedAt": "2026-10-28T19:13:01+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32960"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8afad470e8a7",
+      "checkedAt": "2026-10-28T19:13:01+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3215688"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-2e8b4d085694",
+      "checkedAt": "2026-10-28T19:13:01+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.lsu.edu/physics/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-be8a49d2a900",
+      "checkedAt": "2026-10-28T19:13:01+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.lsu.edu/hrm/careers/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-35f6965f0963",
+      "checkedAt": "2026-10-28T19:13:05Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.iopb.res.in/job_opening/hep-faculty-advertisement/"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c4ac888fa0a5",
+      "checkedAt": "2026-10-28T19:13:05Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.kek.jp/en/career/ipns26-1e"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-eca436765c3c",
+      "checkedAt": "2026-10-28T19:13:05Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.kek.jp/en/career/accl-26-5e"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c94dbc10d72c",
+      "checkedAt": "2026-10-28T19:13:05Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.kek.jp/en/career/accl26-4e"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-4f3e96e77a34",
+      "checkedAt": "2026-10-28T19:13:05Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.ipmu.jp/en/job-opportunities"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-746beb9c0b1b",
+      "checkedAt": "2026-10-28T19:13:05Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32429"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-23b8ab2e6730",
+      "checkedAt": "2026-10-28T19:13:05Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://phys.ntu.edu.tw/News_Content_n_39670_s_264091.html"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f149cb86e5f4",
+      "checkedAt": "2026-10-28T19:13:05Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.phys.ntu.edu.tw/enphysics/Default.html"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-d06c4534a738",
+      "checkedAt": "2026-10-28T19:13:11+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/job-opportunities/"
+      ],
+      "summary": "Faculty theoretical-physics search already present; postdoctoral search excluded.",
+      "coverage": "CTP single opportunities page; faculty and postdoctoral sections inspected.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-fbd0cce5ef6d",
+      "checkedAt": "2026-10-28T19:13:11+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://physics.mit.edu/about-physics/employment-opportunities/"
+      ],
+      "summary": "Existing theory search retained; precision/AMO search documented separately as adjacent-scope lead.",
+      "coverage": "Single physics employment list; both faculty searches inspected (theoretical physics and experimental quantum science). No faculty-list pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-76b9168ae78b",
+      "checkedAt": "2026-10-28T19:13:11+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.physics.mcgill.ca/pos/"
+      ],
+      "summary": "Current astrophysics search already represented.",
+      "coverage": "Single physics faculty-positions page; both faculty entries screened, astrophysics detail followed; theoretical biophysics is outside this catalog scope.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-92298534f83f",
+      "checkedAt": "2026-10-28T19:13:11+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/PennState"
+      ],
+      "summary": "No duplicate added for separate assistant and senior-rank advertisements.",
+      "coverage": "All five employer AJO entries; two Physics faculty advertisements read and recognised as rank-specific postings for one broad search; other entries screened. Single page.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-f55836612e80",
+      "checkedAt": "2026-10-28T19:13:11+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.scrippscollege.edu/hr/faculty"
+      ],
+      "summary": "Existing astrophysics search retained.",
+      "coverage": "Single current Scripps faculty vacancy index, all entries screened for joint Pitzer/Scripps Natural Sciences astrophysics; linked current astrophysics advertisement read.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-72ddb0dd1611",
+      "checkedAt": "2026-10-28T19:13:11+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.physics.purdue.edu/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-748b937d1a45",
+      "checkedAt": "2026-10-28T19:13:11+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32648"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-6acec7cd59f6",
+      "checkedAt": "2026-10-28T19:13:11+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.rice.edu"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-30e387666a6b",
+      "checkedAt": "2026-10-28T19:13:14Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://phys.site.nthu.edu.tw/"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-3b98e68ca141",
+      "checkedAt": "2026-10-28T19:13:14Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://phys.nycu.edu.tw/faculty-position-iop-nycu/"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-28440de2153b",
+      "checkedAt": "2026-10-28T19:13:14Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3190489"
+      ],
+      "summary": "INSPIRE page returned only JavaScript application shell; no advertisement body.",
+      "coverage": "Attempted supplied source; no vacancy conclusion from this access failure.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f66d39ba00db",
+      "checkedAt": "2026-10-28T19:13:14Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.srmap.edu.in/careers/"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-1d920f643fd8",
+      "checkedAt": "2026-10-28T19:13:14Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.shinshu-u.ac.jp/faculty/science/others/assets/92832d2b77bb4a17439347ad5bddff93.pdf"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-3ba051a37ffe",
+      "checkedAt": "2026-10-28T19:13:14Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.theory.tifr.res.in/jobs.html"
+      ],
+      "summary": "Request timed out. Non-www equivalent was read successfully.",
+      "coverage": "Attempted supplied source; no vacancy conclusion from this access failure.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-70fdadc86184",
+      "checkedAt": "2026-10-28T19:13:14Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://main.tifr.res.in/portal/work_at_tifr.php"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-87c516b49d2a",
+      "checkedAt": "2026-10-28T19:13:14Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.tifr.res.in/dhep/facultyPositions.php"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-909384e028d2",
+      "checkedAt": "2026-10-28T19:13:14Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://theory.tifr.res.in/jobs.html"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-e54e87259020",
+      "checkedAt": "2026-10-28T19:13:14Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.tifr.res.in/positions"
+      ],
+      "summary": "Page extraction rejected content larger than 4 MiB.",
+      "coverage": "Attempted supplied source; no vacancy conclusion from this access failure.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f6f752d12e95",
+      "checkedAt": "2026-10-28T19:13:14Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://main.tifr.res.in/maincampus/careers.php"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-655be499317c",
+      "checkedAt": "2026-10-28T19:13:23Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32304"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-34132fb1d163",
+      "checkedAt": "2026-10-28T19:13:23Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.uct.ac.za/staff/general-vacancies"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-71efdfb858a2",
+      "checkedAt": "2026-10-28T19:13:23Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://science.uct.ac.za/department-physics"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-819437de9adb",
+      "checkedAt": "2026-10-28T19:13:23Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://jobs.uct.ac.za/search"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-4f0e6e41aa51",
+      "checkedAt": "2026-10-28T19:13:23Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.haifa.ac.il/2026/07/19/tenure-track-position-in-physics-2027/?lang=en"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-39d73d0166b6",
+      "checkedAt": "2026-10-28T19:13:23Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career"
+      ],
+      "summary": "Web extraction returned an empty page; subsequently resolved with browser pagination.",
+      "coverage": "Attempted supplied source; no vacancy conclusion from this access failure.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e1c911449308",
+      "checkedAt": "2026-10-28T19:13:23Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://about.unimelb.edu.au/careers"
+      ],
+      "summary": "Read supplied source. Current factual records retained; individual advertisements do not establish directory completion.",
+      "coverage": "Supplied URL body inspected; completed list scope is recorded separately where established.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-2ed4d1c5d8be",
+      "checkedAt": "2026-10-28T19:13:23Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3129038"
+      ],
+      "summary": "INSPIRE page returned only JavaScript application shell; no advertisement body.",
+      "coverage": "Attempted supplied source; no vacancy conclusion from this access failure.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-24d351b75b24",
+      "checkedAt": "2026-10-28T19:13:33+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.physics.smu.edu/"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-dcd62b1d3882",
+      "checkedAt": "2026-10-28T19:13:33+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32733"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ac612f46fb18",
+      "checkedAt": "2026-10-28T19:13:33+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobs.tntech.edu/"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-030e4d153662",
+      "checkedAt": "2026-10-28T19:13:33+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.osu.edu/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-36b7365a3a1d",
+      "checkedAt": "2026-10-28T19:13:33+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://osu.wd1.myworkdayjobs.com/OSUCareers"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-f3c91565265f",
+      "checkedAt": "2026-10-28T19:13:33+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3188903"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-9bd8d381afe7",
+      "checkedAt": "2026-10-28T19:13:33+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3198780"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7eb77c7b3c38",
+      "checkedAt": "2026-10-28T19:13:33+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://portal.if.usp.br/ataac/pt-br/node/8208"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8c8795b0b835",
+      "checkedAt": "2026-10-28T19:13:33+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-d001bba37d5a",
+      "checkedAt": "2026-10-28T19:13:33+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://portal.if.usp.br/ataac/pt-br/node/8209"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-29d281c2334d",
+      "checkedAt": "2026-10-28T19:13:33.915610+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.ictp.it/home/work-ictp"
+      ],
+      "summary": "No relevant new in-cycle HEP faculty role. HECAP senior scientist entry is a 2025 deadline.",
+      "coverage": "All displayed international and local recruitment entries on the single page; scientific titles screened for HEP/cosmology and broad physics.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-0179aea01f0c",
+      "checkedAt": "2026-10-28T19:13:33.915998+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://careers.cern/jobs/"
+      ],
+      "summary": "Staff theoretical-physicist role retained as a review lead; fellowships, graduate appointments and technical staff are not faculty vacancies.",
+      "coverage": "Single current jobs directory, all displayed role categories; seven Physics entries screened. No pagination shown.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-2817a357826a",
+      "checkedAt": "2026-10-28T19:13:33.916157+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3181705"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-38768b3a5b5c",
+      "checkedAt": "2026-10-28T19:13:33.916279+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3183112"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-4bd35945176e",
+      "checkedAt": "2026-10-28T19:13:33.916446+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.desy.de/career"
+      ],
+      "summary": "Useful institutional routing page; actual board coverage is recorded separately.",
+      "coverage": "Recruitment/department landing page and outgoing recruitment links inspected; not a full vacancy result set.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-775e5bf850f7",
+      "checkedAt": "2026-10-28T19:13:34.092564+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.desy.de/career/job_offers/index_eng.html"
+      ],
+      "summary": "Useful institutional routing page; actual board coverage is recorded separately.",
+      "coverage": "Recruitment/department landing page and outgoing recruitment links inspected; not a full vacancy result set.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-19cbdb644a34",
+      "checkedAt": "2026-10-28T19:13:34.130294+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3185361"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-554c38c80000",
+      "checkedAt": "2026-10-28T19:13:34.238034+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3185361"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b6cb1230f9ac",
+      "checkedAt": "2026-10-28T19:13:34.253627+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=26000998&tz=GMT%2B01%3A00&tzname=Europe%2FLondon"
+      ],
+      "summary": "Advertisement URL returned a dynamic page shell without full job details; employer-submitted INSPIRE description assessed separately.",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5272d43aac0e",
+      "checkedAt": "2026-10-28T19:13:34.332297+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://physics.elte.hu/en/vacancies"
+      ],
+      "summary": "Current all-fields tenure-track assistant-professor call already catalogued; duplicate existing record retained.",
+      "coverage": "Single current open-vacancies list; all open entries and linked current tenure-track call inspected. Closed archive excluded from this bounded current scope.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-2adf0c3441b2",
+      "checkedAt": "2026-10-28T19:13:34.396713+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://igfae.usc.es/igfae/oferta/convocatoria-direccion/"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-6b5fcece38d9",
+      "checkedAt": "2026-10-28T19:13:34.483642+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3207702"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-9b95b752b436",
+      "checkedAt": "2026-10-28T19:13:34.515084+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3207702"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-9dece7c05f96",
+      "checkedAt": "2026-10-28T19:13:34.661543+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://igfae.usc.es/igfae/en/oferta/director-call/"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-027c0a8cb93e",
+      "checkedAt": "2026-10-28T19:13:34.678421+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3200481"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-6a29a67ead4d",
+      "checkedAt": "2026-10-28T19:13:34.831134+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3200481"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-019793a6a784",
+      "checkedAt": "2026-10-28T19:13:34.837243+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29599&jobTitle=Assistant+%2F+Associate+Professor+in+Particle+Physics"
+      ],
+      "summary": "Advertisement URL returned a dynamic page shell without full job details; employer-submitted INSPIRE description assessed separately.",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1ea8777c3ef3",
+      "checkedAt": "2026-10-28T19:13:35.024049+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=28831&jobTitle=Assistant+%2F+Associate+Professor+in+Gravitational+Wave+Physics"
+      ],
+      "summary": "Advertisement URL returned a dynamic page shell without full job details; employer-submitted INSPIRE description assessed separately.",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-2e73a33989ed",
+      "checkedAt": "2026-10-28T19:13:35.138948+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29040&jobTitle=Assistant+%2F+Associate+Professor+in+Data-Intensive+Physics+and+AI"
+      ],
+      "summary": "Advertisement URL returned a dynamic page shell without full job details; employer-submitted INSPIRE description assessed separately.",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-4abfc7034cdc",
+      "checkedAt": "2026-10-28T19:13:35.271656+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3186998"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-71fe417d1501",
+      "checkedAt": "2026-10-28T19:13:35.382872+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3186998"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7368325cdc63",
+      "checkedAt": "2026-10-28T19:13:35.389187+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3195961"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-871cca6e5500",
+      "checkedAt": "2026-10-28T19:13:35.418265+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3215354"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e73c40f72b53",
+      "checkedAt": "2026-10-28T19:13:35.535883+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3195961"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e94d0521847e",
+      "checkedAt": "2026-10-28T19:13:35.542753+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3215354"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-fad02182d75d",
+      "checkedAt": "2026-10-28T19:13:35.613199+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.imperial.ac.uk/jobs/search-jobs/"
+      ],
+      "summary": "Dynamic search results not available in retrieved HTML.",
+      "coverage": "Recruitment portal shell; no rendered vacancy result set.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-3d0ed61561ac",
+      "checkedAt": "2026-10-28T19:13:35.643290+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.ifae.es/careers/"
+      ],
+      "summary": "Useful institutional routing page; actual board coverage is recorded separately.",
+      "coverage": "Recruitment/department landing page and outgoing recruitment links inspected; not a full vacancy result set.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-55231d7006aa",
+      "checkedAt": "2026-10-28T19:13:35.722886+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.ifae.es/careers/jobs/2026/09/call-for-expressions-of-interest-ramon-y-cajal-fellowship-programme-2026/",
+        "https://www.ifae.es/careers/jobs/2026/07/ramon-y-cajal-fellowship-programme-2026-tenure-track-position-in-gravitational-wave-physics-at-ifae/"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement",
+      "assessmentAt": "2026-10-28T19:32:30.882706+00:00",
+      "assessmentNote": "Duplicate audit: the later September general RyC 2026 call expressly includes experimental gravitational-wave research using ground-based interferometers and an October 16 host EOI date. The July GW advert does not establish a separate still-open search or an exemption from that deadline. Do not count or reopen it separately."
+    },
+    {
+      "sourceId": "source-0efa84149b59",
+      "checkedAt": "2026-10-28T19:13:35.726324+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3183025"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5ae0521ebfb6",
+      "checkedAt": "2026-10-28T19:13:35.880830+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-024/Default.aspx?lang=EN"
+      ],
+      "summary": "Requested advertisement is no longer displayed. This is not evidence of closure; existing facts retained.",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f0cfe82487f5",
+      "checkedAt": "2026-10-28T19:13:35.897950+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3183025"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5b24ba53b5ef",
+      "checkedAt": "2026-10-28T19:13:36.044774+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3219186"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8daf45e62f08",
+      "checkedAt": "2026-10-28T19:13:36.112941+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.ujf.cas.cz/en/about-institute/Career/job-offers/"
+      ],
+      "summary": "Director is a fixed five-year leadership appointment; other displayed scientific roles are fixed-term postdoctoral contracts. Existing director remains needs-review for faculty scope.",
+      "coverage": "Full single-page institute vacancy list; director and all displayed scientist/postdoctoral roles inspected. No pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-a2e86e11ec37",
+      "checkedAt": "2026-10-28T19:13:36.117214+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3219186"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-2426aa49dd3f",
+      "checkedAt": "2026-10-28T19:13:36.238293+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaadlpctxh"
+      ],
+      "summary": "Retrieval failed: HTTP Error 403: ",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7a82a261843f",
+      "checkedAt": "2026-10-28T19:13:36.256412+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3185307"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7b59da0047d3",
+      "checkedAt": "2026-10-28T19:13:36.264081+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3185307"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-23f38efb4235",
+      "checkedAt": "2026-10-28T19:13:36.424492+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3210713"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5cbc7c4c19fd",
+      "checkedAt": "2026-10-28T19:13:36.458919+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://icc.ub.edu/node/1715527"
+      ],
+      "summary": "Retrieval failed: <urlopen error timed out>",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-99b0fe30d16f",
+      "checkedAt": "2026-10-28T19:13:36.587716+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3210713"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1728ff33ac4d",
+      "checkedAt": "2026-10-28T19:13:36.761672+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3172216"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-63e4890a96b0",
+      "checkedAt": "2026-10-28T19:13:36.947930+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3172216"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-fc553af85e36",
+      "checkedAt": "2026-10-28T19:13:37.091515+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/w3-professur-fuer-beschleunigerphysik?set_language=en"
+      ],
+      "summary": "Retrieval failed: HTTP Error 403: Forbidden",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5f2763bec065",
+      "checkedAt": "2026-10-28T19:13:37.153682+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-45d-0926"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-560f07e8dbca",
+      "checkedAt": "2026-10-28T19:13:37.243773+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/UCPH/NBI/ASTRO27PROF"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7e8fd4f50f65",
+      "checkedAt": "2026-10-28T19:13:37.518770+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3197131"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c126bd8cca0f",
+      "checkedAt": "2026-10-28T19:13:37.587548+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobportal.ku.dk/videnskabelige-stillinger/?show=167785"
+      ],
+      "summary": "Retrieval failed: <urlopen error timed out>",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e53d348a56af",
+      "checkedAt": "2026-10-28T19:13:37.756896+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://nbia.nbi.ku.dk/"
+      ],
+      "summary": "Retrieval failed: <urlopen error timed out>",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-f3071427e999",
+      "checkedAt": "2026-10-28T19:13:37.950687+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3197131"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-28c97bf380a1",
+      "checkedAt": "2026-10-28T19:13:38.123759+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://jobs.unige.ch/www/wd_portal.show_job?p_web_page_id=75916&p_web_site_id=1"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-79ac17e5ee0d",
+      "checkedAt": "2026-10-28T19:13:38.392507+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3208143"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a0ab1a577282",
+      "checkedAt": "2026-10-28T19:13:38.527166+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3208143"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-511ed0f051df",
+      "checkedAt": "2026-10-28T19:13:38.545394+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3189627"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7bf52b9703d7",
+      "checkedAt": "2026-10-28T19:13:38.715854+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/it/w/r5_rtt_2026"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-da6ed0d0c8b1",
+      "checkedAt": "2026-10-28T19:13:38.719092+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3189627"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7c9d5657b176",
+      "checkedAt": "2026-10-28T19:13:38.869946+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3189637"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a5c235978264",
+      "checkedAt": "2026-10-28T19:13:39.076208+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3177368"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-bf0a004d510f",
+      "checkedAt": "2026-10-28T19:13:39.223810+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3189637"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-d17020f07949",
+      "checkedAt": "2026-10-28T19:13:39.307165+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186058"
+      ],
+      "summary": "Requested advertisement is no longer displayed. This is not evidence of closure; existing facts retained.",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-dad30c150d92",
+      "checkedAt": "2026-10-28T19:13:39.388809+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.maths.ox.ac.uk/node/81914"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e20c0258f84c",
+      "checkedAt": "2026-10-28T19:13:39.774402+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3177368"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-0f194786ad6f",
+      "checkedAt": "2026-10-28T19:13:39.862275+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3208120"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1632b9ad7c40",
+      "checkedAt": "2026-10-28T19:13:39.946786+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3208120"
+      ],
+      "summary": "Returned JavaScript application shell without the job description; API counterpart used where available.",
+      "coverage": "No readable advertisement text in this URL response.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a4f9a327d06f",
+      "checkedAt": "2026-10-28T19:13:40.094181+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.fuw.edu.pl/tl_files/praca/2026/2026-09-01_adiunkt_badawczo_dydaktyczny_IFT_WF-1210-16-2026_ENG_do_30-11-2026.pdf"
+      ],
+      "summary": "PDF downloaded successfully; no full PDF text inspection completed in this scan.",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-46b1e783a2d4",
+      "checkedAt": "2026-10-28T19:13:40.099472+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://grg.uib.es/jobs/index.php"
+      ],
+      "summary": "Useful institutional routing page; actual board coverage is recorded separately.",
+      "coverage": "Recruitment/department landing page and outgoing recruitment links inspected; not a full vacancy result set.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-7fd1071baf33",
+      "checkedAt": "2026-10-28T19:13:40.490727+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.uib.es/taulers/ocupacio"
+      ],
+      "summary": "Useful institutional routing page; actual board coverage is recorded separately.",
+      "coverage": "Recruitment/department landing page and outgoing recruitment links inspected; not a full vacancy result set.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-d6bcda16a105",
+      "checkedAt": "2026-10-28T19:13:40.742805+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://facultyrecruiting.epfl.ch/"
+      ],
+      "summary": "Portal response has no usable vacancy list (dynamic application/login shell).",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-b28ccc1834da",
+      "checkedAt": "2026-10-28T19:13:42+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://physics.berkeley.edu/welcome/employment"
+      ],
+      "summary": "Broad physics already catalogued; AMO theory explicitly includes fundamental-physics tests; condensed-matter search excluded.",
+      "coverage": "Single Physics departmental employment page; all three faculty searches screened against AP Recruit.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-2685a30776be",
+      "checkedAt": "2026-10-28T19:13:42+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/192963"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-77ee45d40683",
+      "checkedAt": "2026-10-28T19:13:42+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/192965"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a756d912f3f6",
+      "checkedAt": "2026-10-28T19:13:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32608"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-eaba48dae837",
+      "checkedAt": "2026-10-28T19:13:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.uchicago.edu/about/job-opportunities/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-bb2aaffab877",
+      "checkedAt": "2026-10-28T19:13:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://explore.jobs.ufl.edu/en-us/job/541316/assistant-professor-astrophysics"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-10ab972596ca",
+      "checkedAt": "2026-10-28T19:13:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://careers.uh.edu/jobs/assistant-professor-nuclear-theorist-houston-texas-united-states"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-209c7e441f91",
+      "checkedAt": "2026-10-28T19:13:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/648332"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ad3687e3339a",
+      "checkedAt": "2026-10-28T19:13:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://pa.as.uky.edu/astro"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-e628677692c2",
+      "checkedAt": "2026-10-28T19:13:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://pa.as.uky.edu"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-0de3fae08739",
+      "checkedAt": "2026-10-28T19:13:49+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://lsa.umich.edu/litp/open-positions.html"
+      ],
+      "summary": "No additional faculty search in the stated institute-page scope.",
+      "coverage": "Entire institute opportunities page; only a theoretical-physics postdoctoral search is listed.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-441a9face2b8",
+      "checkedAt": "2026-10-28T19:13:49+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3195090"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-469f3bdb717f",
+      "checkedAt": "2026-10-28T19:13:49+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.physicsandastronomy.pitt.edu/about/department-openings"
+      ],
+      "summary": "Both current faculty searches already catalogued.",
+      "coverage": "Single department openings list; both faculty advertisements followed as employer PDFs (PACC director and astrophysics).",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-d96821079d00",
+      "checkedAt": "2026-10-28T19:13:49+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.join.pitt.edu/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-0ce93ff7d632",
+      "checkedAt": "2026-10-28T19:13:49+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://faculty.utexas.edu/career?p=1&q=&units=College+of+Natural+Sciences"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-91d892746dd7",
+      "checkedAt": "2026-10-28T19:13:49+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://ph.utexas.edu/"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-de37bf41e003",
+      "checkedAt": "2026-10-28T19:13:49+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/"
+      ],
+      "summary": "Physics high-energy theory call verified; other Science calls outside scope.",
+      "coverage": "Single all-faculty postings list; all four Science-linked entries opened and screened (two mathematics, life sciences and physics).",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-9630338036da",
+      "checkedAt": "2026-10-28T19:13:49+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://ap.washington.edu/ahr/academic-jobs/"
+      ],
+      "summary": "Existing Bothell physics record remains needs-review for HEP scope; no promotion inferred from department astronomy strengths.",
+      "coverage": "All 411 displayed academic positions screened by institution/unit for UW Bothell Physical Sciences; its physics advertisement read. One all-results page.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-84d900fb89a3",
+      "checkedAt": "2026-10-28T19:13:58+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://as.vanderbilt.edu/physics/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-5f48455ab933",
+      "checkedAt": "2026-10-28T19:13:58+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://jobs.villanova.edu/postings/36409"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-41aa5e1068f7",
+      "checkedAt": "2026-10-28T19:13:58+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "http://www.phys.vt.edu"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-f48a04c8ec55",
+      "checkedAt": "2026-10-28T19:13:58+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://jobs.apply.vt.edu/jobs/tenure-track-faculty-position-in-theoretical-neutrino-physics-blacksburg-virginia-united-states"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-88275453dab0",
+      "checkedAt": "2026-10-28T19:13:58+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://cdsp.wm.edu/physics/?mapstat=1"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Registered department/recruitment landing page read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-0bbb01cd7e99",
+      "checkedAt": "2026-10-28T19:15:09+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://facultyjobs.lehigh.edu/faculty"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Single university faculty list; all listed entries screened, Physics astrophysics detail read; no pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-54c01505a8b5",
+      "checkedAt": "2026-10-28T19:15:09+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://physics.osu.edu/about-us/faculty-search-information"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Whole single Physics faculty-search page: theory HEP, experimental nuclear/HEP and photonics calls screened. Separate Astronomy department not covered.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-c20571552e35",
+      "checkedAt": "2026-10-28T19:15:09+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.jmu.edu/physics/employment-opps.shtml"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Department employment page says no current positions and is dated January 2026; contradicted by a current October AJO advertisement, so not treated as current exhaustive coverage.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-ac76661b07d9",
+      "checkedAt": "2026-10-28T19:15:09+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://facultyjobs.lehigh.edu/node/1338"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1abc8ad038f1",
+      "checkedAt": "2026-10-28T19:18:31+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://lsa.umich.edu/physics/about-us/jobs.html"
+      ],
+      "summary": "Existing broad-physics search retained.",
+      "coverage": "Single Physics Jobs page, its assistant-professor announcement, and Leinweber institute opportunities page. Faculty search is open to all physics subfields.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-4578744f4933",
+      "checkedAt": "2026-10-28T19:18:31+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.phys.vt.edu/employment.html"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Whole department employment list, sole faculty entry is theoretical neutrino physics; staff coordinator and general links excluded.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-477fae1a8145",
+      "checkedAt": "2026-10-28T19:18:31+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://portal.if.usp.br/ataac/pt-br/concursos_andamento?page=1"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Second and final page of IFUSP ongoing competitions: both entries screened; no next page. Together with page 1, all 12 current list entries inspected.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-69745461e3ff",
+      "checkedAt": "2026-10-28T19:18:56+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=physics"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Attempted physics-filtered employer vacancies.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-e05aa6cc6af2",
+      "checkedAt": "2026-10-28T19:18:56+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.ubiobio.cl/concursos/"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Attempted official academic vacancy directory; returned HTTP 502.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-3c7eb8767682",
+      "checkedAt": "2026-10-28T19:19:08+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://iag.usp.br/concursos/concursos-para-docentes"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Entire IAG faculty-competition table screened. Current 026/2026 astrophysics call checked; historical 013/2026 astronomy detail failed; no table pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-27f3be074a12",
+      "checkedAt": "2026-10-28T19:19:08+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.gatech.edu/about/employment"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Single school list shows one instructional faculty link, which returns a portal error. Existing AI/physics ad absent; cannot treat this page as comprehensive.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-1c71a7326096",
+      "checkedAt": "2026-10-28T19:19:08+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://hr.cornell.edu/jobs"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "HR landing page followed to central academic recruitment; no full list here.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-32abccb7d126",
+      "checkedAt": "2026-10-28T19:19:08+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://fisica.unab.cl/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Public physics department home and navigation inspected; no current faculty vacancy directory exposed.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-8ec348b8de09",
+      "checkedAt": "2026-10-28T19:19:08+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.ubiobio.cl/concursos/?trk=public_post_reshare-text"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Second retrieval of same official academic vacancy directory; returned HTTP 502.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-702548789c63",
+      "checkedAt": "2026-10-28T19:19:08+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/a5ed92fc"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8a0873b46cb1",
+      "checkedAt": "2026-10-28T19:19:18+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://aprecruit.berkeley.edu/apply"
+      ],
+      "summary": "Two additional relevant faculty searches verified: astronomy and AMO theory with fundamental-physics tests.",
+      "coverage": "Single all-open-recruitments table; Physics and Astronomy sections inspected, all four tenure-track calls screened; relevant astronomy and AMO theory advertisements read; temporary pools and postdocs excluded.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-70288d2f51b1",
+      "checkedAt": "2026-10-28T19:19:18+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.smu.edu/dedman/about/employment"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Single Dedman college faculty list; all tenured, tenure-track and teaching categories screened. Physics chair is the sole relevant entry.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-85254c1f991f",
+      "checkedAt": "2026-10-28T19:19:18+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/current/phys_270_163.php"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a69fd7446a5e",
+      "checkedAt": "2026-10-28T19:19:18+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ap.washington.edu/ahr/position-details/?job_id=189352"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-521ef59034d1",
+      "checkedAt": "2026-10-28T19:19:29+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://apps.hr.cornell.edu/recruiting/facultycareer.cfm"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Central academic career landing page rendered only a small shell; no enumerable current list.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-6c006fa5dd23",
+      "checkedAt": "2026-10-28T19:19:29+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://lsa.umich.edu/physics/news-events/all-news/search-news/assistant-professor-of-physics-open-position.html"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-59abf896e8f8",
+      "checkedAt": "2026-10-28T19:19:41+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobs.jmu.edu/jobs/search?query=physics"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Attempted physics-filtered employer vacancies.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-bb64ee2ea52f",
+      "checkedAt": "2026-10-28T19:19:41+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://faculty.utexas.edu/career?p=1&q=physics"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Attempted physics-keyword faculty portal.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-03cb0a76e99e",
+      "checkedAt": "2026-10-28T19:19:52+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/Rice"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "All 14 Rice employer AJO entries, including Physics & Astronomy and Faculty Development; duplicated astronomy/astro-particle call recognised; experimental AMO titles screened.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-9521cfe88683",
+      "checkedAt": "2026-10-28T19:19:52+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.uh.edu/provost/faculty/prospective-faculty/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Prospective faculty landing page followed to central board.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-579e32ceb35d",
+      "checkedAt": "2026-10-28T19:19:52+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Employer home followed to faculty search.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-f90ed5afaf23",
+      "checkedAt": "2026-10-28T19:19:52+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.vanderbilt.edu/provost/jobs/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read board shell, but actual retrieval exposes only a stale 2019 template, whereas index snippets expose additional roles; cannot enumerate current faculty board reliably.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-7a4c1547290b",
+      "checkedAt": "2026-10-28T19:19:52+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://cdsp.wm.edu/physics/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Department homepage read after removing stale mapstat query; no faculty vacancy list exposed.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-304cdbc6fe71",
+      "checkedAt": "2026-10-28T19:19:52+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aprecruit.berkeley.edu/JPF05406"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5ebc68afc5f1",
+      "checkedAt": "2026-10-28T19:19:52+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aprecruit.berkeley.edu/JPF05223"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1ef98d66d22a",
+      "checkedAt": "2026-10-28T19:19:52+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/4b7a9ca7"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-aaf583b2c135",
+      "checkedAt": "2026-10-28T19:20:02+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/Cornell"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "First employer AJO page: Astronomy and CLASSE sections screened; next/all links rendered a generic template, preventing remaining university coverage.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-77c98a46829b",
+      "checkedAt": "2026-10-28T19:20:02+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://jobs.jmu.edu/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "HR landing page read; search results not accessible with this retrieval method.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-3468f8d8c61c",
+      "checkedAt": "2026-10-28T19:20:02+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/search?225=&988%5B%5D=2&commit=Search&query=&query_v0_posted_at_date="
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Page 1 only of 306 faculty/physician results; new research astrophysics faculty ad followed; remaining results not enumerated.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-6a89b4bce9a8",
+      "checkedAt": "2026-10-28T19:20:02+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://faculty.utexas.edu/"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Central faculty portal rendered no readable content.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-606cd3631958",
+      "checkedAt": "2026-10-28T19:20:02+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobs.villanova.edu/postings/search?query=Astrophysics"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Attempted keyword-restricted faculty board.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-5bc4995ee4b7",
+      "checkedAt": "2026-10-28T19:20:11+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://careers.uh.edu/jobs/search/uh-postings?query=physics"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Attempted physics-filtered employer board; unavailable.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-c8ff19d82591",
+      "checkedAt": "2026-10-28T19:20:11+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/search?query=physics&988%5B%5D=2&commit=Search"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Attempted physics-keyword narrowed faculty board; unavailable.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-1bb3b34b7872",
+      "checkedAt": "2026-10-28T19:20:11+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://jobs.villanova.edu/"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "University careers home followed to Faculty Positions.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-f8e1657b9b86",
+      "checkedAt": "2026-10-28T19:20:11+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobs.wm.edu/"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Central recruitment redirects to Workday and renders no readable vacancy list.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-8bd901e802da",
+      "checkedAt": "2026-10-28T19:20:11+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aprecruit.berkeley.edu/JPF05460"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-67914975f6c3",
+      "checkedAt": "2026-10-28T19:20:11+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://explore.jobs.ufl.edu/en-us/job/541742/assistant-professor-for-astronomical-instrumentation"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-10cf3e15d283",
+      "checkedAt": "2026-10-28T19:20:27+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://portal.if.usp.br/ataac/pt-br/concursos_andamento"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Both pages of the IFUSP ongoing competitions list read; 12 entries screened, relevant nuclear/general/mathematical-physics details followed. Some old calls require separate cycle assessment.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 2,
+        "pageUrls": [
+          "https://portal.if.usp.br/ataac/pt-br/concursos_andamento",
+          "https://portal.if.usp.br/ataac/pt-br/concursos_andamento?page=1"
+        ],
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-341497733aff",
+      "checkedAt": "2026-10-28T19:20:27+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32858"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e485ec3ebefc",
+      "checkedAt": "2026-10-28T19:20:27+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://careers.uh.edu/jobs/search/uh-postings?category_uids%5B%5D=d3b80de9ada098478edbd5589a0ffeee&category_uids%5B%5D=db3c1fb9609f486fa85f3e228dd5f7e2&page=1&query="
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Page 1 only: positions 1–30 of 212 faculty records. Nuclear-theory ad is present; second Physics result and later pages remain unreviewed.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-8f18190062fd",
+      "checkedAt": "2026-10-28T19:20:27+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/33162"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ca65d4da1c48",
+      "checkedAt": "2026-10-28T19:20:51+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://iag.usp.br/concursos-para-docentes/professor-doutor-aga-013-2026"
+      ],
+      "summary": "The source could not be read; no vacancy or closure conclusion was drawn.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-4aaaf536ea0c",
+      "checkedAt": "2026-10-28T19:21:16+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32678"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-39a5633d4e9e",
+      "checkedAt": "2026-10-28T19:21:16+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://portal.if.usp.br/ataac/pt-br/node/8145"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-42954feea8ce",
+      "checkedAt": "2026-10-28T19:21:16+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://portal.if.usp.br/ataac/pt-br/node/8122"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-493153e601d3",
+      "checkedAt": "2026-10-28T19:21:16+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://portal.if.usp.br/ataac/pt-br/node/8100"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-3ae745ca5e16",
+      "checkedAt": "2026-10-28T19:21:16+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://portal.if.usp.br/ataac/pt-br/node/8096"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8c7595772e35",
+      "checkedAt": "2026-10-28T19:21:16+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://portal.if.usp.br/ataac/pt-br/node/8086"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-da1b6e0e084c",
+      "checkedAt": "2026-10-28T19:21:16.152692+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://careers.cern/jobs/th-sp-2026-68-ld/"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-aa52c0e01c58",
+      "checkedAt": "2026-10-28T19:21:16.153259+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://carrieres.cnrs.fr/en/chair-recruitment/"
+      ],
+      "summary": "National CPJ cycle and common deadline verified. Existing NouvPaTh, INPHI and OGNext calls identified; CMS-HI and FCELT are retained as leads needing location and detailed eligibility checks.",
+      "coverage": "Entire single-page 2026 CPJ list screened; Physics, Nuclear and Particle Physics, and Earth and Universe sections read for relevant leads. No pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-923128b21310",
+      "checkedAt": "2026-10-28T19:21:16.153478+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-032/Default.aspx"
+      ],
+      "summary": "Requested advertisement is no longer displayed. This is not evidence of closure; existing facts retained.",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-528b76bb3d6d",
+      "checkedAt": "2026-10-28T19:21:16.153641+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-001/Default.aspx"
+      ],
+      "summary": "Requested advertisement is no longer displayed. This is not evidence of closure; existing facts retained.",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-03c0a39fd0ac",
+      "checkedAt": "2026-10-28T19:21:16.153856+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3181705"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-db47a61c8aa4",
+      "checkedAt": "2026-10-28T19:21:16.154018+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3183112"
+      ],
+      "summary": "Read employer-submitted description and deadline metadata; existing job facts preserved unless separately supported revision supplied.",
+      "coverage": "One complete public employer-submitted INSPIRE job API record, not a vacancy directory. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a9982f7e56c2",
+      "checkedAt": "2026-10-28T19:21:16.154185+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://v22.desy.de/index_eng.html"
+      ],
+      "summary": "Current job portal is paginated/dynamically filtered; cannot claim full board coverage.",
+      "coverage": "Initial displayed results only (23 of 81 records), without successfully loading remaining results.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-707fc778105d",
+      "checkedAt": "2026-10-28T19:21:16.352978+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://orca.dur.ac.uk/joinus.html"
+      ],
+      "summary": "Retrieval failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'orca.dur.ac.uk'. (_ssl.c:1129)>",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-604fd949d311",
+      "checkedAt": "2026-10-28T19:21:16.420221+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://dur.ac.uk/departments/academic/physics/about-us/job-opportunities/"
+      ],
+      "summary": "Useful institutional routing page; actual board coverage is recorded separately.",
+      "coverage": "Recruitment/department landing page and outgoing recruitment links inspected; not a full vacancy result set.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-24d7b92a63b0",
+      "checkedAt": "2026-10-28T19:21:16.433975+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54161"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a91778bf9009",
+      "checkedAt": "2026-10-28T19:21:16.478625+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://igfae.usc.es/igfae/en/jobs/"
+      ],
+      "summary": "Relevant calls require annexes served behind a CAPTCHA; exact rank/contract eligibility unresolved.",
+      "coverage": "Current and displayed closed list read, followed 2026/19, /20, /21 and /22.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-9f8292ac2811",
+      "checkedAt": "2026-10-28T19:21:16.495721+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-22/"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5f76f5293cad",
+      "checkedAt": "2026-10-28T19:21:16.539136+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-21/"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-d82d2ac97159",
+      "checkedAt": "2026-10-28T19:21:16.541649+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-20/"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1e3f22612344",
+      "checkedAt": "2026-10-28T19:21:16.800725+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-19/"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-102778ff1f84",
+      "checkedAt": "2026-10-28T19:21:16.813036+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.hip.fi/jobs-vacancies/"
+      ],
+      "summary": "Useful institutional routing page; actual board coverage is recorded separately.",
+      "coverage": "Recruitment/department landing page and outgoing recruitment links inspected; not a full vacancy result set.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-f303bd2d57f0",
+      "checkedAt": "2026-10-28T19:21:16.943260+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.helsinki.fi/en/about-us/careers/open-positions"
+      ],
+      "summary": "No reliable complete faculty-list result set retrieved.",
+      "coverage": "Recruitment portal landing markup; dynamic listing did not expose usable results.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-922cdac5a1e4",
+      "checkedAt": "2026-10-28T19:21:17.479386+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.imperial.ac.uk/physics/opportunities/"
+      ],
+      "summary": "Useful institutional routing page; actual board coverage is recorded separately.",
+      "coverage": "Recruitment/department landing page and outgoing recruitment links inspected; not a full vacancy result set.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-4b910fd737a5",
+      "checkedAt": "2026-10-28T19:21:17.489683+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.ifae.es/careers/jobs/",
+        "https://www.ifae.es/careers/jobs/page/2/",
+        "https://www.ifae.es/careers/jobs/2026/07/ramon-y-cajal-fellowship-programme-2026-tenure-track-position-in-gravitational-wave-physics-at-ifae/",
+        "https://www.ifae.es/careers/jobs/2026/09/call-for-expressions-of-interest-ramon-y-cajal-fellowship-programme-2026/"
+      ],
+      "summary": "Two-page jobs directory reviewed. July GW-specific RyC advert overlaps the later general call; no separate additional open search established.",
+      "coverage": "All entries across page 1 and page 2 of current jobs archive; page 2 has only Previous and no Next.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "pages": [
+          1,
+          2
+        ],
+        "lastPageHasNext": false
+      },
+      "assessmentAt": "2026-10-28T19:32:30.882706+00:00",
+      "assessmentNote": "Duplicate audit: the later September general RyC 2026 call expressly includes experimental gravitational-wave research using ground-based interferometers and an October 16 host EOI date. The July GW advert does not establish a separate still-open search or an exemption from that deadline. Do not count or reopen it separately."
+    },
+    {
+      "sourceId": "source-cfaef6d207a0",
+      "checkedAt": "2026-10-28T19:21:17.556796+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.ifae.es/careers/jobs/page/2/",
+        "https://www.ifae.es/careers/jobs/2026/07/ramon-y-cajal-fellowship-programme-2026-tenure-track-position-in-gravitational-wave-physics-at-ifae/",
+        "https://www.ifae.es/careers/jobs/2026/09/call-for-expressions-of-interest-ramon-y-cajal-fellowship-programme-2026/"
+      ],
+      "summary": "Final archive page read. July GW-specific RyC advert is retained as supplemental evidence and a duplicate-resolution lead.",
+      "coverage": "Second and final page of the current jobs archive, all entries screened.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "page-2-final"
+      },
+      "assessmentAt": "2026-10-28T19:32:30.882706+00:00",
+      "assessmentNote": "Duplicate audit: the later September general RyC 2026 call expressly includes experimental gravitational-wave research using ground-based interferometers and an October 16 host EOI date. The July GW advert does not establish a separate still-open search or an exemption from that deadline. Do not count or reopen it separately."
+    },
+    {
+      "sourceId": "source-e0992a517b3b",
+      "checkedAt": "2026-10-28T19:21:17.581382+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.ifae.es/careers/jobs/2026/07/ramon-y-cajal-fellowship-programme-2026-tenure-track-position-in-gravitational-wave-physics-at-ifae/",
+        "https://www.ifae.es/careers/jobs/2026/09/call-for-expressions-of-interest-ramon-y-cajal-fellowship-programme-2026/"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement",
+      "assessmentAt": "2026-10-28T19:32:30.882706+00:00",
+      "assessmentNote": "Duplicate audit: the later September general RyC 2026 call expressly includes experimental gravitational-wave research using ground-based interferometers and an October 16 host EOI date. The July GW advert does not establish a separate still-open search or an exemption from that deadline. Do not count or reopen it separately."
+    },
+    {
+      "sourceId": "source-d732b60e293e",
+      "checkedAt": "2026-10-28T19:21:17.746535+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.l2it.in2p3.fr/en/emplois-et-stages/"
+      ],
+      "summary": "CPJ gravitational-wave chair deadline is explicitly 2 September 2026 at 17:00 CEST.",
+      "coverage": "Single laboratory vacancy list, including the sole current scientific offer and explicit deadline.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-a42ddf0e6cd1",
+      "checkedAt": "2026-10-28T19:21:17.751447+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.berufungsportal.rwth-aachen.de/"
+      ],
+      "summary": "Portal response has no usable vacancy list (dynamic application/login shell).",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-c132bbe00c29",
+      "checkedAt": "2026-10-28T19:21:17.859454+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://icc.ub.edu/job-offers"
+      ],
+      "summary": "Retrieval failed: <urlopen error timed out>",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-26e7824ddbf3",
+      "checkedAt": "2026-10-28T19:21:17.880550+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/vacancies-professors"
+      ],
+      "summary": "No current HEP/cosmology/broad-physics faculty call in the displayed list. Existing expired accelerator-physics record preserved.",
+      "coverage": "All ten displayed current professorship calls, unfiltered single page without pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-96d71ffedaed",
+      "checkedAt": "2026-10-28T19:21:17.932279+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026"
+      ],
+      "summary": "Multi-field calls and separate associate/full-professor categories require further annex screening.",
+      "coverage": "All twelve 2026 RTT call headings read; existing eight-position September call inspected separately.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-ad10676e71e3",
+      "checkedAt": "2026-10-28T19:21:17.948893+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://employment.ku.dk/faculty/"
+      ],
+      "summary": "Retrieval failed: <urlopen error timed out>",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-20ba0b4f263a",
+      "checkedAt": "2026-10-28T19:21:17.960900+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobportal.ku.dk/videnskabelige-stillinger/"
+      ],
+      "summary": "Retrieval failed: <urlopen error timed out>",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-65f494a662b1",
+      "checkedAt": "2026-10-28T19:21:17.994017+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://nbi.ku.dk/english/jobs"
+      ],
+      "summary": "Retrieval failed: <urlopen error timed out>",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-4f461de8cbad",
+      "checkedAt": "2026-10-28T19:21:18.178790+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unige.ch/sciences/physique/la-section/emplois"
+      ],
+      "summary": "Useful institutional routing page; actual board coverage is recorded separately.",
+      "coverage": "Recruitment/department landing page and outgoing recruitment links inspected; not a full vacancy result set.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-482d6595f95e",
+      "checkedAt": "2026-10-28T19:21:18.198500+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.unige.ch/sciences/physique/theorique/en/emplois/"
+      ],
+      "summary": "Response is an anti-bot human verification page, not vacancy content; no bypass attempted.",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-e2ce2f6e02fa",
+      "checkedAt": "2026-10-28T19:21:18.250941+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.unige.ch/dpnc/en/jobs/"
+      ],
+      "summary": "Response is an anti-bot human verification page, not vacancy content; no bypass attempted.",
+      "coverage": "One registered or follow-up public source; no institutional directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-e3b300a3a1de",
+      "checkedAt": "2026-10-28T19:21:18.466886+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.fisica.unina.it/it_IT/reclutamento-ricercatori-a-t.d."
+      ],
+      "summary": "Useful institutional routing page; actual board coverage is recorded separately.",
+      "coverage": "Recruitment/department landing page and outgoing recruitment links inspected; not a full vacancy result set.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-81459c9f4c89",
+      "checkedAt": "2026-10-28T19:21:18.473225+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.physics.ox.ac.uk/about-us/work-us"
+      ],
+      "summary": "Savilian Astronomy chair added; other current scientific openings are postdoctoral or fixed-term nonfaculty research.",
+      "coverage": "All nine displayed current Physics vacancies on the single unpaginated list; professorship and potentially senior research role followed.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-ee3e60faaf8a",
+      "checkedAt": "2026-10-28T19:21:18.487709+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.maths.ox.ac.uk/about-us/vacancies"
+      ],
+      "summary": "Current institute roles are EDI support and postdoctoral fellowships; college sublist contains an earlier non-stipendiary fellowship, excluded.",
+      "coverage": "Single current Mathematical Institute vacancy list and linked college-vacancy sublist.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-0861afe9c823",
+      "checkedAt": "2026-10-28T19:21:18.819494+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.maths.ox.ac.uk/node/39835"
+      ],
+      "summary": "Non-stipendiary fellowship requires existing external funding and has April 2026 deadline; excluded.",
+      "coverage": "Full single college-mathematics vacancy sublist.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-9c98d5f12f83",
+      "checkedAt": "2026-10-28T19:21:18.895417+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186704"
+      ],
+      "summary": "Individual advertisement text inspected; key findings are retained in job evidence or review notes.",
+      "coverage": "Individual public advertisement read in full; does not establish institutional directory coverage. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": true,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a1eee8c8d78f",
+      "checkedAt": "2026-10-28T19:21:19.169310+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.fuw.edu.pl/job-offers.html"
+      ],
+      "summary": "Retrieval failed: HTTP Error 404: Not Found",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-3e33db7223bb",
+      "checkedAt": "2026-10-28T19:21:19.276499+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.fuw.edu.pl/praca.html"
+      ],
+      "summary": "Retrieval failed: HTTP Error 404: Not Found",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-e22455fcbaea",
+      "checkedAt": "2026-10-28T19:21:19.339463+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.uw.edu.pl/kategoria-praca/job-offers/"
+      ],
+      "summary": "Full faculty results depend on embedded/dynamic listings; physics department directory URLs returned 404.",
+      "coverage": "Central current job landing page and its visible entries only.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-079301940f76",
+      "checkedAt": "2026-10-28T19:21:20.147731+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://investigacio.uib.es/Contractacio/Convocatories-vigents/"
+      ],
+      "summary": "GW listings are research support, predoctoral and postdoctoral; separate faculty recruitment lists not completed.",
+      "coverage": "Displayed 2026–27 research-contract rounds 1 and 2 screened; GRG jobs page also read.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-45d0aa1f7c14",
+      "checkedAt": "2026-10-28T19:21:20.157379+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.epfl.ch/about/working/page-26457-en-html/"
+      ],
+      "summary": "No additional relevant current faculty call found beyond the departmental experimental-particle lead.",
+      "coverage": "All current faculty-position headings on the central single-page list, screened for physics/HEP/cosmology.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-6de62612a816",
+      "checkedAt": "2026-10-28T19:21:20.652400+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.epfl.ch/schools/sb/research/iphys/open-positions/"
+      ],
+      "summary": "Experimental-particle faculty advert remains linked, but its destination returns 404; previous evidence retained without inferring closure.",
+      "coverage": "Full Physics institute open-positions list, including its sole faculty listing.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No server-side filter; manually screened displayed job titles and relevant scientific descriptions for faculty/permanent-track HEP, cosmology, adjacent and broad physics.",
+      "pagination": {
+        "mode": "single-page"
+      }
+    },
+    {
+      "sourceId": "source-fde39c45365f",
+      "checkedAt": "2026-10-28T19:21:21.009650+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.epfl.ch/about/working/faculty-position-in-experimantal-particle-physics/"
+      ],
+      "summary": "Retrieval failed: HTTP Error 404: Not Found",
+      "coverage": "Attempted this URL; no vacancy conclusion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c751a5b2c81e",
+      "checkedAt": "2026-10-28T19:21:29+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs"
+      ],
+      "summary": "Astrophysics deadline December 31, 2026 verified; no duplicate for bilingual entries.",
+      "coverage": "Single all-professor vacancy list, including chair sections; all entries screened for physics/astrophysics; English and French astrophysics entries are one offer 17982.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-cbfe48ced7b0",
+      "checkedAt": "2026-10-28T19:21:29+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://jobs.villanova.edu/postings/36501"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-aab1d139d6db",
+      "checkedAt": "2026-10-28T19:21:29+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/652281"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-259194fcc9bf",
+      "checkedAt": "2026-10-28T19:21:29+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://portal.if.usp.br/ataac/pt-br/node/8165"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e00b41715349",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://english.ihep.cas.cn/ju/jo/202603/t20260324_1153693.html"
+      ],
+      "summary": "March 2026 broad faculty call explicitly includes tenured and tenure-track ranks and rolling review until filled; multiple campuses prevent precise new map location.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-36b19483d408",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202606/t20260601_8211833.html"
+      ],
+      "summary": "Scientific-data research staff role requires completed postdoctoral experience. Exact faculty-equivalent rank not stated; retained as a lead.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-08922ee3c1ba",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202605/t20260506_8196218.html"
+      ],
+      "summary": "JUNO detector operations lead requires completed particle/nuclear postdoctoral work; exact rank and location need assessment. Administrative secretary excluded.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-40ed279b1902",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202605/t20260506_8196055.html"
+      ],
+      "summary": "Engineering-operation and project-support roles are coordination/administrative support rather than faculty calls; excluded.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7aa55634f621",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260410_8184544.html"
+      ],
+      "summary": "Nuclear-materials research and X-ray beamline-scientist staff roles; faculty equivalence and HEP scope not established.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f31fb8133e84",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260403_8181080.html"
+      ],
+      "summary": "2026 overseas young-talent hosting route has May 25 host deadline and June 15 national deadline; spans campuses. Expired lead, not a new currently open vacancy.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-d2dfc4cfe02f",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260403_8181071.html"
+      ],
+      "summary": "Chinese version of broad high-level talent recruitment confirms tenured/tenure-track research ranks and rolling selection; overlaps English umbrella call.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b36141b5cd17",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/fzbzp/202610/t20261027_8298865.html"
+      ],
+      "summary": "HERD/CMS module production and software roles are dispatched technical posts, requiring bachelor-level qualifications; excluded from faculty catalog.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e001da596b39",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/fzbzp/202610/t20261023_8296929.html"
+      ],
+      "summary": "Detector research-engineer post is a dispatched technical role requiring a bachelor degree; no faculty appointment established.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-546ee32f4af1",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202603/t20260319_8161479.html"
+      ],
+      "summary": "Annual 2026 recruitment umbrella body read; attached Beijing position table failed to load and remains a coverage gap.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a4e176f8af0e",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://english.ihep.cas.cn/ju/jo/202510/t20251011_1089295.html"
+      ],
+      "summary": "Older theory recruitment is explicitly for appointments in 2026 with January 31, 2026 deadline. Not conflated with the separate existing 2027 call.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1cf295615ed6",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.kek.jp/en/career/imss26-3e"
+      ],
+      "summary": "Assistant Professor in Photon Factory beamline technologies; four-year appointment with permanent review. Materials/life-science mission makes HEP-adjacent scope uncertain; retained separately.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-553802c0f38d",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.kek.jp/en/career/imss26-2e"
+      ],
+      "summary": "Permanent Associate Professor developing polarized neutron spectroscopy of materials at Tokai. Excluded from HEP map for materials-only scope.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-6dc8aa51268d",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career/job/Parkville-Victoria/Laser-Ablation--Automation-and-Digitisation-Research-Scientist_JR-018485-1"
+      ],
+      "summary": "Browser read full role: continuing research-contingent analytical geochemistry, outside HEP/physics scope.",
+      "coverage": "Full advertisement body read; supports screening only, not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8ca843b22c19",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.phys.sinica.edu.tw/"
+      ],
+      "summary": "Institute homepage and job links inspected.",
+      "coverage": "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-0e5037a7d40b",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.kek.jp/en/guide/guide07"
+      ],
+      "summary": "Jobs landing page followed to researcher list.",
+      "coverage": "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-0b2176be27a0",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.shinshu-u.ac.jp/faculty/science/"
+      ],
+      "summary": "Faculty homepage followed toward recruitment.",
+      "coverage": "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-a758a17514fb",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.shinshu-u.ac.jp/guidance/office-worker/"
+      ],
+      "summary": "University recruitment landing page followed to Science faculty board.",
+      "coverage": "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-7c6caec232f8",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://oei.ytu.edu.cn/"
+      ],
+      "summary": "Physics department homepage inspected and talent page followed.",
+      "coverage": "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-36aba8743bc2",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rsc.ytu.edu.cn/index.htm"
+      ],
+      "summary": "HR homepage inspected and complete recruitment category followed.",
+      "coverage": "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-12f6a3f844fe",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.haifa.ac.il/?lang=en"
+      ],
+      "summary": "Department homepage and recruitment/news links inspected.",
+      "coverage": "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-425f34ac7a47",
+      "checkedAt": "2026-10-28T19:23:11Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.shinshu-u.ac.jp/faculty/science/faculty/index.html"
+      ],
+      "summary": "Web tool returned cache miss. Recruitment found through university landing page instead.",
+      "coverage": "Navigation fallback failed.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-1f41292cf72b",
+      "checkedAt": "2026-10-28T19:23:42+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://explore.jobs.ufl.edu/en-us/search/?search-keyword=physics"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "All 15 physics-keyword employer results on one page inspected; relevant faculty/scientist ads followed. No pagination; medical and ordinary postdoctoral roles excluded.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-8c1d953c7855",
+      "checkedAt": "2026-10-28T19:23:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://jobs.villanova.edu/postings/search?397=&399=&400=3&commit=Search&query=&query_organizational_tier_3_id=any&query_v0_posted_at_date=&utf8=%E2%9C%93"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "First 30 of 118 Faculty Positions; current physics research ad inspected, astrophysics ad verified separately; pagination continuation not exposed in parsed page.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-fd1cfe6a551b",
+      "checkedAt": "2026-10-28T19:23:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://applications.caltech.edu/jobs/physics"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-98d3ce503398",
+      "checkedAt": "2026-10-28T19:23:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.physics.mcgill.ca/pos/astro-06-en.html"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-de00024c8380",
+      "checkedAt": "2026-10-28T19:23:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32889"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-cf0a13e01f21",
+      "checkedAt": "2026-10-28T19:23:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32892"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-91eca797df6e",
+      "checkedAt": "2026-10-28T19:23:52+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.sfu.ca/physics/about-us/employment/"
+      ],
+      "summary": "Two continuing lecturer positions remain the relevant advertised search; page reports no tenure-track postings.",
+      "coverage": "Single Physics employment page: tenure-track, teaching faculty, postdoctoral, research, and sessional sections inspected; continuing lecturer call read in full.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-7d5f722047fe",
+      "checkedAt": "2026-10-28T19:23:52+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.ou.edu/cas/physics-astronomy/job-opportunities"
+      ],
+      "summary": "Existing HEP search retained. Generic no-open-positions footer does not override the explicit current faculty call.",
+      "coverage": "Whole single department opportunities page: one current faculty call, research positions and postdoctoral sections. Faculty HEP call and dates read; unrelated older calls excluded.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Physics/astronomy and relevant faculty roles",
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-bd4e952202e6",
+      "checkedAt": "2026-10-28T19:23:52+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/33086"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e048112ebd89",
+      "checkedAt": "2026-10-28T19:23:52+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.scrippscollege.edu/hr/faculty/tenure-track-position-in-astrophysics-in-the-department-of-natural-sciences-pitzer-and-scripps-colleges"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-78ebcc015d13",
+      "checkedAt": "2026-10-28T19:24:03+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs/HCM/11197"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Registered individual advertisement read or attempted; no full vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-181b4fcf0f3c",
+      "checkedAt": "2026-10-28T19:24:03+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://explore.jobs.ufl.edu/en-us/job/541567/assistant-scientist-instrument-science"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-0fad04cf603a",
+      "checkedAt": "2026-10-28T19:24:03+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://explore.jobs.ufl.edu/en-us/job/529043/tenure-track-assistant-professor-experimental-optics-for-gravitational-wave-detection"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f34e6544d485",
+      "checkedAt": "2026-10-28T19:24:03+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://jobs.villanova.edu/postings/36614"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7aef042c3788",
+      "checkedAt": "2026-10-28T19:24:03+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.physicsandastronomy.pitt.edu/sites/default/files/image-gallery/Faculty%20and%20Pitt%20PACC%20Director%20Ad.pdf"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ebe3339fbcaa",
+      "checkedAt": "2026-10-28T19:24:03+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.physicsandastronomy.pitt.edu/sites/default/files/image-gallery/Faculty%20Ad_Astrophysics_2026.pdf"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Read individual advertisement and its date/scope evidence. This is not a directory scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-565607abe2f3",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://physics.hkust.edu.hk/jobs"
+      ],
+      "summary": "All six department faculty advertisements screened. Three HEP/cosmology calls match existing review records; other calls are condensed matter/quantum/computational specialties.",
+      "coverage": "Department Jobs page, all six calls and linked HEP AJO ads 29808/29809/29810; no pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 6,
+        "filters": "none"
+      }
+    }
+  ],
+  "summary": "Institution-directory scan: bounded vacancy-list reviews and recorded access/coverage gaps."
+}

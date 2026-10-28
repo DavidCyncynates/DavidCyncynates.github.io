@@ -13,6 +13,7 @@ import sqlite3
 from urllib.parse import urlparse, urlsplit, urlunsplit, parse_qsl, urlencode
 
 from catalog_status import display_state, cutoff
+from institution_coverage import institution_coverage
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data'
@@ -52,8 +53,16 @@ def clean_url(url):
     parts = urlsplit(url)
     if parts.scheme not in ('http', 'https') or not parts.netloc:
         raise ValueError('Expected a public HTTP(S) source URL: ' + url)
-    query = urlencode([(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
-                       if not k.startswith('utm_')])
+    query_parts = []
+    for component in parts.query.split('&'):
+        for key, value in parse_qsl(component, keep_blank_values=True):
+            if key.startswith('utm_'):
+                continue
+            encoded = urlencode([(key, value)])
+            # Some boards, including AJO, use an opaque bare query token.
+            # Adding '=' changes that route; an existing explicit '=' stays.
+            query_parts.append(encoded if '=' in component else encoded[:-1])
+    query = '&'.join(query_parts)
     return urlunsplit((parts.scheme, parts.netloc, parts.path, query, parts.fragment))
 
 
@@ -140,6 +149,17 @@ def build(now):
 
     carnegie = read('classifications.json')
     by_name = {c['institutionName']: c for c in carnegie}
+    ledger_path = DATA / 'maintenance-ledger.json'
+    ledger = json.loads(ledger_path.read_text()) if ledger_path.exists() else {}
+    reviews = read('institution-scans.json') if (RESEARCH / 'institution-scans.json').exists() else []
+    assert {r['institutionId'] for r in reviews}.issubset(institutions), 'Unknown institution review'
+    for sid, source in sources.items():
+        recorded = ledger.get('sources', {}).get(sid, {})
+        for key in ('lastAttemptAt', 'lastSuccessfulCheckAt', 'lastFullScanAt'):
+            source[key] = recorded.get(key)
+        source['lastFullScan'] = source['lastFullScanAt'][:10] if source['lastFullScanAt'] else None
+        attempts = [a for a in recorded.get('attempts', []) if a['outcome'] != 'skipped']
+        source['checkState'] = attempts[-1]['outcome'] if attempts else 'source-discovered'
     for inst in institutions.values():
         match_name = 'Ohio State University' if inst['name'] == 'The Ohio State University' else inst['name']
         if match_name in by_name:
@@ -158,8 +178,9 @@ def build(now):
             inst['profileCategory'] = 'international-university' if profile == 'university' else 'research-institute'
             inst['profile'] = 'University' if profile == 'university' else 'Research institute / laboratory'
             inst['profileSourceUrl'] = inst['location']['profileSourceUrl']
-        inst['coverageState'] = 'partial-record-verification' if any(j['institutionId'] == inst['id'] for j in jobs) else 'source-discovered'
-        inst['lastFullScan'] = None
+        inst['scan'] = institution_coverage(inst, list(sources.values()), ledger, reviews, now)
+        inst['coverageState'] = inst['scan']['state']
+        inst['lastFullScan'] = inst['scan']['lastFullScanAt'][:10] if inst['scan']['lastFullScanAt'] else None
     jobs.sort(key=lambda j: (j['institutionName'], j['title']))
     institutions = sorted(institutions.values(), key=lambda i: i['name'])
     sources = sorted(sources.values(), key=lambda s: s['id'])
@@ -177,6 +198,7 @@ def build(now):
                    'institutions': len(institutions), 'sources': len(sources),
                    'jobCountries': len({j['countryCode'] for j in jobs}),
                    'institutionCountries': len({i['countryCode'] for i in institutions}),
+                   'institutionScans': dict(Counter(i['coverageState'] for i in institutions)),
                    'jobsByScope': dict(Counter(j['scope'] for j in jobs))},
         'licensing': {'locations': 'GeoNames city coordinates: CC BY 4.0; NCES/IPEDS campus points: US government data; official institution coordinates retain source attribution. See each location record.', 'classificationMetadata': 'Carnegie data: CC BY-NC-SA 4.0. Attribution and source URLs are retained in each classification record; no blanket MIT or CC BY license is applied to these imported data.',
                       'advertisements': 'Short factual descriptions and links only; original advertisements retain their existing rights.'},
@@ -250,11 +272,16 @@ def build_report(catalog):
     sources = {s['id']: s for s in catalog['sources']}
     for i in catalog['institutions']:
         links = ' · '.join('<a href="' + esc(sources[s]['url'], quote=True) + '">' + esc(sources[s]['kind']) + '</a>' for s in i['sourceIds']) or 'Source directory still to expand'
-        directory.append('<tr><td>' + esc(i['name']) + '</td><td>' + esc(i['countryCode']) + '</td><td>' + links + '</td></tr>')
+        scan = i['scan']
+        labels = {'complete': 'Vacancy lists checked', 'partial': 'Partial scan', 'blocked': 'Source access blocked', 'pending': 'Not yet checked', 'stale': 'Scan due'}
+        label = labels[scan['state']] + (' · ' + scan['checkedAt'][:10] if scan['checkedAt'] else '')
+        detail = '<p>' + esc(scan.get('coverage') or scan.get('summary') or '') + '</p>'
+        detail += ''.join('<p>' + esc(n) + '</p>' for n in scan['limitations'])
+        directory.append('<tr><td>' + esc(i['name']) + '</td><td>' + esc(i['countryCode']) + '</td><td>' + links + '</td><td>' + esc(label) + '<details><summary>Scan scope</summary>' + detail + '</details></td></tr>')
     counts = m['counts']
     page = '''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HEP faculty catalog · 2026–27 seed</title><style>
       :root{color-scheme:light dark;--bg:#f3f1eb;--ink:#27332f;--muted:#60716b;--line:#d5dbd3;--card:#fffefa;--accent:#2a655e}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,sans-serif}main{max-width:1120px;margin:auto;padding:40px 24px}h1{font-size:28px;font-weight:600;line-height:1.3}h2{font-size:19px;margin:8px 0}a{color:var(--accent);text-underline-offset:3px}p{margin:10px 0}.intro{max-width:850px}.small,.label,li span{font-size:13px;color:var(--muted)}.label{text-transform:uppercase;letter-spacing:.06em}.state{font-weight:600}.title{font-weight:500}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,330px),1fr));gap:20px;margin-top:28px}article{background:var(--card);padding:22px;border:1px solid var(--line);border-radius:10px}article ul{padding-left:20px}li{margin:8px 0}summary{cursor:pointer;color:var(--accent)}table{border-collapse:collapse;width:100%;margin:20px 0}td,th{padding:12px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}nav{display:flex;gap:16px;flex-wrap:wrap}input{font:inherit;padding:10px 12px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink);width:min(100%,500px);margin-top:20px}footer{margin-top:32px;border-top:1px solid var(--line);padding-top:20px}@media(prefers-color-scheme:dark){:root{--bg:#232221;--ink:#e4e3de;--muted:#aaa9a1;--line:#454641;--card:#2c2c29;--accent:#a8c8bd}}
-      </style><main><div class="label">Preliminary database · 2026–2027 application cycle</div><h1>High-energy physics faculty opportunities</h1><div class="intro"><p>''' + str(counts['jobs']) + ' advertised searches and leads · ' + str(counts['verifiedJobs']) + ' verified records · ' + str(counts['reviewJobs']) + ' awaiting review · ' + str(counts['institutions']) + ''' institutions in the source directory.</p><p>This is the complete readable catalog. <a href="./">Explore the world map</a>. It includes adjacent astrophysics and broad physics searches. Closed and uncertain records remain visible here for inspection. The interactive map hides passed hard deadlines and unresolved records by default.</p><p>Snapshot: ''' + esc(m['generatedAt']) + '''. Dates below distinguish hard deadlines, priority dates and the start of review. Check the linked advertisement before applying; a passed priority date does not establish that a search has closed.</p><nav><a href="./">World map</a><a href="data/catalog.json">Complete JSON database</a><a href="data/catalog.sqlite">SQLite database</a><a href="#directory">Institution directory</a></nav><label for="search" class="small">Filter this review catalog</label><br><input id="search" type="search" placeholder="Institution, field, deadline or review note…"></div><div class="grid">''' + ''.join(cards) + '''</div><h2 id="directory">Institution source directory</h2><p>These are discovery starting points. No institution has yet received a complete cycle-wide vacancy scan.</p><table><thead><tr><th>Institution</th><th>Country</th><th>Sources</th></tr></thead><tbody>''' + ''.join(directory) + '''</tbody></table><footer><p>Carnegie classification metadata: American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications. Source metadata used under <a href="https://carnegieclassifications.acenet.edu/data-center/">CC BY-NC-SA 4.0</a>; campus-level source references are retained in the database. Other advertisements retain their existing rights.</p><p>Coverage is preliminary and weighted toward theory and North America. Locations are approximate campus or city points. Wider experimental and global coverage remains in progress. The existing personal daily-search task has not been changed.</p></footer></main><script>document.querySelector('#search').addEventListener('input',e=>{const q=e.target.value.toLocaleLowerCase().trim();document.querySelectorAll('article').forEach(a=>a.hidden=!a.textContent.toLocaleLowerCase().includes(q))});</script></html>'''
+      </style><main><div class="label">Preliminary database · 2026–2027 application cycle</div><h1>High-energy physics faculty opportunities</h1><div class="intro"><p>''' + str(counts['jobs']) + ' advertised searches and leads · ' + str(counts['verifiedJobs']) + ' verified records · ' + str(counts['reviewJobs']) + ' awaiting review · ' + str(counts['institutions']) + ''' institutions in the source directory.</p><p>This is the complete readable catalog. <a href="./">Explore the world map</a>. It includes adjacent astrophysics and broad physics searches. Closed and uncertain records remain visible here for inspection. The interactive map hides passed hard deadlines and unresolved records by default.</p><p>Snapshot: ''' + esc(m['generatedAt']) + '''. Dates below distinguish hard deadlines, priority dates and the start of review. Check the linked advertisement before applying; a passed priority date does not establish that a search has closed.</p><nav><a href="./">World map</a><a href="data/catalog.json">Complete JSON database</a><a href="data/catalog.sqlite">SQLite database</a><a href="#directory">Institution directory</a></nav><label for="search" class="small">Filter this review catalog</label><br><input id="search" type="search" placeholder="Institution, field, deadline or review note…"></div><div class="grid">''' + ''.join(cards) + '''</div><h2 id="directory">Institution source directory</h2><p>Dated scans cover the vacancy lists and search scope recorded for each institution. Partial or blocked scans retain their access and coverage limitations.</p><table><thead><tr><th>Institution</th><th>Country</th><th>Sources</th><th>Latest scan</th></tr></thead><tbody>''' + ''.join(directory) + '''</tbody></table><footer><p>Carnegie classification metadata: American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications. Source metadata used under <a href="https://carnegieclassifications.acenet.edu/data-center/">CC BY-NC-SA 4.0</a>; campus-level source references are retained in the database. Other advertisements retain their existing rights.</p><p>Locations are approximate campus or city points. Completed scans describe the sources checked at that time, not all possible or future openings. Regional source discovery continues during weekly refreshes.</p></footer></main><script>document.querySelector('#search').addEventListener('input',e=>{const q=e.target.value.toLocaleLowerCase().trim();document.querySelectorAll('article').forEach(a=>a.hidden=!a.textContent.toLocaleLowerCase().includes(q))});</script></html>'''
     (ROOT / 'catalog.html').write_text(page)
 
 

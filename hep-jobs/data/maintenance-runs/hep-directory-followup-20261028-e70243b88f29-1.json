@@ -1,0 +1,243 @@
+{
+  "runId": "hep-directory-followup-20261028-e70243b88f29-1",
+  "startedAt": "2026-10-28T19:36:48+00:00",
+  "finishedAt": "2026-10-28T19:37:43Z",
+  "checks": [
+    {
+      "sourceId": "source-3d2993ad1d2c",
+      "checkedAt": "2026-10-28T19:36:48+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobs.villanova.edu/postings/search?query=physics"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-5bc4995ee4b7",
+      "checkedAt": "2026-10-28T19:36:48+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://careers.uh.edu/jobs/search/uh-postings?query=physics"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-a4a6b32423df",
+      "checkedAt": "2026-10-28T19:36:48+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/search?query=physics"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-d095cca96d1a",
+      "checkedAt": "2026-10-28T19:36:48+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://explore.jobs.ufl.edu/en-us/search/?search-keyword=astronomy"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-198898899ed7",
+      "checkedAt": "2026-10-28T19:36:55Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://mbsfacapp.iitm.ac.in/"
+      ],
+      "summary": "Announcement IITM/MBS/2/2026 issued October 23, 2026, opened October 26. Public landing page does not state eligibility.",
+      "coverage": "Public MBS landing page.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-73757e2bbd64",
+      "checkedAt": "2026-10-28T19:36:55Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3190489"
+      ],
+      "summary": "Web extraction could not retrieve the public API record; retried with public HTTP access.",
+      "coverage": "API retrieval attempt.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-bfc57f35426c",
+      "checkedAt": "2026-10-28T19:36:55Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202603/P020260319371298377441.pdf"
+      ],
+      "summary": "Web PDF retrieval timed out; later public HTTP retrieval succeeded.",
+      "coverage": "Attempted annual Beijing role-table read.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-6fc7710e5cad",
+      "checkedAt": "2026-10-28T19:37:30Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://mbsfacapp.iitm.ac.in/mbs26/"
+      ],
+      "summary": "Application page requires existing LDAP credentials and CAPTCHA, with no public registration or eligibility details. No authentication attempted.",
+      "coverage": "Public sign-in page only; internal-only interpretation remains an inference.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-7c1ef0720090",
+      "checkedAt": "2026-10-28T19:37:30Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/"
+      ],
+      "summary": "Read all ten page-1 entries. The June 29, 2026 institute faculty call is the only current institutional faculty search; other entries concern industry, internships or student work.",
+      "coverage": "Page 1 of the department recruitment category; ten entries, October 2026 through October 2025.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 10,
+        "page": 1,
+        "totalPages": 3,
+        "filters": "none"
+      }
+    },
+    {
+      "sourceId": "source-a9982f7e56c2",
+      "checkedAt": "2026-10-28T19:37:41.219053+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://v22.desy.de/index_eng.html"
+      ],
+      "summary": "No new qualifying HEP faculty vacancy. Accelerator Scientist MMA048/2026 is explicitly limited to two years without a faculty/permanent-track statement. The separate 81-record block is navigation metadata, not vacancy pagination.",
+      "coverage": "All 33 current vacancy table rows; all Scientific titles and descriptions screened. Client filters only; all rows present in response.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No filter unless scope specifies year, department, or status; HEP/cosmology/adjacent/broad-physics faculty screen.",
+      "pagination": {
+        "displayed": 33,
+        "total": 33,
+        "mode": "all rows in response; client-side filtering only"
+      }
+    },
+    {
+      "sourceId": "source-96d71ffedaed",
+      "checkedAt": "2026-10-28T19:37:41.219445+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026"
+      ],
+      "summary": "Existing PHYS-01/A experimental-particle RTT confirmed; other physics entries concern condensed matter, applied physics, or education/history.",
+      "coverage": "All 12 links on the 2026 RTT index and each linked field list.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No filter unless scope specifies year, department, or status; HEP/cosmology/adjacent/broad-physics faculty screen.",
+      "pagination": {
+        "indexEntries": 12,
+        "linkedFieldListsRead": 12,
+        "mode": "single year index"
+      }
+    },
+    {
+      "sourceId": "source-f37725911fe4",
+      "checkedAt": "2026-10-28T19:37:41.219588+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-4d83cb160b57",
+      "checkedAt": "2026-10-28T19:37:41.219708+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-89a12b9d835d",
+      "checkedAt": "2026-10-28T19:37:41.219837+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.unina.it/ateneo/concorsi/concorsi-docenti-e-ricercatori/reclutamento-ricercatori-a-tempo-determinato",
+        "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/reclutamento-ricercatori-a-tempo-determinato"
+      ],
+      "summary": "No currently open researcher cards; in-progress and concluded tabs were also inspected.",
+      "coverage": "Current open researcher competition tab; zero live vacancy cards. Pagination JS only paginates existing .card-bandi elements; commented historic HTML is not a live vacancy list.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No filter unless scope specifies year, department, or status; HEP/cosmology/adjacent/broad-physics faculty screen.",
+      "pagination": {
+        "displayed": 0,
+        "total": 0,
+        "mode": "client-side"
+      }
+    },
+    {
+      "sourceId": "source-7fd1071baf33",
+      "checkedAt": "2026-10-28T19:37:41.487630+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.uib.es/taulers/ocupacio"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e22455fcbaea",
+      "checkedAt": "2026-10-28T19:37:41.496158+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.uw.edu.pl/kategoria-praca/job-offers/"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-28440de2153b",
+      "checkedAt": "2026-10-28T19:37:43Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3190489",
+        "https://inspirehep.net/api/jobs/3190489"
+      ],
+      "summary": "Employer-submitted full advertisement read through the public API: dated August 13, 2026, CCSP foreign faculty in early-universe cosmology, structure formation and gravitational waves; explicit December 31, 2026 application deadline. Existing record unchanged.",
+      "coverage": "Employer advertisement resolved through its corresponding public API record.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    }
+  ],
+  "summary": "Follow-up institution-directory scan: recorded bounded reviews, access attempts and coverage gaps."
+}

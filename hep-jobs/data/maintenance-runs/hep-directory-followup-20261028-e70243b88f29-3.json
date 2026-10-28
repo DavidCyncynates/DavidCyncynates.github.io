@@ -1,0 +1,756 @@
+{
+  "runId": "hep-directory-followup-20261028-e70243b88f29-3",
+  "startedAt": "2026-10-28T19:40:38Z",
+  "finishedAt": "2026-10-28T19:43:45Z",
+  "checks": [
+    {
+      "sourceId": "source-236c3105e6fe",
+      "checkedAt": "2026-10-28T19:40:38Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/page/3/"
+      ],
+      "summary": "All three final-page entries read through public HTTP: 2023 postdoc, industry platform and 2022 student assistant. Archive reports 23 recruitment entries total.",
+      "coverage": "Complete final page 3 of 3, three entries.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 3,
+        "page": 3,
+        "totalPages": 3,
+        "filters": "none"
+      }
+    },
+    {
+      "sourceId": "source-4715586fb91c",
+      "checkedAt": "2026-10-28T19:40:38Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3129038"
+      ],
+      "summary": "Full employer ad read: junior particle/nuclear theory faculty, QCD/heavy ions/hadrons/BSM; open until filled. Posted March 16, 2026; March 16, 2027 metadata is exactly a one-year board expiry and is not promoted to a hard deadline.",
+      "coverage": "Existing full employer advertisement recovered; exact connection with 2026 institutional teacher rows unresolved.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-bfc57f35426c",
+      "checkedAt": "2026-10-28T19:41:05Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202603/P020260319371298377441.pdf"
+      ],
+      "summary": "All eight PDF pages and 21 numbered role rows read. Includes established-staff positions in detector development, LHAASO, CMB data analysis, plasma-wakefield acceleration and scientific computing. Rank equivalence and overlap with individual calls remain review questions.",
+      "coverage": "Full 2026 Beijing establishment-post table, 21 rows over eight pages. Individual annual recruitment attachment; not an independent historical board.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1b0c5db932c5",
+      "checkedAt": "2026-10-28T19:41:59Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-6.php?Lang=zh-tw"
+      ],
+      "summary": "Read department announcement titles. Current physics/astronomy faculty call is on page 1; older leadership calls refer to 2024/2022 starts and other recruitment titles are assistants/students.",
+      "coverage": "Complete page 6 of 6 in the physics department announcement list; all 69 titles across the six pages screened for faculty recruitment.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 9,
+        "page": 6,
+        "totalPages": 6,
+        "filters": "faculty and physics/astronomy recruitment"
+      }
+    },
+    {
+      "sourceId": "source-60a0ea6e1b87",
+      "checkedAt": "2026-10-28T19:41:59Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-5.php?Lang=zh-tw"
+      ],
+      "summary": "Read department announcement titles. Current physics/astronomy faculty call is on page 1; older leadership calls refer to 2024/2022 starts and other recruitment titles are assistants/students.",
+      "coverage": "Complete page 5 of 6 in the physics department announcement list; all 69 titles across the six pages screened for faculty recruitment.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 12,
+        "page": 5,
+        "totalPages": 6,
+        "filters": "faculty and physics/astronomy recruitment"
+      }
+    },
+    {
+      "sourceId": "source-6d883cea149d",
+      "checkedAt": "2026-10-28T19:41:59Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-2.php?Lang=zh-tw"
+      ],
+      "summary": "Read department announcement titles. Current physics/astronomy faculty call is on page 1; older leadership calls refer to 2024/2022 starts and other recruitment titles are assistants/students.",
+      "coverage": "Complete page 2 of 6 in the physics department announcement list; all 69 titles across the six pages screened for faculty recruitment.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 12,
+        "page": 2,
+        "totalPages": 6,
+        "filters": "faculty and physics/astronomy recruitment"
+      }
+    },
+    {
+      "sourceId": "source-904b9ca6a039",
+      "checkedAt": "2026-10-28T19:41:59Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-4.php?Lang=zh-tw"
+      ],
+      "summary": "Read department announcement titles. Current physics/astronomy faculty call is on page 1; older leadership calls refer to 2024/2022 starts and other recruitment titles are assistants/students.",
+      "coverage": "Complete page 4 of 6 in the physics department announcement list; all 69 titles across the six pages screened for faculty recruitment.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 12,
+        "page": 4,
+        "totalPages": 6,
+        "filters": "faculty and physics/astronomy recruitment"
+      }
+    },
+    {
+      "sourceId": "source-9ba1ec81e1c4",
+      "checkedAt": "2026-10-28T19:41:59Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.iitm.ac.in/sites/default/files/Others/Faculty-Recruitment-handbook.pdf"
+      ],
+      "summary": "Downloaded the public 60-page handbook and inspected career-progression/recruitment passages. It describes merit-based promotions, but does not establish eligibility for MBS/2/2026.",
+      "coverage": "Recruitment and progression passages; handbook is not a current vacancy list.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-cce3876f7389",
+      "checkedAt": "2026-10-28T19:41:59Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-1.php?Lang=zh-tw"
+      ],
+      "summary": "Read department announcement titles. Current physics/astronomy faculty call is on page 1; older leadership calls refer to 2024/2022 starts and other recruitment titles are assistants/students.",
+      "coverage": "Complete page 1 of 6 in the physics department announcement list; all 69 titles across the six pages screened for faculty recruitment.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 12,
+        "page": 1,
+        "totalPages": 6,
+        "filters": "faculty and physics/astronomy recruitment"
+      }
+    },
+    {
+      "sourceId": "source-d35eaad3806e",
+      "checkedAt": "2026-10-28T19:41:59Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-3.php?Lang=zh-tw"
+      ],
+      "summary": "Read department announcement titles. Current physics/astronomy faculty call is on page 1; older leadership calls refer to 2024/2022 starts and other recruitment titles are assistants/students.",
+      "coverage": "Complete page 3 of 6 in the physics department announcement list; all 69 titles across the six pages screened for faculty recruitment.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 12,
+        "page": 3,
+        "totalPages": 6,
+        "filters": "faculty and physics/astronomy recruitment"
+      }
+    },
+    {
+      "sourceId": "source-291b9b42ca9d",
+      "checkedAt": "2026-10-28T19:42:07Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://phys.site.nthu.edu.tw/p/450-1335-267435,c0.php?Lang=zh-tw"
+      ],
+      "summary": "Older head-of-department/director call closed May 7, 2024 for a three-year term beginning August 2024; outside current application cycle.",
+      "coverage": "Full one-page leadership advertisement.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-3bee74ff9505",
+      "checkedAt": "2026-10-28T19:42:07Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.jlu.edu.cn/info/1095/57563.m.htm"
+      ],
+      "summary": "2026 general faculty notice read. Lecturer, associate professor and professor recruitment is valid from May 20, 2026 until the 2027 notice; current role details are assigned to an attached table and the careers portal.",
+      "coverage": "Full general faculty notice; exact physics rows still need the attachment/portal.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-cc2d95d60065",
+      "checkedAt": "2026-10-28T19:42:07Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://phys.site.nthu.edu.tw/p/406-1335-309567,r3568.php?Lang=zh-tw"
+      ],
+      "summary": "Full current bilingual faculty call confirms assistant professor or higher, all physics/astronomy with AMO/quantum-computing emphasis; August 15 and October 31, 2026 rounds, February/August 2027 starts. Existing record unchanged.",
+      "coverage": "Current faculty advertisement, both language versions.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-40c4dc00ea0d",
+      "checkedAt": "2026-10-28T19:42:15Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.jlu.edu.cn/system/_content/download.jsp?owner=1180385364&urltype=news.DownloadAttachUrl&wbfileid=1341778"
+      ],
+      "summary": "Attachment download requires CAPTCHA. No bypass attempted; position spreadsheet not obtained.",
+      "coverage": "Attempted public 2026 faculty-role spreadsheet download.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-4558bf39d48e",
+      "checkedAt": "2026-10-28T19:42:42.232957+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/fileadmin/user_upload/2026/ordinari/DR_bando/DR986_Bando_17_ords_42D_0926.pdf"
+      ],
+      "summary": "Supports rank, field, deadline or eligibility of the corresponding proposed addition.",
+      "coverage": "Official full vacancy list/terms PDF read for the proposed archived addition. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5f0f682f8314",
+      "checkedAt": "2026-10-28T19:42:42.233507+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/ateneo/concorsi/concorsi-docenti-e-ricercatori/chiamata-dei-professori",
+        "https://www.unina.it/it/visualizzatore?pageType=list&query=&tabType=CONCORSIDOCENTIERICERCATORICHIAMATEDEIPROFESSORIINCORSO"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-6484382db3a3",
+      "checkedAt": "2026-10-28T19:42:42.233646+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.unina.it/ateneo/concorsi/concorsi-docenti-e-ricercatori/tenure-track",
+        "https://www.unina.it/it/visualizzatore?pageType=list&query=&tabType=ATENEOTENURETRACK"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-170d0f36b09c",
+      "checkedAt": "2026-10-28T19:42:42.233804+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/w/marc-2026?title_redirect=Personal+Docent+Funcionari&redirect=%2Farees%2Fpdi%2Fconvocatories%2Fpersonal-docent-numerari"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-64d8d67a8170",
+      "checkedAt": "2026-10-28T19:42:42.500811+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/w/gener-2026-copia-?title_redirect=Personal+Docent+Funcionari&redirect=%2Farees%2Fpdi%2Fconvocatories%2Fpersonal-docent-numerari"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-0a5076a1ec79",
+      "checkedAt": "2026-10-28T19:42:42.690864+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/w/novembre-2025-copia-2-?title_redirect=Personal+Docent+Funcionari&redirect=%2Farees%2Fpdi%2Fconvocatories%2Fpersonal-docent-numerari"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c9635a2c89af",
+      "checkedAt": "2026-10-28T19:42:42.824790+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.boe.es/boe/dias/2026/09/21/pdfs/BOE-A-2026-19584.pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-d5a8f84615fe",
+      "checkedAt": "2026-10-28T19:42:42.826972+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/w/octubre-2025-copia-1-?title_redirect=Professor+Permanent+Laboral&redirect=%2Farees%2Fpdi%2Fconvocatories%2Fppl"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a53f73a5b15e",
+      "checkedAt": "2026-10-28T19:42:43.192879+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/854963corslplacestlmaig2026_en-gb-pdf"
+      ],
+      "summary": "Supports rank, field, deadline or eligibility of the corresponding proposed addition.",
+      "coverage": "Official full vacancy list/terms PDF read for the proposed archived addition. Individual advertisement/support page only; no vacancy-list completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c5497d10c96a",
+      "checkedAt": "2026-10-28T19:42:46.893518+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/w/desembre-2025?title_redirect=Professorat+Ajudant+Doctor&redirect=%2Farees%2Fpdi%2Fconvocatories%2Fajudant-doctor-2"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-22627a83f399",
+      "checkedAt": "2026-10-28T19:42:46.982951+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/boib-pdf-1"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-652e729ec6eb",
+      "checkedAt": "2026-10-28T19:42:47.650350+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://seu.uib.cat/es/tablon?path=anuncio%2F6764%2F"
+      ],
+      "summary": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)>",
+      "coverage": "Public retrieval attempt; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-22faf5aa715c",
+      "checkedAt": "2026-10-28T19:42:57Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/fzbzp/"
+      ],
+      "summary": "Screened all 45 notices dated 2026. The two ambiguous recent experimental/research-engineer calls were fully read in the first pass and are dispatched technical appointments; remaining titles are explicit assistants, technicians, operations or administration.",
+      "coverage": "Bounded scope: 2026 notices on Chinese nonestablishment list through the 2025 date boundary. No faculty-rank search identified in that scope.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 45,
+        "filters": "2026 publication dates; faculty/permanent scientific appointments"
+      }
+    },
+    {
+      "sourceId": "source-5503ea4a813c",
+      "checkedAt": "2026-10-28T19:42:57Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/"
+      ],
+      "summary": "Screened all 19 notices dated 2026; followed all potentially relevant faculty/research calls in the first pass and recovered the annual 21-role PDF in this follow-up. Administrative and technical-only notices excluded.",
+      "coverage": "Bounded scope: notices posted in 2026 on the Chinese establishment-post list, through the visible December 31, 2025 boundary; older rolling calls outside this scope.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 19,
+        "filters": "2026 publication dates; faculty/research rather than administrative/support roles"
+      }
+    },
+    {
+      "sourceId": "source-f66d39ba00db",
+      "checkedAt": "2026-10-28T19:43:12Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.srmap.edu.in/careers/"
+      ],
+      "summary": "Full public careers page reviewed. It lists physics among faculty disciplines and repeats generic year-round recruitment wording, but the linked January 2026 poster has an explicit February 15, 2026 deadline (visually checked by parent). No separate new current-cycle physics search inferred.",
+      "coverage": "Entire single public careers page: faculty fields/ranks/eligibility, leadership and current nonteaching/fellowship entries; relevant 2026 image notice reviewed separately.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "faculty and physics-relevant opportunities; no list pagination"
+      }
+    },
+    {
+      "sourceId": "source-73d3f9f128c8",
+      "checkedAt": "2026-10-28T19:43:27.762421+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.unina.it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori",
+        "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori"
+      ],
+      "summary": "No current open professor calls; in-progress and concluded tabs inspected separately.",
+      "coverage": "Current open professor competitions tab; zero live cards.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No filter unless scope specifies year, department, or status; HEP/cosmology/adjacent/broad-physics faculty screen.",
+      "pagination": {
+        "displayed": 0,
+        "total": 0,
+        "mode": "client-side"
+      }
+    },
+    {
+      "sourceId": "source-9df9323cffaf",
+      "checkedAt": "2026-10-28T19:43:27.762575+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.unina.it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori/procedure-in-corso",
+        "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori/procedure-in-corso"
+      ],
+      "summary": "No new relevant physics professorship identified. The 2026 entries are internal article 24 evaluations or non-physics disciplines.",
+      "coverage": "All 24 in-progress professor competition cards present in HTML (three display pages at ten per page); 2026 entries screened and multi-field call annex read.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No filter unless scope specifies year, department, or status; HEP/cosmology/adjacent/broad-physics faculty screen.",
+      "pagination": {
+        "displayed": 24,
+        "total": 24,
+        "pageSize": 10,
+        "equivalentPages": 3,
+        "mode": "all rows in response; client-side pagination"
+      }
+    },
+    {
+      "sourceId": "source-f3f7bf018f58",
+      "checkedAt": "2026-10-28T19:43:27.762702+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.unina.it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori/procedure-concluse",
+        "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori/procedure-concluse"
+      ],
+      "summary": "No relevant new 2026 physics faculty search.",
+      "coverage": "All 63 concluded professor competition cards present in HTML (seven display pages), screening 2026 calls and linked discipline details.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No filter unless scope specifies year, department, or status; HEP/cosmology/adjacent/broad-physics faculty screen.",
+      "pagination": {
+        "displayed": 63,
+        "total": 63,
+        "pageSize": 10,
+        "equivalentPages": 7,
+        "mode": "all rows in response; client-side pagination"
+      }
+    },
+    {
+      "sourceId": "source-c0e1208cba8b",
+      "checkedAt": "2026-10-28T19:43:27.762825+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/reclutamento-ricercatori-a-tempo-determinato/procedure-in-corso"
+      ],
+      "summary": "Only HEP-adjacent physics entry is the already mapped R5_RTT_2026_02 astrophysics/cosmology search.",
+      "coverage": "All 40 in-progress researcher competition cards (four display pages), all 2026 linked call pages and relevant multi-field PDFs.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No filter unless scope specifies year, department, or status; HEP/cosmology/adjacent/broad-physics faculty screen.",
+      "pagination": {
+        "displayed": 40,
+        "total": 40,
+        "pageSize": 10,
+        "equivalentPages": 4,
+        "mode": "all rows in response; client-side pagination"
+      }
+    },
+    {
+      "sourceId": "source-8134c947a191",
+      "checkedAt": "2026-10-28T19:43:27.942294+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/reclutamento-ricercatori-a-tempo-determinato/procedure-concluse"
+      ],
+      "summary": "No additional relevant 2026 HEP faculty search. Existing expired jobs retained.",
+      "coverage": "All 117 concluded researcher competition cards (twelve display pages), screening 2026 records and reading each 2026 linked call page and multi-field annex.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": "No filter unless scope specifies year, department, or status; HEP/cosmology/adjacent/broad-physics faculty screen.",
+      "pagination": {
+        "displayed": 117,
+        "total": 117,
+        "pageSize": 10,
+        "equivalentPages": 12,
+        "mode": "all rows in response; client-side pagination"
+      }
+    },
+    {
+      "sourceId": "source-54bc332079be",
+      "checkedAt": "2026-10-28T19:43:28.644682+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/boe_cu_19052026-pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-21df3690e6de",
+      "checkedAt": "2026-10-28T19:43:28.663582+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/bases-angles_resolucion-12-05-2026_cu-pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-af3a5472e59d",
+      "checkedAt": "2026-10-28T19:43:29.457112+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/boe_tu_19052026-pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-1a706ff2eb78",
+      "checkedAt": "2026-10-28T19:43:29.484611+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/bases-angles_resolucion-12-05-2026_tu_gb-pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-24e5e4faae16",
+      "checkedAt": "2026-10-28T19:43:30Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3181469"
+      ],
+      "summary": "Full employer ad read: hadron physics, lattice QCD, BSM and Belle II/BESIII data/hardware faculty; Chinese not required; open until filled. One-year board expiry is not treated as a hard employer deadline.",
+      "coverage": "Existing employer advertisement only; posted July 20, 2026. Current institutional role list remains inaccessible.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b56c847896dd",
+      "checkedAt": "2026-10-28T19:43:30.230228+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/boe_23-03-26_9cu-pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-6806004b90e9",
+      "checkedAt": "2026-10-28T19:43:31.572838+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/bases-angles_resolucion-16-03-2026_9-cu_gb-pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-fad02182d75d",
+      "checkedAt": "2026-10-28T19:43:31.963Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.imperial.ac.uk/jobs/search-jobs/"
+      ],
+      "summary": "One faculty opening: Assistant / Associate Professor in Particle Physics (job 29599), already in the catalog. Other results are postdoctoral, research associate, doctoral, or unrelated support roles.",
+      "coverage": "All 14 keyword physics matches reviewed, including Show more results to exhaustion.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": {
+        "keyword": "physics"
+      },
+      "pagination": {
+        "displayed": 14,
+        "total": 14
+      }
+    },
+    {
+      "sourceId": "source-7ba8f9149191",
+      "checkedAt": "2026-10-28T19:43:32.913232+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/convocatoria-cu-al-boe_22-01-26-1-png"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-dc6ee708e06d",
+      "checkedAt": "2026-10-28T19:43:33.482833+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/bases-angles_resolucion-15-01-2026_cu_gb-png"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-fca95cd10d4b",
+      "checkedAt": "2026-10-28T19:43:35.136854+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/convocatoria-tu-al-boe_22-01-26-pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-6f8cfa9ad3ae",
+      "checkedAt": "2026-10-28T19:43:35.238451+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/bases-angles_resolucion-15-01-2026_tu_gb-pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-208c047d8ad9",
+      "checkedAt": "2026-10-28T19:43:35.377812+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/terms-and-conditions_bases_angles_convtl-gener-2026-pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-25672fb01229",
+      "checkedAt": "2026-10-28T19:43:36.241019+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/836812corconvocatoria_places_tlgener2026_en-gb-pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e5e007e3a361",
+      "checkedAt": "2026-10-28T19:43:36.714229+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/836471corslbasesconvocatoriapdiajudantsdoctors_gener_en-gb_rev-pdf"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ba958488e16f",
+      "checkedAt": "2026-10-28T19:43:37.511863+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/documents/d/rrhh-public/basesconvocatoriapdiajudantsdoctors_angles-pdf-1"
+      ],
+      "summary": "Supporting evidence for bounded institution review; see institution assessment and retained leads.",
+      "coverage": "Read official linked call/index to screen discipline, rank and cycle; not an institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-91cad0559e95",
+      "checkedAt": "2026-10-28T19:43:45Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://english.ihep.cas.cn/ju/jo/index.html",
+        "https://english.ihep.cas.cn/ju/jo/index_1.html"
+      ],
+      "summary": "Read current English board: five 2026 notices, including the March faculty/technologist umbrella already read; other 2026 entries are postdoctoral calls or an information session.",
+      "coverage": "Bounded scope: all 2026 notices on page 1, with page 2 checked to establish older-date boundary. Not all 80 historical notices.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 2,
+        "resultsScreened": 20,
+        "filters": "2026 dated notices; pages 1–2 checked"
+      }
+    },
+    {
+      "sourceId": "source-d0064285e7b3",
+      "checkedAt": "2026-10-28T19:43:45Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://english.ihep.cas.cn/ju/jo/index_1.html"
+      ],
+      "summary": "Read all ten page-2 titles, dated April 2025 and earlier; no further 2026 notice.",
+      "coverage": "Page 2 is an older-date boundary check for the 2026 scope, not a full historical refresh.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 10,
+        "filters": "date-boundary verification"
+      }
+    }
+  ],
+  "summary": "Follow-up institution-directory scan: recorded bounded reviews, access attempts and coverage gaps."
+}

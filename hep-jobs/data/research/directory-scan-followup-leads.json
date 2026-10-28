@@ -1,0 +1,252 @@
+[
+  {
+    "institutionId": "carnegie-mellon",
+    "title": "Full or Associate Professor with Tenure and Director of the McWilliams Center for Cosmology and Astrophysics",
+    "sourceUrls": [
+      "https://www.cmu.edu/faculty-office/prospective/faculty-careers/",
+      "https://apply.interfolio.com/195638",
+      "https://aas.org/jobregister/ad/a5ed92fc"
+    ],
+    "outcome": "needs-review",
+    "evidence": "Official faculty board lists this distinct senior Physics search with October 14, 2026 posting date. Interfolio returned no readable detail and AAS returned HTTP 403.",
+    "unresolved": [
+      "Full deadline and cycle/start-date details; employer ad body required before verified inclusion."
+    ]
+  },
+  {
+    "institutionId": "university-of-kentucky",
+    "title": "Assistant Professor of Physics - Research (FE05064)",
+    "sourceUrls": [
+      "https://ukjobs.uky.edu/postings/652281"
+    ],
+    "outcome": "needs-review",
+    "evidence": "Employer body identifies full-time non-tenure-track Research Title Series faculty working on Cloudy astrophysics/plasma simulations; deadline October 31, 2026 and start November 1, 2026.",
+    "unresolved": [
+      "Continuing/permanent status is not specified; resolve inclusion policy for research faculty appointments before adding as a permanent-faculty opportunity."
+    ]
+  },
+  {
+    "institutionId": "mit",
+    "title": "Tenure-track Assistant Professor in Experimental Quantum Science",
+    "sourceUrls": [
+      "https://physics.mit.edu/about-physics/employment-opportunities/",
+      "https://academicjobsonline.org/ajo/jobs/33086"
+    ],
+    "outcome": "scope-review",
+    "evidence": "Employer AJO body read; posted October 14, 2026, December 1 deadline, experimental quantum science including AMO, precision measurements and quantum information.",
+    "unresolved": [
+      "No explicit high-energy, cosmology or fundamental-physics-tests focus in the advertisement. Not automatically included solely from precision-measurement wording."
+    ]
+  },
+  {
+    "institutionId": "university-sao-paulo",
+    "title": "IFUSP 20/2026 - experimental high-energy physics with accelerators",
+    "sourceUrls": [
+      "https://portal.if.usp.br/ataac/pt-br/node/8096"
+    ],
+    "outcome": "cycle-review",
+    "evidence": "Primary competition page read: applications March 11 through June 8, 2026; competition hearing November 11, 2026.",
+    "unresolved": [
+      "Application period predates the main 2026–27 application season; cycle definition must be resolved before adding this expired call. Do not infer closure from absence on a later board."
+    ]
+  },
+  {
+    "institutionId": "university-sao-paulo",
+    "title": "IAG Astronomy faculty competition 013/2026",
+    "sourceUrls": [
+      "https://iag.usp.br/concursos/concursos-para-docentes",
+      "https://iag.usp.br/concursos-para-docentes/professor-doutor-aga-013-2026"
+    ],
+    "outcome": "inaccessible-detail",
+    "evidence": "Current IAG table exposes historical astronomy competition with April–July 2026 application interval; linked detail returned a retrieval error.",
+    "unresolved": [
+      "Full scope and cycle need detail evidence."
+    ]
+  },
+  {
+    "institutionId": "cern",
+    "title": "Theoretical Physicist (TH-SP-2026-68-LD)",
+    "sourceUrls": [
+      "https://careers.cern/jobs/th-sp-2026-68-ld/"
+    ],
+    "verification": "needs-review",
+    "reason": "Official role is a 60-month staff contract and mentions eligibility for indefinite-contract tenure; this does not establish guaranteed faculty/permanent-track equivalence or a closing date. Do not promote without clarifying scope and cycle."
+  },
+  {
+    "institutionId": "cnrs-multihost",
+    "title": "CMS ions lourds (CMS-HI), CPJ-2026-032",
+    "sourceUrls": [
+      "https://carrieres.cnrs.fr/en/chair-recruitment/",
+      "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-032/Default.aspx"
+    ],
+    "verification": "needs-review",
+    "reason": "Official 2026 CPJ directory confirms tenure-track nature and common Sep 2 cutoff. Detailed ad unavailable; host institution/location and full eligibility not verified."
+  },
+  {
+    "institutionId": "cnrs-multihost",
+    "title": "Contribution française pour l’Extremely Large Telescope (FCELT), CPJ-2026-001",
+    "sourceUrls": [
+      "https://carrieres.cnrs.fr/en/chair-recruitment/",
+      "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-001/Default.aspx"
+    ],
+    "verification": "needs-review",
+    "reason": "Adjacent astronomy CPJ in official list; detailed ad unavailable and host institution/location unresolved."
+  },
+  {
+    "institutionId": "durham-university",
+    "title": "Assistant/Associate Professors in Computational Astrophysics and Cosmology / Observational Astronomy",
+    "sourceUrls": [
+      "https://orca.dur.ac.uk/joinus.html"
+    ],
+    "verification": "needs-review",
+    "reason": "Search discovered two Sep 28, 2026 faculty calls, but employer list direct retrieval failed TLS hostname validation and web tool timeout. Search snippets not sufficient for publication."
+  },
+  {
+    "institutionId": "ifae",
+    "title": "Earlier GW-specific RyC 2026 advertisement overlaps general host EOI",
+    "proposedJobId": "ifae-gw-ryc-eoi-2026",
+    "existingJobId": "ifae-ryc-eoi-2026",
+    "verification": "needs-review",
+    "disposition": "withdrawn-proposed-addition-possible-duplicate",
+    "assessedAt": "2026-10-28T19:32:30.882706+00:00",
+    "sourceUrls": [
+      "https://www.ifae.es/careers/jobs/2026/07/ramon-y-cajal-fellowship-programme-2026-tenure-track-position-in-gravitational-wave-physics-at-ifae/",
+      "https://www.ifae.es/careers/jobs/2026/09/call-for-expressions-of-interest-ramon-y-cajal-fellowship-programme-2026/"
+    ],
+    "reason": "Later September employer call explicitly includes experimental GW research using ground-based interferometers and sets October 16 for host EOIs. The earlier July GW advertisement alone does not prove a separate slot or later deadline; do not add a separately open search or bypass the existing expired host stage."
+  },
+  {
+    "institutionId": "ihep-cas",
+    "url": "https://english.ihep.cas.cn/ju/jo/202603/t20260324_1153693.html",
+    "title": "Broad IHEP faculty recruitment, 2026",
+    "status": "needs-review",
+    "reason": "March 2026 broad faculty call explicitly includes tenured and tenure-track ranks and rolling review until filled; multiple campuses prevent precise new map location."
+  },
+  {
+    "institutionId": "ihep-cas",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202606/t20260601_8211833.html",
+    "title": "Scientific-data research staff",
+    "status": "needs-review",
+    "reason": "Scientific-data research staff role requires completed postdoctoral experience. Exact faculty-equivalent rank not stated; retained as a lead."
+  },
+  {
+    "institutionId": "ihep-cas",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202605/t20260506_8196218.html",
+    "title": "JUNO detector operations lead",
+    "status": "needs-review",
+    "reason": "JUNO detector operations lead requires completed particle/nuclear postdoctoral work; exact rank and location need assessment. Administrative secretary excluded."
+  },
+  {
+    "institutionId": "ihep-cas",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260403_8181080.html",
+    "title": "Overseas Young Talent hosting, 2026",
+    "status": "expired-lead",
+    "reason": "2026 overseas young-talent hosting route has May 25 host deadline and June 15 national deadline; spans campuses. Expired lead, not a new currently open vacancy."
+  },
+  {
+    "institutionId": "kek-tsukuba",
+    "url": "https://www.kek.jp/en/career/imss26-3e",
+    "title": "Photon Factory Assistant Professor (IMSS26-3)",
+    "status": "scope-review",
+    "reason": "Assistant Professor in Photon Factory beamline technologies; four-year appointment with permanent review. Materials/life-science mission makes HEP-adjacent scope uncertain; retained separately."
+  },
+  {
+    "institutionId": "iit-madras",
+    "url": "https://mbsfacapp.iitm.ac.in/",
+    "title": "Merit Based Selection 2026 faculty route",
+    "status": "needs-review",
+    "reason": "Portal opened October 26; public page does not establish physics eligibility or whether this is an external appointment route."
+  },
+  {
+    "institutionId": "yantai-university",
+    "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1",
+    "title": "Physics faculty: Huang Hai Scholar 4 and Teacher 8",
+    "status": "needs-review",
+    "reason": "Current 2026 call and four-page role list explicitly include particle/nuclear and theoretical physics. Two senior scholar and four teacher posts shown. Final deadline December 31, 2026; individual rank requirements and duplication with existing INSPIRE lead unresolved."
+  },
+  {
+    "institutionId": "jilin-university",
+    "url": "https://www.jlu.edu.cn/info/1095/57563.m.htm",
+    "title": "2026 faculty recruitment",
+    "status": "needs-review",
+    "reason": "General faculty call valid until the next 2027 announcement; position-table attachment pending and general portal under scheduled maintenance."
+  },
+  {
+    "institutionId": "university-of-kentucky",
+    "title": "Assistant Professor of Physics - Research FE05064",
+    "sourceUrls": [
+      "https://ukjobs.uky.edu/postings/652281"
+    ],
+    "outcome": "appointment-scope-review",
+    "summary": "Explicit full-time non-tenure-track Research Title Series faculty; Cloudy astrophysics/plasma research; November1,2026 start and October31 hard close. Continuation or permanence unspecified, so retained as unresolved lead rather than silently promoted."
+  },
+  {
+    "institutionId": "university-of-kentucky",
+    "existingJobId": "kentucky-computational-astrophysics-2027",
+    "title": "FE05020 duplicate employer URLs and deadline wording",
+    "sourceUrls": [
+      "https://ukjobs.uky.edu/postings/650517",
+      "https://ukjobs.uky.edu/postings/648332",
+      "https://academicjobsonline.org/ajo/jobs/32607"
+    ],
+    "outcome": "no-revision",
+    "summary": "Both employer URLs show the same requisition and say open until filled. Mandatory AJO application still explicitly states December1 deadline. Retain existing hard deadline until explicit evidence relaxes that required step; do not duplicate the search."
+  },
+  {
+    "institutionId": "uib",
+    "title": "Assistant lecturer2627_DFS_005 in Atomic,Molecular and Nuclear Physics",
+    "status": "needs-review",
+    "sourceUrls": [
+      "https://rrhh.uib.cat/arees/pdi/convocatories/ajudant-doctor-2",
+      "https://rrhh.uib.cat/documents/d/rrhh-public/boib-pdf-1",
+      "https://seu.uib.cat/es/tablon?path=anuncio/6764/"
+    ],
+    "summary": "Official May 2026 funding annex explicitly lists the assistant-lecturer position in the2026–27 call. Detailed vacancy profile is certificate-blocked, so nuclear/HEP scope cannot be distinguished from AMO-only work; not promoted."
+  },
+  {
+    "institutionId": "university-warsaw",
+    "title": "Early 2026 faculty competitions: WF-1210-124/2025,WF-1210-148/2025,WF-1210-2/2026",
+    "status": "cycle-needs-review",
+    "sourceUrls": [
+      "https://konkursydlanauczycieli.uw.edu.pl/api/document/3628/datafile/pdf",
+      "https://konkursydlanauczycieli.uw.edu.pl/api/document/3731/datafile/pdf",
+      "https://konkursydlanauczycieli.uw.edu.pl/api/document/3791/datafile/pdf"
+    ],
+    "summary": "Mathematical-physics assistant professor(Jan 11deadline), broad experimental assistant professor(Feb 28), and theory university professor/ERC Advanced Grant holder(Apr 15) are real faculty roles but primarily advertised in the preceding round. October 2026 start alone is not evidence for 2026–27 application cycle; not added."
+  },
+  {
+    "institutionId": "university-warsaw",
+    "title": "WF-1210-16/2026 stale central metadata",
+    "status": "resolved-prefer-newer-employer-pdf",
+    "sourceUrls": [
+      "https://konkursydlanauczycieli.uw.edu.pl/api/document/infotype/job_offer_announcement",
+      "https://www.fuw.edu.pl/tl_files/praca/2026/2026-09-01_adiunkt_badawczo_dydaktyczny_IFT_WF-1210-16-2026_ENG_do_30-11-2026.pdf"
+    ],
+    "summary": "Central feed/PDF still use October 1 deadline, while refreshed department PDF explicitly extends toNovember 30. Preserve existing November 30 deadline; do not overwrite with stale feed."
+  },
+  {
+    "institutionId": "iit-madras",
+    "url": "https://mbsfacapp.iitm.ac.in/mbs26/",
+    "summary": "MBS/2/2026 requires existing LDAP login. Public sources do not establish external eligibility; do not create a new open physics vacancy."
+  },
+  {
+    "institutionId": "ihep-cas",
+    "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202603/P020260319371298377441.pdf",
+    "summary": "Full Beijing establishment-post table now read. Relevant rows include silicon detector R&D (1), wakefield physics (5), cosmic-ray/LHAASO analysis (8), space instrumentation (9), CMB/Ali analysis (10), scientific AI/data (17–18). Appointment rank equivalence and overlap with targeted calls need resolution before new map additions."
+  },
+  {
+    "institutionId": "srm-university-ap",
+    "url": "https://www.srmap.edu.in/wp-content/uploads/2026/01/recruitment-ad-srmap.jpeg",
+    "summary": "Parent visually confirms February 15, 2026 deadline. Do not treat January poster as a new open 2026–27 vacancy despite generic rolling webpage label."
+  },
+  {
+    "institutionId": "yantai-university",
+    "url": "https://inspirehep.net/api/jobs/3129038",
+    "summary": "Existing employer description recovered but contains only rolling review, no employer deadline or explicit start year. Need full institutional row evidence for cycle/correspondence; one-year board metadata expiry is not a hard deadline."
+  },
+  {
+    "institutionId": "yantai-university",
+    "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostViewNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1&postId=18C31F6CE4A14220817A0BD825F38313UFJM",
+    "summary": "Follow-up resolves full role-detail access: HuangHai Scholar 4 has two senior posts, Teacher 8 four middle-grade-or-higher posts, and nuclear-school HuangHai Scholar 11 one middle-grade-or-higher post. All require PhD; scholar routes require third-tier performance over five years. Application window is March 16 to December 31, 2026 at 00:00, timezone unstated. Existing INSPIRE correspondence and 2026–27-cycle eligibility remain separate questions; no duplicate addition or promotion."
+  }
+]

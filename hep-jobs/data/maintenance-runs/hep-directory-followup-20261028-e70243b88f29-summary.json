@@ -1,0 +1,45 @@
+{
+  "inputHash": "e70243b88f29755005b908552986d54c8e1d3643124740832d1f6419159ac703",
+  "importedAt": "2026-10-28T20:00:13.170051+00:00",
+  "sourceAttempts": 301,
+  "distinctSources": 290,
+  "institutionReviewsAdded": 38,
+  "reviewOutcomes": {
+    "complete": 27,
+    "partial": 11
+  },
+  "newJobIds": [
+    "cagliari-full-professor-experimental-particle-2026",
+    "ohio-state-astronomy-2027",
+    "uib-tenured-theory-astronomy-2627-dfs004",
+    "ut-austin-astronomical-instrumentation-2027",
+    "ut-austin-astronomy-2027",
+    "vanderbilt-quantum-simulation-2027",
+    "vanderbilt-senior-lecturer-2027"
+  ],
+  "revisedJobIds": [
+    "imperial-data-intensive-physics-ai-2027"
+  ],
+  "newLeads": 10,
+  "counts": {
+    "jobs": 110,
+    "verifiedJobs": 90,
+    "reviewJobs": 20,
+    "defaultEligibleAtSnapshot": 71,
+    "institutions": 84,
+    "sources": 689,
+    "jobCountries": 21,
+    "institutionCountries": 23,
+    "institutionScans": {
+      "complete": 69,
+      "partial": 14,
+      "blocked": 1
+    },
+    "jobsByScope": {
+      "broad-physics": 25,
+      "core": 51,
+      "adjacent": 34
+    }
+  },
+  "limits": "Completed reviews cover their explicitly stated sources, filters and pages; no global exhaustiveness inferred."
+}

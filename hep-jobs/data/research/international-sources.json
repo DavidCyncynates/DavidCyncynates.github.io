@@ -57,6 +57,13 @@
           "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
           "Official careers page links here; direct automated retrieval was blocked by robots policy. No vacancy absence inferred."
         ]
+      },
+      {
+        "url": "https://v22.desy.de/index_eng.html",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -128,6 +135,111 @@
         "lastFullScan": null,
         "notes": [
           "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/",
+        "kind": "recruitment",
+        "notes": [
+          "2026 section of Chinese regular-staff list; annual job-table attachment and older rolling advertisements remain unresolved."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/fzbzp/",
+        "kind": "recruitment",
+        "notes": [
+          "2026 nonestablishment titles; two latest ambiguous calls followed; not all historical posts read."
+        ]
+      },
+      {
+        "url": "https://english.ihep.cas.cn/ju/jo/index_1.html",
+        "kind": "recruitment",
+        "notes": [
+          "Page2 of English list, older 2025/2024 titles."
+        ]
+      },
+      {
+        "url": "https://english.ihep.cas.cn/ju/jo/202603/t20260324_1153693.html",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202606/t20260601_8211833.html",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202605/t20260506_8196218.html",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202605/t20260506_8196055.html",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260410_8184544.html",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260403_8181080.html",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260403_8181071.html",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/fzbzp/202610/t20261027_8298865.html",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/fzbzp/202610/t20261023_8296929.html",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202603/t20260319_8161479.html",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
+      },
+      {
+        "url": "https://english.ihep.cas.cn/ju/jo/202510/t20251011_1089295.html",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
+      },
+      {
+        "url": "https://ihep.cas.cn/zszp/zpxx/zbzp/202603/P020260319371298377441.pdf",
+        "kind": "advertisement",
+        "notes": [
+          "2026 Beijing role table unavailable."
         ]
       }
     ],
@@ -306,6 +418,13 @@
           "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
           "Official university careers page links to this portal. The fetched portal returned no readable listing text; use browser inspection for a full scan."
         ]
+      },
+      {
+        "url": "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career/job/Parkville-Victoria/Laser-Ablation--Automation-and-Digitisation-Research-Scientist_JR-018485-1",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -347,6 +466,13 @@
         "lastFullScan": null,
         "notes": [
           "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+        ]
+      },
+      {
+        "url": "https://www.ictp-saifr.org/scientific-visit/",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
         ]
       }
     ],
@@ -419,6 +545,13 @@
         "notes": [
           "Link discovered in employer material; not separately read."
         ]
+      },
+      {
+        "url": "https://www.smu.edu/dedman/about/employment",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -454,6 +587,48 @@
         "lastFullScan": null,
         "notes": [
           "Link discovered in employer material; not separately read."
+        ]
+      },
+      {
+        "url": "https://www.vanderbilt.edu/provost/jobs/",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/Vanderbilt%20University/Physics%20%26%20Astronomy",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/Vanderbilt",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/Vanderbilt%20University",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/33110",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/33063",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
         ]
       }
     ],
@@ -491,6 +666,13 @@
         "notes": [
           "Link discovered in employer material; not separately read."
         ]
+      },
+      {
+        "url": "https://www.physics.purdue.edu/about/positions/index.html",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -517,6 +699,62 @@
         "notes": [
           "Partial source check recorded separately."
         ]
+      },
+      {
+        "url": "https://astrophysics.uchicago.edu/about/job-opportunities/",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://astro.uchicago.edu/",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://apply.interfolio.com/192968",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://apply.interfolio.com/192971",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://aas.org/jobregister/ad/8852332e",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://aas.org/jobregister/ad/9ba8483a",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32618",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32603",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -542,6 +780,48 @@
         "lastFullScan": null,
         "notes": [
           "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://explore.jobs.ufl.edu/en-us/search/?search-keyword=physics",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://explore.jobs.ufl.edu/en-us/job/541742/assistant-professor-for-astronomical-instrumentation",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://aas.org/jobregister/ad/4b7a9ca7",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://explore.jobs.ufl.edu/en-us/job/541567/assistant-scientist-instrument-science",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://explore.jobs.ufl.edu/en-us/job/529043/tenure-track-assistant-professor-experimental-optics-for-gravitational-wave-detection",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://explore.jobs.ufl.edu/en-us/search/?search-keyword=astronomy",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
         ]
       }
     ],
@@ -579,6 +859,41 @@
         "notes": [
           "Link discovered in employer material; not separately read."
         ]
+      },
+      {
+        "url": "https://www.jmu.edu/physics/employment-opps.shtml",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://jobs.jmu.edu/",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://jobs.jmu.edu/jobs/search?query=physics",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/James%20Madison%20University/Department%20of%20Physics%20and%20Astronomy",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/James%20Madison%20University",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -604,6 +919,27 @@
         "lastFullScan": null,
         "notes": [
           "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://www.uh.edu/provost/faculty/prospective-faculty/",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://careers.uh.edu/jobs/search/uh-postings?category_uids%5B%5D=d3b80de9ada098478edbd5589a0ffeee&category_uids%5B%5D=db3c1fb9609f486fa85f3e228dd5f7e2&page=1&query=",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://careers.uh.edu/jobs/search/uh-postings?query=physics",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
         ]
       }
     ],
@@ -641,6 +977,13 @@
         "notes": [
           "Link discovered in employer material; not separately read."
         ]
+      },
+      {
+        "url": "https://www.phys.vt.edu/employment.html",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -667,6 +1010,20 @@
         "notes": [
           "Partial source check recorded separately."
         ]
+      },
+      {
+        "url": "https://www.physicsandastronomy.pitt.edu/sites/default/files/image-gallery/Faculty%20and%20Pitt%20PACC%20Director%20Ad.pdf",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://www.physicsandastronomy.pitt.edu/sites/default/files/image-gallery/Faculty%20Ad_Astrophysics_2026.pdf",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -692,6 +1049,20 @@
         "lastFullScan": null,
         "notes": [
           "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://www.ubiobio.cl/concursos/",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://www.ubiobio.cl/concursos/?trk=public_post_reshare-text",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
         ]
       }
     ],
@@ -722,6 +1093,13 @@
         "notes": [
           "Partial source check recorded separately."
         ]
+      },
+      {
+        "url": "https://fisica.unab.cl/",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -750,6 +1128,20 @@
         "lastFullScan": null,
         "notes": [
           "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://facultyjobs.lehigh.edu/faculty",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://facultyjobs.lehigh.edu/node/1338",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
         ]
       }
     ],
@@ -797,6 +1189,13 @@
         "notes": [
           "Link discovered in employer material; not separately read."
         ]
+      },
+      {
+        "url": "https://physics.gatech.edu/about/employment",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -822,6 +1221,48 @@
         "lastFullScan": null,
         "notes": [
           "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://jobs.villanova.edu/",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://jobs.villanova.edu/postings/search?397=&399=&400=3&commit=Search&query=&query_organizational_tier_3_id=any&query_v0_posted_at_date=&utf8=%E2%9C%93",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://jobs.villanova.edu/postings/search?query=Astrophysics",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://jobs.villanova.edu/postings/36501",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://jobs.villanova.edu/postings/36614",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://jobs.villanova.edu/postings/search?query=physics",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
         ]
       }
     ],
@@ -888,6 +1329,62 @@
         "lastFullScan": null,
         "notes": [
           "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://portal.if.usp.br/ataac/pt-br/concursos_andamento?page=1",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://portal.if.usp.br/ataac/pt-br/node/8165",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://portal.if.usp.br/ataac/pt-br/node/8145",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://portal.if.usp.br/ataac/pt-br/node/8122",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://portal.if.usp.br/ataac/pt-br/node/8100",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://portal.if.usp.br/ataac/pt-br/node/8096",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://portal.if.usp.br/ataac/pt-br/node/8086",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://iag.usp.br/concursos-para-docentes/professor-doutor-aga-013-2026",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
         ]
       }
     ],
@@ -1079,6 +1576,13 @@
         "notes": [
           "Recruitment route discovered; current retrieval failure or generic portal shell is recorded in the source-check report. No complete scan claimed."
         ]
+      },
+      {
+        "url": "https://www.imperial.ac.uk/physics/opportunities/",
+        "kind": "department",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -1129,6 +1633,13 @@
         "notes": [
           "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
         ]
+      },
+      {
+        "url": "https://icc.ub.edu/job-offers",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -1178,6 +1689,27 @@
         "notes": [
           "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
         ]
+      },
+      {
+        "url": "https://www.unige.ch/sciences/physique/la-section/emplois",
+        "kind": "department",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://www.unige.ch/sciences/physique/theorique/en/emplois/",
+        "kind": "department",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://www.unige.ch/dpnc/en/jobs/",
+        "kind": "department",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -1225,6 +1757,34 @@
         "lastFullScan": null,
         "notes": [
           "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.fuw.edu.pl/job-offers.html",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://www.fuw.edu.pl/praca.html",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://www.uw.edu.pl/kategoria-praca/job-offers/",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://konkursydlanauczycieli.uw.edu.pl/api/document/infotype/job_offer_announcement",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
         ]
       }
     ],
@@ -1284,6 +1844,13 @@
         "notes": [
           "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
         ]
+      },
+      {
+        "url": "https://igfae.usc.es/igfae/en/jobs/",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -1322,6 +1889,20 @@
         "lastFullScan": null,
         "notes": [
           "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.hip.fi/jobs-vacancies/",
+        "kind": "department",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://www.helsinki.fi/en/about-us/careers/open-positions",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
         ]
       }
     ],
@@ -1380,6 +1961,27 @@
         "lastFullScan": null,
         "notes": [
           "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://employment.ku.dk/faculty/",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://jobportal.ku.dk/videnskabelige-stillinger/",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://nbi.ku.dk/english/jobs",
+        "kind": "department",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
         ]
       }
     ],
@@ -1460,6 +2062,27 @@
         "notes": [
           "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
         ]
+      },
+      {
+        "url": "https://www.physics.ox.ac.uk/about-us/work-us",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://www.maths.ox.ac.uk/about-us/vacancies",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://www.maths.ox.ac.uk/node/39835",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -1509,6 +2132,55 @@
         "lastFullScan": null,
         "notes": [
           "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.fisica.unina.it/it_IT/reclutamento-ricercatori-a-t.d.",
+        "kind": "department",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://www.unina.it/ateneo/concorsi/concorsi-docenti-e-ricercatori/reclutamento-ricercatori-a-tempo-determinato",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://www.unina.it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://www.unina.it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori/procedure-in-corso",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://www.unina.it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori/procedure-concluse",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/reclutamento-ricercatori-a-tempo-determinato/procedure-in-corso",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/reclutamento-ricercatori-a-tempo-determinato/procedure-concluse",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
         ]
       }
     ],
@@ -1608,6 +2280,13 @@
         "notes": [
           "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
         ]
+      },
+      {
+        "url": "https://www.berufungsportal.rwth-aachen.de/",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -1656,6 +2335,13 @@
         "notes": [
           "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
         ]
+      },
+      {
+        "url": "https://www.l2it.in2p3.fr/en/emplois-et-stages/",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
       }
     ],
     "localSearchTerms": [
@@ -1703,6 +2389,13 @@
         "lastFullScan": null,
         "notes": [
           "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/vacancies-professors",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
         ]
       }
     ],
@@ -1789,6 +2482,34 @@
         "notes": [
           "Specific employer call verified; full institution recruitment survey is incomplete."
         ]
+      },
+      {
+        "url": "https://phys.nycu.edu.tw/",
+        "kind": "department",
+        "notes": [
+          "Homepage plus known faculty advertisement only."
+        ]
+      },
+      {
+        "url": "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/page/2/",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/page/3/",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
       }
     ]
   },
@@ -1817,6 +2538,34 @@
         "lastFullScan": null,
         "notes": [
           "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      },
+      {
+        "url": "https://tdli.sjtu.edu.cn/en/join-us/tenure-track-fellows",
+        "kind": "recruitment",
+        "notes": [
+          "Entire Fellows recruitment page, one current notice, no pagination; full linked notice and relevant AJO ads read."
+        ]
+      },
+      {
+        "url": "https://tdli.sjtu.edu.cn/en/join-us/scientists",
+        "kind": "recruitment",
+        "notes": [
+          "Full current Scientists category, six entries, no next page."
+        ]
+      },
+      {
+        "url": "https://tdli.sjtu.edu.cn/en/post/16371",
+        "kind": "advertisement",
+        "notes": [
+          "Entire faculty and research-divisions announcement read in browser."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32595",
+        "kind": "advertisement",
+        "notes": [
+          "Full employer advertisement read; supports newly verified job."
         ]
       }
     ]
@@ -1847,6 +2596,27 @@
         "notes": [
           "Specific employer call verified; full institution recruitment survey is incomplete."
         ]
+      },
+      {
+        "url": "https://www.phys.sinica.edu.tw/news_en.php?eng=T&id=job",
+        "kind": "recruitment",
+        "notes": [
+          "IOP job-opening page, six visible records, one page, no next-page control. Existing AJO32236 also read."
+        ]
+      },
+      {
+        "url": "https://www.phys.sinica.edu.tw/",
+        "kind": "department",
+        "notes": [
+          "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/AS/IoP",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
       }
     ]
   },
@@ -1876,6 +2646,41 @@
         "notes": [
           "Specific employer call verified; full institution recruitment survey is incomplete."
         ]
+      },
+      {
+        "url": "https://www.shinshu-u.ac.jp/faculty/science/others/recruitment.html",
+        "kind": "recruitment",
+        "notes": [
+          "Complete Japanese Faculty of Science recruitment page; all displayed calls, no pagination."
+        ]
+      },
+      {
+        "url": "https://www.shinshu-u.ac.jp/faculty/science/en/others/recruitment.html",
+        "kind": "recruitment",
+        "notes": [
+          "Entire English recruitment page; one call."
+        ]
+      },
+      {
+        "url": "https://www.shinshu-u.ac.jp/faculty/science/",
+        "kind": "department",
+        "notes": [
+          "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim."
+        ]
+      },
+      {
+        "url": "https://www.shinshu-u.ac.jp/guidance/office-worker/",
+        "kind": "department",
+        "notes": [
+          "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim."
+        ]
+      },
+      {
+        "url": "https://www.shinshu-u.ac.jp/faculty/science/faculty/index.html",
+        "kind": "department",
+        "notes": [
+          "Navigation fallback failed."
+        ]
       }
     ]
   },
@@ -1904,6 +2709,20 @@
         "lastFullScan": null,
         "notes": [
           "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      },
+      {
+        "url": "https://sgtuniversity.ac.in/careers",
+        "kind": "recruitment",
+        "notes": [
+          "Entire current Jobs Openings table, three teaching entries, no pagination."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3190489",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
         ]
       }
     ]
@@ -1963,6 +2782,20 @@
         "notes": [
           "Specific employer call verified; full institution recruitment survey is incomplete."
         ]
+      },
+      {
+        "url": "https://physics.haifa.ac.il/news/?lang=en",
+        "kind": "recruitment",
+        "notes": [
+          "Full department News archive as served, six entries, no pagination; both 2027 and prior 2026 faculty notices inspected."
+        ]
+      },
+      {
+        "url": "https://physics.haifa.ac.il/?lang=en",
+        "kind": "department",
+        "notes": [
+          "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim."
+        ]
       }
     ]
   },
@@ -1991,6 +2824,34 @@
         "lastFullScan": null,
         "notes": [
           "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      },
+      {
+        "url": "https://www.kek.jp/en/career/classification/researcher",
+        "kind": "recruitment",
+        "notes": [
+          "Current researcher openings section, seven records on one page; current faculty advertisements followed. Ended archive not comprehensively reprocessed."
+        ]
+      },
+      {
+        "url": "https://www.kek.jp/en/career/accl26-2e",
+        "kind": "advertisement",
+        "notes": [
+          "Full employer advertisement read; supports newly verified job."
+        ]
+      },
+      {
+        "url": "https://www.kek.jp/en/career/imss26-3e",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
+      },
+      {
+        "url": "https://www.kek.jp/en/guide/guide07",
+        "kind": "department",
+        "notes": [
+          "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim."
         ]
       }
     ]
@@ -2021,6 +2882,20 @@
         "notes": [
           "Specific employer call verified; full institution recruitment survey is incomplete."
         ]
+      },
+      {
+        "url": "https://www.kek.jp/en/career/classification/researcher",
+        "kind": "recruitment",
+        "notes": [
+          "Current researcher openings section, seven records on one page; current faculty advertisements followed. Ended archive not comprehensively reprocessed."
+        ]
+      },
+      {
+        "url": "https://www.kek.jp/en/career/imss26-2e",
+        "kind": "advertisement",
+        "notes": [
+          "Full advertisement body read; supports screening only, not directory completion."
+        ]
       }
     ]
   },
@@ -2049,6 +2924,1164 @@
         "lastFullScan": null,
         "notes": [
           "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      },
+      {
+        "url": "https://physics.iitm.ac.in/facultyrecruitment.html",
+        "kind": "recruitment",
+        "notes": [
+          "Full departmental recruitment page; one identified call."
+        ]
+      },
+      {
+        "url": "https://mbsfacapp.iitm.ac.in/",
+        "kind": "department",
+        "notes": [
+          "Public recruitment landing page only; detailed eligibility/application scope unresolved."
+        ]
+      },
+      {
+        "url": "https://mbsfacapp.iitm.ac.in/mbs26/",
+        "kind": "department",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://facapp.iitm.ac.in/",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://web.iitm.ac.in/admin/opportunities.html",
+        "kind": "department",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://www.iitm.ac.in/sites/default/files/Others/Faculty-Recruitment-handbook.pdf",
+        "kind": "department",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rice-university",
+    "name": "Rice University",
+    "countryCode": "US",
+    "city": "Houston",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://academicjobsonline.org/ajo/Rice",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://physics.rice.edu/open-positions",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/33162",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ohio-state",
+    "name": "The Ohio State University",
+    "countryCode": "US",
+    "city": "Columbus",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://physics.osu.edu/about-us/faculty-search-information",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://physics.osu.edu/employment-opportunities",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/OhioState",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://ccapp.osu.edu/about/jobs-and-opportunities",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://astronomy.osu.edu/",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://ccapp.osu.edu/",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Assistant-Associate-Professor-in-Astronomy_R159581-1",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://aas.org/jobregister/ad/57dd4cbb",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cornell-university",
+    "name": "Cornell University",
+    "countryCode": "US",
+    "city": "Ithaca",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://academicjobsonline.org/ajo/Cornell",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://apps.hr.cornell.edu/recruiting/facultycareer.cfm",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://hr.cornell.edu/jobs",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32678",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32680",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32675",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32893",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo?joblst-0-0-2687-0-g-----=",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tennessee-tech",
+    "name": "Tennessee Technological University",
+    "countryCode": "US",
+    "city": "Cookeville, Tennessee",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=physics",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "university-of-kentucky",
+    "name": "University of Kentucky",
+    "countryCode": "US",
+    "city": "Lexington",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://ukjobs.uky.edu/",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://ukjobs.uky.edu/postings/search?225=&988%5B%5D=2&commit=Search&query=&query_v0_posted_at_date=",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://ukjobs.uky.edu/postings/search?query=physics&988%5B%5D=2&commit=Search",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://ukjobs.uky.edu/postings/652281",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://ukjobs.uky.edu/postings/search?query=physics",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://ukjobs.uky.edu/postings/650517",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://ukjobs.uky.edu/postings/648992",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32607",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ut-austin",
+    "name": "University of Texas at Austin",
+    "countryCode": "US",
+    "city": "Austin",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://faculty.utexas.edu/",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://faculty.utexas.edu/career?p=1&q=physics",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://astronomy.utexas.edu/",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://astronomy.utexas.edu/info-faculty-staff",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://physics.utexas.edu/",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://physics.utexas.edu/about-overview/faculty-recruiting",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://aas.org/jobregister/ad/2d1b76f2",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://aas.org/jobregister/ad/210c5bdf",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "william-and-mary",
+    "name": "William & Mary",
+    "countryCode": "US",
+    "city": "Williamsburg",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://cdsp.wm.edu/physics/",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://jobs.wm.edu/",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/William%20%26%20Mary",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/William%26Mary",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/William%20%26%20Mary/Physics",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/33132",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "caltech",
+    "name": "California Institute of Technology",
+    "countryCode": "US",
+    "city": "Pasadena, California",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://applications.caltech.edu/jobs/physics",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mcgill",
+    "name": "McGill University",
+    "countryCode": "CA",
+    "city": "Montréal, Québec",
+    "profile": "University",
+    "profileSourceUrl": "https://www.mcgill.ca/about/",
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://www.physics.mcgill.ca/pos/astro-06-en.html",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "penn-state-university-park",
+    "name": "Pennsylvania State University",
+    "countryCode": "US",
+    "city": "University Park, Pennsylvania",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32889",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32892",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mit",
+    "name": "Massachusetts Institute of Technology",
+    "countryCode": "US",
+    "city": "Cambridge, Massachusetts",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/33086",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uc-berkeley",
+    "name": "University of California, Berkeley",
+    "countryCode": "US",
+    "city": "Berkeley, California",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://aprecruit.berkeley.edu/JPF05406",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://aprecruit.berkeley.edu/JPF05460",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://aprecruit.berkeley.edu/JPF05223",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "michigan-ann-arbor",
+    "name": "University of Michigan",
+    "countryCode": "US",
+    "city": "Ann Arbor, Michigan",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://lsa.umich.edu/physics/news-events/all-news/search-news/assistant-professor-of-physics-open-position.html",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scripps-pitzer-natural-sciences",
+    "name": "Pitzer and Scripps Colleges, Department of Natural Sciences",
+    "countryCode": "US",
+    "city": "Claremont, California",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [
+      "Joint department: each college retains its own official classification. Do not treat the consortium as a Carnegie institution."
+    ],
+    "sourcePages": [
+      {
+        "url": "https://www.scrippscollege.edu/hr/faculty/tenure-track-position-in-astrophysics-in-the-department-of-natural-sciences-pitzer-and-scripps-colleges",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "victoria",
+    "name": "University of Victoria",
+    "countryCode": "CA",
+    "city": "Victoria",
+    "profile": "University",
+    "profileSourceUrl": "https://www.uvic.ca/about-uvic/about-the-university/",
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/current/phys_270_163.php",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uw-bothell",
+    "name": "University of Washington Bothell",
+    "countryCode": "US",
+    "city": "Bothell, Washington",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://ap.washington.edu/ahr/position-details/?job_id=189352",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "carnegie-mellon",
+    "name": "Carnegie Mellon University",
+    "countryCode": "US",
+    "city": "Pittsburgh",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://aas.org/jobregister/ad/a5ed92fc",
+        "kind": "recruitment",
+        "notes": [
+          "Added during bounded institution vacancy review."
+        ]
+      },
+      {
+        "url": "https://apply.interfolio.com/195638",
+        "kind": "recruitment",
+        "notes": [
+          "Linked detail could not be read during institutional vacancy review."
+        ]
+      },
+      {
+        "url": "https://apply.interfolio.com/195599",
+        "kind": "recruitment",
+        "notes": [
+          "Linked detail could not be read during institutional vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "binghamton",
+    "name": "Binghamton University",
+    "countryCode": "US",
+    "city": "Binghamton, New York",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=204910",
+        "kind": "recruitment",
+        "notes": [
+          "Linked detail could not be read during institutional vacancy review."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cnrs-multihost",
+    "name": "CNRS — alternative host laboratories",
+    "countryCode": "FR",
+    "city": null,
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://carrieres.cnrs.fr/en/chair-recruitment/",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ifae",
+    "name": "Institut de Física d’Altes Energies (IFAE)",
+    "countryCode": "ES",
+    "city": "Bellaterra",
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://www.ifae.es/about/at-a-glance/",
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://www.ifae.es/careers/jobs/",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://www.ifae.es/careers/jobs/page/2/",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "university-of-cagliari",
+    "name": "University of Cagliari",
+    "countryCode": "IT",
+    "city": "Cagliari",
+    "profile": "University",
+    "profileSourceUrl": "https://web.unica.it/unica/it/contatti.page",
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari/anno-2026",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uib",
+    "name": "University of the Balearic Islands",
+    "countryCode": "ES",
+    "city": "Palma",
+    "profile": "University",
+    "profileSourceUrl": "https://transparencia.uib.eu/indicadors-institucionals",
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://investigacio.uib.es/Contractacio/Convocatories-vigents/",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://rrhh.uib.cat/arees/pdi/convocatories",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://rrhh.uib.cat/arees/pdi/convocatories/personal-docent-numerari",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://rrhh.uib.cat/arees/pdi/convocatories/ppl",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://rrhh.uib.cat/arees/pdi/convocatories/ppl-estabilitzacio",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://rrhh.uib.cat/arees/pdi/convocatories/ajudant-doctor-2",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://rrhh.uib.cat/arees/pdi/convocatories/professorat-associat",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://rrhh.uib.cat/arees/pdi/convocatories/professorat-associat-estabilitzacio",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      },
+      {
+        "url": "https://rrhh.uib.cat/arees/pdi/convocatories/borses",
+        "kind": "recruitment",
+        "notes": [
+          "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "epfl",
+    "name": "École polytechnique fédérale de Lausanne",
+    "countryCode": "CH",
+    "city": "Lausanne",
+    "profile": "University",
+    "profileSourceUrl": "https://www.epfl.ch/about/",
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://www.epfl.ch/about/working/page-26457-en-html/",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      },
+      {
+        "url": "https://www.epfl.ch/schools/sb/research/iphys/open-positions/",
+        "kind": "recruitment",
+        "notes": [
+          "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hkust",
+    "name": "Hong Kong University of Science and Technology",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://physics.hkust.edu.hk/jobs",
+        "kind": "recruitment",
+        "notes": [
+          "Department Jobs page, all six calls and linked HEP AJO ads 29808/29809/29810; no pagination."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kek-multicampus",
+    "name": "KEK — workplace not assigned",
+    "countryCode": "JP",
+    "city": "Tsukuba or Tokai",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://www.kek.jp/en/career/classification/researcher",
+        "kind": "recruitment",
+        "notes": [
+          "Current researcher openings section, seven records on one page; current faculty advertisements followed. Ended archive not comprehensively reprocessed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "national-cheng-kung",
+    "name": "National Cheng Kung University",
+    "countryCode": "TW",
+    "city": "Tainan",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://www.phys.ncku.edu.tw/news/career/",
+        "kind": "recruitment",
+        "notes": [
+          "Department career category, single June 30 2026 notice, one page and no additional pagination; linked AJO32429 body read."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "national-taiwan-university",
+    "name": "National Taiwan University",
+    "countryCode": "TW",
+    "city": "Taipei",
+    "profile": "University",
+    "profileSourceUrl": "https://www.ntu.edu.tw/english/contact.html",
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://www.phys.ntu.edu.tw/enphysics/Latestnews.html",
+        "kind": "recruitment",
+        "notes": [
+          "Single-page department news list, all 2026/2025 entries and current faculty advertisement; no pagination in inspected list."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jilin-university",
+    "name": "Jilin University",
+    "countryCode": "CN",
+    "city": "Changchun (locality requires verification)",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://zprcb.jlu.edu.cn/talent-sys/public/home",
+        "kind": "recruitment",
+        "notes": [
+          "Unfiltered talent-program board, four results, one page; does not cover general teacher recruitment."
+        ]
+      },
+      {
+        "url": "https://www.jlu.edu.cn/info/1095/57563.m.htm",
+        "kind": "advertisement",
+        "notes": [
+          "General faculty-call body only; attachment not inspected."
+        ]
+      },
+      {
+        "url": "https://careers.jlu.edu.cn/",
+        "kind": "recruitment",
+        "notes": [
+          "General faculty recruitment portal unavailable during maintenance."
+        ]
+      },
+      {
+        "url": "https://www.jlu.edu.cn/system/_content/download.jsp?owner=1180385364&urltype=news.DownloadAttachUrl&wbfileid=1341778",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3181469",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "national-tsing-hua-university",
+    "name": "National Tsing Hua University",
+    "countryCode": "TW",
+    "city": "Hsinchu",
+    "profile": "University",
+    "profileSourceUrl": "https://phys.site.nthu.edu.tw/index.php?Lang=en",
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://phys.site.nthu.edu.tw/index.php?Lang=en",
+        "kind": "department",
+        "notes": [
+          "Department navigation and announcements only; no adequate current faculty list located."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32613",
+        "kind": "advertisement",
+        "notes": [
+          "One employer advertisement; not directory completion."
+        ]
+      },
+      {
+        "url": "https://phys.site.nthu.edu.tw/p/403-1335-3568-1.php?Lang=zh-tw",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://phys.site.nthu.edu.tw/p/403-1335-3568-2.php?Lang=zh-tw",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://phys.site.nthu.edu.tw/p/403-1335-3568-3.php?Lang=zh-tw",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://phys.site.nthu.edu.tw/p/403-1335-3568-4.php?Lang=zh-tw",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://phys.site.nthu.edu.tw/p/403-1335-3568-5.php?Lang=zh-tw",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://phys.site.nthu.edu.tw/p/403-1335-3568-6.php?Lang=zh-tw",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://phys.site.nthu.edu.tw/p/406-1335-309567,r3568.php?Lang=zh-tw",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      },
+      {
+        "url": "https://phys.site.nthu.edu.tw/p/450-1335-267435,c0.php?Lang=zh-tw",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yantai-university",
+    "name": "Yantai University",
+    "countryCode": "CN",
+    "city": "Yantai",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://oei.ytu.edu.cn/xygk/cpyc.htm",
+        "kind": "department",
+        "notes": [
+          "Rendered public page only; empty department list does not establish no vacancies."
+        ]
+      },
+      {
+        "url": "https://rsc.ytu.edu.cn/index/zpxx.htm",
+        "kind": "recruitment",
+        "notes": [
+          "HR recruitment page one of one, four entries; general faculty call followed but role table pending."
+        ]
+      },
+      {
+        "url": "https://rsc.ytu.edu.cn/info/1196/3157.htm",
+        "kind": "advertisement",
+        "notes": [
+          "General recruitment body; attached position table not yet inspected."
+        ]
+      },
+      {
+        "url": "https://oei.ytu.edu.cn/",
+        "kind": "department",
+        "notes": [
+          "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim."
+        ]
+      },
+      {
+        "url": "https://rsc.ytu.edu.cn/index.htm",
+        "kind": "department",
+        "notes": [
+          "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim."
+        ]
+      },
+      {
+        "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1",
+        "kind": "recruitment",
+        "notes": [
+          "All four pages screened at title/department level; individual faculty rank/requirements and deduplication unresolved."
+        ]
+      },
+      {
+        "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=2&postTypeCode=1",
+        "kind": "recruitment",
+        "notes": [
+          "All four pages screened at title/department level; individual faculty rank/requirements and deduplication unresolved."
+        ]
+      },
+      {
+        "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=3&postTypeCode=1",
+        "kind": "recruitment",
+        "notes": [
+          "All four pages screened at title/department level; individual faculty rank/requirements and deduplication unresolved."
+        ]
+      },
+      {
+        "url": "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=4&postTypeCode=1",
+        "kind": "recruitment",
+        "notes": [
+          "All four pages screened at title/department level; individual faculty rank/requirements and deduplication unresolved."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3129038",
+        "kind": "recruitment",
+        "notes": [
+          "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "louisiana-state-university",
+    "name": "Louisiana State University",
+    "countryCode": "US",
+    "city": "Baton Rouge",
+    "profile": null,
+    "profileSourceUrl": null,
+    "localSearchTerms": [],
+    "notes": [],
+    "sourcePages": [
+      {
+        "url": "https://lsu.wd1.myworkdayjobs.com/en-US/LSU/job/Open-Rank--Tenure-track-Assistant-Professor--Tenure-track-Associate-Professor-or-Professor--Theoretical-Gravity-Physics-_R00121003",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
+        ]
+      },
+      {
+        "url": "https://www.lsu.edu/science/quantum-hires.php",
+        "kind": "recruitment",
+        "notes": [
+          "Discovered during second-pass bounded institution review."
         ]
       }
     ]
