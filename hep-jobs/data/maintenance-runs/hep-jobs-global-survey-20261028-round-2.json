@@ -1,0 +1,309 @@
+{
+  "runId": "hep-jobs-global-survey-20261028-round-2",
+  "startedAt": "2026-10-28T15:17:36.061307+00:00",
+  "finishedAt": "2026-10-28T15:26:14+00:00",
+  "summary": "Bounded global survey. Partial checks and failed/retried sources are retained; no complete global or institution-wide scan is inferred. Rounds preserve repeated attempts at a source in chronological order.",
+  "checks": [
+    {
+      "sourceId": "source-871cca6e5500",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3215354",
+      "checkedAt": "2026-10-28T15:17:36.061307+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3215354"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-23f38efb4235",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3210713",
+      "checkedAt": "2026-10-28T15:17:36.681168+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3210713"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-a0ab1a577282",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3208143",
+      "checkedAt": "2026-10-28T15:17:37.293753+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3208143"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-0f194786ad6f",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3208120",
+      "checkedAt": "2026-10-28T15:17:37.932761+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3208120"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-9b95b752b436",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3207702",
+      "checkedAt": "2026-10-28T15:17:38.560337+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3207702"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-027c0a8cb93e",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3200481",
+      "checkedAt": "2026-10-28T15:17:39.184648+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3200481"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-7e8fd4f50f65",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3197131",
+      "checkedAt": "2026-10-28T15:17:40.026084+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3197131"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-e73c40f72b53",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3195961",
+      "checkedAt": "2026-10-28T15:17:40.643611+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3195961"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-bf0a004d510f",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3189637",
+      "checkedAt": "2026-10-28T15:17:41.249651+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3189637"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-511ed0f051df",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3189627",
+      "checkedAt": "2026-10-28T15:17:41.884004+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3189627"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-71fe417d1501",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3186998",
+      "checkedAt": "2026-10-28T15:17:42.499393+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3186998"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-554c38c80000",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3185361",
+      "checkedAt": "2026-10-28T15:17:43.119884+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3185361"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-7b59da0047d3",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3185307",
+      "checkedAt": "2026-10-28T15:17:43.733646+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3185307"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-db47a61c8aa4",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3183112",
+      "checkedAt": "2026-10-28T15:17:44.346783+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3183112"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-0efa84149b59",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3183025",
+      "checkedAt": "2026-10-28T15:17:44.963972+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3183025"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-03c0a39fd0ac",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3181705",
+      "checkedAt": "2026-10-28T15:17:45.595021+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3181705"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-a5c235978264",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3177368",
+      "checkedAt": "2026-10-28T15:17:46.202214+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3177368"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-63e4890a96b0",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3172216",
+      "checkedAt": "2026-10-28T15:17:46.827946+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3172216"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-5b24ba53b5ef",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3219186",
+      "checkedAt": "2026-10-28T15:17:47.469775+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3219186"
+      ],
+      "summary": "Read current public employer-submitted INSPIRE record, including full advertisement, posting date, deadline and linked sources.",
+      "coverage": "One identified advertisement. This is not a completed institution or board scan.",
+      "paginationComplete": false
+    },
+    {
+      "sourceUrl": "https://inspirehep.net/api/jobs/3188903",
+      "checkedAt": "2026-10-28T15:23:47.288440+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3188903"
+      ],
+      "summary": "Verified Junior Academic Position in Particle Physics at Universidad Andrés Bello. 2026-09-10 hard",
+      "coverage": "One employer advertisement assessed; no full recruitment-directory or institutional scan.",
+      "paginationComplete": false,
+      "sourceId": "source-f3c91565265f"
+    },
+    {
+      "sourceUrl": "https://inspirehep.net/api/jobs/3195090",
+      "checkedAt": "2026-10-28T15:23:47.288976+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3195090"
+      ],
+      "summary": "Verified Professor in Theoretical Physics and Director of PITT PACC at University of Pittsburgh. 2026-10-31 review-start",
+      "coverage": "One employer advertisement assessed; no full recruitment-directory or institutional scan.",
+      "paginationComplete": false,
+      "sourceId": "source-441a9face2b8"
+    },
+    {
+      "sourceUrl": "https://inspirehep.net/api/jobs/3198780",
+      "checkedAt": "2026-10-28T15:23:47.289869+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3198780"
+      ],
+      "summary": "Verified Tenure-Track Faculty in Particle Physics, Gravity or Cosmology at Universidad del Bío-Bío. 2026-11-03 hard",
+      "coverage": "One employer advertisement assessed; no full recruitment-directory or institutional scan.",
+      "paginationComplete": false,
+      "sourceId": "source-9bd8d381afe7"
+    },
+    {
+      "sourceUrl": "https://inspirehep.net/api/jobs/3198864",
+      "checkedAt": "2026-10-28T15:23:47.399623+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3198864"
+      ],
+      "summary": "Verified Open-Rank Faculty in Physics and Artificial Intelligence at Georgia Institute of Technology. 2026-11-15 priority",
+      "coverage": "One employer advertisement assessed; no full recruitment-directory or institutional scan.",
+      "paginationComplete": false,
+      "sourceId": "source-2a9f96ccebf3"
+    },
+    {
+      "sourceUrl": "https://inspirehep.net/api/jobs/3215688",
+      "checkedAt": "2026-10-28T15:23:47.423834+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3215688"
+      ],
+      "summary": "Verified Assistant Professor in Extragalactic Astrophysics at Lehigh University. 2026-12-01 priority",
+      "coverage": "One employer advertisement assessed; no full recruitment-directory or institutional scan.",
+      "paginationComplete": false,
+      "sourceId": "source-8afad470e8a7"
+    },
+    {
+      "sourceUrl": "https://www.kek.jp/en/career/accl-26-5e",
+      "checkedAt": "2026-10-28T15:26:14+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.kek.jp/en/career/accl-26-5e"
+      ],
+      "summary": "Read official advertisement, term, workplace and noon-JST hard deadline.",
+      "coverage": "One advertisement read; no complete employer-directory scan.",
+      "paginationComplete": false,
+      "timestampBasis": "tool-read-time",
+      "sourceId": "source-eca436765c3c"
+    }
+  ]
+}

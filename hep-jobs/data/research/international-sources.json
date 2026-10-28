@@ -4,7 +4,7 @@
     "name": "CERN",
     "countryCode": "CH",
     "city": "Meyrin (Geneva)",
-    "profile": "research-institute",
+    "profile": "Research institute / laboratory",
     "profileSourceUrl": "https://careers.cern/jobs/",
     "sourcePages": [
       {
@@ -34,7 +34,7 @@
     "name": "Deutsches Elektronen-Synchrotron (DESY)",
     "countryCode": "DE",
     "city": "Hamburg",
-    "profile": "research-institute",
+    "profile": "Research institute / laboratory",
     "profileSourceUrl": "https://www.desy.de/career",
     "sourcePages": [
       {
@@ -75,7 +75,7 @@
     "name": "Kavli IPMU, University of Tokyo",
     "countryCode": "JP",
     "city": "Kashiwa",
-    "profile": "research-institute",
+    "profile": "Research institute / laboratory",
     "profileSourceUrl": "https://www.ipmu.jp/en/place-and-people",
     "sourcePages": [
       {
@@ -107,7 +107,7 @@
     "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
     "countryCode": "CN",
     "city": "Beijing",
-    "profile": "research-institute",
+    "profile": "Research institute / laboratory",
     "profileSourceUrl": "https://english.ihep.cas.cn/ju/jo/index.html",
     "sourcePages": [
       {
@@ -149,7 +149,7 @@
     "name": "Institute of Physics, Bhubaneswar",
     "countryCode": "IN",
     "city": "Bhubaneswar",
-    "profile": "research-institute",
+    "profile": "Research institute / laboratory",
     "profileSourceUrl": "https://www.iopb.res.in/job/2026/Faculty_Advt_App_JAN_26.pdf",
     "sourcePages": [
       {
@@ -179,7 +179,7 @@
     "name": "Tata Institute of Fundamental Research, Mumbai",
     "countryCode": "IN",
     "city": "Mumbai",
-    "profile": "research-institute",
+    "profile": "Research institute / laboratory",
     "profileSourceUrl": "https://main.tifr.res.in/portal/work_at_tifr.php",
     "sourcePages": [
       {
@@ -231,7 +231,7 @@
     "name": "University of Cape Town",
     "countryCode": "ZA",
     "city": "Cape Town",
-    "profile": "university",
+    "profile": "University",
     "profileSourceUrl": "https://science.uct.ac.za/department-physics",
     "sourcePages": [
       {
@@ -283,7 +283,7 @@
     "name": "University of Melbourne",
     "countryCode": "AU",
     "city": "Melbourne",
-    "profile": "university",
+    "profile": "University",
     "profileSourceUrl": "https://about.unimelb.edu.au/careers",
     "sourcePages": [
       {
@@ -325,7 +325,7 @@
     "name": "ICTP South American Institute for Fundamental Research",
     "countryCode": "BR",
     "city": "São Paulo",
-    "profile": "research-institute",
+    "profile": "Research institute / laboratory",
     "profileSourceUrl": "https://www.ictp-saifr.org/",
     "sourcePages": [
       {
@@ -367,7 +367,7 @@
     "name": "Abdus Salam International Centre for Theoretical Physics",
     "countryCode": "IT",
     "city": "Trieste",
-    "profile": "research-institute",
+    "profile": "Research institute / laboratory",
     "profileSourceUrl": "https://www.ictp.it/home/work-ictp",
     "sourcePages": [
       {
@@ -390,6 +390,1667 @@
     ],
     "notes": [
       "Official vacancy list links to UNESCO recruitment notices. Screen scientific appointments separately from support roles and postdoctoral opportunities."
+    ]
+  },
+  {
+    "id": "southern-methodist",
+    "name": "Southern Methodist University",
+    "countryCode": "US",
+    "city": "Dallas",
+    "profile": null,
+    "profileSourceUrl": null,
+    "sourcePages": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32733",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://www.physics.smu.edu/",
+        "kind": "department",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "advertisement-link",
+        "lastFullScan": null,
+        "notes": [
+          "Link discovered in employer material; not separately read."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "physics",
+      "professor"
+    ],
+    "notes": []
+  },
+  {
+    "id": "vanderbilt",
+    "name": "Vanderbilt University",
+    "countryCode": "US",
+    "city": "Nashville",
+    "profile": null,
+    "profileSourceUrl": null,
+    "sourcePages": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32858",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://as.vanderbilt.edu/physics/",
+        "kind": "department",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "advertisement-link",
+        "lastFullScan": null,
+        "notes": [
+          "Link discovered in employer material; not separately read."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "physics",
+      "professor"
+    ],
+    "notes": []
+  },
+  {
+    "id": "purdue",
+    "name": "Purdue University",
+    "countryCode": "US",
+    "city": "West Lafayette",
+    "profile": null,
+    "profileSourceUrl": null,
+    "sourcePages": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32648",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://www.physics.purdue.edu/",
+        "kind": "department",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "advertisement-link",
+        "lastFullScan": null,
+        "notes": [
+          "Link discovered in employer material; not separately read."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "physics",
+      "professor"
+    ],
+    "notes": []
+  },
+  {
+    "id": "chicago",
+    "name": "University of Chicago",
+    "countryCode": "US",
+    "city": "Chicago",
+    "profile": null,
+    "profileSourceUrl": null,
+    "sourcePages": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32608",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "physics",
+      "professor"
+    ],
+    "notes": []
+  },
+  {
+    "id": "university-of-florida",
+    "name": "University of Florida",
+    "countryCode": "US",
+    "city": "Gainesville",
+    "profile": null,
+    "profileSourceUrl": null,
+    "sourcePages": [
+      {
+        "url": "https://explore.jobs.ufl.edu/en-us/job/541316/assistant-professor-astrophysics",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "physics",
+      "professor"
+    ],
+    "notes": []
+  },
+  {
+    "id": "james-madison",
+    "name": "James Madison University",
+    "countryCode": "US",
+    "city": "Harrisonburg",
+    "profile": null,
+    "profileSourceUrl": null,
+    "sourcePages": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32960",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://www.jmu.edu/physics/index.shtml",
+        "kind": "department",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "advertisement-link",
+        "lastFullScan": null,
+        "notes": [
+          "Link discovered in employer material; not separately read."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "physics",
+      "professor"
+    ],
+    "notes": []
+  },
+  {
+    "id": "university-of-houston",
+    "name": "University of Houston",
+    "countryCode": "US",
+    "city": "Houston",
+    "profile": null,
+    "profileSourceUrl": null,
+    "sourcePages": [
+      {
+        "url": "https://careers.uh.edu/jobs/assistant-professor-nuclear-theorist-houston-texas-united-states",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "physics",
+      "professor"
+    ],
+    "notes": []
+  },
+  {
+    "id": "virginia-tech",
+    "name": "Virginia Tech",
+    "countryCode": "US",
+    "city": "Blacksburg",
+    "profile": null,
+    "profileSourceUrl": null,
+    "sourcePages": [
+      {
+        "url": "https://jobs.apply.vt.edu/jobs/tenure-track-faculty-position-in-theoretical-neutrino-physics-blacksburg-virginia-united-states",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "http://www.phys.vt.edu",
+        "kind": "department",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "advertisement-link",
+        "lastFullScan": null,
+        "notes": [
+          "Link discovered in employer material; not separately read."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "physics",
+      "professor"
+    ],
+    "notes": []
+  },
+  {
+    "id": "university-of-pittsburgh",
+    "name": "University of Pittsburgh",
+    "countryCode": "US",
+    "city": "Pittsburgh",
+    "profile": null,
+    "profileSourceUrl": null,
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/api/jobs/3195090",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "physics",
+      "professor"
+    ],
+    "notes": []
+  },
+  {
+    "id": "university-biobio",
+    "name": "Universidad del Bío-Bío",
+    "countryCode": "CL",
+    "city": "Chillán",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3198780",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/api/jobs/3198780",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "concurso académico",
+      "física de partículas",
+      "cosmología",
+      "académico"
+    ],
+    "notes": [
+      "No Carnegie classification or international R1/R2 equivalence inferred in this research pass."
+    ]
+  },
+  {
+    "id": "universidad-andres-bello",
+    "name": "Universidad Andrés Bello",
+    "countryCode": "CL",
+    "city": "Santiago",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3188903",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/api/jobs/3188903",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "concurso académico",
+      "física de partículas",
+      "cosmología",
+      "académico"
+    ],
+    "notes": [
+      "No Carnegie classification or international R1/R2 equivalence inferred in this research pass."
+    ]
+  },
+  {
+    "id": "lehigh",
+    "name": "Lehigh University",
+    "countryCode": "US",
+    "city": "Bethlehem",
+    "profile": null,
+    "profileSourceUrl": null,
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/api/jobs/3215688",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "physics",
+      "professor"
+    ],
+    "notes": []
+  },
+  {
+    "id": "georgia-tech",
+    "name": "Georgia Institute of Technology",
+    "countryCode": "US",
+    "city": "Atlanta",
+    "profile": null,
+    "profileSourceUrl": null,
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/api/jobs/3198864",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://physics.gatech.edu/",
+        "kind": "department",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "advertisement-link",
+        "lastFullScan": null,
+        "notes": [
+          "Link discovered in employer material; not separately read."
+        ]
+      },
+      {
+        "url": "https://hr.gatech.edu/careers",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "advertisement-link",
+        "lastFullScan": null,
+        "notes": [
+          "Link discovered in employer material; not separately read."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "physics",
+      "professor"
+    ],
+    "notes": []
+  },
+  {
+    "id": "villanova",
+    "name": "Villanova University",
+    "countryCode": "US",
+    "city": "Villanova",
+    "profile": null,
+    "profileSourceUrl": null,
+    "sourcePages": [
+      {
+        "url": "https://jobs.villanova.edu/postings/36409",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "physics",
+      "professor"
+    ],
+    "notes": []
+  },
+  {
+    "id": "university-sao-paulo",
+    "name": "Universidade de São Paulo",
+    "countryCode": "BR",
+    "city": "São Paulo",
+    "profile": "University",
+    "profileSourceUrl": "https://www.iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026",
+    "sourcePages": [
+      {
+        "url": "https://www.iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://iag.usp.br/concursos/concursos-para-docentes",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://portal.if.usp.br/ataac/pt-br/concursos_andamento",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://portal.if.usp.br/ataac/pt-br/node/8209",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://portal.if.usp.br/ataac/pt-br/node/8208",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "concurso docente",
+      "professor doutor",
+      "professor titular",
+      "física",
+      "astrofísica"
+    ],
+    "notes": [
+      "No Carnegie classification or international R1/R2 equivalence inferred in this research pass."
+    ]
+  },
+  {
+    "id": "universite-laval",
+    "name": "Université Laval",
+    "countryCode": "CA",
+    "city": "Québec",
+    "profile": "University",
+    "profileSourceUrl": "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs/HCM/11197",
+    "sourcePages": [
+      {
+        "url": "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs/HCM/11197",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      },
+      {
+        "url": "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "advertisement-link",
+        "lastFullScan": null,
+        "notes": [
+          "Link discovered in employer material; not separately read."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "professor",
+      "professeur",
+      "astrophysique",
+      "physics"
+    ],
+    "notes": [
+      "No Carnegie classification or international R1/R2 equivalence inferred in this research pass."
+    ]
+  },
+  {
+    "id": "simon-fraser",
+    "name": "Simon Fraser University",
+    "countryCode": "CA",
+    "city": "Burnaby",
+    "profile": "University",
+    "profileSourceUrl": "https://www.sfu.ca/physics/about-us/employment/",
+    "sourcePages": [
+      {
+        "url": "https://www.sfu.ca/physics/about-us/employment/",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Partial source check recorded separately."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "faculty",
+      "professor",
+      "professeur",
+      "astrophysique",
+      "physics"
+    ],
+    "notes": [
+      "No Carnegie classification or international R1/R2 equivalence inferred in this research pass."
+    ]
+  },
+  {
+    "id": "imperial-college-london",
+    "name": "Imperial College London",
+    "countryCode": "GB",
+    "city": "London",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3215354",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3215354",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3215354",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29599&jobTitle=Assistant+%2F+Associate+Professor+in+Particle+Physics",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/jobs/3195961",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3195961",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29040&jobTitle=Assistant+%2F+Associate+Professor+in+Data-Intensive+Physics+and+AI",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/jobs/3186998",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3186998",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=28831&jobTitle=Assistant+%2F+Associate+Professor+in+Gravitational+Wave+Physics",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.imperial.ac.uk/jobs/search-jobs/",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-page",
+        "lastFullScan": null,
+        "notes": [
+          "Recruitment route discovered; current retrieval failure or generic portal shell is recorded in the source-check report. No complete scan claimed."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "lecturer",
+      "associate professor",
+      "professor",
+      "particle physics"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "university-barcelona",
+    "name": "University of Barcelona / Institute of Cosmos Sciences",
+    "countryCode": "ES",
+    "city": "Barcelona",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3210713",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3210713",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3210713",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://icc.ub.edu/node/1715527",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "convocatoria",
+      "profesor",
+      "física de partículas"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "university-geneva",
+    "name": "University of Geneva",
+    "countryCode": "CH",
+    "city": "Geneva",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3208143",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3208143",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3208143",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://jobs.unige.ch/www/wd_portal.show_job?p_web_page_id=75916&p_web_site_id=1",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "professeur",
+      "physique des particules"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "university-warsaw",
+    "name": "University of Warsaw",
+    "countryCode": "PL",
+    "city": "Warsaw",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3208120",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3208120",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3208120",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.fuw.edu.pl/tl_files/praca/2026/2026-09-01_adiunkt_badawczo_dydaktyczny_IFT_WF-1210-16-2026_ENG_do_30-11-2026.pdf",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "adiunkt",
+      "fizyka teoretyczna"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "igfae",
+    "name": "Galician Institute of High Energy Physics (IGFAE)",
+    "countryCode": "ES",
+    "city": "Santiago de Compostela",
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3207702",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3207702",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3207702",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://igfae.usc.es/igfae/en/oferta/director-call/",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://igfae.usc.es/igfae/oferta/convocatoria-direccion/",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "convocatoria",
+      "profesor",
+      "física de partículas"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "helsinki-institute-physics",
+    "name": "Helsinki Institute of Physics",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3200481",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3200481",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3200481",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "johtaja",
+      "professori"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "university-copenhagen",
+    "name": "University of Copenhagen",
+    "countryCode": "DK",
+    "city": "Copenhagen",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3197131",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3197131",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3197131",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://jobportal.ku.dk/videnskabelige-stillinger/?show=167785",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://academicjobsonline.org/ajo/UCPH/NBI/ASTRO27PROF",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "lektor",
+      "professor",
+      "fysik"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "university-oxford",
+    "name": "University of Oxford",
+    "countryCode": "GB",
+    "city": "Oxford",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3189637",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3189637",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3189637",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.maths.ox.ac.uk/node/81914",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/jobs/3177368",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3177368",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186058",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "lecturer",
+      "associate professor",
+      "professor",
+      "particle physics"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "university-naples-federico-ii",
+    "name": "University of Naples Federico II",
+    "countryCode": "IT",
+    "city": "Naples",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3189627",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3189627",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3189627",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.unina.it/it/w/r5_rtt_2026",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "ricercatore tenure track",
+      "fisica"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "durham-university",
+    "name": "Durham University",
+    "countryCode": "GB",
+    "city": "Durham",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3185361",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3185361",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3185361",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=26000998&tz=GMT%2B01%3A00&tzname=Europe%2FLondon",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "lecturer",
+      "associate professor",
+      "professor",
+      "particle physics"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "rwth-aachen",
+    "name": "RWTH Aachen University",
+    "countryCode": "DE",
+    "city": "Aachen",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3185307",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3185307",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3185307",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaadlpctxh",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "Professur",
+      "Teilchenphysik"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "cnrs-l2it",
+    "name": "Laboratory of the Two Infinities — Toulouse (L2IT / CNRS)",
+    "countryCode": "FR",
+    "city": "Toulouse",
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3183025",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3183025",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3183025",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-024/Default.aspx?lang=EN",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "chaire de professeur junior",
+      "physique des particules"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "university-bonn",
+    "name": "University of Bonn",
+    "countryCode": "DE",
+    "city": "Bonn",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3172216",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3172216",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3172216",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/w3-professur-fuer-beschleunigerphysik?set_language=en",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "Professur",
+      "Teilchenphysik"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "Verified approximate city-level GeoNames coordinates supplied in europe-locations.json."
+    ]
+  },
+  {
+    "id": "nuclear-physics-institute-cas",
+    "name": "Nuclear Physics Institute of the Czech Academy of Sciences",
+    "countryCode": "CZ",
+    "city": "Řež",
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3219186",
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3219186",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3219186",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      },
+      {
+        "url": "https://www.ujf.cas.cz/en/about-institute/Career/job-offers/",
+        "kind": "recruitment",
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "employer-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+        ]
+      }
+    ],
+    "localSearchTerms": [
+      "ředitel",
+      "jaderná fyzika"
+    ],
+    "notes": [
+      "Descriptive institution type only; no US Carnegie-equivalent ranking is assigned.",
+      "No exact GeoNames city match; no coordinates supplied and institution remains off-map."
+    ]
+  },
+  {
+    "id": "national-yang-ming-chiao-tung",
+    "name": "National Yang Ming Chiao Tung University",
+    "countryCode": "TW",
+    "city": "Hsinchu",
+    "profile": "University",
+    "profileSourceUrl": "https://phys.nycu.edu.tw/faculty-position-iop-nycu/",
+    "localSearchTerms": [
+      "faculty",
+      "professor",
+      "physics"
+    ],
+    "notes": [
+      "Institution type is descriptive; no US Carnegie-equivalent designation is assigned."
+    ],
+    "sourcePages": [
+      {
+        "url": "https://phys.nycu.edu.tw/faculty-position-iop-nycu/",
+        "kind": "recruitment",
+        "verified": true,
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tdli-sjtu",
+    "name": "Tsung-Dao Lee Institute / Shanghai Jiao Tong University",
+    "countryCode": "CN",
+    "city": "Shanghai",
+    "profile": "University",
+    "profileSourceUrl": "https://academicjobsonline.org/ajo/jobs/32304",
+    "localSearchTerms": [
+      "faculty",
+      "professor",
+      "physics"
+    ],
+    "notes": [
+      "Institution type is descriptive; no US Carnegie-equivalent designation is assigned."
+    ],
+    "sourcePages": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32304",
+        "kind": "recruitment",
+        "verified": true,
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "academia-sinica-iop",
+    "name": "Academia Sinica, Institute of Physics",
+    "countryCode": "TW",
+    "city": "Taipei",
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://academicjobsonline.org/ajo/jobs/32236",
+    "localSearchTerms": [
+      "faculty",
+      "professor",
+      "physics"
+    ],
+    "notes": [
+      "Institution type is descriptive; no US Carnegie-equivalent designation is assigned."
+    ],
+    "sourcePages": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/32236",
+        "kind": "recruitment",
+        "verified": true,
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shinshu-university",
+    "name": "Shinshu University",
+    "countryCode": "JP",
+    "city": "Matsumoto",
+    "profile": "University",
+    "profileSourceUrl": "https://www.shinshu-u.ac.jp/faculty/science/others/assets/92832d2b77bb4a17439347ad5bddff93.pdf",
+    "localSearchTerms": [
+      "faculty",
+      "professor",
+      "physics"
+    ],
+    "notes": [
+      "Institution type is descriptive; no US Carnegie-equivalent designation is assigned."
+    ],
+    "sourcePages": [
+      {
+        "url": "https://www.shinshu-u.ac.jp/faculty/science/others/assets/92832d2b77bb4a17439347ad5bddff93.pdf",
+        "kind": "recruitment",
+        "verified": true,
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sgt-university",
+    "name": "SGT University, Centre for Cosmology and Science Popularization",
+    "countryCode": "IN",
+    "city": "Gurugram",
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/jobs/3190489",
+    "localSearchTerms": [
+      "faculty",
+      "professor",
+      "physics"
+    ],
+    "notes": [
+      "Institution type is descriptive; no US Carnegie-equivalent designation is assigned."
+    ],
+    "sourcePages": [
+      {
+        "url": "https://inspirehep.net/jobs/3190489",
+        "kind": "recruitment",
+        "verified": true,
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "srm-university-ap",
+    "name": "SRM University-AP",
+    "countryCode": "IN",
+    "city": "Amaravati / Mangalagiri",
+    "profile": "University",
+    "profileSourceUrl": "https://www.srmap.edu.in/careers/",
+    "localSearchTerms": [
+      "faculty",
+      "professor",
+      "physics"
+    ],
+    "notes": [
+      "Institution type is descriptive; no US Carnegie-equivalent designation is assigned."
+    ],
+    "sourcePages": [
+      {
+        "url": "https://www.srmap.edu.in/careers/",
+        "kind": "recruitment",
+        "verified": true,
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "university-haifa",
+    "name": "University of Haifa",
+    "countryCode": "IL",
+    "city": "Haifa",
+    "profile": "University",
+    "profileSourceUrl": "https://physics.haifa.ac.il/2026/07/19/tenure-track-position-in-physics-2027/?lang=en",
+    "localSearchTerms": [
+      "faculty",
+      "professor",
+      "physics"
+    ],
+    "notes": [
+      "Institution type is descriptive; no US Carnegie-equivalent designation is assigned."
+    ],
+    "sourcePages": [
+      {
+        "url": "https://physics.haifa.ac.il/2026/07/19/tenure-track-position-in-physics-2027/?lang=en",
+        "kind": "recruitment",
+        "verified": true,
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kek-tsukuba",
+    "name": "KEK — Tsukuba campus",
+    "countryCode": "JP",
+    "city": "Tsukuba",
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://www.kek.jp/en/career/accl-26-5e",
+    "localSearchTerms": [
+      "faculty",
+      "professor",
+      "physics"
+    ],
+    "notes": [
+      "Institution type is descriptive; no US Carnegie-equivalent designation is assigned."
+    ],
+    "sourcePages": [
+      {
+        "url": "https://www.kek.jp/en/career/accl-26-5e",
+        "kind": "recruitment",
+        "verified": true,
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kek-tokai",
+    "name": "KEK — Tokai campus",
+    "countryCode": "JP",
+    "city": "Tokai, Ibaraki",
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://www.kek.jp/en/career/ipns26-1e",
+    "localSearchTerms": [
+      "faculty",
+      "professor",
+      "physics"
+    ],
+    "notes": [
+      "Institution type is descriptive; no US Carnegie-equivalent designation is assigned."
+    ],
+    "sourcePages": [
+      {
+        "url": "https://www.kek.jp/en/career/ipns26-1e",
+        "kind": "recruitment",
+        "verified": true,
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "iit-madras",
+    "name": "Indian Institute of Technology Madras",
+    "countryCode": "IN",
+    "city": "Chennai",
+    "profile": "University",
+    "profileSourceUrl": "https://facapp.iitm.ac.in/2026ra/",
+    "localSearchTerms": [
+      "faculty",
+      "professor",
+      "physics"
+    ],
+    "notes": [
+      "Institution type is descriptive; no US Carnegie-equivalent designation is assigned."
+    ],
+    "sourcePages": [
+      {
+        "url": "https://facapp.iitm.ac.in/2026ra/",
+        "kind": "recruitment",
+        "verified": true,
+        "discoveredOn": "2026-10-28",
+        "discoveryMethod": "direct-advertisement",
+        "lastFullScan": null,
+        "notes": [
+          "Specific employer call verified; full institution recruitment survey is incomplete."
+        ]
+      }
     ]
   }
 ]

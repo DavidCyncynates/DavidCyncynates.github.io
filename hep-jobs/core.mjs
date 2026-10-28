@@ -1,5 +1,12 @@
 // Pure catalog rules shared by rendering and regression checks. Cutoffs come
 // from the Python builder so timezone/DST interpretation has one authority.
+export function formatDate(value) {
+  // Appointment dates can be phrases such as "Fall 2027 or later". Preserve
+  // their precision instead of inventing a day or displaying "Invalid Date".
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(value)) return String(value ?? '');
+  const date = new Date(value+'T12:00:00Z');
+  return Number.isNaN(date.valueOf()) ? value : date.toLocaleDateString('en-GB', {day:'numeric',month:'short',year:'numeric',timeZone:'UTC'});
+}
 export function status(job, now = Date.now()) {
   const ds = job.deadlines.filter(d => d.active !== false);
   const closes = d => d.stage === 'national-application' ? d.kind === 'hard' && d.closesOpportunity !== false : ['hard','eoi'].includes(d.kind) && d.closesStage !== false;

@@ -1,0 +1,46 @@
+{
+  "runId": "hep-global-audit-retries-20261028T153820Z",
+  "startedAt": "2026-10-28T15:38:20+00:00",
+  "finishedAt": "2026-10-28T15:39:25.789691+00:00",
+  "checks": [
+    {
+      "sourceUrl": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29040&jobTitle=Assistant+%2F+Associate+Professor+in+Data-Intensive+Physics+and+AI",
+      "checkedAt": "2026-10-28T15:38:20+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29040&jobTitle=Assistant+%2F+Associate+Professor+in+Data-Intensive+Physics+and+AI"
+      ],
+      "summary": "Employer page inaccessible. No new vacancy status inferred.",
+      "coverage": "Exact employer advertisement URL verification attempt only.",
+      "paginationComplete": false,
+      "timestampBasis": "actual-web-tool-read",
+      "sourceId": "source-2e73a33989ed"
+    },
+    {
+      "sourceUrl": "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaadlpctxh",
+      "checkedAt": "2026-10-28T15:38:20+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaadlpctxh"
+      ],
+      "summary": "Employer PDF returned404. No new vacancy status inferred.",
+      "coverage": "Exact employer advertisement URL verification attempt only.",
+      "paginationComplete": false,
+      "timestampBasis": "actual-web-tool-read",
+      "sourceId": "source-2426aa49dd3f"
+    },
+    {
+      "sourceUrl": "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-024/Default.aspx?lang=EN",
+      "checkedAt": "2026-10-28T15:38:20+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-024/Default.aspx?lang=EN"
+      ],
+      "summary": "Employer page only says requested offer is no longer available; no deadline information or explicit closure evidence. No new vacancy status inferred.",
+      "coverage": "Exact employer advertisement URL verification attempt only.",
+      "paginationComplete": false,
+      "timestampBasis": "actual-web-tool-read",
+      "sourceId": "source-5ae0521ebfb6"
+    }
+  ]
+}

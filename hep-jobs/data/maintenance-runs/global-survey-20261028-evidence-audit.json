@@ -1,0 +1,48 @@
+{
+  "auditedAt": "2026-10-28T15:39:25.789201+00:00",
+  "basis": "Independent cross-review of regional canonical records against saved employer INSPIRE descriptions and prior official-page reads; selective primary rereads.",
+  "materialIssues": [
+    {
+      "jobId": "imperial-data-intensive-physics-ai-2027",
+      "date": "2026-10-19",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3195961",
+      "issue": "Hard-deadline semantics unsupported by stored advertisement body; date present only in INSPIRE deadline_date metadata.",
+      "recommendedVerification": "needs-review",
+      "recommendedDeadlineKind": "listed",
+      "parentAcknowledged": true
+    },
+    {
+      "jobId": "rwth-aachen-precision-particle-professor-2026",
+      "date": "2026-09-09",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3185307",
+      "issue": "Hard-deadline semantics unsupported by stored advertisement body; date present only in INSPIRE deadline_date metadata.",
+      "recommendedVerification": "needs-review",
+      "recommendedDeadlineKind": "listed",
+      "parentAcknowledged": true
+    },
+    {
+      "jobId": "cnrs-l2it-gravitational-waves-cpj-2026",
+      "date": "2026-09-02",
+      "sourceUrl": "https://inspirehep.net/api/jobs/3183025",
+      "issue": "Hard-deadline semantics unsupported by stored advertisement body; date present only in INSPIRE deadline_date metadata.",
+      "recommendedVerification": "needs-review",
+      "recommendedDeadlineKind": "listed",
+      "parentAcknowledged": true
+    }
+  ],
+  "confirmed": [
+    "Asia12 candidate deadlines match employer text; Sinica and TDLI correctly priority/open-until-filled.",
+    "Seven high-risk Americas rows match evidence: USP IAG, Vanderbilt, Florida, Houston, PittPACC, Bío-Bío and UNAB.",
+    "PittPACC explicitly includes full professorship; distinct from existing astrophysics recruitment.",
+    "Oxford mathematical physics and particle theory are distinct appointments/college affiliations and employer requisition IDs.",
+    "Warsaw Nov30 hard deadline confirmed by official PDF; sourceUrl may preferentially cite PDF."
+  ],
+  "postAuditCounts": {
+    "eligibleCandidateAdditions": 43,
+    "reviewLeadsIncludingRawAmericasQueue": 20
+  },
+  "notes": [
+    "No website or regional package files changed during audit. Parent applies the three conservative downgrades during integration.",
+    "The pre-audit coverage manifest records46 candidate additions; this audit is the follow-up adjustment."
+  ]
+}

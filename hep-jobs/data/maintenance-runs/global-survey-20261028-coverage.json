@@ -1,0 +1,108 @@
+{
+  "completedAt": "2026-10-28T15:33:46.407556+00:00",
+  "status": "Integrated global source expansion; see dated source checks and job evidence in maintenance-runs.",
+  "cycle": "2026-2027",
+  "regions": [
+    {
+      "region": "americas",
+      "eligibleCandidates": 19,
+      "reviewLeads": 4,
+      "sourceChecks": 45,
+      "distinctSourceUrls": 40,
+      "sourcedLocationAdditions": 5
+    },
+    {
+      "region": "europe",
+      "eligibleCandidates": 15,
+      "reviewLeads": 5,
+      "sourceChecks": 67,
+      "distinctSourceUrls": 48,
+      "sourcedLocationAdditions": 13
+    },
+    {
+      "region": "asia-africa",
+      "eligibleCandidates": 12,
+      "reviewLeads": 8,
+      "sourceChecks": 35,
+      "distinctSourceUrls": 34,
+      "sourcedLocationAdditions": 10
+    }
+  ],
+  "totals": {
+    "eligibleCandidates": 46,
+    "reviewLeads": 17,
+    "sourceCheckEntries": 148,
+    "distinctSourceUrls": 123,
+    "outcomes": {
+      "partial": 93,
+      "failed": 55
+    },
+    "latestFailedSourceUrls": 30,
+    "newSourcedNonUsLocations": 28,
+    "countriesWithEligibleCandidates": [
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CN",
+      "DE",
+      "DK",
+      "ES",
+      "FR",
+      "GB",
+      "IL",
+      "IN",
+      "IT",
+      "JP",
+      "PL",
+      "TW",
+      "US"
+    ]
+  },
+  "method": [
+    "Bounded global first pass combining direct employer pages, employer-authored AJO and INSPIRE records, national/society boards and hidden departmental sources.",
+    "Every verified addition has advertisement evidence. Dates are stored by actual meaning: hard, priority, review-start or EOI. Passed priority dates do not establish closure.",
+    "All source attempts remain partial or failed. No source has been promoted to a complete board scan; actual retries and failures remain recorded.",
+    "Counts are ledger source-check entries and distinct source URLs, not unique employers or necessarily independent network requests. Some API/public-page pairs and retries refer to one advertisement.",
+    "INSPIRE broad query returned first 250 of 5158 results; API normalized a two-rank request to JUNIOR in self/next links. Senior-only/all-board coverage is incomplete.",
+    "GeoNames locations are explicitly city-level, corroborated by employer-advertised localities; US NCES coordinates and Carnegie labels are delegated to parent integration."
+  ],
+  "importantFindings": [
+    "USP IAG astrophysics has a hard cutoff October 29, 2026 at 17:00 America/Sao_Paulo.",
+    "Academia Sinica October 1 is a priority date with later applications reviewable until filled; TDLI December 20 is also priority/open-until-filled.",
+    "Official IIT Madras portal says applications closed October 15, 2026, 24:00 IST; employer statement takes precedence over INSPIRE October 21.",
+    "IGFAE, HIP and Czech NPI directorships were moved to review because the ads do not guarantee an associated faculty or permanent scientific appointment.",
+    "Two multi-host CNRS calls and one multicampus KEK call remain review-only to avoid fabricated locations or duplicate vacancies.",
+    "Existing Ohio State record already contains November 1 review-start and November 15 hard cutoff; no revision is proposed."
+  ],
+  "gaps": [
+    "Africa: SAIP stale/broken PDFs, NITheCS first-page-only (9 of 91), and UCT legacy director lead; no new verified current-cycle HEP faculty vacancy from this pass.",
+    "Australia/New Zealand: targeted discovery and Monash employment landing page, not a full national university scan.",
+    "South Korea: IBS direct access blocked; KAIST discovery only, not a complete physics recruitment survey.",
+    "Singapore and Hong Kong: standing routes and older calls discovered, but cycle-specific evidence is incomplete.",
+    "Broader Middle East beyond the verified Haifa call, Latin America beyond selected Chile/Brazil calls, and small/non-central university portals remain undercovered.",
+    "Many expired-cycle advertisements were preserved; these should be hidden by the normal default-date logic rather than deleted.",
+    "Some live listings may have altered since indexed web reads. Raw fresh INSPIRE snapshots preserve the exact metadata checked; blocked source claims are not promoted."
+  ],
+  "usMetadata": "Ten new US campus locations from NCES/IPEDS HD2024 and official Carnegie 2025 research classifications; source datasets were downloaded earlier on 2026-10-28 and re-read during integration.",
+  "integration": {
+    "newVerifiedJobs": 43,
+    "newCatalogReviewJobs": 16,
+    "additionalRawFollowupLeads": 4,
+    "totalCatalogJobs": 95,
+    "totalVerifiedJobs": 74,
+    "totalReviewJobs": 21,
+    "defaultVisibleAtIntegration": 58,
+    "institutionCount": 84,
+    "sourceCount": 300,
+    "sourceCheckEntriesIncludingAudit": 151,
+    "distinctCheckedSourceUrls": 123,
+    "preservedExistingJobs": 36,
+    "existingJobFactsAndHistoryUnchanged": true,
+    "deadlineAuditDowngrades": [
+      "imperial-data-intensive-physics-ai-2027",
+      "rwth-aachen-precision-particle-professor-2026",
+      "cnrs-l2it-gravitational-waves-cpj-2026"
+    ]
+  }
+}

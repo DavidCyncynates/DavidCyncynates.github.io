@@ -171,5 +171,1346 @@
     "lastFullScan": null,
     "checkState": "source-discovered",
     "cadenceDays": 7
+  },
+  {
+    "id": "source-172cc15b03df",
+    "url": "https://inspirehep.net/jobs?sort=mostrecent",
+    "kind": "discipline-board",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-c132bbe00c29",
+    "url": "https://icc.ub.edu/job-offers",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-9e6e8ce45dac",
+    "url": "https://www.fuw.edu.pl/jobs.html",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-282f2a44f4c2",
+    "url": "https://igfae.usc.es/igfae/job-offers/",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-761402cb3ae7",
+    "url": "https://igfae.usc.es/igfae/en/the-igfae-opens-the-selection-process-to-fill-the-position-of-director/",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-28c97bf380a1",
+    "url": "https://jobs.unige.ch/www/wd_portal.show_job?p_web_page_id=75916&p_web_site_id=1",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-84481a4b04d0",
+    "url": "https://bazaogloszen.nauka.gov.pl/oferta/adiunkt-lub-adiunktka-1291/",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-2adf0c3441b2",
+    "url": "https://igfae.usc.es/igfae/oferta/convocatoria-direccion/",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-d917fdffb6d2",
+    "url": "https://eas.unige.ch/jobs.jsp",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-fad02182d75d",
+    "url": "https://www.imperial.ac.uk/jobs/search-jobs/",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-019793a6a784",
+    "url": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29599&jobTitle=Assistant+%2F+Associate+Professor+in+Particle+Physics",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-e94d0521847e",
+    "url": "https://inspirehep.net/jobs/3215354",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-a4f9a327d06f",
+    "url": "https://www.fuw.edu.pl/tl_files/praca/2026/2026-09-01_adiunkt_badawczo_dydaktyczny_IFT_WF-1210-16-2026_ENG_do_30-11-2026.pdf",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-5cbc7c4c19fd",
+    "url": "https://icc.ub.edu/node/1715527",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-c126bd8cca0f",
+    "url": "https://jobportal.ku.dk/videnskabelige-stillinger/?show=167785",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-dad30c150d92",
+    "url": "https://www.maths.ox.ac.uk/node/81914",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-6a29a67ead4d",
+    "url": "https://inspirehep.net/jobs/3200481",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-8daf45e62f08",
+    "url": "https://www.ujf.cas.cz/en/about-institute/Career/job-offers/",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-7bf52b9703d7",
+    "url": "https://www.unina.it/it/w/r5_rtt_2026",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-b6cb1230f9ac",
+    "url": "https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=26000998&tz=GMT%2B01%3A00&tzname=Europe%2FLondon",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-2426aa49dd3f",
+    "url": "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaadlpctxh",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-d68f8da4bae7",
+    "url": "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-003/Default.aspx?lang=EN",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-5ae0521ebfb6",
+    "url": "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-024/Default.aspx?lang=EN",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-14eb251a168e",
+    "url": "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-037/Default.aspx?lang=EN",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-fc553af85e36",
+    "url": "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/w3-professur-fuer-beschleunigerphysik?set_language=en",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-871cca6e5500",
+    "url": "https://inspirehep.net/api/jobs/3215354",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-23f38efb4235",
+    "url": "https://inspirehep.net/api/jobs/3210713",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-a0ab1a577282",
+    "url": "https://inspirehep.net/api/jobs/3208143",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-0f194786ad6f",
+    "url": "https://inspirehep.net/api/jobs/3208120",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-9b95b752b436",
+    "url": "https://inspirehep.net/api/jobs/3207702",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-027c0a8cb93e",
+    "url": "https://inspirehep.net/api/jobs/3200481",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-7e8fd4f50f65",
+    "url": "https://inspirehep.net/api/jobs/3197131",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-e73c40f72b53",
+    "url": "https://inspirehep.net/api/jobs/3195961",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-bf0a004d510f",
+    "url": "https://inspirehep.net/api/jobs/3189637",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-511ed0f051df",
+    "url": "https://inspirehep.net/api/jobs/3189627",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-71fe417d1501",
+    "url": "https://inspirehep.net/api/jobs/3186998",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-554c38c80000",
+    "url": "https://inspirehep.net/api/jobs/3185361",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-7b59da0047d3",
+    "url": "https://inspirehep.net/api/jobs/3185307",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-db47a61c8aa4",
+    "url": "https://inspirehep.net/api/jobs/3183112",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-0efa84149b59",
+    "url": "https://inspirehep.net/api/jobs/3183025",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-03c0a39fd0ac",
+    "url": "https://inspirehep.net/api/jobs/3181705",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-a5c235978264",
+    "url": "https://inspirehep.net/api/jobs/3177368",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-63e4890a96b0",
+    "url": "https://inspirehep.net/api/jobs/3172216",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-5b24ba53b5ef",
+    "url": "https://inspirehep.net/api/jobs/3219186",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-560f07e8dbca",
+    "url": "https://academicjobsonline.org/ajo/UCPH/NBI/ASTRO27PROF",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-9192eaa5e750",
+    "url": "https://download.geonames.org/export/dump/cities15000.zip",
+    "kind": "geolocation",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 365
+  },
+  {
+    "id": "source-03792ffadbf4",
+    "name": "NUS Physics Presidential Young Professorship",
+    "url": "https://www.physics.nus.edu.sg/presidential-young-professorship/",
+    "kind": "recruitment",
+    "coverage": [
+      "Singapore"
+    ],
+    "fields": [
+      "broad physics"
+    ],
+    "notes": "Search-discovered standing route; current cycle not verified.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 28,
+    "institutionIds": []
+  },
+  {
+    "id": "source-5a9e5a2b2c1f",
+    "name": "IBS Directors and Chief Investigators",
+    "url": "https://www.ibs.re.kr/eng/sub04_02.do",
+    "kind": "recruitment",
+    "coverage": [
+      "South Korea"
+    ],
+    "fields": [
+      "broad physics"
+    ],
+    "notes": "Direct access blocked by robots; needs actual advertisement verification before any job addition.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 28,
+    "institutionIds": []
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32733",
+    "id": "source-dcd62b1d3882",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32858",
+    "id": "source-341497733aff",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32648",
+    "id": "source-748b937d1a45",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32608",
+    "id": "source-a756d912f3f6",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://explore.jobs.ufl.edu/en-us/job/541316/assistant-professor-astrophysics",
+    "id": "source-bb2aaffab877",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32960",
+    "id": "source-de60cbacd041",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://careers.uh.edu/jobs/assistant-professor-nuclear-theorist-houston-texas-united-states",
+    "id": "source-10ab972596ca",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://jobs.apply.vt.edu/jobs/tenure-track-faculty-position-in-theoretical-neutrino-physics-blacksburg-virginia-united-states",
+    "id": "source-f48a04c8ec55",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/api/jobs/3195090",
+    "id": "source-441a9face2b8",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/api/jobs/3198780",
+    "id": "source-9bd8d381afe7",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/api/jobs/3188903",
+    "id": "source-f3c91565265f",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/api/jobs/3215688",
+    "id": "source-8afad470e8a7",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/api/jobs/3198864",
+    "id": "source-2a9f96ccebf3",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://jobs.villanova.edu/postings/36409",
+    "id": "source-5f48455ab933",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026",
+    "id": "source-8c8795b0b835",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://portal.if.usp.br/ataac/pt-br/node/8209",
+    "id": "source-d001bba37d5a",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://portal.if.usp.br/ataac/pt-br/node/8208",
+    "id": "source-7eb77c7b3c38",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs/HCM/11197",
+    "id": "source-78ebcc015d13",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.sfu.ca/physics/about-us/employment/",
+    "id": "source-91eca797df6e",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://aas.org/jobregister/ad/a13d3a6d",
+    "id": "source-7fb26d1c42a0",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://cfopitt.taleo.net/careersection/pitt_faculty_external/jobdetail.ftl?job=26005118",
+    "id": "source-130b8fa6d4f9",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://physicsandastronomy.pitt.edu/about/department-openings",
+    "id": "source-2a3ca492ae85",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://apply.interfolio.com/193844",
+    "id": "source-fbcc287218eb",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.fis.unam.mx/",
+    "id": "source-9f1ce94e3725",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3198780",
+    "id": "source-879715393ec6",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026",
+    "id": "source-35d1590f533a",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/31025",
+    "id": "source-118183daba38",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32796",
+    "id": "source-6a6ed70bba78",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32850",
+    "id": "source-854ee4afca98",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/33224",
+    "id": "source-ad71bbd7dcee",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://portal.if.usp.br/ataac/pt-br/node/8165",
+    "id": "source-259194fcc9bf",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32984",
+    "id": "source-2a4004b9065e",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://aas.org/jobregister/ad/d5c0665c",
+    "id": "source-a46de1f149ca",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/HEP",
+    "id": "source-81f018a29867",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/physics",
+    "id": "source-86acb245c02e",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://iag.usp.br/concursos/concursos-para-docentes",
+    "id": "source-3c7eb8767682",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://portal.if.usp.br/ataac/pt-br/concursos_andamento",
+    "id": "source-10cf3e15d283",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://cargosacademicos.uc.cl/en/home/",
+    "id": "source-297a53979ddf",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://cargosacademicos.uc.cl/en/academic-positions/",
+    "id": "source-2c3756278d2a",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://physics.ucas.ac.cn/index.php/en/join-us",
+    "id": "source-65d948a3f8f6",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.saip.org.za/job-ads/",
+    "id": "source-45daf4251a9d",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3127451",
+    "id": "source-e59e794b61a5",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/29808",
+    "id": "source-0a4852140122",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/29809",
+    "id": "source-b49e390adb23",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/29810",
+    "id": "source-02b3e5972587",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.srmap.edu.in/careers/",
+    "id": "source-f66d39ba00db",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://saip.org.za/JobAds/Avertisement%20Lecturer-Senior%20Lecturer%20Positions%20in%20the%20School%20of%20Physics_2024.pdf",
+    "id": "source-7eb421375a24",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://saip.org.za/JobAds/2022%20Senior%20Lecturer%20Position%20in%20Experimental%20Particle%20Physics.pdf",
+    "id": "source-9fe6df85d2a0",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.saip.org.za/JobAds/SCI_E230185_L_SL_AP_Physics.pdf",
+    "id": "source-5b3971f885f6",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://nithecs.ac.za/engagement/opportunities/careers",
+    "id": "source-134ca89faeab",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.monash.edu/science/schools/physics/about/employment",
+    "id": "source-e6ef1be4ebbe",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3208715",
+    "id": "source-4d42cdc1ff11",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3190489",
+    "id": "source-28440de2153b",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3181469",
+    "id": "source-1504cbd84660",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3212760",
+    "id": "source-3aebf646f920",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3143299",
+    "id": "source-ea9df1e1ab1e",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3129038",
+    "id": "source-2ed4d1c5d8be",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://phys.nycu.edu.tw/faculty-position-iop-nycu/",
+    "id": "source-3b98e68ca141",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32304",
+    "id": "source-655be499317c",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32236",
+    "id": "source-437d3811a20b",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32429",
+    "id": "source-746beb9c0b1b",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://facapp.iitm.ac.in/",
+    "id": "source-6b95102e3231",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://facapp.iitm.ac.in/2026ra/",
+    "id": "source-c1a5488a47c1",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://science.uct.ac.za/department-astronomy/vacancies",
+    "id": "source-d81345061b0e",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.shinshu-u.ac.jp/faculty/science/others/assets/92832d2b77bb4a17439347ad5bddff93.pdf",
+    "id": "source-1d920f643fd8",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://physics.haifa.ac.il/2026/07/19/tenure-track-position-in-physics-2027/?lang=en",
+    "id": "source-4f0e6e41aa51",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.kek.jp/en/career/ipns26-1e",
+    "id": "source-c4ac888fa0a5",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.kek.jp/en/career/ipns26-2e-2",
+    "id": "source-636e70feba32",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.kek.jp/en/career/accl-26-5e",
+    "id": "source-eca436765c3c",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.kek.jp/en/career",
+    "id": "source-dcdbba766d59",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://www.kek.jp/en/career/accl26-4e",
+    "id": "source-c94dbc10d72c",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
   }
 ]

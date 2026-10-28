@@ -166,11 +166,11 @@ def build(now):
     assert len({s['url'] for s in sources}) == len(sources), 'Duplicate source URLs'
     metadata = {
         'schemaVersion': 1, 'title': 'HEP faculty opportunities: 2026–27 catalog',
-        'cycle': '2026-2027', 'generatedAt': now.isoformat(), 'stage': 'initial-public-catalog',
-        'seedMethod': 'Available recent findings from an existing daily-search conversation, followed by independent source verification and initial international source expansion.',
+        'cycle': '2026-2027', 'generatedAt': now.isoformat(), 'stage': 'expanded-public-catalog',
+        'seedMethod': 'Available recent findings from an existing daily-search conversation, followed by independent source verification and the October 28, 2026 global source expansion.',
         'privacy': 'Personal application priorities, referee coordination, private documents and chat transcripts are not included.',
         'cyclePolicy': 'Evidence must connect an advertisement to applications during the 2026–27 cycle; appointment year alone is insufficient. Unresolved cycle leads remain in review.',
-        'coverageLimits': ['This is an initial catalog, not an exhaustive global survey.', 'The starting leads emphasize theory, cosmology and North American institutions.', 'Experimental HEP and institutions outside North America need systematic backfill.', 'Source discovery is not a completed vacancy scan.', 'City-level coordinates are approximate, not verified campus buildings. International profiles are descriptive, not US equivalents.'],
+        'coverageLimits': ['Coverage reflects verified advertisements and bounded source checks, not complete global enumeration.', 'The October 28 expansion includes high-energy theory and experiment across multiple regions.', 'Africa, Australia/New Zealand, parts of Asia and the Middle East, and smaller institutional boards remain undercovered.', 'Source discovery is not a completed vacancy scan.', 'City-level coordinates are approximate, not verified campus buildings. International profiles are descriptive, not US equivalents.'],
         'counts': {'jobs': len(jobs), 'verifiedJobs': sum(j['verification'] == 'verified' for j in jobs),
                    'reviewJobs': sum(j['verification'] != 'verified' for j in jobs),
                    'defaultEligibleAtSnapshot': sum(j['snapshotState']['defaultEligible'] for j in jobs),
