@@ -47,6 +47,15 @@ advance successful coverage. Weekly maintenance runs through the Codex desktop
 schedule, not GitHub Actions; Actions validates changes before publication.
 The weekly schedule is active for Mondays at 11:00 Europe/Rome (Codex automation `refresh-hep-faculty-job-map`). The Mac must be awake and Codex running for this local schedule. The existing personal daily-search task is separate.
 
+## Global source expansion
+
+The 28 October 2026 pass added 43 verified listings and retained 20 further
+leads for review (16 catalog records and four research follow-ups). Expired
+listings remain archived. The coverage report and evidence audit in
+`data/maintenance-runs/global-survey-20261028-*.json` describe 151 recorded
+checks across 123 source URLs, including failures and retries. No board scan
+was marked complete; the weekly rotation carries the remaining gaps forward.
+
 ## Attribution
 
 - Leaflet 1.9.4: BSD-2-Clause, licence in `vendor/leaflet/LICENSE`.

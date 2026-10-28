@@ -289,5 +289,155 @@
     "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
     "sourceLicense": "CC BY-NC-SA 4.0",
     "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Southern Methodist University",
+    "matchedOfficialName": "Southern Methodist University",
+    "unitId": 228246,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched the named campus in the official public dataset."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Vanderbilt University",
+    "matchedOfficialName": "Vanderbilt University",
+    "unitId": 221999,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched the named campus in the official public dataset."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Purdue University",
+    "matchedOfficialName": "Purdue University-Main Campus",
+    "unitId": 243780,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched the named campus in the official public dataset."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "University of Florida",
+    "matchedOfficialName": "University of Florida",
+    "unitId": 134130,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched the named campus in the official public dataset."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "James Madison University",
+    "matchedOfficialName": "James Madison University",
+    "unitId": 232423,
+    "designation": "R2",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched the named campus in the official public dataset."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "University of Houston",
+    "matchedOfficialName": "University of Houston",
+    "unitId": 225511,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched the named campus in the official public dataset."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Virginia Tech",
+    "matchedOfficialName": "Virginia Polytechnic Institute and State University",
+    "unitId": 233921,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched the named campus in the official public dataset."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Lehigh University",
+    "matchedOfficialName": "Lehigh University",
+    "unitId": 213543,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched the named campus in the official public dataset."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Georgia Institute of Technology",
+    "matchedOfficialName": "Georgia Institute of Technology-Main Campus",
+    "unitId": 139755,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched the named campus in the official public dataset."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Villanova University",
+    "matchedOfficialName": "Villanova University",
+    "unitId": 216597,
+    "designation": "R2",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched the named campus in the official public dataset."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
   }
 ]

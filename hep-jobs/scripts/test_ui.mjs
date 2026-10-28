@@ -1,4 +1,4 @@
-import test from 'node:test';import assert from 'node:assert/strict';import {status,matches,clusterPoints,sortJobs} from '../core.mjs';import {readFileSync} from 'node:fs';
+import test from 'node:test';import assert from 'node:assert/strict';import {status,matches,clusterPoints,sortJobs,formatDate} from '../core.mjs';import {readFileSync} from 'node:fs';
 const now=Date.parse('2026-10-28T12:00:00Z');const basic={id:'test',institutionName:'Example',title:'Physics',city:'Town',summary:'',fields:['theory'],rank:['Assistant'],deadlines:[],verification:'verified',fieldTags:['theory'],scope:'core',kind:'formal-vacancy',countryCode:'US'};
 const d=(kind,date,extra={})=>({kind,date,cutoffAt:date+'T22:00:00Z',...extra});
 test('hard and national cutoffs expire at the exact instant',()=>{const job={...basic,deadlines:[d('hard','2026-10-28',{stage:'national-application'})]};assert.equal(status(job,Date.parse('2026-10-28T21:59:59Z')).closed,false);assert.equal(status(job,Date.parse('2026-10-28T22:00:00Z')).closed,true)});
@@ -11,3 +11,5 @@ test('cluster partition contains each job once and separates on zoom',()=>{const
 test('same campus jobs remain distinct in one cluster',()=>assert.equal(clusterPoints([{x:1,y:2,id:'a'},{x:1,y:2,id:'b'}])[0].members.length,2));
 test('dated open jobs sort before rolling and closed jobs',()=>assert.deepEqual(sortJobs([{...basic,id:'closed',explicitClosed:true},{...basic,id:'rolling'},{...basic,id:'dated',deadlines:[d('hard','2026-11-01')]}],now).map(j=>j.id),['dated','rolling','closed']));
 test('generated UI state matches Python snapshot for every record',()=>{const c=JSON.parse(readFileSync(new URL('../data/catalog.json',import.meta.url)));for(const j of c.jobs){const s=status(j,Date.parse(c.metadata.generatedAt));assert.equal(s.eligible,j.snapshotState.defaultEligible,j.id);assert.equal(s.review,j.snapshotState.reviewRequired,j.id);assert.equal(s.next?.date||null,j.snapshotState.nextMilestone?.date||null,j.id)}});
+
+test("appointment-date wording retains its precision",()=>{assert.equal(formatDate("2027-08-10"),"10 Aug 2027");assert.equal(formatDate("August 2027"),"August 2027");assert.equal(formatDate("Fall 2027 or later"),"Fall 2027 or later")});

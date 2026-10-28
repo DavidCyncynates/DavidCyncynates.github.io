@@ -1,0 +1,42 @@
+[
+  {
+    "id": "slac-panofsky-2027-review",
+    "institutionName": "SLAC National Accelerator Laboratory",
+    "countryCode": "US",
+    "city": "Menlo Park",
+    "url": "https://academicjobsonline.org/ajo/jobs/32984",
+    "reason": "Five-year associate staff scientist appointment with review for continuing scientific staff. Not an ordinary postdoc, but faculty-equivalent scope requires a deliberate decision.",
+    "deadline": {
+      "date": "2026-11-30",
+      "time": "20:59",
+      "timezone": "America/Los_Angeles",
+      "kind": "hard"
+    },
+    "cycleEvidence": "October 7, 2026 posting for Panofsky Fellowship 2027."
+  },
+  {
+    "id": "uss-women-theory-eoi-2026-review",
+    "institutionName": "Universidad San Sebastián",
+    "countryCode": "CL",
+    "city": null,
+    "url": "https://inspirehep.net/jobs/3178000",
+    "reason": "Expired August 31, 2026 expression of interest for women researchers; faculty-equivalent status and actual work campus unresolved (program administered in Valdivia, branch in Santiago).",
+    "recordId": "3178000"
+  },
+  {
+    "id": "perimeter-particle-earlier-cycle-review",
+    "institutionName": "Perimeter Institute",
+    "countryCode": "CA",
+    "city": "Waterloo",
+    "url": "https://perimeterinstitute.ca/jobs/tenure-track-faculty-appointment-elementary-particle-theory",
+    "reason": "Search result shows December 2025 posting, February 19, 2026 review and 2026 appointment. Still listed, but no evidence of migration into 2026–27 cycle; retain as directory lead, not a verified current-cycle job."
+  },
+  {
+    "id": "argonne-hep-director-review",
+    "institutionName": "Argonne National Laboratory",
+    "countryCode": "US",
+    "city": null,
+    "url": "https://inspirehep.net/jobs/3174989",
+    "reason": "Lab division-director role; faculty-equivalent scope and actual deadline remain unverified; excluded from additions."
+  }
+]

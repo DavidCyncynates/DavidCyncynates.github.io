@@ -207,6 +207,65 @@
     ]
   },
   {
+    "id": "source-019793a6a784",
+    "url": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29599&jobTitle=Assistant+%2F+Associate+Professor+in+Particle+Physics",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-027c0a8cb93e",
+    "url": "https://inspirehep.net/api/jobs/3200481",
+    "kind": "recruitment",
+    "institutionIds": [
+      "helsinki-institute-physics"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/29810",
+    "id": "source-02b3e5972587",
+    "kind": "advertisement",
+    "institutionIds": [
+      "hkust"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": false
+  },
+  {
     "id": "source-030397c47405",
     "url": "https://personale.unica.it/docric/public/fileadmin/user_upload/2026/RTT/DR_bando/DR984_2026_Bando_8_rttL_45D_0926.pdf",
     "kind": "advertisement",
@@ -237,6 +296,60 @@
       "department"
     ],
     "linkVerified": true
+  },
+  {
+    "id": "source-03792ffadbf4",
+    "name": "NUS Physics Presidential Young Professorship",
+    "url": "https://www.physics.nus.edu.sg/presidential-young-professorship/",
+    "kind": "recruitment",
+    "coverage": [
+      "Singapore"
+    ],
+    "fields": [
+      "broad physics"
+    ],
+    "notes": "Search-discovered standing route; current cycle not verified.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 28,
+    "institutionIds": []
+  },
+  {
+    "id": "source-03c0a39fd0ac",
+    "url": "https://inspirehep.net/api/jobs/3181705",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ],
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/29808",
+    "id": "source-0a4852140122",
+    "kind": "advertisement",
+    "institutionIds": [
+      "hkust"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": false
   },
   {
     "id": "source-0ce93ff7d632",
@@ -273,6 +386,48 @@
     "linkVerified": true
   },
   {
+    "id": "source-0efa84149b59",
+    "url": "https://inspirehep.net/api/jobs/3183025",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cnrs-l2it"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-0f194786ad6f",
+    "url": "https://inspirehep.net/api/jobs/3208120",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
     "id": "source-0f7f30566d2f",
     "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Open-Rank-Tenure-Track-Faculty-Position-in-Experimental-Nuclear-or-High-Energy-Physics_R161214-1",
     "kind": "advertisement",
@@ -287,6 +442,89 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-0ff3b4d7bf37",
+    "url": "https://apply.interfolio.com/193598",
+    "kind": "advertisement",
+    "institutionIds": [
+      "vanderbilt"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://careers.uh.edu/jobs/assistant-professor-nuclear-theorist-houston-texas-united-states",
+    "id": "source-10ab972596ca",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-houston"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
+    "id": "source-10c75de040b9",
+    "url": "https://inspirehep.net/api/jobs/3127451",
+    "kind": "advertisement",
+    "institutionIds": [
+      "iit-madras"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://portal.if.usp.br/ataac/pt-br/concursos_andamento",
+    "id": "source-10cf3e15d283",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/31025",
+    "id": "source-118183daba38",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
   },
   {
     "id": "source-11f2528e107c",
@@ -305,6 +543,32 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "url": "https://cfopitt.taleo.net/careersection/pitt_faculty_external/jobdetail.ftl?job=26005118",
+    "id": "source-130b8fa6d4f9",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://nithecs.ac.za/engagement/opportunities/careers",
+    "id": "source-134ca89faeab",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
     "id": "source-14809006faca",
     "url": "https://apply.interfolio.com/189792",
     "kind": "advertisement",
@@ -321,6 +585,118 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-14eb251a168e",
+    "url": "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-037/Default.aspx?lang=EN",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ],
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3181469",
+    "id": "source-1504cbd84660",
+    "kind": "advertisement",
+    "institutionIds": [
+      "jilin-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": false
+  },
+  {
+    "id": "source-1632b9ad7c40",
+    "url": "https://inspirehep.net/jobs/3208120",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
+    "id": "source-1728ff33ac4d",
+    "url": "https://inspirehep.net/jobs/3172216",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-bonn"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
+    "id": "source-172cc15b03df",
+    "url": "https://inspirehep.net/jobs?sort=mostrecent",
+    "kind": "discipline-board",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-19cbdb644a34",
+    "url": "https://inspirehep.net/jobs/3185361",
+    "kind": "recruitment",
+    "institutionIds": [
+      "durham-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
     "id": "source-1abc8ad038f1",
     "url": "https://lsa.umich.edu/physics/about-us/jobs.html",
     "kind": "department",
@@ -335,6 +711,65 @@
       "department"
     ],
     "linkVerified": true
+  },
+  {
+    "url": "https://www.shinshu-u.ac.jp/faculty/science/others/assets/92832d2b77bb4a17439347ad5bddff93.pdf",
+    "id": "source-1d920f643fd8",
+    "kind": "recruitment",
+    "institutionIds": [
+      "shinshu-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "verified": true,
+    "discoveryMethod": "direct-advertisement",
+    "notes": [
+      "Specific employer call verified; full institution recruitment survey is incomplete."
+    ]
+  },
+  {
+    "id": "source-1dc2afc552d4",
+    "url": "https://jobs.jmu.edu/jobs/assistant-professor-of-physics-and-astronomy-tenure-track-harrisonburg-virginia-united-states",
+    "kind": "advertisement",
+    "institutionIds": [
+      "james-madison"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-1ea8777c3ef3",
+    "url": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=28831&jobTitle=Assistant+%2F+Associate+Professor+in+Gravitational+Wave+Physics",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
   },
   {
     "id": "source-1f81a82e3778",
@@ -389,6 +824,67 @@
     "linkVerified": true
   },
   {
+    "id": "source-23f38efb4235",
+    "url": "https://inspirehep.net/api/jobs/3210713",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-barcelona"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-2426aa49dd3f",
+    "url": "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaadlpctxh",
+    "kind": "recruitment",
+    "institutionIds": [
+      "rwth-aachen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-24d351b75b24",
+    "url": "https://www.physics.smu.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "southern-methodist"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "discoveryMethod": "advertisement-link",
+    "notes": [
+      "Link discovered in employer material; not separately read."
+    ]
+  },
+  {
     "id": "source-24d7b92a63b0",
     "url": "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54161",
     "kind": "advertisement",
@@ -403,6 +899,32 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-24e5e4faae16",
+    "url": "https://inspirehep.net/api/jobs/3181469",
+    "kind": "advertisement",
+    "institutionIds": [
+      "jilin-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://portal.if.usp.br/ataac/pt-br/node/8165",
+    "id": "source-259194fcc9bf",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
   },
   {
     "id": "source-2685a30776be",
@@ -421,6 +943,89 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true
+  },
+  {
+    "id": "source-2817a357826a",
+    "url": "https://inspirehep.net/jobs/3181705",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": false
+  },
+  {
+    "id": "source-282f2a44f4c2",
+    "url": "https://igfae.usc.es/igfae/job-offers/",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3190489",
+    "id": "source-28440de2153b",
+    "kind": "recruitment",
+    "institutionIds": [
+      "sgt-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "verified": true,
+    "discoveryMethod": "direct-advertisement",
+    "notes": [
+      "Specific employer call verified; full institution recruitment survey is incomplete."
+    ]
+  },
+  {
+    "id": "source-28c97bf380a1",
+    "url": "https://jobs.unige.ch/www/wd_portal.show_job?p_web_page_id=75916&p_web_site_id=1",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-geneva"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "url": "https://cargosacademicos.uc.cl/en/home/",
+    "id": "source-297a53979ddf",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
   },
   {
     "id": "source-29d281c2334d",
@@ -464,6 +1069,79 @@
     ]
   },
   {
+    "url": "https://physicsandastronomy.pitt.edu/about/department-openings",
+    "id": "source-2a3ca492ae85",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32984",
+    "id": "source-2a4004b9065e",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://inspirehep.net/api/jobs/3198864",
+    "id": "source-2a9f96ccebf3",
+    "kind": "recruitment",
+    "institutionIds": [
+      "georgia-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
+    "id": "source-2adf0c3441b2",
+    "url": "https://igfae.usc.es/igfae/oferta/convocatoria-direccion/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "url": "https://cargosacademicos.uc.cl/en/academic-positions/",
+    "id": "source-2c3756278d2a",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
     "id": "source-2c8a7152bad0",
     "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-Associate-Professor-of-Physics--Tenure-Tenure-Track-_REQ_0000082843-1",
     "kind": "advertisement",
@@ -480,6 +1158,64 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-2da2fc47b426",
+    "url": "https://hr.gatech.edu/careers",
+    "kind": "recruitment",
+    "institutionIds": [
+      "georgia-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "advertisement-link",
+    "notes": [
+      "Link discovered in employer material; not separately read."
+    ]
+  },
+  {
+    "id": "source-2e487b1290bc",
+    "url": "https://inspirehep.net/jobs/3188903",
+    "kind": "advertisement",
+    "institutionIds": [
+      "universidad-andres-bello"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-2e73a33989ed",
+    "url": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29040&jobTitle=Assistant+%2F+Associate+Professor+in+Data-Intensive+Physics+and+AI",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
     "id": "source-2e8b4d085694",
     "url": "https://www.lsu.edu/physics/",
     "kind": "department",
@@ -494,6 +1230,23 @@
       "department"
     ],
     "linkVerified": true
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3129038",
+    "id": "source-2ed4d1c5d8be",
+    "kind": "advertisement",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": false
   },
   {
     "id": "source-30e387666a6b",
@@ -529,6 +1282,38 @@
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
     ]
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32858",
+    "id": "source-341497733aff",
+    "kind": "recruitment",
+    "institutionIds": [
+      "vanderbilt"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
+    "url": "https://iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026",
+    "id": "source-35d1590f533a",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
   },
   {
     "id": "source-35f6965f0963",
@@ -581,6 +1366,23 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-38768b3a5b5c",
+    "url": "https://inspirehep.net/jobs/3183112",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": false
+  },
+  {
     "id": "source-39d73d0166b6",
     "url": "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career",
     "kind": "recruitment",
@@ -617,6 +1419,44 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "url": "https://inspirehep.net/jobs/3212760",
+    "id": "source-3aebf646f920",
+    "kind": "advertisement",
+    "institutionIds": [
+      "srm-university-ap"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://phys.nycu.edu.tw/faculty-position-iop-nycu/",
+    "id": "source-3b98e68ca141",
+    "kind": "recruitment",
+    "institutionIds": [
+      "national-yang-ming-chiao-tung"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "verified": true,
+    "discoveryMethod": "direct-advertisement",
+    "notes": [
+      "Specific employer call verified; full institution recruitment survey is incomplete."
+    ]
+  },
+  {
     "id": "source-3ba051a37ffe",
     "url": "https://www.theory.tifr.res.in/jobs.html",
     "kind": "department",
@@ -634,6 +1474,25 @@
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
       "Departmental faculty recruitment page was available in the search index, but the subsequent direct fetch timed out."
+    ]
+  },
+  {
+    "url": "https://iag.usp.br/concursos/concursos-para-docentes",
+    "id": "source-3c7eb8767682",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
     ]
   },
   {
@@ -688,6 +1547,95 @@
     "linkVerified": true
   },
   {
+    "id": "source-41aa5e1068f7",
+    "url": "http://www.phys.vt.edu",
+    "kind": "department",
+    "institutionIds": [
+      "virginia-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "discoveryMethod": "advertisement-link",
+    "notes": [
+      "Link discovered in employer material; not separately read."
+    ]
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32236",
+    "id": "source-437d3811a20b",
+    "kind": "recruitment",
+    "institutionIds": [
+      "academia-sinica-iop"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "verified": true,
+    "discoveryMethod": "direct-advertisement",
+    "notes": [
+      "Specific employer call verified; full institution recruitment survey is incomplete."
+    ]
+  },
+  {
+    "url": "https://inspirehep.net/api/jobs/3195090",
+    "id": "source-441a9face2b8",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
+    "url": "https://www.saip.org.za/job-ads/",
+    "id": "source-45daf4251a9d",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "id": "source-45e38cc10463",
+    "url": "https://academicjobsonline.org/ajo/jobs/32710",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-florida"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
     "id": "source-469f3bdb717f",
     "url": "https://www.physicsandastronomy.pitt.edu/about/department-openings",
     "kind": "department",
@@ -722,6 +1670,22 @@
     "linkVerified": true
   },
   {
+    "id": "source-4715586fb91c",
+    "url": "https://inspirehep.net/api/jobs/3129038",
+    "kind": "advertisement",
+    "institutionIds": [
+      "yantai-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
     "id": "source-488991baa7d1",
     "url": "https://apply.interfolio.com/195599",
     "kind": "advertisement",
@@ -754,6 +1718,27 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-4abfc7034cdc",
+    "url": "https://inspirehep.net/jobs/3186998",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
     "id": "source-4bd35945176e",
     "url": "https://www.desy.de/career",
     "kind": "recruitment",
@@ -770,6 +1755,60 @@
     "discoveryMethod": "direct-page",
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3208715",
+    "id": "source-4d42cdc1ff11",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-4ea9ca63e1af",
+    "url": "https://inspirehep.net/jobs/3195090",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://physics.haifa.ac.il/2026/07/19/tenure-track-position-in-physics-2027/?lang=en",
+    "id": "source-4f0e6e41aa51",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-haifa"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "verified": true,
+    "discoveryMethod": "direct-advertisement",
+    "notes": [
+      "Specific employer call verified; full institution recruitment survey is incomplete."
     ]
   },
   {
@@ -808,6 +1847,27 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-511ed0f051df",
+    "url": "https://inspirehep.net/api/jobs/3189627",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
     "id": "source-5272d43aac0e",
     "url": "https://physics.elte.hu/en/vacancies",
     "kind": "department",
@@ -844,6 +1904,134 @@
     "linkVerified": true
   },
   {
+    "id": "source-554c38c80000",
+    "url": "https://inspirehep.net/api/jobs/3185361",
+    "kind": "recruitment",
+    "institutionIds": [
+      "durham-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-560f07e8dbca",
+    "url": "https://academicjobsonline.org/ajo/UCPH/NBI/ASTRO27PROF",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-copenhagen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-578ff42dc80c",
+    "url": "https://uspdigital.usp.br/gr/admissao",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-5a9e5a2b2c1f",
+    "name": "IBS Directors and Chief Investigators",
+    "url": "https://www.ibs.re.kr/eng/sub04_02.do",
+    "kind": "recruitment",
+    "coverage": [
+      "South Korea"
+    ],
+    "fields": [
+      "broad physics"
+    ],
+    "notes": "Direct access blocked by robots; needs actual advertisement verification before any job addition.",
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 28,
+    "institutionIds": []
+  },
+  {
+    "id": "source-5ae0521ebfb6",
+    "url": "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-024/Default.aspx?lang=EN",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cnrs-l2it"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-5b24ba53b5ef",
+    "url": "https://inspirehep.net/api/jobs/3219186",
+    "kind": "recruitment",
+    "institutionIds": [
+      "nuclear-physics-institute-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "url": "https://www.saip.org.za/JobAds/SCI_E230185_L_SL_AP_Physics.pdf",
+    "id": "source-5b3971f885f6",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
     "id": "source-5c214c3196fc",
     "url": "https://inspirehep.net/jobs?field_of_interest=physics&page=1&size=25&sort=mostrecent",
     "kind": "advertisement",
@@ -858,6 +2046,27 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-5cbc7c4c19fd",
+    "url": "https://icc.ub.edu/node/1715527",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-barcelona"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
   },
   {
     "id": "source-5f2763bec065",
@@ -876,6 +2085,28 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true
+  },
+  {
+    "url": "https://jobs.villanova.edu/postings/36409",
+    "id": "source-5f48455ab933",
+    "kind": "recruitment",
+    "institutionIds": [
+      "villanova"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
   },
   {
     "id": "source-6027019f7ea0",
@@ -942,6 +2173,122 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-635ef7b4362f",
+    "url": "https://careers.purdue.edu/job/AssistantAssociate-Professor-of-Experimental-Relativistic-Heavy-Ion-Physics/43899-en_US/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "purdue"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://www.kek.jp/en/career/ipns26-2e-2",
+    "id": "source-636e70feba32",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kek-tsukuba"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-63e4890a96b0",
+    "url": "https://inspirehep.net/api/jobs/3172216",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-bonn"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32304",
+    "id": "source-655be499317c",
+    "kind": "recruitment",
+    "institutionIds": [
+      "tdli-sjtu"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "verified": true,
+    "discoveryMethod": "direct-advertisement",
+    "notes": [
+      "Specific employer call verified; full institution recruitment survey is incomplete."
+    ]
+  },
+  {
+    "url": "https://physics.ucas.ac.cn/index.php/en/join-us",
+    "id": "source-65d948a3f8f6",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "id": "source-6a29a67ead4d",
+    "url": "https://inspirehep.net/jobs/3200481",
+    "kind": "recruitment",
+    "institutionIds": [
+      "helsinki-institute-physics"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32796",
+    "id": "source-6a6ed70bba78",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
     "id": "source-6acec7cd59f6",
     "url": "https://physics.rice.edu",
     "kind": "department",
@@ -956,6 +2303,43 @@
       "department"
     ],
     "linkVerified": true
+  },
+  {
+    "id": "source-6b5fcece38d9",
+    "url": "https://inspirehep.net/jobs/3207702",
+    "kind": "recruitment",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
+    "url": "https://facapp.iitm.ac.in/",
+    "id": "source-6b95102e3231",
+    "kind": "advertisement",
+    "institutionIds": [
+      "iit-madras"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
   },
   {
     "id": "source-6cef3912a8a5",
@@ -1025,6 +2409,154 @@
     "discoveryMethod": "direct-page",
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
+    ]
+  },
+  {
+    "id": "source-71fe417d1501",
+    "url": "https://inspirehep.net/api/jobs/3186998",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-72ddb0dd1611",
+    "url": "https://www.physics.purdue.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "purdue"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "discoveryMethod": "advertisement-link",
+    "notes": [
+      "Link discovered in employer material; not separately read."
+    ]
+  },
+  {
+    "id": "source-7351354ac384",
+    "url": "https://www.jmu.edu/physics/index.shtml",
+    "kind": "department",
+    "institutionIds": [
+      "james-madison"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "discoveryMethod": "advertisement-link",
+    "notes": [
+      "Link discovered in employer material; not separately read."
+    ]
+  },
+  {
+    "id": "source-7368325cdc63",
+    "url": "https://inspirehep.net/jobs/3195961",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
+    "id": "source-73757e2bbd64",
+    "url": "https://inspirehep.net/api/jobs/3190489",
+    "kind": "advertisement",
+    "institutionIds": [
+      "sgt-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32429",
+    "id": "source-746beb9c0b1b",
+    "kind": "advertisement",
+    "institutionIds": [
+      "national-cheng-kung"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": false
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32648",
+    "id": "source-748b937d1a45",
+    "kind": "recruitment",
+    "institutionIds": [
+      "purdue"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
+    "id": "source-761402cb3ae7",
+    "url": "https://igfae.usc.es/igfae/en/the-igfae-opens-the-selection-process-to-fill-the-position-of-director/",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
     ]
   },
   {
@@ -1098,6 +2630,49 @@
     "linkVerified": true
   },
   {
+    "url": "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs/HCM/11197",
+    "id": "source-78ebcc015d13",
+    "kind": "recruitment",
+    "institutionIds": [
+      "universite-laval"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
+    "id": "source-79ac17e5ee0d",
+    "url": "https://inspirehep.net/jobs/3208143",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-geneva"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
     "id": "source-79c7dec84d5c",
     "url": "https://academicjobsonline.org/ajo/jobs/33167",
     "kind": "advertisement",
@@ -1112,6 +2687,85 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-7a82a261843f",
+    "url": "https://inspirehep.net/jobs/3185307",
+    "kind": "recruitment",
+    "institutionIds": [
+      "rwth-aachen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
+    "id": "source-7b46f2fbc0b7",
+    "url": "https://inspirehep.net/jobs/3215688",
+    "kind": "advertisement",
+    "institutionIds": [
+      "lehigh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-7b59da0047d3",
+    "url": "https://inspirehep.net/api/jobs/3185307",
+    "kind": "recruitment",
+    "institutionIds": [
+      "rwth-aachen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-7bf52b9703d7",
+    "url": "https://www.unina.it/it/w/r5_rtt_2026",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
   },
   {
     "id": "source-7c18bfa63a51",
@@ -1130,6 +2784,27 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-7c9d5657b176",
+    "url": "https://inspirehep.net/jobs/3189637",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
     "id": "source-7d5f722047fe",
     "url": "https://www.ou.edu/cas/physics-astronomy/job-opportunities",
     "kind": "department",
@@ -1146,6 +2821,69 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true
+  },
+  {
+    "id": "source-7e8fd4f50f65",
+    "url": "https://inspirehep.net/api/jobs/3197131",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-copenhagen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "url": "https://saip.org.za/JobAds/Avertisement%20Lecturer-Senior%20Lecturer%20Positions%20in%20the%20School%20of%20Physics_2024.pdf",
+    "id": "source-7eb421375a24",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://portal.if.usp.br/ataac/pt-br/node/8208",
+    "id": "source-7eb77c7b3c38",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
+    "url": "https://aas.org/jobregister/ad/a13d3a6d",
+    "id": "source-7fb26d1c42a0",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
   },
   {
     "id": "source-7fd1071baf33",
@@ -1183,6 +2921,64 @@
     ]
   },
   {
+    "id": "source-819a33aaec41",
+    "url": "https://apply.interfolio.com/193708",
+    "kind": "advertisement",
+    "institutionIds": [
+      "southern-methodist"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/HEP",
+    "id": "source-81f018a29867",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "id": "source-84481a4b04d0",
+    "url": "https://bazaogloszen.nauka.gov.pl/oferta/adiunkt-lub-adiunktka-1291/",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "id": "source-84d900fb89a3",
+    "url": "https://as.vanderbilt.edu/physics/",
+    "kind": "department",
+    "institutionIds": [
+      "vanderbilt"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "discoveryMethod": "advertisement-link",
+    "notes": [
+      "Link discovered in employer material; not separately read."
+    ]
+  },
+  {
     "id": "source-85254c1f991f",
     "url": "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/current/phys_270_163.php",
     "kind": "advertisement",
@@ -1197,6 +2993,47 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32850",
+    "id": "source-854ee4afca98",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/physics",
+    "id": "source-86acb245c02e",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "id": "source-871cca6e5500",
+    "url": "https://inspirehep.net/api/jobs/3215354",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
   },
   {
     "id": "source-871d432d25ec",
@@ -1219,6 +3056,22 @@
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
     ]
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3198780",
+    "id": "source-879715393ec6",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-biobio"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
   },
   {
     "id": "source-87c516b49d2a",
@@ -1285,6 +3138,71 @@
       "recruitment"
     ],
     "linkVerified": true
+  },
+  {
+    "url": "https://inspirehep.net/api/jobs/3215688",
+    "id": "source-8afad470e8a7",
+    "kind": "recruitment",
+    "institutionIds": [
+      "lehigh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
+    "url": "https://www.iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026",
+    "id": "source-8c8795b0b835",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
+    "id": "source-8daf45e62f08",
+    "url": "https://www.ujf.cas.cz/en/about-institute/Career/job-offers/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "nuclear-physics-institute-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
   },
   {
     "id": "source-8f18190062fd",
@@ -1369,6 +3287,16 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-9192eaa5e750",
+    "url": "https://download.geonames.org/export/dump/cities15000.zip",
+    "kind": "geolocation",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 365
+  },
+  {
     "id": "source-91cad0559e95",
     "url": "https://english.ihep.cas.cn/ju/jo/index.html",
     "kind": "recruitment",
@@ -1402,6 +3330,28 @@
       "department"
     ],
     "linkVerified": true
+  },
+  {
+    "url": "https://www.sfu.ca/physics/about-us/employment/",
+    "id": "source-91eca797df6e",
+    "kind": "recruitment",
+    "institutionIds": [
+      "simon-fraser"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
   },
   {
     "id": "source-92298534f83f",
@@ -1468,6 +3418,70 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-99b0fe30d16f",
+    "url": "https://inspirehep.net/jobs/3210713",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-barcelona"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
+    "id": "source-9b95b752b436",
+    "url": "https://inspirehep.net/api/jobs/3207702",
+    "kind": "recruitment",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "url": "https://inspirehep.net/api/jobs/3198780",
+    "id": "source-9bd8d381afe7",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-biobio"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
     "id": "source-9c5f6a06f1ca",
     "url": "https://academicjobsonline.org/ajo/jobs/32613",
     "kind": "advertisement",
@@ -1482,6 +3496,60 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-9dece7c05f96",
+    "url": "https://igfae.usc.es/igfae/en/oferta/director-call/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "igfae"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
+    "id": "source-9e6e8ce45dac",
+    "url": "https://www.fuw.edu.pl/jobs.html",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "url": "https://www.fis.unam.mx/",
+    "id": "source-9f1ce94e3725",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "url": "https://saip.org.za/JobAds/2022%20Senior%20Lecturer%20Position%20in%20Experimental%20Particle%20Physics.pdf",
+    "id": "source-9fe6df85d2a0",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
   },
   {
     "id": "source-a0684fd9e695",
@@ -1500,6 +3568,48 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-a0ab1a577282",
+    "url": "https://inspirehep.net/api/jobs/3208143",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-geneva"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-a2e86e11ec37",
+    "url": "https://inspirehep.net/jobs/3219186",
+    "kind": "recruitment",
+    "institutionIds": [
+      "nuclear-physics-institute-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
     "id": "source-a406a694e409",
     "url": "https://www.iopb.res.in/wp-content/uploads/2026/09/Advertisement-for-Faculty-Position-at-IOP.pdf.pdf",
     "kind": "advertisement",
@@ -1516,6 +3626,64 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "url": "https://aas.org/jobregister/ad/d5c0665c",
+    "id": "source-a46de1f149ca",
+    "kind": "advertisement",
+    "institutionIds": [
+      "universite-laval"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-a4f9a327d06f",
+    "url": "https://www.fuw.edu.pl/tl_files/praca/2026/2026-09-01_adiunkt_badawczo_dydaktyczny_IFT_WF-1210-16-2026_ENG_do_30-11-2026.pdf",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-warsaw"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-a5c235978264",
+    "url": "https://inspirehep.net/api/jobs/3177368",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
     "id": "source-a69fd7446a5e",
     "url": "https://ap.washington.edu/ahr/position-details/?job_id=189352",
     "kind": "advertisement",
@@ -1530,6 +3698,28 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32608",
+    "id": "source-a756d912f3f6",
+    "kind": "recruitment",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
   },
   {
     "id": "source-a88a59ead1f3",
@@ -1580,6 +3770,16 @@
       "group"
     ],
     "linkVerified": true
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/33224",
+    "id": "source-ad71bbd7dcee",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
   },
   {
     "id": "source-aeaee72997fa",
@@ -1656,11 +3856,103 @@
     "linkVerified": true
   },
   {
+    "url": "https://academicjobsonline.org/ajo/jobs/29809",
+    "id": "source-b49e390adb23",
+    "kind": "advertisement",
+    "institutionIds": [
+      "hkust"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": false
+  },
+  {
+    "id": "source-b6cb1230f9ac",
+    "url": "https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=26000998&tz=GMT%2B01%3A00&tzname=Europe%2FLondon",
+    "kind": "recruitment",
+    "institutionIds": [
+      "durham-university"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
     "id": "source-b8fde9437aaf",
     "url": "https://aas.org/jobregister/ad/0017344c",
     "kind": "advertisement",
     "institutionIds": [
       "scripps-pitzer-natural-sciences"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://explore.jobs.ufl.edu/en-us/job/541316/assistant-professor-astrophysics",
+    "id": "source-bb2aaffab877",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-of-florida"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
+    "id": "source-bbe8d8c3a373",
+    "url": "https://apply.interfolio.com/192713",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-bd42d5bb275e",
+    "url": "https://inspirehep.net/jobs/3198864",
+    "kind": "advertisement",
+    "institutionIds": [
+      "georgia-tech"
     ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
@@ -1688,6 +3980,27 @@
     "linkVerified": true
   },
   {
+    "id": "source-bf0a004d510f",
+    "url": "https://inspirehep.net/api/jobs/3189637",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
     "id": "source-c09d962a1c87",
     "url": "https://apply.interfolio.com/188444",
     "kind": "advertisement",
@@ -1704,6 +4017,62 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-c126bd8cca0f",
+    "url": "https://jobportal.ku.dk/videnskabelige-stillinger/?show=167785",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-copenhagen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-c132bbe00c29",
+    "url": "https://icc.ub.edu/job-offers",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
+  },
+  {
+    "url": "https://facapp.iitm.ac.in/2026ra/",
+    "id": "source-c1a5488a47c1",
+    "kind": "recruitment",
+    "institutionIds": [
+      "iit-madras"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "verified": true,
+    "discoveryMethod": "direct-advertisement",
+    "notes": [
+      "Specific employer call verified; full institution recruitment survey is incomplete."
+    ]
+  },
+  {
     "id": "source-c344b1bc01f9",
     "url": "https://aas.org/jobregister/ad/5b64bbe4",
     "kind": "advertisement",
@@ -1718,6 +4087,64 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://www.kek.jp/en/career/ipns26-1e",
+    "id": "source-c4ac888fa0a5",
+    "kind": "recruitment",
+    "institutionIds": [
+      "kek-tokai"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "verified": true,
+    "discoveryMethod": "direct-advertisement",
+    "notes": [
+      "Specific employer call verified; full institution recruitment survey is incomplete."
+    ]
+  },
+  {
+    "id": "source-c751a5b2c81e",
+    "url": "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs",
+    "kind": "recruitment",
+    "institutionIds": [
+      "universite-laval"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "advertisement-link",
+    "notes": [
+      "Link discovered in employer material; not separately read."
+    ]
+  },
+  {
+    "url": "https://www.kek.jp/en/career/accl26-4e",
+    "id": "source-c94dbc10d72c",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kek-multicampus"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": false
   },
   {
     "id": "source-c98e47e8a2f0",
@@ -1768,6 +4195,44 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-cf8acf1c8536",
+    "url": "https://inspirehep.net/api/jobs/3143299",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://portal.if.usp.br/ataac/pt-br/node/8209",
+    "id": "source-d001bba37d5a",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-sao-paulo"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
     "id": "source-d04046d76973",
     "url": "https://academicjobsonline.org/ajo/jobs/33025",
     "kind": "advertisement",
@@ -1800,6 +4265,46 @@
     "linkVerified": true
   },
   {
+    "id": "source-d17020f07949",
+    "url": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186058",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
+    "id": "source-d68f8da4bae7",
+    "url": "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-003/Default.aspx?lang=EN",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ],
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
     "id": "source-d6bcda16a105",
     "url": "https://facultyrecruiting.epfl.ch/",
     "kind": "recruitment",
@@ -1814,6 +4319,29 @@
       "recruitment"
     ],
     "linkVerified": false
+  },
+  {
+    "url": "https://science.uct.ac.za/department-astronomy/vacancies",
+    "id": "source-d81345061b0e",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "id": "source-d917fdffb6d2",
+    "url": "https://eas.unige.ch/jobs.jsp",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ]
   },
   {
     "id": "source-d96821079d00",
@@ -1846,6 +4374,115 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-da6ed0d0c8b1",
+    "url": "https://inspirehep.net/jobs/3189627",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-naples-federico-ii"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
+    "id": "source-daade525bb22",
+    "url": "https://academicjobsonline.org/ajo/jobs/32260",
+    "kind": "advertisement",
+    "institutionIds": [
+      "national-yang-ming-chiao-tung"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-dad30c150d92",
+    "url": "https://www.maths.ox.ac.uk/node/81914",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-db47a61c8aa4",
+    "url": "https://inspirehep.net/api/jobs/3183112",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cnrs-multihost"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
+    ],
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32733",
+    "id": "source-dcd62b1d3882",
+    "kind": "recruitment",
+    "institutionIds": [
+      "southern-methodist"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
+    "url": "https://www.kek.jp/en/career",
+    "id": "source-dcdbba766d59",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
   },
   {
     "id": "source-dd2ee6a5575f",
@@ -1910,6 +4547,44 @@
       "recruitment"
     ],
     "linkVerified": false
+  },
+  {
+    "id": "source-de42aabae805",
+    "url": "https://inspirehep.net/api/jobs/3212760",
+    "kind": "advertisement",
+    "institutionIds": [
+      "srm-university-ap"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://academicjobsonline.org/ajo/jobs/32960",
+    "id": "source-de60cbacd041",
+    "kind": "recruitment",
+    "institutionIds": [
+      "james-madison"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
   },
   {
     "id": "source-e16f435343ed",
@@ -1979,6 +4654,43 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-e20c0258f84c",
+    "url": "https://inspirehep.net/jobs/3177368",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
+    "id": "source-e53d348a56af",
+    "url": "https://nbia.nbi.ku.dk/",
+    "kind": "group",
+    "institutionIds": [
+      "university-copenhagen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "group"
+    ],
+    "linkVerified": false
+  },
+  {
     "id": "source-e54e87259020",
     "url": "https://www.tifr.res.in/positions",
     "kind": "recruitment",
@@ -2011,6 +4723,22 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "url": "https://inspirehep.net/jobs/3127451",
+    "id": "source-e59e794b61a5",
+    "kind": "advertisement",
+    "institutionIds": [
+      "iit-madras"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
     "id": "source-e628677692c2",
     "url": "https://pa.as.uky.edu",
     "kind": "department",
@@ -2027,6 +4755,58 @@
     "linkVerified": true
   },
   {
+    "url": "https://www.monash.edu/science/schools/physics/about/employment",
+    "id": "source-e6ef1be4ebbe",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered"
+  },
+  {
+    "id": "source-e73c40f72b53",
+    "url": "https://inspirehep.net/api/jobs/3195961",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
+    "id": "source-e94d0521847e",
+    "url": "https://inspirehep.net/jobs/3215354",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
+  },
+  {
     "id": "source-ea60a2b57601",
     "url": "https://cfopitt.taleo.net/careersection/pitt_faculty_external/jobdetail.ftl?job=26006538&lang=en",
     "kind": "advertisement",
@@ -2037,6 +4817,22 @@
     "lastFullScan": null,
     "checkState": "source-discovered",
     "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://inspirehep.net/jobs/3143299",
+    "id": "source-ea9df1e1ab1e",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
     "roles": [
       "advertisement"
     ],
@@ -2077,6 +4873,44 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "id": "source-ec0bcbaad2fe",
+    "url": "https://inspirehep.net/api/jobs/3208715",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ihep-cas"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "url": "https://www.kek.jp/en/career/accl-26-5e",
+    "id": "source-eca436765c3c",
+    "kind": "recruitment",
+    "institutionIds": [
+      "kek-tsukuba"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "verified": true,
+    "discoveryMethod": "direct-advertisement",
+    "notes": [
+      "Specific employer call verified; full institution recruitment survey is incomplete."
+    ]
+  },
+  {
     "id": "source-f06894f7be37",
     "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Open-Rank-Tenure-Track-Faculty-Position-in-Theoretical-High-Energy-Physics_R160038-1",
     "kind": "advertisement",
@@ -2091,6 +4925,27 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28"
+  },
+  {
+    "id": "source-f0cfe82487f5",
+    "url": "https://inspirehep.net/jobs/3183025",
+    "kind": "recruitment",
+    "institutionIds": [
+      "cnrs-l2it"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
   },
   {
     "id": "source-f149cb86e5f4",
@@ -2109,6 +4964,49 @@
     "linkVerified": true
   },
   {
+    "id": "source-f3071427e999",
+    "url": "https://inspirehep.net/jobs/3197131",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-copenhagen"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ]
+  },
+  {
+    "url": "https://inspirehep.net/api/jobs/3188903",
+    "id": "source-f3c91565265f",
+    "kind": "recruitment",
+    "institutionIds": [
+      "universidad-andres-bello"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
     "id": "source-f3f2af2d0966",
     "url": "https://aas.org/jobregister/ad/8852332e",
     "kind": "advertisement",
@@ -2125,6 +5023,28 @@
     "lastEvidenceCheck": "2026-10-28"
   },
   {
+    "url": "https://jobs.apply.vt.edu/jobs/tenure-track-faculty-position-in-theoretical-neutrino-physics-blacksburg-virginia-united-states",
+    "id": "source-f48a04c8ec55",
+    "kind": "recruitment",
+    "institutionIds": [
+      "virginia-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "linkVerified": true,
+    "discoveryMethod": "direct-page",
+    "notes": [
+      "Partial source check recorded separately."
+    ]
+  },
+  {
     "id": "source-f55836612e80",
     "url": "https://www.scrippscollege.edu/hr/faculty",
     "kind": "recruitment",
@@ -2139,6 +5059,28 @@
       "recruitment"
     ],
     "linkVerified": true
+  },
+  {
+    "url": "https://www.srmap.edu.in/careers/",
+    "id": "source-f66d39ba00db",
+    "kind": "recruitment",
+    "institutionIds": [
+      "srm-university-ap"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "verified": true,
+    "discoveryMethod": "direct-advertisement",
+    "notes": [
+      "Specific employer call verified; full institution recruitment survey is incomplete."
+    ]
   },
   {
     "id": "source-f6f752d12e95",
@@ -2160,6 +5102,60 @@
     ]
   },
   {
+    "id": "source-f70fc5b4d2fe",
+    "url": "https://physics.gatech.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "georgia-tech"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "department"
+    ],
+    "discoveryMethod": "advertisement-link",
+    "notes": [
+      "Link discovered in employer material; not separately read."
+    ]
+  },
+  {
+    "id": "source-fad02182d75d",
+    "url": "https://www.imperial.ac.uk/jobs/search-jobs/",
+    "kind": "recruitment",
+    "institutionIds": [
+      "imperial-college-london"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Recruitment route discovered; current retrieval failure or generic portal shell is recorded in the source-check report. No complete scan claimed."
+    ],
+    "roles": [
+      "recruitment"
+    ],
+    "discoveryMethod": "direct-page"
+  },
+  {
+    "url": "https://apply.interfolio.com/193844",
+    "id": "source-fbcc287218eb",
+    "kind": "advertisement",
+    "institutionIds": [
+      "lehigh"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-10-28"
+  },
+  {
     "id": "source-fbd0cce5ef6d",
     "url": "https://physics.mit.edu/about-physics/employment-opportunities/",
     "kind": "department",
@@ -2176,6 +5172,27 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true
+  },
+  {
+    "id": "source-fc553af85e36",
+    "url": "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/w3-professur-fuer-beschleunigerphysik?set_language=en",
+    "kind": "recruitment",
+    "institutionIds": [
+      "university-bonn"
+    ],
+    "discoveredOn": "2026-10-28",
+    "lastFullScan": null,
+    "cadenceDays": 7,
+    "checkState": "source-discovered",
+    "notes": [
+      "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
+    ],
+    "roles": [
+      "advertisement",
+      "recruitment"
+    ],
+    "lastEvidenceCheck": "2026-10-28",
+    "discoveryMethod": "employer-advertisement"
   },
   {
     "id": "source-fd1cfe6a551b",

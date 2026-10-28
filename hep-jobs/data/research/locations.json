@@ -792,5 +792,805 @@
       "The official physics department gives 101, Section 2, Kuang-Fu Road, Hsinchu, Taiwan. This is National Tsing Hua University in Hsinchu, not Tsinghua University in Beijing.",
       "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
     ]
+  },
+  "university-biobio": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": -36.60664,
+    "longitude": -72.10344,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3895088,
+    "matchedLocality": "Chillán",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3198780",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Chillán; coordinates identify the locality, not the campus or an individual building. Employer advertisement confirms the locality.",
+      "Exact city-name and country-code match in the provided GeoNames cities15000 dataset.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned.",
+      "The employer specifies the Chillán campus; the Concepción campus is not used for this vacancy."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3198780"
+  },
+  "universidad-andres-bello": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": -33.45694,
+    "longitude": -70.64827,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3871336,
+    "matchedLocality": "Santiago",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3188903",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Santiago; coordinates identify the locality, not the campus or an individual building. Employer advertisement confirms the locality.",
+      "Exact city-name and country-code match in the provided GeoNames cities15000 dataset.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3188903"
+  },
+  "university-sao-paulo": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": -23.5475,
+    "longitude": -46.63611,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3448439,
+    "matchedLocality": "São Paulo",
+    "institutionSourceUrl": "https://www.iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for São Paulo; coordinates identify the locality, not the campus or an individual building. Employer advertisement confirms the locality.",
+      "Exact city-name and country-code match in the provided GeoNames cities15000 dataset.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026"
+  },
+  "universite-laval": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 46.81228,
+    "longitude": -71.21454,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 6325494,
+    "matchedLocality": "Québec",
+    "institutionSourceUrl": "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs/HCM/11197",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Québec; coordinates identify the locality, not the campus or an individual building. Employer advertisement confirms the locality.",
+      "Exact city-name and country-code match in the provided GeoNames cities15000 dataset.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs/HCM/11197"
+  },
+  "simon-fraser": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 49.26636,
+    "longitude": -122.95263,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 5911606,
+    "matchedLocality": "Burnaby",
+    "institutionSourceUrl": "https://www.sfu.ca/physics/about-us/employment/",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Burnaby; coordinates identify the locality, not the campus or an individual building. Employer advertisement confirms the locality.",
+      "Exact city-name and country-code match in the provided GeoNames cities15000 dataset.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned.",
+      "The advertised positions are primarily based at Burnaby; some teaching may occur at Surrey."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.sfu.ca/physics/about-us/employment/"
+  },
+  "imperial-college-london": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 51.50853,
+    "longitude": -0.12574,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2643743,
+    "matchedLocality": "London",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3215354",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for London, GB, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3215354"
+  },
+  "university-barcelona": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 41.38879,
+    "longitude": 2.15899,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3128760,
+    "matchedLocality": "Barcelona",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3210713",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for Barcelona, ES, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3210713"
+  },
+  "university-geneva": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 46.20222,
+    "longitude": 6.14569,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2660646,
+    "matchedLocality": "Geneva",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3208143",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for Geneva, CH, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3208143"
+  },
+  "university-warsaw": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 52.22977,
+    "longitude": 21.01178,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 756135,
+    "matchedLocality": "Warsaw",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3208120",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for Warsaw, PL, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3208120"
+  },
+  "igfae": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 42.88052,
+    "longitude": -8.54569,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3109642,
+    "matchedLocality": "Santiago de Compostela",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3207702",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for Santiago de Compostela, ES, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3207702"
+  },
+  "helsinki-institute-physics": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 60.16952,
+    "longitude": 24.93545,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 658225,
+    "matchedLocality": "Helsinki",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3200481",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for Helsinki, FI, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3200481"
+  },
+  "university-copenhagen": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 55.67594,
+    "longitude": 12.56553,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2618425,
+    "matchedLocality": "Copenhagen",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3197131",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for Copenhagen, DK, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3197131"
+  },
+  "university-oxford": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 51.75222,
+    "longitude": -1.25596,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2640729,
+    "matchedLocality": "Oxford",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3189637",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for Oxford, GB, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3189637"
+  },
+  "university-naples-federico-ii": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 40.85216,
+    "longitude": 14.26811,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3172394,
+    "matchedLocality": "Naples",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3189627",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for Naples, IT, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3189627"
+  },
+  "durham-university": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 54.77676,
+    "longitude": -1.57566,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2650628,
+    "matchedLocality": "Durham",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3185361",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for Durham, GB, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3185361"
+  },
+  "rwth-aachen": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 50.77664,
+    "longitude": 6.08342,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3247449,
+    "matchedLocality": "Aachen",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3185307",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for Aachen, DE, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3185307"
+  },
+  "cnrs-l2it": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 43.60426,
+    "longitude": 1.44367,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2972315,
+    "matchedLocality": "Toulouse",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3183025",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for Toulouse, FR, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3183025"
+  },
+  "university-bonn": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 50.73438,
+    "longitude": 7.09549,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2946447,
+    "matchedLocality": "Bonn",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3172216",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact city/country match for Bonn, DE, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+      "Employer-submitted advertisement corroborates the institution locality.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3172216"
+  },
+  "national-yang-ming-chiao-tung": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 24.80361,
+    "longitude": 120.96861,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1675151,
+    "matchedLocality": "Hsinchu",
+    "institutionSourceUrl": "https://phys.nycu.edu.tw/faculty-position-iop-nycu/",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified building entrance; locality corroborated by employer advertisement."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://phys.nycu.edu.tw/faculty-position-iop-nycu/"
+  },
+  "tdli-sjtu": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 31.22222,
+    "longitude": 121.45806,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1796236,
+    "matchedLocality": "Shanghai",
+    "institutionSourceUrl": "https://academicjobsonline.org/ajo/jobs/32304",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified building entrance; locality corroborated by employer advertisement."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://academicjobsonline.org/ajo/jobs/32304"
+  },
+  "academia-sinica-iop": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 25.05306,
+    "longitude": 121.52639,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1668341,
+    "matchedLocality": "Taipei",
+    "institutionSourceUrl": "https://academicjobsonline.org/ajo/jobs/32236",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified building entrance; locality corroborated by employer advertisement."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://academicjobsonline.org/ajo/jobs/32236"
+  },
+  "shinshu-university": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 36.23333,
+    "longitude": 137.96667,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1857519,
+    "matchedLocality": "Matsumoto",
+    "institutionSourceUrl": "https://www.shinshu-u.ac.jp/faculty/science/others/assets/92832d2b77bb4a17439347ad5bddff93.pdf",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified building entrance; locality corroborated by employer advertisement."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.shinshu-u.ac.jp/faculty/science/others/assets/92832d2b77bb4a17439347ad5bddff93.pdf"
+  },
+  "sgt-university": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 28.4601,
+    "longitude": 77.02635,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1270642,
+    "matchedLocality": "Gurugram",
+    "institutionSourceUrl": "https://inspirehep.net/jobs/3190489",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified building entrance; locality corroborated by employer advertisement."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/jobs/3190489"
+  },
+  "srm-university-ap": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 16.43083,
+    "longitude": 80.56815,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1263797,
+    "matchedLocality": "Mangalagiri",
+    "institutionSourceUrl": "https://www.srmap.edu.in/careers/",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified building entrance; locality corroborated by employer advertisement.",
+      "Official campus address specifies Neerukonda, Mangalagiri; Mangalagiri is used instead of the unrelated Amravati in Maharashtra."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.srmap.edu.in/careers/"
+  },
+  "university-haifa": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 32.81303,
+    "longitude": 34.99928,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 294801,
+    "matchedLocality": "Haifa",
+    "institutionSourceUrl": "https://physics.haifa.ac.il/2026/07/19/tenure-track-position-in-physics-2027/?lang=en",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified building entrance; locality corroborated by employer advertisement."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://physics.haifa.ac.il/2026/07/19/tenure-track-position-in-physics-2027/?lang=en"
+  },
+  "kek-tsukuba": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 36.08333,
+    "longitude": 140.11667,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2110681,
+    "matchedLocality": "Tsukuba",
+    "institutionSourceUrl": "https://www.kek.jp/en/career/accl-26-5e",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified building entrance; locality corroborated by employer advertisement."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.kek.jp/en/career/accl-26-5e"
+  },
+  "kek-tokai": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 36.47396,
+    "longitude": 140.56355,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 11776897,
+    "matchedLocality": "Tokai",
+    "institutionSourceUrl": "https://www.kek.jp/en/career/ipns26-1e",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified building entrance; locality corroborated by employer advertisement.",
+      "Tokai in Ibaraki Prefecture, not the city named Tōkai in Aichi."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.kek.jp/en/career/ipns26-1e"
+  },
+  "iit-madras": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 13.08784,
+    "longitude": 80.27847,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1264527,
+    "matchedLocality": "Chennai",
+    "institutionSourceUrl": "https://facapp.iitm.ac.in/2026ra/",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified building entrance; locality corroborated by employer advertisement."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://facapp.iitm.ac.in/2026ra/"
+  },
+  "southern-methodist": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 32.843612,
+    "longitude": -96.783365,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      228246
+    ],
+    "matchedOfficialNames": [
+      "Southern Methodist University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+    ]
+  },
+  "vanderbilt": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 36.14659,
+    "longitude": -86.803369,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      221999
+    ],
+    "matchedOfficialNames": [
+      "Vanderbilt University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+    ]
+  },
+  "purdue": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 40.428206,
+    "longitude": -86.914435,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      243780
+    ],
+    "matchedOfficialNames": [
+      "Purdue University-Main Campus"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+    ]
+  },
+  "university-of-florida": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 29.64629,
+    "longitude": -82.347911,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      134130
+    ],
+    "matchedOfficialNames": [
+      "University of Florida"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+    ]
+  },
+  "james-madison": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 38.436311,
+    "longitude": -78.870484,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      232423
+    ],
+    "matchedOfficialNames": [
+      "James Madison University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+    ]
+  },
+  "university-of-houston": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 29.720393,
+    "longitude": -95.343537,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      225511
+    ],
+    "matchedOfficialNames": [
+      "University of Houston"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+    ]
+  },
+  "virginia-tech": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 37.229012,
+    "longitude": -80.423675,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      233921
+    ],
+    "matchedOfficialNames": [
+      "Virginia Polytechnic Institute and State University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+    ]
+  },
+  "lehigh": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 40.606822,
+    "longitude": -75.380236,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      213543
+    ],
+    "matchedOfficialNames": [
+      "Lehigh University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+    ]
+  },
+  "georgia-tech": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 33.77242,
+    "longitude": -84.394832,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      139755
+    ],
+    "matchedOfficialNames": [
+      "Georgia Institute of Technology-Main Campus"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+    ]
+  },
+  "villanova": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 40.036463,
+    "longitude": -75.340502,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      216597
+    ],
+    "matchedOfficialNames": [
+      "Villanova University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+    ]
   }
 }
