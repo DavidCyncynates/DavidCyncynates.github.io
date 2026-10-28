@@ -22,7 +22,7 @@ the generated exports: the next build will replace them.
 python3 scripts/build_catalog.py
 python3 scripts/validate_catalog.py --require-map-ready
 python3 -m unittest discover -s scripts -p 'test_*.py'
-node --test scripts/test_ui.mjs
+node --test scripts/test_*.mjs
 ```
 
 The build creates `data/catalog.json`, individual exports, SQLite, and the
@@ -32,6 +32,12 @@ advertised timezone/date semantics. Viewing-time status does not mutate records.
 `core.mjs` contains date/filter/clustering rules. Clusters use projected screen
 pixels and are recomputed with zoom and filters. Distinct searches at one
 location remain separate records and expand into a keyboard-accessible list.
+
+`smooth-zoom.mjs` uses the bundled Leaflet 1.9.4 native pinch movement hooks for
+cursor-anchored continuous wheel zoom; recheck the adapter before upgrading
+Leaflet. Geometry and clusters update once after a gesture, and unchanged
+cluster markers are reused. `cluster-updates.mjs` preserves a pressed marker
+until its click finishes, so regrouping cannot swallow an interaction.
 
 ## Weekly maintenance
 
