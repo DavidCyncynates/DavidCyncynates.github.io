@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HEP Faculty Job Map · 2026–2027</title>
+<meta name="description" content="A world map of high-energy physics faculty searches for the 2026–2027 application cycle. Compare deadlines, research areas, and expressions of interest, with links to original advertisements.">
+<link rel="canonical" href="https://davidcyncynates.github.io/hep-jobs/">
+<meta property="og:title" content="HEP Faculty Job Map · 2026–2027"><meta property="og:description" content="Explore faculty opportunities in high-energy physics, cosmology and adjacent fields by location and deadline."><meta property="og:type" content="website"><meta property="og:url" content="https://davidcyncynates.github.io/hep-jobs/">
+<meta name="theme-color" content="#f4f0e7">
+<script>try{const t=localStorage.getItem('davidcyncynates:color-theme');document.documentElement.classList.toggle('dark',t==='dark'||(!t&&matchMedia('(prefers-color-scheme: dark)').matches))}catch{}</script>
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css"><link rel="stylesheet" href="styles.css">
+<script src="vendor/leaflet/leaflet.js" defer></script><script type="module" src="app.js"></script>
+</head>
+<body>
+<header class="site-header"><a href="/" class="home">David Cyncynates</a><nav aria-label="Site"><a href="/lz-paper-map/">LZ paper map</a><button id="theme" aria-label="Switch color theme" title="Switch color theme">◐</button></nav></header>
+<main>
+<div class="heading"><div><p class="eyebrow">2026–2027 application cycle</p><h1>High-energy physics faculty jobs</h1></div><a href="#directory" class="directory-link">Institution directory ↗</a></div>
+<p class="intro">Explore searches in particle physics, cosmology, and adjacent fields. Each marker counts advertised searches, not individual positions.</p>
+<form id="filters" role="search" aria-label="Filter opportunities">
+<label class="search-label"><span class="sr-only">Search jobs, institutions or fields</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 6 6"/></svg><input id="search" type="search" placeholder="Search institutions, fields, or jobs…" autocomplete="off"></label>
+<button type="button" id="filter-toggle" aria-expanded="false" aria-controls="filter-options">Filters <span id="filter-count"></span></button>
+<button type="reset" class="quiet" id="reset">Reset</button>
+<div id="filter-options" hidden>
+<label>Research area<select id="field"><option value="">All research areas</option></select></label>
+<label>Country<select id="country"><option value="">All countries</option></select></label>
+<label>Opportunity<select id="kind"><option value="">All opportunities</option><option value="formal-vacancy">Advertised vacancy</option><option value="expression-of-interest">Expression of interest / hosting</option></select></label>
+<label>Search scope<select id="scope"><option value="">HEP and adjacent fields</option><option value="core">Explicit HEP / cosmology fit</option><option value="broad-physics">Broad physics searches</option><option value="adjacent">Adjacent fields</option></select></label>
+<label>Institution profile<select id="profile"><option value="">All institutions</option><optgroup label="US · Carnegie 2025"><option value="R1">R1</option><option value="R2">R2</option><option value="RCU">Research colleges / universities</option><option value="no-designation">No research designation</option></optgroup><optgroup label="Outside the US"><option value="international-university">University</option><option value="research-institute">Research institute / laboratory</option></optgroup></select></label>
+<label>Upcoming milestone<select id="due"><option value="">Any date</option><option value="7">Within 7 days</option><option value="30">Within 30 days</option><option value="none">Rolling / no future date</option></select></label>
+<label class="check"><input type="checkbox" id="closed">Include closed searches</label><label class="check"><input type="checkbox" id="review">Include unverified leads</label>
+</div>
+</form>
+<div class="workspace">
+<section class="map-panel" aria-label="World map of opportunities"><div id="map" aria-label="Job locations. Drag to pan; scroll or pinch to zoom. Keyboard arrows pan; plus and minus zoom." tabindex="0"></div><button id="fit" class="map-fit" title="Show all matching jobs">Fit results</button><div class="map-caption">Drag to move · scroll or pinch to zoom</div></section>
+<section class="results" aria-label="Matching opportunities"><div class="results-header"><div><h2 id="result-count" tabindex="-1" aria-live="polite">Loading opportunities…</h2><p id="result-note">Sorted by next milestone</p></div><button id="clear-region" hidden>All regions</button></div><div id="job-list"><p class="empty">Loading the catalog…</p></div></section>
+</div>
+<div class="legend" aria-label="Map legend"><span><i class="dot red"></i>≤ 7 days</span><span><i class="dot amber"></i>8–30 days</span><span><i class="dot blue"></i>&gt; 30 days</span><span><i class="dot neutral"></i>Rolling / date unclear</span><span><i class="dot outline"></i>Expression of interest</span><span><i class="dot mixed"></i>Mixed cluster</span><span><i class="dot archived"></i>Closed</span></div>
+<p class="coverage" id="coverage">Coverage is preliminary. Check the original advertisement before applying.</p>
+<details class="about"><summary>About the search and deadlines</summary><div class="about-grid"><div><h3>What is included</h3><p>Faculty searches and clearly labeled fellowship-hosting expressions of interest from the 2026–2027 application cycle. Explicit HEP and cosmology opportunities are distinguished from broad physics searches and adjacent astrophysics or gravity searches. A hosting offer is not a funded faculty vacancy.</p><h3>How listings are checked</h3><p>Institutional recruitment pages, department pages, national programmes and specialist job boards are used together. Listings link to their evidence and retain a last-checked date. Ambiguous dates, eligibility or cycle information remain in a separate review view. Coverage is still strongest in North America and theory.</p></div><div><h3>How dates work</h3><p>Hard deadlines and confirmed closures remove jobs from the default view. A passed priority or review-start date does not establish closure. Host expressions of interest and national funding deadlines are separate stages; a later national deadline cannot reopen a closed host call.</p><p>Colors refer to the next advertised local milestone, including review dates. Where a submission timezone is absent, the map retains a listing until the stated date has ended everywhere. Always check the advertisement for the exact cutoff.</p><h3>Institution profiles</h3><p>US labels use the official 2025 Carnegie research designations. International profiles describe institution type and do not claim equivalence to R1 or R2. Map coordinates identify the city or campus, not an application office.</p></div></div></details>
+<section id="directory"><div class="section-heading"><h2>Institution source directory</h2><label><span class="sr-only">Search source directory</span><input type="search" id="directory-search" placeholder="Find an institution or country…"></label></div><p class="muted">A growing list of places to check, including institutions without a current verified opening. A source link does not mean its vacancies have been exhaustively searched.</p><div id="directory-list"></div></section>
+<footer><p>Maintained by <a href="/">David Cyncynates</a> · <a href="https://github.com/DavidCyncynates/DavidCyncynates.github.io/issues/new?title=HEP%20jobs%3A%20listing%20or%20correction">Suggest a listing or correction</a> · <a href="data/catalog.json">Download data</a></p><p>Map: <a href="https://www.naturalearthdata.com/about/terms-of-use/">Natural Earth</a> (public domain) · <a href="https://leafletjs.com/">Leaflet</a>. Carnegie metadata: ACE and Carnegie Foundation, 2025, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. City locations: <a href="https://www.geonames.org/">GeoNames</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. US campus locations: NCES/IPEDS. Original advertisements retain their rights.</p></footer>
+</main>
+<dialog id="detail" aria-labelledby="detail-title"><button id="close-detail" class="close" aria-label="Close job details">×</button><div id="detail-body"></div></dialog>
+<noscript><p>This interactive map requires JavaScript. <a href="catalog.html">Read the source-linked catalog instead.</a></p></noscript>
+</body></html>

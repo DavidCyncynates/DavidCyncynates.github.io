@@ -1,0 +1,596 @@
+[
+  {
+    "id": "cmu-astrophysics-statistics-ml-2027",
+    "institutionId": "carnegie-mellon",
+    "institutionName": "Carnegie Mellon University",
+    "countryCode": "US",
+    "city": "Pittsburgh",
+    "title": "Tenure-Track Assistant Professor in Astrophysics, Statistics and Machine Learning",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "astrophysics",
+      "cosmology",
+      "machine learning",
+      "statistics"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer advertisement posted in autumn 2026 for this recruitment round.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-11-08",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://aas.org/jobregister/ad/ebe9db3c",
+        "description": "Rolling review begins; this is not a confirmed hard closing date."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://aas.org/jobregister/ad/ebe9db3c",
+      "https://apply.interfolio.com/195599",
+      "https://www.cmu.edu/faculty-office/prospective/faculty-careers/"
+    ],
+    "summary": "Joint appointment in Physics and either Machine Learning or Statistics and Data Science. Applicants must advance methods as well as address astrophysical or cosmological questions.",
+    "notes": [
+      "The prior chat mentioned December 31 as a closing date. That date was not corroborated in the accessible employer-posted AAS advertisement and has not been imported.",
+      "Interfolio returned no readable advertisement; verification uses the employer-posted AAS announcement and CMU faculty-careers listing."
+    ],
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://www.cmu.edu/faculty-office/prospective/faculty-careers/",
+        "kind": "recruitment",
+        "verified": true
+      },
+      {
+        "url": "https://www.cmu.edu/astro-cosmology/people/index.html",
+        "kind": "group",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Employer-posted AAS advertisement, corroborated by official CMU faculty-careers index."
+  },
+  {
+    "id": "kentucky-computational-astrophysics-2027",
+    "institutionId": "university-of-kentucky",
+    "institutionName": "University of Kentucky",
+    "countryCode": "US",
+    "city": "Lexington",
+    "title": "Assistant Professor in Computational Astrophysics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "computational astrophysics",
+      "theoretical astrophysics",
+      "observational astrophysics",
+      "machine learning"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "September 2026 advertisement specifies an August 1, 2027 start.",
+    "startDate": "2027-08-01",
+    "deadlines": [
+      {
+        "date": "2026-12-01",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32607",
+        "description": "The advertisement explicitly states an application deadline."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/32607",
+      "https://ukjobs.uky.edu/postings/648332"
+    ],
+    "summary": "Tenure-eligible computational astrophysics appointment emphasizing data-driven methods, large astronomical datasets, and AI or machine learning. The advertisement permits theoretical or observational research.",
+    "notes": [],
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://ukjobs.uky.edu/postings/648332",
+        "kind": "recruitment",
+        "verified": true
+      },
+      {
+        "url": "https://pa.as.uky.edu",
+        "kind": "department",
+        "verified": true
+      },
+      {
+        "url": "https://pa.as.uky.edu/astro",
+        "kind": "group",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Employer-posted AJO advertisement."
+  },
+  {
+    "id": "william-mary-astroparticle-2027",
+    "institutionId": "william-and-mary",
+    "institutionName": "William & Mary",
+    "countryCode": "US",
+    "city": "Williamsburg",
+    "title": "Assistant Professor of Physics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "theoretical astroparticle physics",
+      "cosmology",
+      "high-energy theory"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "October 19, 2026 advertisement specifies an August 10, 2027 appointment.",
+    "startDate": "2027-08-10",
+    "deadlines": [
+      {
+        "date": "2026-12-02",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33132",
+        "description": "Full-consideration and initial-review date; later applications considered if needed."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33132",
+      "https://williammary.wd12.myworkdayjobs.com/en-US/WM/details/Assistant-Professor-of-Physics_JR102162-1"
+    ],
+    "summary": "Tenure-track search in theoretical astroparticle physics and cosmology. Teaching expectation is one course per semester; experience with AI, machine learning, or data science is preferred.",
+    "notes": [
+      "The advertisement allows later applications if needed but does not explicitly promise an open-until-filled policy.",
+      "AJO displays midnight in its date metadata; no precise closing time has been inferred for the full-consideration date."
+    ],
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://cdsp.wm.edu/physics/?mapstat=1",
+        "kind": "department",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Employer-posted AJO advertisement."
+  },
+  {
+    "id": "ut-austin-cosmology-2027",
+    "institutionId": "ut-austin",
+    "institutionName": "University of Texas at Austin",
+    "countryCode": "US",
+    "city": "Austin",
+    "title": "Assistant Professor in Cosmology",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "cosmology",
+      "astroparticle physics",
+      "theory"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "October 20, 2026 advertisement specifies a Fall 2027 start.",
+    "startDate": "Fall 2027",
+    "deadlines": [
+      {
+        "date": "2026-12-02",
+        "time": null,
+        "timezone": null,
+        "kind": "listed",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33167",
+        "description": "Application date displayed by AJO; accessible primary text does not specify hard versus full-consideration deadline."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33167",
+      "https://faculty.utexas.edu/career/193143"
+    ],
+    "summary": "Tenure-track cosmology search within the Texas Center for Cosmology and Astroparticle Physics, with connections to high-energy theory and gravitational physics.",
+    "notes": [
+      "AJO and the official faculty-careers index agree on December 2. The detailed UT recruitment page could not be read in this pass, so the deadline has not been treated as a hard closure."
+    ],
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://faculty.utexas.edu/career?p=1&q=&units=College+of+Natural+Sciences",
+        "kind": "recruitment",
+        "verified": true
+      },
+      {
+        "url": "https://ph.utexas.edu/",
+        "kind": "department",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Employer-posted AJO advertisement and official faculty-careers index."
+  },
+  {
+    "id": "chicago-extreme-universe-2027",
+    "institutionId": "university-of-chicago",
+    "institutionName": "University of Chicago",
+    "countryCode": "US",
+    "city": "Chicago",
+    "title": "Assistant/Associate Professor in Astronomy & Astrophysics",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor"
+    ],
+    "fields": [
+      "high-energy astrophysics",
+      "multimessenger astronomy",
+      "theoretical astrophysics",
+      "computational astrophysics"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "September 4, 2026 advertisement specifies July 1, 2027 or later.",
+    "startDate": "2027-07-01 or later",
+    "deadlines": [
+      {
+        "date": "2026-11-16",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32618",
+        "description": "Review begins and continues until positions are filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/32618",
+      "https://aas.org/jobregister/ad/8852332e",
+      "https://apply.interfolio.com/192963",
+      "https://apply.interfolio.com/192965"
+    ],
+    "summary": "Search for theoretical, computational, or observational work on extreme astrophysical environments, including multimessenger and time-domain astronomy and high-energy or plasma astrophysics.",
+    "notes": [
+      "Assistant and Associate ranks use separate Interfolio application links; retained as one advertised search with both ranks."
+    ],
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://apply.interfolio.com/192963",
+        "kind": "recruitment",
+        "verified": true
+      },
+      {
+        "url": "https://apply.interfolio.com/192965",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Employer-posted AJO and AAS advertisements."
+  },
+  {
+    "id": "cornell-astrophysics-2027",
+    "institutionId": "cornell-university",
+    "institutionName": "Cornell University",
+    "countryCode": "US",
+    "city": "Ithaca",
+    "title": "Open Rank Faculty Position Astrophysics",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "astrophysics",
+      "cosmology",
+      "gravitational waves",
+      "dark matter",
+      "dark energy"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "September 11, 2026 advertisement specifies a July 1, 2027 target start.",
+    "startDate": "2027-07-01",
+    "deadlines": [
+      {
+        "date": "2026-10-30",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32678",
+        "description": "Application review begins and continues until filled."
+      },
+      {
+        "date": "2026-11-30",
+        "time": null,
+        "timezone": null,
+        "kind": "listed",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32678",
+        "description": "Current AJO deadline field; the body retains an until-filled review policy."
+      }
+    ],
+    "openUntilFilled": true,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/32678"
+    ],
+    "summary": "Open-rank astrophysics search emphasizing extreme environments and cosmic evolution. The advertisement also seeks a senior researcher willing to serve a term as department chair.",
+    "notes": [
+      "Current AJO metadata displays November 30, superseding the November 13 date reported in the earlier chat.",
+      "October 30 is the review-start date, not a hard closing date."
+    ],
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://www.astro.cornell.edu",
+        "kind": "department",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Employer-posted AJO advertisement."
+  },
+  {
+    "id": "elte-tenure-track-physics-2026-2027",
+    "institutionId": "elte",
+    "institutionName": "Eötvös Loránd University",
+    "countryCode": "HU",
+    "city": "Budapest",
+    "title": "Tenure-track assistant professorship",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "physics",
+      "astronomy",
+      "broad physics"
+    ],
+    "scope": "broad-physics",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "This older call is dated May 5, 2025 despite containing an October 31, 2026 date. It is not verified as a current 2026–27 opening; the current-cycle evidence belongs to separate call 54161.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-10-31",
+        "time": null,
+        "timezone": null,
+        "kind": "listed",
+        "sourceUrl": "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54165",
+        "description": "Historical submission date printed in the older call; official index marks this distinct call closed."
+      }
+    ],
+    "openUntilFilled": true,
+    "verification": "needs-review",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54165",
+      "https://physics.elte.hu/en/vacancies",
+      "https://inspirehep.net/jobs?field_of_interest=physics&page=1&size=25&sort=mostrecent"
+    ],
+    "summary": "Older five-year assistant-professor call across physics and astronomy, explicitly listed as closed. A separate September 2026 call is available under a different advertisement identifier.",
+    "notes": [
+      "The initial lead conflated two distinct calls. This record preserves the older advertisement 54165, dated May 5, 2025, which the official index places under Closed job vacancies.",
+      "Its October 31, 2026 text is retained as historical evidence, not evidence of present availability or correct hiring-cycle assignment.",
+      "Current call 54161, dated September 14, 2026 with December 31 requested submissions, is recorded separately as elte-tenure-track-physics-54161."
+    ],
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://physics.elte.hu/en/vacancies",
+        "kind": "department",
+        "verified": true
+      }
+    ],
+    "explicitClosed": true,
+    "closureSourceUrl": "https://physics.elte.hu/en/vacancies",
+    "verificationBasis": "The official vacancies index labels call 54165 as closed. Its distinct current call 54161 has been recorded separately."
+  },
+  {
+    "id": "pittsburgh-astrophysics-2027",
+    "institutionId": "university-of-pittsburgh",
+    "institutionName": "University of Pittsburgh",
+    "countryCode": "US",
+    "city": "Pittsburgh",
+    "title": "Faculty Position in Astrophysics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "astrophysics",
+      "theoretical cosmology",
+      "astrophysical surveys",
+      "extragalactic astronomy"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "October 22, 2026 advertisement specifies August 15, 2027 or later.",
+    "startDate": "2027-08-15 or later",
+    "deadlines": [
+      {
+        "date": "2026-12-01",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://aas.org/jobregister/ad/33a81251",
+        "description": "Full-consideration date; applications accepted for the duration of the search."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://aas.org/jobregister/ad/33a81251",
+      "https://cfopitt.taleo.net/careersection/pitt_faculty_external/jobdetail.ftl?job=26006538&lang=en",
+      "https://www.physicsandastronomy.pitt.edu/about/department-openings"
+    ],
+    "summary": "Tenure-stream astrophysics search welcoming all subfields, particularly surveys, stellar astrophysics, theoretical cosmology, and extragalactic astronomy. Appointment is subject to budgetary approval.",
+    "notes": [
+      "The official department openings page lists this search; detailed evidence comes from its employer-posted AAS advertisement."
+    ],
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://www.physicsandastronomy.pitt.edu/about/department-openings",
+        "kind": "department",
+        "verified": true
+      },
+      {
+        "url": "https://www.join.pitt.edu/",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Employer-posted AAS advertisement and official department openings index."
+  },
+  {
+    "id": "rice-astro-ai-2027",
+    "institutionId": "rice-university",
+    "institutionName": "Rice University",
+    "countryCode": "US",
+    "city": "Houston",
+    "title": "Faculty Position in Astronomy, Astro-Particle Physics and Cosmology",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "astroparticle physics",
+      "cosmology",
+      "astrophysics",
+      "artificial intelligence"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "October 20, 2026 advertisement specifies a July 1, 2027 start.",
+    "startDate": "2027-07-01",
+    "deadlines": [
+      {
+        "date": "2026-12-01",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33162",
+        "description": "The university begins reviewing applications by this date."
+      },
+      {
+        "date": "2026-12-10",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33162",
+        "description": "Full-consideration date for all materials, including reference letters."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33162",
+      "https://apply.interfolio.com/195430"
+    ],
+    "summary": "AI Initiative tenure-track search spanning astroparticle physics, cosmology, and selected astronomical fields. Candidates must develop advanced AI methods beyond standard machine-learning applications. Teaching averages one course per semester.",
+    "notes": [
+      "The AI methodology requirement is substantive and should remain visible in summaries and filters.",
+      "AJO subject metadata includes quantum computation/information, while the advertisement body specifies astroparticle physics, cosmology, star-planet interactions, and exoplanetary science; tags follow the body."
+    ],
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://physics.rice.edu",
+        "kind": "department",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Employer-posted AJO advertisement."
+  },
+  {
+    "id": "lsu-theoretical-gravity-2027",
+    "institutionId": "louisiana-state-university",
+    "institutionName": "Louisiana State University",
+    "countryCode": "US",
+    "city": "Baton Rouge",
+    "title": "Open Rank Faculty in Theoretical Gravity Physics & Astrophysics",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "quantum gravity",
+      "semiclassical gravity",
+      "quantum field theory",
+      "high-energy astrophysics",
+      "multimessenger astrophysics"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Current advertisement is dated October 23, 2026 and states an anticipated Fall 2027 hire.",
+    "startDate": "Fall 2027",
+    "deadlines": [
+      {
+        "date": "2026-11-15",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/en-US/LSU/job/Open-Rank--Tenure-track-Assistant-Professor--Tenure-track-Associate-Professor-or-Professor--Theoretical-Gravity-Physics-_R00121003",
+        "description": "Current advertisement says review starts November 15 and continues until filled."
+      },
+      {
+        "date": "2027-04-05",
+        "time": "00:01",
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://lsu.wd1.myworkdayjobs.com/en-US/LSU/job/Open-Rank--Tenure-track-Assistant-Professor--Tenure-track-Associate-Professor-or-Professor--Theoretical-Gravity-Physics-_R00121003",
+        "description": "Current Workday closing date; its boilerplate says 12:01 a.m. CST. Exact daylight-time offset is not confirmed."
+      }
+    ],
+    "openUntilFilled": true,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://lsu.wd1.myworkdayjobs.com/en-US/LSU/job/Open-Rank--Tenure-track-Assistant-Professor--Tenure-track-Associate-Professor-or-Professor--Theoretical-Gravity-Physics-_R00121003"
+    ],
+    "summary": "Open-rank search spanning theoretical gravity, quantum fields in curved spacetime, numerical relativity, multimessenger astrophysics, and computational high-energy astrophysics.",
+    "notes": [
+      "Current primary content supersedes earlier indexed September 28 posting, October 15 review, and March 24 closing dates; the live October 23 posting now gives November 15 review and April 5, 2027 closure.",
+      "The portal calls its closing time CST despite the spring date; no IANA timezone is inferred. Verify the offset before relying on the final hour.",
+      "The advertisement says review continues until filled, but a separately stated portal closing date is retained."
+    ],
+    "discovery": "daily-search-chat",
+    "institutionSources": [
+      {
+        "url": "https://www.lsu.edu/hrm/careers/",
+        "kind": "recruitment",
+        "verified": true
+      },
+      {
+        "url": "https://www.lsu.edu/physics/",
+        "kind": "department",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Live public Workday HTML and embedded JobPosting metadata retrieved directly on October 28."
+  }
+]

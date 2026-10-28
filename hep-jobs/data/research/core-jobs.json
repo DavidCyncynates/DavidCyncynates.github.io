@@ -1,0 +1,594 @@
+[
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "daily-search-chat",
+    "id": "caltech-physics-2026",
+    "institutionId": "caltech",
+    "institutionName": "California Institute of Technology",
+    "countryCode": "US",
+    "city": "Pasadena, California",
+    "title": "Faculty Position in Experimental or Theoretical Physics",
+    "rank": [
+      "Faculty; rank unspecified"
+    ],
+    "fields": [
+      "theory",
+      "experiment",
+      "broad physics"
+    ],
+    "scope": "broad-physics",
+    "cycleEvidence": "The current faculty advertisement begins application review on November 1, 2026.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-11-01",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://applications.caltech.edu/jobs/physics",
+        "description": "Application review begins; search remains open until filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "sourceUrls": [
+      "https://applications.caltech.edu/jobs/physics"
+    ],
+    "summary": "Faculty search across all areas of experimental and theoretical physics, with responsibilities in research, teaching and mentorship.",
+    "notes": [
+      "The advertisement is not restricted to particle theory.",
+      "No appointment start date or specific rank is stated."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://applications.caltech.edu/jobs",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "daily-search-chat",
+    "id": "mcgill-astrophysics-jr0000080354",
+    "institutionId": "mcgill",
+    "institutionName": "McGill University",
+    "countryCode": "CA",
+    "city": "Montréal, Québec",
+    "title": "Tenure-Track Faculty Position in Astrophysics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "astroparticle physics",
+      "transient astrophysics",
+      "multimessenger astrophysics",
+      "theory",
+      "experiment"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Advertisement posted September 11, 2026 for an anticipated August 1, 2027 appointment.",
+    "startDate": "2027-08-01",
+    "deadlines": [
+      {
+        "date": "2026-11-15",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://www.physics.mcgill.ca/pos/astro-06-en.html",
+        "description": "Review begins; applications accepted and reviewed until filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "sourceUrls": [
+      "https://www.physics.mcgill.ca/pos/astro-06-en.html",
+      "https://mcgill.wd3.myworkdayjobs.com/en-US/McGill_Careers/job/Rutherford-Physics/Assistant-Professor-in-Astrophysics_JR0000080354"
+    ],
+    "summary": "Tenure-track search in transient, astroparticle and multimessenger astrophysics. Research may involve observations, modelling, simulations, theory or instrumentation.",
+    "notes": [
+      "The official department advertisement was read; the Workday application URL is linked there.",
+      "This is an astrophysics search, not an unrestricted particle-theory vacancy."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://www.physics.mcgill.ca/pos/",
+        "kind": "department",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "needs-review",
+    "checkedOn": "2026-10-28",
+    "discovery": "daily-search-chat",
+    "id": "binghamton-hep-cosmology-204910",
+    "institutionId": "binghamton",
+    "institutionName": "Binghamton University",
+    "countryCode": "US",
+    "city": "Binghamton, New York",
+    "title": "Assistant Professor in Theoretical High Energy Physics and Cosmology",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "high-energy theory",
+      "cosmology"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Current official faculty vacancy directory lists this search; exact advertisement and cycle details require rechecking.",
+    "startDate": null,
+    "deadlines": [],
+    "openUntilFilled": null,
+    "sourceUrls": [
+      "https://www.binghamton.edu/academics/provost/faculty-resources/employment.html",
+      "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=204910"
+    ],
+    "summary": "The university's current faculty vacancy directory lists an assistant-professor search in theoretical high-energy physics and cosmology.",
+    "notes": [
+      "The official faculty vacancy directory, updated October 21, 2026, links this specific HEP/cosmology search.",
+      "Direct retrieval of the linked detailed advertisement returned HTTP 403 again on October 28.",
+      "Deadline, appointment start, and complete cycle evidence remain unverified; third-party repost dates have not been promoted."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://www.binghamton.edu/academics/provost/faculty-resources/employment.html",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Live official faculty vacancy index verifies the search title; detailed Interview Exchange page still returns HTTP 403."
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "daily-search-chat",
+    "id": "berkeley-open-physics-jpf05524",
+    "institutionId": "uc-berkeley",
+    "institutionName": "University of California, Berkeley",
+    "countryCode": "US",
+    "city": "Berkeley, California",
+    "title": "Assistant Professor - Open Physics Field - Department of Physics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "experimental particle physics",
+      "nuclear physics",
+      "astroparticle physics",
+      "astrophysics",
+      "space sciences"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Official recruitment opens September 29, 2026 with anticipated start July 1, 2027 or later.",
+    "startDate": "2027-07-01",
+    "deadlines": [
+      {
+        "date": "2026-11-15",
+        "time": "23:59",
+        "timezone": "America/Los_Angeles",
+        "kind": "hard",
+        "sourceUrl": "https://aprecruit.berkeley.edu/JPF05524",
+        "description": "Final application date; full-consideration review date is the same."
+      }
+    ],
+    "openUntilFilled": false,
+    "sourceUrls": [
+      "https://aprecruit.berkeley.edu/JPF05524",
+      "https://physics.berkeley.edu/welcome/employment"
+    ],
+    "summary": "Tenure-track open search emphasizing space sciences, astrophysics, and experimental nuclear and particle physics, including fundamental symmetries and dark matter.",
+    "notes": [
+      "Other Berkeley physics searches require separate applications.",
+      "The source explicitly labels November 15 as the final date, not only a review date."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://physics.berkeley.edu/welcome/employment",
+        "kind": "department",
+        "verified": true
+      },
+      {
+        "url": "https://aprecruit.berkeley.edu/apply",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "daily-search-chat",
+    "id": "michigan-physics-188444",
+    "institutionId": "michigan-ann-arbor",
+    "institutionName": "University of Michigan",
+    "countryCode": "US",
+    "city": "Ann Arbor, Michigan",
+    "title": "Assistant Professor of Physics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "broad physics",
+      "theory",
+      "experiment"
+    ],
+    "scope": "broad-physics",
+    "cycleEvidence": "Department announcement dated August 28, 2026 specifies an August 25, 2027 start.",
+    "startDate": "2027-08-25",
+    "deadlines": [
+      {
+        "date": "2026-11-01",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://prod.lsa.umich.edu/physics/news-events/all-news/search-news/assistant-professor-of-physics-open-position.html",
+        "description": "Review begins November 1; applicants are encouraged to submit before that date for full consideration."
+      }
+    ],
+    "openUntilFilled": null,
+    "sourceUrls": [
+      "https://prod.lsa.umich.edu/physics/news-events/all-news/search-news/assistant-professor-of-physics-open-position.html",
+      "https://apply.interfolio.com/188444"
+    ],
+    "summary": "Tenure-track search open to all physics subfields, including research that complements existing directions or develops emerging areas.",
+    "notes": [
+      "Later applications are accepted; the advertisement does not provide a final closing date.",
+      "November 1 is a review/priority milestone, not a hard closing date."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://lsa.umich.edu/physics/about-us/jobs.html",
+        "kind": "department",
+        "verified": true
+      },
+      {
+        "url": "https://lsa.umich.edu/litp/open-positions.html",
+        "kind": "group",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "daily-search-chat",
+    "id": "chicago-theory-192707",
+    "institutionId": "chicago",
+    "institutionName": "University of Chicago",
+    "countryCode": "US",
+    "city": "Chicago, Illinois",
+    "title": "Assistant Professor, Department of Physics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "theoretical physics",
+      "high-energy theory",
+      "gravity",
+      "quantum information"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Employer advertisement posted September 3, 2026 with review beginning November 1, 2026.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-11-01",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32603",
+        "description": "Review begins and continues until filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/32603",
+      "https://apply.interfolio.com/192707",
+      "https://physics.uchicago.edu/about/job-opportunities/"
+    ],
+    "summary": "Tenure-track search across theoretical physics, explicitly including high-energy theory and gravity, with independent research and undergraduate and graduate teaching.",
+    "notes": [
+      "Separate from the university's Astronomy and Astrophysics search.",
+      "The department also links an associate-professor advertisement at Interfolio 192713; its scope and cycle require a separate check."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://physics.uchicago.edu/about/job-opportunities/",
+        "kind": "department",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "daily-search-chat",
+    "id": "scripps-pitzer-astrophysics-189792",
+    "institutionId": "scripps-pitzer-natural-sciences",
+    "institutionName": "Pitzer and Scripps Colleges, Department of Natural Sciences",
+    "countryCode": "US",
+    "city": "Claremont, California",
+    "title": "Tenure-Track Position in Astrophysics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "astrophysics",
+      "theory",
+      "experiment",
+      "observational astronomy"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer-authored AAS advertisement published July 22, 2026 specifies July 1, 2027 start.",
+    "startDate": "2027-07-01",
+    "deadlines": [
+      {
+        "date": "2026-10-01",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://aas.org/jobregister/ad/0017344c",
+        "description": "Review began October 1; position remains open until filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "sourceUrls": [
+      "https://aas.org/jobregister/ad/0017344c",
+      "https://apply.interfolio.com/189792"
+    ],
+    "summary": "Astrophysics appointment accepting theoretical, computational, observational and experimental research, with undergraduate research mentoring and physics teaching.",
+    "notes": [
+      "Employer-authored AAS text was verified; Interfolio yielded no readable text.",
+      "AAS labels October 1 as an application deadline, but the detailed advertisement identifies it as review-start and explicitly remains open until filled.",
+      "HEP relevance is adjacent rather than an explicit particle-physics search."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://www.scrippscollege.edu/hr/faculty",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "daily-search-chat",
+    "id": "penn-state-physics-32889",
+    "institutionId": "penn-state-university-park",
+    "institutionName": "Pennsylvania State University",
+    "countryCode": "US",
+    "city": "University Park, Pennsylvania",
+    "title": "Assistant/Associate/Professor of Physics (Tenure/Tenure-Track)",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "particle astrophysics",
+      "particle theory",
+      "experimental particle physics",
+      "broad physics"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Current Workday advertisement posted October 12, 2026 gives a November 22, 2026 full-consideration date.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-11-22",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Academic/job/Assistant-Associate-Professor-of-Physics--Tenure-Tenure-Track-_REQ_0000082843-1",
+        "description": "Current employer Workday advertisement promises full consideration by this date; later applications may be considered until filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "sourceUrls": [
+      "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Academic/job/Assistant-Associate-Professor-of-Physics--Tenure-Tenure-Track-_REQ_0000082843-1",
+      "https://academicjobsonline.org/ajo/jobs/32889",
+      "https://academicjobsonline.org/ajo/jobs/32892",
+      "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-Associate-Professor-of-Physics--Tenure-Tenure-Track-_REQ_0000082843-1"
+    ],
+    "summary": "Broad all-ranks physics search with particular interest in biological physics and particle astrophysics, including theoretical and experimental research.",
+    "notes": [
+      "Current direct Workday content and the AJO body agree on November 22 full consideration. The AJO header still lists November 15 at 23:59:59 without a timezone; this conflicting header is preserved here rather than treated as a confirmed hard closure. Applicants should confirm the earlier AJO submission/letter cutoff.",
+      "Assistant-professor applicants use AJO 32889; associate/full-professor applicants use AJO 32892. All applicants must also complete the Penn State employment application.",
+      "Appointment start date is not stated in the source."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://academicjobsonline.org/ajo/PennState",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Live employer Workday HTML and JobPosting metadata, retrieved directly October 28, plus the employer AJO advertisement."
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "daily-search-chat",
+    "id": "mit-theoretical-physics-33025",
+    "institutionId": "mit",
+    "institutionName": "Massachusetts Institute of Technology",
+    "countryCode": "US",
+    "city": "Cambridge, Massachusetts",
+    "title": "Assistant Professor, Theoretical Physics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "particle theory",
+      "astroparticle physics",
+      "cosmology",
+      "gravity",
+      "string theory",
+      "quantum information",
+      "nuclear theory"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Employer AJO advertisement posted October 9, 2026 states a July 1, 2027 start or soon thereafter.",
+    "startDate": "2027-07-01",
+    "deadlines": [
+      {
+        "date": "2026-12-01",
+        "time": "23:59:59",
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33025",
+        "description": "Application and three reference letters due December 1; source does not state the timezone."
+      }
+    ],
+    "openUntilFilled": null,
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33025",
+      "https://physics.mit.edu/about-physics/employment-opportunities/"
+    ],
+    "summary": "Tenure-track theoretical-physics search encompassing particle physics, cosmology, gravity, nuclear theory and quantum physics, based in the Center for Theoretical Physics—Leinweber Institute.",
+    "notes": [
+      "Assistant-professor applicants are preferred.",
+      "Deadline timezone is not inferred from the institution's location."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://physics.mit.edu/about-physics/employment-opportunities/",
+        "kind": "department",
+        "verified": true
+      },
+      {
+        "url": "https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/job-opportunities/",
+        "kind": "group",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "needs-review",
+    "checkedOn": "2026-10-28",
+    "discovery": "daily-search-chat",
+    "id": "uw-bothell-physics-191207",
+    "institutionId": "uw-bothell",
+    "institutionName": "University of Washington Bothell",
+    "countryCode": "US",
+    "city": "Bothell, Washington",
+    "title": "Assistant Professor in Physics – Physical Sciences",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "broad physics",
+      "experimental physics",
+      "applied physics"
+    ],
+    "scope": "broad-physics",
+    "cycleEvidence": "Official UW posting specifies September 16, 2027 start and November 1, 2026 full-consideration date.",
+    "startDate": "2027-09-16",
+    "deadlines": [
+      {
+        "date": "2026-11-01",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://ap.washington.edu/ahr/position-details/?job_id=189352",
+        "description": "Full consideration for materials received by November 1; position remains open until filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "sourceUrls": [
+      "https://ap.washington.edu/ahr/position-details/?job_id=189352",
+      "https://apply.interfolio.com/191207"
+    ],
+    "summary": "Undergraduate-focused tenure-track physics search emphasizing experimental and applied research and student participation.",
+    "notes": [
+      "The vacancy is real and its November 1 priority date and September 16, 2027 start are verified.",
+      "The stated priorities are experimental/applied physics, condensed matter, biophysics, AMO, quantum technology, and computational-experimental methods. HEP and astroparticle physics are not named.",
+      "Kept out of the default HEP map pending scope review; an existing astronomy group alone does not make this a HEP vacancy.",
+      "Official UW directory identifier 189352 links to Interfolio 191207."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://ap.washington.edu/ahr/academic-jobs/",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ],
+    "verificationBasis": "Live official UW advertisement verifies rank, dates, and terms, but does not establish a HEP or adjacent-field recruitment emphasis."
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "daily-search-chat",
+    "id": "tennessee-tech-physics-2026",
+    "institutionId": "tennessee-tech",
+    "institutionName": "Tennessee Technological University",
+    "countryCode": "US",
+    "city": "Cookeville, Tennessee",
+    "title": "Assistant Professor - Physics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "astrophysics",
+      "broad physics",
+      "fundamental symmetries",
+      "nuclear physics"
+    ],
+    "scope": "broad-physics",
+    "cycleEvidence": "Employer AAS advertisement published October 13, 2026; the university careers listing states an August 2027 start.",
+    "startDate": "2027-08",
+    "deadlines": [
+      {
+        "date": "2026-12-15",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://aas.org/jobregister/ad/5b64bbe4",
+        "description": "Full consideration by December 15; search remains open until filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "sourceUrls": [
+      "https://aas.org/jobregister/ad/5b64bbe4",
+      "https://jobs.tntech.edu/",
+      "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
+    ],
+    "summary": "Tenure-track physics search seeking to strengthen astrophysics while welcoming all research subfields. Undergraduate research participation and teaching are central responsibilities.",
+    "notes": [
+      "Institution careers search and employer-authored AAS text were checked.",
+      "The physics department's page titled Employment Opportunities concerns student work, so it is not treated as a faculty vacancy source.",
+      "The advertisement states that employment-visa sponsorship is unavailable."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://jobs.tntech.edu/",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ]
+  }
+]

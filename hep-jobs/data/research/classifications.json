@@ -1,0 +1,293 @@
+[
+  {
+    "institutionName": "Carnegie Mellon University",
+    "matchedOfficialName": "Carnegie Mellon University",
+    "unitId": 211440,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "University of Kentucky",
+    "matchedOfficialName": "University of Kentucky",
+    "unitId": 157085,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "William & Mary",
+    "matchedOfficialName": "William & Mary",
+    "unitId": 231624,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "University of Texas at Austin",
+    "matchedOfficialName": "The University of Texas at Austin",
+    "unitId": 228778,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "University of Chicago",
+    "matchedOfficialName": "University of Chicago",
+    "unitId": 144050,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Cornell University",
+    "matchedOfficialName": "Cornell University",
+    "unitId": 190415,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "University of Pittsburgh",
+    "matchedOfficialName": "University of Pittsburgh-Pittsburgh Campus",
+    "unitId": 215293,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched Pittsburgh campus."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Rice University",
+    "matchedOfficialName": "Rice University",
+    "unitId": 227757,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Louisiana State University",
+    "matchedOfficialName": "Louisiana State University and Agricultural & Mechanical College",
+    "unitId": 159391,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched the Baton Rouge institution, not the health-sciences centers or other campuses."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "California Institute of Technology",
+    "matchedOfficialName": "California Institute of Technology",
+    "unitId": 110404,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Binghamton University",
+    "matchedOfficialName": "Binghamton University",
+    "unitId": 196079,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "University of California, Berkeley",
+    "matchedOfficialName": "University of California-Berkeley",
+    "unitId": 110635,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "University of Michigan",
+    "matchedOfficialName": "University of Michigan-Ann Arbor",
+    "unitId": 170976,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched Ann Arbor campus."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Scripps College",
+    "matchedOfficialName": "Scripps College",
+    "unitId": 123165,
+    "designation": "none",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "The data explicitly records No research designation. This is not RCU and does not imply that no research occurs."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Pitzer College",
+    "matchedOfficialName": "Pitzer College",
+    "unitId": 121257,
+    "designation": "none",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "The data explicitly records No research designation. This is not RCU and does not imply that no research occurs."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Pennsylvania State University",
+    "matchedOfficialName": "Pennsylvania State University-Main Campus",
+    "unitId": 214777,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched University Park/main campus, not a separately classified branch campus."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Massachusetts Institute of Technology",
+    "matchedOfficialName": "Massachusetts Institute of Technology",
+    "unitId": 166683,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "University of Washington Bothell",
+    "matchedOfficialName": "University of Washington-Bothell Campus",
+    "unitId": 377555,
+    "designation": "RCU",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "The Bothell campus has its own RCU designation; do not inherit the Seattle campus designation."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Tennessee Technological University",
+    "matchedOfficialName": "Tennessee Technological University",
+    "unitId": 221847,
+    "designation": "R2",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Ohio State University",
+    "matchedOfficialName": "Ohio State University-Main Campus",
+    "unitId": 204796,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched Columbus/main campus."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "University of Oklahoma",
+    "matchedOfficialName": "University of Oklahoma-Norman Campus",
+    "unitId": 207500,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-10-28",
+    "notes": [
+      "Matched Norman campus."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  }
+]

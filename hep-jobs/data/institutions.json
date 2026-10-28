@@ -1,0 +1,1909 @@
+[
+  {
+    "id": "ictp-trieste",
+    "name": "Abdus Salam International Centre for Theoretical Physics",
+    "countryCode": "IT",
+    "city": "Trieste",
+    "aliases": [],
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-29d281c2334d"
+    ],
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://www.ictp.it/home/work-ictp",
+    "localSearchTerms": [
+      "research scientist",
+      "associate research officer",
+      "High Energy",
+      "HECAP",
+      "permanent"
+    ],
+    "notes": [
+      "Official vacancy list links to UNESCO recruitment notices. Screen scientific appointments separately from support roles and postdoctoral opportunities."
+    ],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 45.64953,
+      "longitude": 13.77678,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 3165185,
+      "matchedLocality": "Trieste",
+      "institutionSourceUrl": "https://www.ictp.it/home/work-ictp",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Trieste; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "research-institute",
+      "profileSourceUrl": "https://www.ictp.it/home/work-ictp"
+    },
+    "profileCategory": "research-institute",
+    "coverageState": "source-discovered",
+    "lastFullScan": null
+  },
+  {
+    "id": "binghamton",
+    "name": "Binghamton University",
+    "countryCode": "US",
+    "city": "Binghamton, New York",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "Binghamton University",
+        "matchedOfficialName": "Binghamton University",
+        "unitId": 196079,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-b27bf6c77cc4"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 42.087868,
+      "longitude": -75.966889,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        196079
+      ],
+      "matchedOfficialNames": [
+        "Binghamton University"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance.",
+        "IPEDS identifies the main campus in Vestal; the broader institution directory labels its city Binghamton."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "cern",
+    "name": "CERN",
+    "countryCode": "CH",
+    "city": "Meyrin (Geneva)",
+    "aliases": [],
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-0179aea01f0c"
+    ],
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://careers.cern/jobs/",
+    "localSearchTerms": [
+      "theoretical physicist",
+      "experimental physicist",
+      "staff scientist",
+      "physicien"
+    ],
+    "notes": [
+      "CERN spans the Swiss–French border. Store the actual work location on each vacancy.",
+      "Distinguish fixed-term research fellowships, staff contracts and permanent positions."
+    ],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 46.233058,
+      "longitude": 6.055692,
+      "precision": "campus",
+      "sourceUrl": "https://home.cern/directions/",
+      "notes": [
+        "Official Meyrin reception coordinates used as a campus-level marker; this is not the workplace of every CERN vacancy. CERN also operates in France.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "research-institute",
+      "profileSourceUrl": "https://careers.cern/jobs/"
+    },
+    "profileCategory": "research-institute",
+    "coverageState": "source-discovered",
+    "lastFullScan": null
+  },
+  {
+    "id": "caltech",
+    "name": "California Institute of Technology",
+    "countryCode": "US",
+    "city": "Pasadena, California",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "California Institute of Technology",
+        "matchedOfficialName": "California Institute of Technology",
+        "unitId": 110404,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-3e4dc1230661"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 34.137349,
+      "longitude": -118.125878,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        110404
+      ],
+      "matchedOfficialNames": [
+        "California Institute of Technology"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "carnegie-mellon",
+    "name": "Carnegie Mellon University",
+    "countryCode": "US",
+    "city": "Pittsburgh",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "Carnegie Mellon University",
+        "matchedOfficialName": "Carnegie Mellon University",
+        "unitId": 211440,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-7817c7cc3bf7",
+      "source-b006131a9ea0"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 40.44357,
+      "longitude": -79.941993,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        211440
+      ],
+      "matchedOfficialNames": [
+        "Carnegie Mellon University"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "cornell-university",
+    "name": "Cornell University",
+    "countryCode": "US",
+    "city": "Ithaca",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "Cornell University",
+        "matchedOfficialName": "Cornell University",
+        "unitId": 190415,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-e1e02a466f35"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 42.4472,
+      "longitude": -76.483084,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        190415
+      ],
+      "matchedOfficialNames": [
+        "Cornell University"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "desy",
+    "name": "Deutsches Elektronen-Synchrotron (DESY)",
+    "countryCode": "DE",
+    "city": "Hamburg",
+    "aliases": [],
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-4bd35945176e",
+      "source-775e5bf850f7"
+    ],
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://www.desy.de/career",
+    "localSearchTerms": [
+      "Stellenangebote",
+      "Wissenschaftler",
+      "Teilchenphysik",
+      "unbefristet",
+      "Professur"
+    ],
+    "notes": [
+      "Check the advertised campus, including Zeuthen; Hamburg is not the location of every DESY job."
+    ],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 53.55073,
+      "longitude": 9.99302,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 2911298,
+      "matchedLocality": "Hamburg",
+      "institutionSourceUrl": "https://www.desy.de/career",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Hamburg; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Hamburg marker only; DESY also has a Zeuthen site. Future vacancies must retain their advertised workplace.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "research-institute",
+      "profileSourceUrl": "https://www.desy.de/career"
+    },
+    "profileCategory": "research-institute",
+    "coverageState": "source-discovered",
+    "lastFullScan": null
+  },
+  {
+    "id": "elte",
+    "name": "Eötvös Loránd University",
+    "countryCode": "HU",
+    "city": "Budapest",
+    "aliases": [],
+    "profile": "University",
+    "profileSourceUrl": "https://www.elte.hu/en/mission_statement_elte",
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-5272d43aac0e"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 47.49835,
+      "longitude": 19.04045,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 3054643,
+      "matchedLocality": "Budapest",
+      "institutionSourceUrl": "https://www.elte.hu/en",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Budapest; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://www.elte.hu/en/mission_statement_elte"
+    },
+    "profileCategory": "international-university",
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "ictp-saifr",
+    "name": "ICTP South American Institute for Fundamental Research / IFT-UNESP",
+    "countryCode": "BR",
+    "city": "São Paulo",
+    "aliases": [],
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://www.ictp-saifr.org/",
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-2a0497a7a4c4",
+      "source-aeaee72997fa"
+    ],
+    "localSearchTerms": [
+      "concurso",
+      "professor",
+      "pesquisador",
+      "física teórica",
+      "research professor"
+    ],
+    "notes": [
+      "Research center hosted at IFT-UNESP; retain the formal employer from each advertisement.",
+      "A research-professor appointment and a possible subsequent tenured competition must not be conflated."
+    ],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": -23.5475,
+      "longitude": -46.63611,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 3448439,
+      "matchedLocality": "São Paulo",
+      "institutionSourceUrl": "https://www.ictp-saifr.org/",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for São Paulo; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "research-institute",
+      "profileSourceUrl": "https://www.ictp-saifr.org/"
+    },
+    "profileCategory": "research-institute",
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "ifae",
+    "name": "Institut de Física d’Altes Energies (IFAE)",
+    "countryCode": "ES",
+    "city": "Bellaterra",
+    "aliases": [],
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://www.ifae.es/about/at-a-glance/",
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-3d0ed61561ac",
+      "source-55231d7006aa"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 41.501552279253914,
+      "longitude": 2.1074118158322883,
+      "precision": "campus",
+      "sourceUrl": "https://www.ifae.es/about/how-to-reach/",
+      "notes": [
+        "Centre of the map embedded in the official IFAE directions page, used as an approximate UAB/Bellaterra campus marker; not an asserted building entrance.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "research-institute",
+      "profileSourceUrl": "https://www.ifae.es/about/at-a-glance/"
+    },
+    "profileCategory": "research-institute",
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "ihep-cas",
+    "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+    "countryCode": "CN",
+    "city": "Beijing",
+    "aliases": [],
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-3d9c9a305a95",
+      "source-91cad0559e95"
+    ],
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://english.ihep.cas.cn/ju/jo/index.html",
+    "localSearchTerms": [
+      "人才招聘",
+      "研究员",
+      "副研究员",
+      "助理教授",
+      "高能物理",
+      "教职"
+    ],
+    "notes": [
+      "Review Chinese and English sources separately; neither list is assumed to duplicate the other.",
+      "Use vacancy-specific locations for facilities outside Beijing."
+    ],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 39.9075,
+      "longitude": 116.39723,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 1816670,
+      "matchedLocality": "Beijing",
+      "institutionSourceUrl": "https://english.ihep.cas.cn/ju/jo/index.html",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Beijing; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Beijing headquarters source; IHEP has facilities elsewhere and vacancy-specific sites should be checked.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "research-institute",
+      "profileSourceUrl": "https://english.ihep.cas.cn/ju/jo/index.html"
+    },
+    "profileCategory": "research-institute",
+    "coverageState": "source-discovered",
+    "lastFullScan": null
+  },
+  {
+    "id": "iop-bhubaneswar",
+    "name": "Institute of Physics, Bhubaneswar",
+    "countryCode": "IN",
+    "city": "Bhubaneswar",
+    "aliases": [],
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://www.iopb.res.in/job/2026/Faculty_Advt_App_JAN_26.pdf",
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-35f6965f0963",
+      "source-871d432d25ec"
+    ],
+    "localSearchTerms": [
+      "Assistant Professor",
+      "Reader",
+      "faculty recruitment",
+      "High Energy Physics",
+      "HEP"
+    ],
+    "notes": [
+      "The source page links current and past advertisements; each job needs its own dated notice and cycle check."
+    ],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 20.27241,
+      "longitude": 85.83385,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 1275817,
+      "matchedLocality": "Bhubaneswar",
+      "institutionSourceUrl": "https://www.iopb.res.in/job-opening/",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Bhubaneswar; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "research-institute",
+      "profileSourceUrl": "https://www.iopb.res.in/job/2026/Faculty_Advt_App_JAN_26.pdf"
+    },
+    "profileCategory": "research-institute",
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "kavli-ipmu",
+    "name": "Kavli IPMU, University of Tokyo",
+    "countryCode": "JP",
+    "city": "Kashiwa",
+    "aliases": [],
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-4f3e96e77a34"
+    ],
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://www.ipmu.jp/en/place-and-people",
+    "localSearchTerms": [
+      "教員公募",
+      "教授",
+      "准教授",
+      "助教",
+      "任期",
+      "Kavli IPMU faculty"
+    ],
+    "notes": [
+      "University-affiliated institute on the University of Tokyo Kashiwa campus; do not geocode to central Tokyo.",
+      "Scientific-staff listings include postdoctoral appointments requiring exclusion from the faculty catalog."
+    ],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 35.86224,
+      "longitude": 139.97732,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 1859924,
+      "matchedLocality": "Kashiwa",
+      "institutionSourceUrl": "https://www.ipmu.jp/en/place-and-people/contact",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Kashiwa; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Kashiwa, Chiba, is the verified locality of Kavli IPMU; do not substitute central Tokyo.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "research-institute",
+      "profileSourceUrl": "https://www.ipmu.jp/en/place-and-people"
+    },
+    "profileCategory": "research-institute",
+    "coverageState": "source-discovered",
+    "lastFullScan": null
+  },
+  {
+    "id": "louisiana-state-university",
+    "name": "Louisiana State University",
+    "countryCode": "US",
+    "city": "Baton Rouge",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "Louisiana State University",
+        "matchedOfficialName": "Louisiana State University and Agricultural & Mechanical College",
+        "unitId": 159391,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [
+          "Matched the Baton Rouge institution, not the health-sciences centers or other campuses."
+        ],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-2e8b4d085694",
+      "source-be8a49d2a900"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 30.414986,
+      "longitude": -91.178921,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        159391
+      ],
+      "matchedOfficialNames": [
+        "Louisiana State University and Agricultural & Mechanical College"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "mit",
+    "name": "Massachusetts Institute of Technology",
+    "countryCode": "US",
+    "city": "Cambridge, Massachusetts",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "Massachusetts Institute of Technology",
+        "matchedOfficialName": "Massachusetts Institute of Technology",
+        "unitId": 166683,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-d06c4534a738",
+      "source-fbd0cce5ef6d"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 42.359243,
+      "longitude": -71.093226,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        166683
+      ],
+      "matchedOfficialNames": [
+        "Massachusetts Institute of Technology"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "mcgill",
+    "name": "McGill University",
+    "countryCode": "CA",
+    "city": "Montréal, Québec",
+    "aliases": [],
+    "profile": "University",
+    "profileSourceUrl": "https://www.mcgill.ca/about/",
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-76b9168ae78b"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 45.50884,
+      "longitude": -73.58781,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 6077243,
+      "matchedLocality": "Montréal",
+      "institutionSourceUrl": "https://www.mcgill.ca/about/",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Montréal; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://www.mcgill.ca/about/"
+    },
+    "profileCategory": "international-university",
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "national-taiwan-university",
+    "name": "National Taiwan University",
+    "countryCode": "TW",
+    "city": "Taipei",
+    "aliases": [],
+    "profile": "University",
+    "profileSourceUrl": "https://www.ntu.edu.tw/english/contact.html",
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-23b8ab2e6730",
+      "source-f149cb86e5f4"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "latitude": 25.05306,
+      "longitude": 121.52639,
+      "precision": "city",
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 1668341,
+      "matchedLocality": "Taipei",
+      "institutionSourceUrl": "https://www.phys.ntu.edu.tw/enphysics/Contactus.html",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "profile": "university",
+      "profileSourceUrl": "https://www.ntu.edu.tw/english/contact.html",
+      "notes": [
+        "Approximate city-level marker for Taipei; coordinates identify the locality, not the campus or an individual building.",
+        "The official physics department lists its address on Roosevelt Road in Taipei.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ]
+    },
+    "profileCategory": "international-university",
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "national-tsing-hua-university",
+    "name": "National Tsing Hua University",
+    "countryCode": "TW",
+    "city": "Hsinchu",
+    "aliases": [],
+    "profile": "University",
+    "profileSourceUrl": "https://phys.site.nthu.edu.tw/index.php?Lang=en",
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-30e387666a6b"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "latitude": 24.80361,
+      "longitude": 120.96861,
+      "precision": "city",
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 1675151,
+      "matchedLocality": "Hsinchu",
+      "institutionSourceUrl": "https://phys.site.nthu.edu.tw/index.php?Lang=en",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "profile": "university",
+      "profileSourceUrl": "https://phys.site.nthu.edu.tw/index.php?Lang=en",
+      "notes": [
+        "Approximate city-level marker for Hsinchu; coordinates identify the locality, not the campus or an individual building.",
+        "The official physics department gives 101, Section 2, Kuang-Fu Road, Hsinchu, Taiwan. This is National Tsing Hua University in Hsinchu, not Tsinghua University in Beijing.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ]
+    },
+    "profileCategory": "international-university",
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "penn-state-university-park",
+    "name": "Pennsylvania State University",
+    "countryCode": "US",
+    "city": "University Park, Pennsylvania",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "Pennsylvania State University",
+        "matchedOfficialName": "Pennsylvania State University-Main Campus",
+        "unitId": 214777,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [
+          "Matched University Park/main campus, not a separately classified branch campus."
+        ],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-92298534f83f"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 40.7965,
+      "longitude": -77.862848,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        214777
+      ],
+      "matchedOfficialNames": [
+        "Pennsylvania State University-Main Campus"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance.",
+        "Matched Pennsylvania State University-Main Campus at University Park."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "scripps-pitzer-natural-sciences",
+    "name": "Pitzer and Scripps Colleges, Department of Natural Sciences",
+    "countryCode": "US",
+    "city": "Claremont, California",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "Scripps College",
+        "matchedOfficialName": "Scripps College",
+        "unitId": 123165,
+        "designation": "none",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [
+          "The data explicitly records No research designation. This is not RCU and does not imply that no research occurs."
+        ],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      },
+      {
+        "institutionName": "Pitzer College",
+        "matchedOfficialName": "Pitzer College",
+        "unitId": 121257,
+        "designation": "none",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [
+          "The data explicitly records No research designation. This is not RCU and does not imply that no research occurs."
+        ],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-f55836612e80"
+    ],
+    "localSearchTerms": [],
+    "notes": [
+      "Joint department: each college retains its own official classification. Do not treat the consortium as a Carnegie institution."
+    ],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 34.104127,
+      "longitude": -117.7089845,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        123165,
+        121257
+      ],
+      "matchedOfficialNames": [
+        "Scripps College",
+        "Pitzer College"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Approximate joint-campus marker: arithmetic midpoint of the official IPEDS locations for Scripps College and Pitzer College. The two colleges are adjacent in Claremont; this is not an asserted department-building location."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "rice-university",
+    "name": "Rice University",
+    "countryCode": "US",
+    "city": "Houston",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "Rice University",
+        "matchedOfficialName": "Rice University",
+        "unitId": 227757,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-6acec7cd59f6"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 29.717897,
+      "longitude": -95.402035,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        227757
+      ],
+      "matchedOfficialNames": [
+        "Rice University"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "tifr-mumbai",
+    "name": "Tata Institute of Fundamental Research",
+    "countryCode": "IN",
+    "city": "Mumbai",
+    "aliases": [],
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://main.tifr.res.in/portal/work_at_tifr.php",
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-3ba051a37ffe",
+      "source-70fdadc86184",
+      "source-87c516b49d2a",
+      "source-909384e028d2",
+      "source-e54e87259020",
+      "source-f6f752d12e95"
+    ],
+    "localSearchTerms": [
+      "faculty positions",
+      "Reader",
+      "Associate Professor",
+      "Department of Theoretical Physics",
+      "High Energy Physics"
+    ],
+    "notes": [
+      "Keep Mumbai, Hyderabad and other TIFR centers separate when locating a vacancy.",
+      "Central recruitment and departmental rolling faculty procedures both require checking."
+    ],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 19.07283,
+      "longitude": 72.88261,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 1275339,
+      "matchedLocality": "Mumbai",
+      "institutionSourceUrl": "https://main.tifr.res.in/maincampus/careers.php",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Mumbai; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Mumbai main campus source; do not reuse this point for TIFR Hyderabad or other centres.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "research-institute",
+      "profileSourceUrl": "https://main.tifr.res.in/portal/work_at_tifr.php"
+    },
+    "profileCategory": "research-institute",
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "tennessee-tech",
+    "name": "Tennessee Technological University",
+    "countryCode": "US",
+    "city": "Cookeville, Tennessee",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "Tennessee Technological University",
+        "matchedOfficialName": "Tennessee Technological University",
+        "unitId": 221847,
+        "designation": "R2",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-ac612f46fb18"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 36.174754,
+      "longitude": -85.504039,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        221847
+      ],
+      "matchedOfficialNames": [
+        "Tennessee Technological University"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "ohio-state",
+    "name": "The Ohio State University",
+    "countryCode": "US",
+    "city": "Columbus",
+    "aliases": [
+      "Ohio State University"
+    ],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "Ohio State University",
+        "matchedOfficialName": "Ohio State University-Main Campus",
+        "unitId": 204796,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [
+          "Matched Columbus/main campus."
+        ],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-030e4d153662",
+      "source-36b7365a3a1d"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 39.999803,
+      "longitude": -83.007525,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        204796
+      ],
+      "matchedOfficialNames": [
+        "Ohio State University-Main Campus"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "university-of-cagliari",
+    "name": "University of Cagliari",
+    "countryCode": "IT",
+    "city": "Cagliari",
+    "aliases": [],
+    "profile": "University",
+    "profileSourceUrl": "https://web.unica.it/unica/it/contatti.page",
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-5f2763bec065"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "latitude": 39.25642,
+      "longitude": 9.1444,
+      "precision": "city",
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 2524084,
+      "matchedLocality": "Monserrato",
+      "institutionSourceUrl": "https://www.unica.it/it/societa-e-territorio/musei/museo-di-fisica",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "profile": "university",
+      "profileSourceUrl": "https://web.unica.it/unica/it/contatti.page",
+      "notes": [
+        "Approximate city-level marker for Monserrato; coordinates identify the locality, not the campus or an individual building.",
+        "The physics department is at the Cittadella Universitaria in Monserrato, near Cagliari; this marker uses Monserrato rather than the central Cagliari rectorate.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ]
+    },
+    "profileCategory": "international-university",
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "uc-berkeley",
+    "name": "University of California, Berkeley",
+    "countryCode": "US",
+    "city": "Berkeley, California",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "University of California, Berkeley",
+        "matchedOfficialName": "University of California-Berkeley",
+        "unitId": 110635,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-8a0873b46cb1",
+      "source-b28ccc1834da"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 37.871918,
+      "longitude": -122.260463,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        110635
+      ],
+      "matchedOfficialNames": [
+        "University of California-Berkeley"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "university-cape-town",
+    "name": "University of Cape Town",
+    "countryCode": "ZA",
+    "city": "Cape Town",
+    "aliases": [],
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-34132fb1d163",
+      "source-71efdfb858a2",
+      "source-819437de9adb"
+    ],
+    "profile": "University",
+    "profileSourceUrl": "https://science.uct.ac.za/department-physics",
+    "localSearchTerms": [
+      "Lecturer",
+      "Senior Lecturer",
+      "Associate Professor",
+      "Physics",
+      "high energy",
+      "nGAP"
+    ],
+    "notes": [
+      "The department identifies High Energy Physics among its research themes.",
+      "Discovery of the recruitment sources is not evidence of a current physics vacancy."
+    ],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": -33.92584,
+      "longitude": 18.42322,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 3369157,
+      "matchedLocality": "Cape Town",
+      "institutionSourceUrl": "https://science.uct.ac.za/department-physics",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Cape Town; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://science.uct.ac.za/department-physics"
+    },
+    "profileCategory": "international-university",
+    "coverageState": "source-discovered",
+    "lastFullScan": null
+  },
+  {
+    "id": "chicago",
+    "name": "University of Chicago",
+    "countryCode": "US",
+    "city": "Chicago, Illinois",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "University of Chicago",
+        "matchedOfficialName": "University of Chicago",
+        "unitId": 144050,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-2685a30776be",
+      "source-77ee45d40683",
+      "source-eaba48dae837"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 41.787994,
+      "longitude": -87.599539,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        144050
+      ],
+      "matchedOfficialNames": [
+        "University of Chicago"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "university-of-kentucky",
+    "name": "University of Kentucky",
+    "countryCode": "US",
+    "city": "Lexington",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "University of Kentucky",
+        "matchedOfficialName": "University of Kentucky",
+        "unitId": 157085,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-209c7e441f91",
+      "source-ad3687e3339a",
+      "source-e628677692c2"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 38.038911,
+      "longitude": -84.504747,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        157085
+      ],
+      "matchedOfficialNames": [
+        "University of Kentucky"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "university-melbourne",
+    "name": "University of Melbourne",
+    "countryCode": "AU",
+    "city": "Melbourne",
+    "aliases": [],
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-39d73d0166b6",
+      "source-e1c911449308"
+    ],
+    "profile": "University",
+    "profileSourceUrl": "https://about.unimelb.edu.au/careers",
+    "localSearchTerms": [
+      "Lecturer",
+      "Senior Lecturer",
+      "Associate Professor",
+      "continuing",
+      "Physics",
+      "particle physics"
+    ],
+    "notes": [
+      "Distinguish continuing teaching-and-research positions from fixed-term research fellow and casual teaching appointments."
+    ],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": -37.814,
+      "longitude": 144.96332,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 2158177,
+      "matchedLocality": "Melbourne",
+      "institutionSourceUrl": "https://about.unimelb.edu.au/careers",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Melbourne; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://about.unimelb.edu.au/careers"
+    },
+    "profileCategory": "international-university",
+    "coverageState": "source-discovered",
+    "lastFullScan": null
+  },
+  {
+    "id": "michigan-ann-arbor",
+    "name": "University of Michigan",
+    "countryCode": "US",
+    "city": "Ann Arbor, Michigan",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "University of Michigan",
+        "matchedOfficialName": "University of Michigan-Ann Arbor",
+        "unitId": 170976,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [
+          "Matched Ann Arbor campus."
+        ],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-0de3fae08739",
+      "source-1abc8ad038f1"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 42.278374,
+      "longitude": -83.73481,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        170976
+      ],
+      "matchedOfficialNames": [
+        "University of Michigan-Ann Arbor"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance.",
+        "Matched the Ann Arbor campus, not Flint or Dearborn."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "oklahoma",
+    "name": "University of Oklahoma",
+    "countryCode": "US",
+    "city": "Norman",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "University of Oklahoma",
+        "matchedOfficialName": "University of Oklahoma-Norman Campus",
+        "unitId": 207500,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [
+          "Matched Norman campus."
+        ],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-7d5f722047fe"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 35.209407,
+      "longitude": -97.444211,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        207500
+      ],
+      "matchedOfficialNames": [
+        "University of Oklahoma-Norman Campus"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance.",
+        "Matched the Norman campus."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "university-of-pittsburgh",
+    "name": "University of Pittsburgh",
+    "countryCode": "US",
+    "city": "Pittsburgh",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "University of Pittsburgh",
+        "matchedOfficialName": "University of Pittsburgh-Pittsburgh Campus",
+        "unitId": 215293,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [
+          "Matched Pittsburgh campus."
+        ],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-469f3bdb717f",
+      "source-d96821079d00"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 40.444388,
+      "longitude": -79.953254,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        215293
+      ],
+      "matchedOfficialNames": [
+        "University of Pittsburgh-Pittsburgh Campus"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "ut-austin",
+    "name": "University of Texas at Austin",
+    "countryCode": "US",
+    "city": "Austin",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "University of Texas at Austin",
+        "matchedOfficialName": "The University of Texas at Austin",
+        "unitId": 228778,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-0ce93ff7d632",
+      "source-91d892746dd7"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 30.282825,
+      "longitude": -97.738273,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        228778
+      ],
+      "matchedOfficialNames": [
+        "The University of Texas at Austin"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "victoria",
+    "name": "University of Victoria",
+    "countryCode": "CA",
+    "city": "Victoria",
+    "aliases": [],
+    "profile": "University",
+    "profileSourceUrl": "https://www.uvic.ca/about-uvic/about-the-university/",
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-de37bf41e003"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 48.4359,
+      "longitude": -123.35155,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 6174041,
+      "matchedLocality": "Victoria",
+      "institutionSourceUrl": "https://www.uvic.ca/about-uvic/about-the-university/",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Victoria; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Matched Victoria, British Columbia, Canada, not Victoria University in Toronto or other namesakes.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://www.uvic.ca/about-uvic/about-the-university/"
+    },
+    "profileCategory": "international-university",
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "uw-bothell",
+    "name": "University of Washington Bothell",
+    "countryCode": "US",
+    "city": "Bothell, Washington",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "University of Washington Bothell",
+        "matchedOfficialName": "University of Washington-Bothell Campus",
+        "unitId": 377555,
+        "designation": "RCU",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [
+          "The Bothell campus has its own RCU designation; do not inherit the Seattle campus designation."
+        ],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-9630338036da"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 47.759773,
+      "longitude": -122.191293,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        377555
+      ],
+      "matchedOfficialNames": [
+        "University of Washington-Bothell Campus"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance.",
+        "Matched University of Washington-Bothell Campus, not the Seattle campus."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "uib",
+    "name": "University of the Balearic Islands",
+    "countryCode": "ES",
+    "city": "Palma",
+    "aliases": [],
+    "profile": "University",
+    "profileSourceUrl": "https://transparencia.uib.eu/indicadors-institucionals",
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-46b1e783a2d4",
+      "source-7fd1071baf33"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 39.56939,
+      "longitude": 2.65024,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 2512989,
+      "matchedLocality": "Palma",
+      "institutionSourceUrl": "https://transparencia.uib.eu/indicadors-institucionals",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Palma; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Palma, Mallorca, is the verified main-campus locality; the university also has other island sites.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://transparencia.uib.eu/indicadors-institucionals"
+    },
+    "profileCategory": "international-university",
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "william-and-mary",
+    "name": "William & Mary",
+    "countryCode": "US",
+    "city": "Williamsburg",
+    "aliases": [],
+    "profile": null,
+    "profileSourceUrl": null,
+    "officialClassifications": [
+      {
+        "institutionName": "William & Mary",
+        "matchedOfficialName": "William & Mary",
+        "unitId": 231624,
+        "designation": "R1",
+        "year": 2025,
+        "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "checkedOn": "2026-10-28",
+        "notes": [],
+        "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+        "sourceLicense": "CC BY-NC-SA 4.0",
+        "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+      }
+    ],
+    "sourceIds": [
+      "source-88275453dab0"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 37.269489,
+      "longitude": -76.708214,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        231624
+      ],
+      "matchedOfficialNames": [
+        "William & Mary"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  },
+  {
+    "id": "epfl",
+    "name": "École polytechnique fédérale de Lausanne",
+    "countryCode": "CH",
+    "city": "Lausanne",
+    "aliases": [],
+    "profile": "University",
+    "profileSourceUrl": "https://www.epfl.ch/about/",
+    "officialClassifications": [],
+    "sourceIds": [
+      "source-d6bcda16a105"
+    ],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 46.51861,
+      "longitude": 6.56472,
+      "precision": "campus",
+      "sourceUrl": "https://www.epfl.ch/labs/nam/nam-location/",
+      "notes": [
+        "Published coordinates of the ELG entrance on the Lausanne-area EPFL campus, used only as a campus-level marker. This does not assert that the HEP vacancy is in ELG.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://www.epfl.ch/about/"
+    },
+    "profileCategory": "international-university",
+    "coverageState": "partial-record-verification",
+    "lastFullScan": null
+  }
+]

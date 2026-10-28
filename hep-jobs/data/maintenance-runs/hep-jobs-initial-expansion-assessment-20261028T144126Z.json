@@ -1,0 +1,177 @@
+{
+  "runId": "hep-jobs-initial-expansion-assessment-20261028T144126Z",
+  "startedAt": "2026-10-28T14:41:26.130287+00:00",
+  "finishedAt": "2026-10-28T14:41:26.130287+00:00",
+  "timestampBasis": "This run records the final assessment of successful page reads reported by the verification agent earlier in the same session. Exact original read times were not recorded, so sourceReadAt is null. Timestamps here are assessment times, not fabricated fetch times.",
+  "summary": "Add six expansion records, preserve Taiwan as unresolved, and correct archived/current ELTE conflation. All checks are partial; application links not read remain discovery only.",
+  "checks": [
+    {
+      "sourceId": "source-fdac0eda3958",
+      "checkedAt": "2026-10-28T14:41:26.130287+00:00",
+      "assessmentAt": "2026-10-28T14:41:26.130287+00:00",
+      "sourceReadAt": null,
+      "sourceReadDate": "2026-10-28",
+      "timestampBasis": "Final evidence assessment; exact earlier source-read timestamps were not recorded. This is not a new HTTP fetch timestamp.",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/33062"
+      ],
+      "summary": "Employer AJO advertisement and official faculty list confirm non-collider experimental particle search and December 2 CST full-consideration milestone. Interfolio link was observed, not fetched.",
+      "coverage": "Assessment of specific advertisement evidence read successfully earlier in this active session. No complete board, institution, or pagination scan is claimed."
+    },
+    {
+      "sourceId": "source-0ce93ff7d632",
+      "checkedAt": "2026-10-28T14:41:26.130287+00:00",
+      "assessmentAt": "2026-10-28T14:41:26.130287+00:00",
+      "sourceReadAt": null,
+      "sourceReadDate": "2026-10-28",
+      "timestampBasis": "Final evidence assessment; exact earlier source-read timestamps were not recorded. This is not a new HTTP fetch timestamp.",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://faculty.utexas.edu/career?p=1&q=&units=College+of+Natural+Sciences"
+      ],
+      "summary": "Employer AJO advertisement and official faculty list confirm non-collider experimental particle search and December 2 CST full-consideration milestone. Interfolio link was observed, not fetched.",
+      "coverage": "Assessment of specific advertisement evidence read successfully earlier in this active session. No complete board, institution, or pagination scan is claimed."
+    },
+    {
+      "sourceId": "source-fd6e1a12fcb6",
+      "checkedAt": "2026-10-28T14:41:26.130287+00:00",
+      "assessmentAt": "2026-10-28T14:41:26.130287+00:00",
+      "sourceReadAt": null,
+      "sourceReadDate": "2026-10-28",
+      "timestampBasis": "Final evidence assessment; exact earlier source-read timestamps were not recorded. This is not a new HTTP fetch timestamp.",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/33202"
+      ],
+      "summary": "Employer AJO advertisement confirms experimental HEP/nuclear search, autumn 2027 appointment, November 1 review start, and November 15 final deadline. Linked Workday page was not fetched.",
+      "coverage": "Assessment of specific advertisement evidence read successfully earlier in this active session. No complete board, institution, or pagination scan is claimed."
+    },
+    {
+      "sourceId": "source-9c5f6a06f1ca",
+      "checkedAt": "2026-10-28T14:41:26.130287+00:00",
+      "assessmentAt": "2026-10-28T14:41:26.130287+00:00",
+      "sourceReadAt": null,
+      "sourceReadDate": "2026-10-28",
+      "timestampBasis": "Final evidence assessment; exact earlier source-read timestamps were not recorded. This is not a new HTTP fetch timestamp.",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32613"
+      ],
+      "summary": "Live employer advertisement confirms the second recruitment round with October 31 deadline and August 1 2027 appointment; broad physics includes HEP with quantum/AMO priorities.",
+      "coverage": "Assessment of specific advertisement evidence read successfully earlier in this active session. No complete board, institution, or pagination scan is claimed."
+    },
+    {
+      "sourceId": "source-5f2763bec065",
+      "checkedAt": "2026-10-28T14:41:26.130287+00:00",
+      "assessmentAt": "2026-10-28T14:41:26.130287+00:00",
+      "sourceReadAt": null,
+      "sourceReadDate": "2026-10-28",
+      "timestampBasis": "Final evidence assessment; exact earlier source-read timestamps were not recorded. This is not a new HTTP fetch timestamp.",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-45d-0926"
+      ],
+      "summary": "Official recruitment page explicitly marks the call expired; official PDF was downloaded and read, including visual deadline check on page 8. Physics annex describes one six-year RTT post, with October 22 23:59 deadline. CERN announcement corroborates discovery.",
+      "coverage": "Assessment of specific advertisement evidence read successfully earlier in this active session. No complete board, institution, or pagination scan is claimed."
+    },
+    {
+      "sourceId": "source-030397c47405",
+      "checkedAt": "2026-10-28T14:41:26.130287+00:00",
+      "assessmentAt": "2026-10-28T14:41:26.130287+00:00",
+      "sourceReadAt": null,
+      "sourceReadDate": "2026-10-28",
+      "timestampBasis": "Final evidence assessment; exact earlier source-read timestamps were not recorded. This is not a new HTTP fetch timestamp.",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/fileadmin/user_upload/2026/RTT/DR_bando/DR984_2026_Bando_8_rttL_45D_0926.pdf"
+      ],
+      "summary": "Official recruitment page explicitly marks the call expired; official PDF was downloaded and read, including visual deadline check on page 8. Physics annex describes one six-year RTT post, with October 22 23:59 deadline. CERN announcement corroborates discovery.",
+      "coverage": "Assessment of specific advertisement evidence read successfully earlier in this active session. No complete board, institution, or pagination scan is claimed."
+    },
+    {
+      "sourceId": "source-6d4b5172825a",
+      "checkedAt": "2026-10-28T14:41:26.130287+00:00",
+      "assessmentAt": "2026-10-28T14:41:26.130287+00:00",
+      "sourceReadAt": null,
+      "sourceReadDate": "2026-10-28",
+      "timestampBasis": "Final evidence assessment; exact earlier source-read timestamps were not recorded. This is not a new HTTP fetch timestamp.",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://alice-collaboration.web.cern.ch/node/36805"
+      ],
+      "summary": "Official recruitment page explicitly marks the call expired; official PDF was downloaded and read, including visual deadline check on page 8. Physics annex describes one six-year RTT post, with October 22 23:59 deadline. CERN announcement corroborates discovery.",
+      "coverage": "Assessment of specific advertisement evidence read successfully earlier in this active session. No complete board, institution, or pagination scan is claimed."
+    },
+    {
+      "sourceId": "source-24d7b92a63b0",
+      "checkedAt": "2026-10-28T14:41:26.130287+00:00",
+      "assessmentAt": "2026-10-28T14:41:26.130287+00:00",
+      "sourceReadAt": null,
+      "sourceReadDate": "2026-10-28",
+      "timestampBasis": "Final evidence assessment; exact earlier source-read timestamps were not recorded. This is not a new HTTP fetch timestamp.",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54161"
+      ],
+      "summary": "Live September 14 2026 call 54161 is under Current vacancies, with December 31 requested submission date and open-until-filled wording. This is a distinct new record from historical call 54165.",
+      "coverage": "Assessment of specific advertisement evidence read successfully earlier in this active session. No complete board, institution, or pagination scan is claimed."
+    },
+    {
+      "sourceId": "source-5272d43aac0e",
+      "checkedAt": "2026-10-28T14:41:26.130287+00:00",
+      "assessmentAt": "2026-10-28T14:41:26.130287+00:00",
+      "sourceReadAt": null,
+      "sourceReadDate": "2026-10-28",
+      "timestampBasis": "Final evidence assessment; exact earlier source-read timestamps were not recorded. This is not a new HTTP fetch timestamp.",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.elte.hu/en/vacancies"
+      ],
+      "summary": "Live September 14 2026 call 54161 is under Current vacancies, with December 31 requested submission date and open-until-filled wording. This is a distinct new record from historical call 54165. Corrected conflation of separate advertisements. Exact historical call 54165 was read live: May 5 2025 heading and October 31 2026 text. Live vacancy index explicitly places 54165 under Closed; keep archived and cycle-unresolved. Current 54161 is recorded separately.",
+      "coverage": "Assessment of specific advertisement evidence read successfully earlier in this active session. No complete board, institution, or pagination scan is claimed."
+    },
+    {
+      "sourceId": "source-96b2a1fc3254",
+      "checkedAt": "2026-10-28T14:41:26.130287+00:00",
+      "assessmentAt": "2026-10-28T14:41:26.130287+00:00",
+      "sourceReadAt": null,
+      "sourceReadDate": "2026-10-28",
+      "timestampBasis": "Final evidence assessment; exact earlier source-read timestamps were not recorded. This is not a new HTTP fetch timestamp.",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54165"
+      ],
+      "summary": "Corrected conflation of separate advertisements. Exact historical call 54165 was read live: May 5 2025 heading and October 31 2026 text. Live vacancy index explicitly places 54165 under Closed; keep archived and cycle-unresolved. Current 54161 is recorded separately.",
+      "coverage": "Assessment of specific advertisement evidence read successfully earlier in this active session. No complete board, institution, or pagination scan is claimed."
+    },
+    {
+      "sourceId": "source-23b8ab2e6730",
+      "checkedAt": "2026-10-28T14:41:26.130287+00:00",
+      "assessmentAt": "2026-10-28T14:41:26.130287+00:00",
+      "sourceReadAt": null,
+      "sourceReadDate": "2026-10-28",
+      "timestampBasis": "Final evidence assessment; exact earlier source-read timestamps were not recorded. This is not a new HTTP fetch timestamp.",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://phys.ntu.edu.tw/News_Content_n_39670_s_264091.html"
+      ],
+      "summary": "Both official department and employer AJO advertisements were read. August 2027 start is supported, but department October 14 versus AJO October 13 date discrepancy remains unresolved; retain needs-review.",
+      "coverage": "Assessment of specific advertisement evidence read successfully earlier in this active session. No complete board, institution, or pagination scan is claimed."
+    },
+    {
+      "sourceId": "source-50d7f6e05785",
+      "checkedAt": "2026-10-28T14:41:26.130287+00:00",
+      "assessmentAt": "2026-10-28T14:41:26.130287+00:00",
+      "sourceReadAt": null,
+      "sourceReadDate": "2026-10-28",
+      "timestampBasis": "Final evidence assessment; exact earlier source-read timestamps were not recorded. This is not a new HTTP fetch timestamp.",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32269"
+      ],
+      "summary": "Both official department and employer AJO advertisements were read. August 2027 start is supported, but department October 14 versus AJO October 13 date discrepancy remains unresolved; retain needs-review.",
+      "coverage": "Assessment of specific advertisement evidence read successfully earlier in this active session. No complete board, institution, or pagination scan is claimed."
+    }
+  ]
+}

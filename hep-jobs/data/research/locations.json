@@ -1,0 +1,796 @@
+{
+  "ictp-trieste": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 45.64953,
+    "longitude": 13.77678,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3165185,
+    "matchedLocality": "Trieste",
+    "institutionSourceUrl": "https://www.ictp.it/home/work-ictp",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Trieste; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.ictp.it/home/work-ictp"
+  },
+  "binghamton": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 42.087868,
+    "longitude": -75.966889,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      196079
+    ],
+    "matchedOfficialNames": [
+      "Binghamton University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance.",
+      "IPEDS identifies the main campus in Vestal; the broader institution directory labels its city Binghamton."
+    ]
+  },
+  "cern": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 46.233058,
+    "longitude": 6.055692,
+    "precision": "campus",
+    "sourceUrl": "https://home.cern/directions/",
+    "notes": [
+      "Official Meyrin reception coordinates used as a campus-level marker; this is not the workplace of every CERN vacancy. CERN also operates in France.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://careers.cern/jobs/"
+  },
+  "caltech": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 34.137349,
+    "longitude": -118.125878,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      110404
+    ],
+    "matchedOfficialNames": [
+      "California Institute of Technology"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "carnegie-mellon": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 40.44357,
+    "longitude": -79.941993,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      211440
+    ],
+    "matchedOfficialNames": [
+      "Carnegie Mellon University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "cornell-university": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 42.4472,
+    "longitude": -76.483084,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      190415
+    ],
+    "matchedOfficialNames": [
+      "Cornell University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "desy": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 53.55073,
+    "longitude": 9.99302,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2911298,
+    "matchedLocality": "Hamburg",
+    "institutionSourceUrl": "https://www.desy.de/career",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Hamburg; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Hamburg marker only; DESY also has a Zeuthen site. Future vacancies must retain their advertised workplace.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.desy.de/career"
+  },
+  "elte": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 47.49835,
+    "longitude": 19.04045,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3054643,
+    "matchedLocality": "Budapest",
+    "institutionSourceUrl": "https://www.elte.hu/en",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Budapest; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.elte.hu/en/mission_statement_elte"
+  },
+  "ictp-saifr": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": -23.5475,
+    "longitude": -46.63611,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3448439,
+    "matchedLocality": "São Paulo",
+    "institutionSourceUrl": "https://www.ictp-saifr.org/",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for São Paulo; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.ictp-saifr.org/"
+  },
+  "ifae": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 41.501552279253914,
+    "longitude": 2.1074118158322883,
+    "precision": "campus",
+    "sourceUrl": "https://www.ifae.es/about/how-to-reach/",
+    "notes": [
+      "Centre of the map embedded in the official IFAE directions page, used as an approximate UAB/Bellaterra campus marker; not an asserted building entrance.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.ifae.es/about/at-a-glance/"
+  },
+  "ihep-cas": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 39.9075,
+    "longitude": 116.39723,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1816670,
+    "matchedLocality": "Beijing",
+    "institutionSourceUrl": "https://english.ihep.cas.cn/ju/jo/index.html",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Beijing; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Beijing headquarters source; IHEP has facilities elsewhere and vacancy-specific sites should be checked.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://english.ihep.cas.cn/ju/jo/index.html"
+  },
+  "iop-bhubaneswar": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 20.27241,
+    "longitude": 85.83385,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1275817,
+    "matchedLocality": "Bhubaneswar",
+    "institutionSourceUrl": "https://www.iopb.res.in/job-opening/",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Bhubaneswar; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.iopb.res.in/job/2026/Faculty_Advt_App_JAN_26.pdf"
+  },
+  "kavli-ipmu": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 35.86224,
+    "longitude": 139.97732,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1859924,
+    "matchedLocality": "Kashiwa",
+    "institutionSourceUrl": "https://www.ipmu.jp/en/place-and-people/contact",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Kashiwa; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Kashiwa, Chiba, is the verified locality of Kavli IPMU; do not substitute central Tokyo.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.ipmu.jp/en/place-and-people"
+  },
+  "louisiana-state-university": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 30.414986,
+    "longitude": -91.178921,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      159391
+    ],
+    "matchedOfficialNames": [
+      "Louisiana State University and Agricultural & Mechanical College"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "mit": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 42.359243,
+    "longitude": -71.093226,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      166683
+    ],
+    "matchedOfficialNames": [
+      "Massachusetts Institute of Technology"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "mcgill": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 45.50884,
+    "longitude": -73.58781,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 6077243,
+    "matchedLocality": "Montréal",
+    "institutionSourceUrl": "https://www.mcgill.ca/about/",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Montréal; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.mcgill.ca/about/"
+  },
+  "penn-state-university-park": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 40.7965,
+    "longitude": -77.862848,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      214777
+    ],
+    "matchedOfficialNames": [
+      "Pennsylvania State University-Main Campus"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance.",
+      "Matched Pennsylvania State University-Main Campus at University Park."
+    ]
+  },
+  "scripps-pitzer-natural-sciences": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 34.104127,
+    "longitude": -117.7089845,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      123165,
+      121257
+    ],
+    "matchedOfficialNames": [
+      "Scripps College",
+      "Pitzer College"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Approximate joint-campus marker: arithmetic midpoint of the official IPEDS locations for Scripps College and Pitzer College. The two colleges are adjacent in Claremont; this is not an asserted department-building location."
+    ]
+  },
+  "rice-university": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 29.717897,
+    "longitude": -95.402035,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      227757
+    ],
+    "matchedOfficialNames": [
+      "Rice University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "tifr-mumbai": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 19.07283,
+    "longitude": 72.88261,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1275339,
+    "matchedLocality": "Mumbai",
+    "institutionSourceUrl": "https://main.tifr.res.in/maincampus/careers.php",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Mumbai; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Mumbai main campus source; do not reuse this point for TIFR Hyderabad or other centres.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://main.tifr.res.in/portal/work_at_tifr.php"
+  },
+  "tennessee-tech": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 36.174754,
+    "longitude": -85.504039,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      221847
+    ],
+    "matchedOfficialNames": [
+      "Tennessee Technological University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "ohio-state": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 39.999803,
+    "longitude": -83.007525,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      204796
+    ],
+    "matchedOfficialNames": [
+      "Ohio State University-Main Campus"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "uc-berkeley": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 37.871918,
+    "longitude": -122.260463,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      110635
+    ],
+    "matchedOfficialNames": [
+      "University of California-Berkeley"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "university-cape-town": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": -33.92584,
+    "longitude": 18.42322,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3369157,
+    "matchedLocality": "Cape Town",
+    "institutionSourceUrl": "https://science.uct.ac.za/department-physics",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Cape Town; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://science.uct.ac.za/department-physics"
+  },
+  "chicago": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 41.787994,
+    "longitude": -87.599539,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      144050
+    ],
+    "matchedOfficialNames": [
+      "University of Chicago"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "university-of-kentucky": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 38.038911,
+    "longitude": -84.504747,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      157085
+    ],
+    "matchedOfficialNames": [
+      "University of Kentucky"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "university-melbourne": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": -37.814,
+    "longitude": 144.96332,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2158177,
+    "matchedLocality": "Melbourne",
+    "institutionSourceUrl": "https://about.unimelb.edu.au/careers",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Melbourne; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://about.unimelb.edu.au/careers"
+  },
+  "michigan-ann-arbor": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 42.278374,
+    "longitude": -83.73481,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      170976
+    ],
+    "matchedOfficialNames": [
+      "University of Michigan-Ann Arbor"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance.",
+      "Matched the Ann Arbor campus, not Flint or Dearborn."
+    ]
+  },
+  "oklahoma": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 35.209407,
+    "longitude": -97.444211,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      207500
+    ],
+    "matchedOfficialNames": [
+      "University of Oklahoma-Norman Campus"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance.",
+      "Matched the Norman campus."
+    ]
+  },
+  "university-of-pittsburgh": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 40.444388,
+    "longitude": -79.953254,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      215293
+    ],
+    "matchedOfficialNames": [
+      "University of Pittsburgh-Pittsburgh Campus"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "ut-austin": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 30.282825,
+    "longitude": -97.738273,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      228778
+    ],
+    "matchedOfficialNames": [
+      "The University of Texas at Austin"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "victoria": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 48.4359,
+    "longitude": -123.35155,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 6174041,
+    "matchedLocality": "Victoria",
+    "institutionSourceUrl": "https://www.uvic.ca/about-uvic/about-the-university/",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Victoria; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Matched Victoria, British Columbia, Canada, not Victoria University in Toronto or other namesakes.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.uvic.ca/about-uvic/about-the-university/"
+  },
+  "uw-bothell": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 47.759773,
+    "longitude": -122.191293,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      377555
+    ],
+    "matchedOfficialNames": [
+      "University of Washington-Bothell Campus"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance.",
+      "Matched University of Washington-Bothell Campus, not the Seattle campus."
+    ]
+  },
+  "uib": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 39.56939,
+    "longitude": 2.65024,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2512989,
+    "matchedLocality": "Palma",
+    "institutionSourceUrl": "https://transparencia.uib.eu/indicadors-institucionals",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker for Palma; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+      "Palma, Mallorca, is the verified main-campus locality; the university also has other island sites.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://transparencia.uib.eu/indicadors-institucionals"
+  },
+  "william-and-mary": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 37.269489,
+    "longitude": -76.708214,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      231624
+    ],
+    "matchedOfficialNames": [
+      "William & Mary"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+    ]
+  },
+  "epfl": {
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "latitude": 46.51861,
+    "longitude": 6.56472,
+    "precision": "campus",
+    "sourceUrl": "https://www.epfl.ch/labs/nam/nam-location/",
+    "notes": [
+      "Published coordinates of the ELG entrance on the Lausanne-area EPFL campus, used only as a campus-level marker. This does not assert that the HEP vacancy is in ELG.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.epfl.ch/about/"
+  },
+  "national-taiwan-university": {
+    "latitude": 25.05306,
+    "longitude": 121.52639,
+    "precision": "city",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1668341,
+    "matchedLocality": "Taipei",
+    "institutionSourceUrl": "https://www.phys.ntu.edu.tw/enphysics/Contactus.html",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "profile": "university",
+    "profileSourceUrl": "https://www.ntu.edu.tw/english/contact.html",
+    "notes": [
+      "Approximate city-level marker for Taipei; coordinates identify the locality, not the campus or an individual building.",
+      "The official physics department lists its address on Roosevelt Road in Taipei.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ]
+  },
+  "university-of-cagliari": {
+    "latitude": 39.25642,
+    "longitude": 9.1444,
+    "precision": "city",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2524084,
+    "matchedLocality": "Monserrato",
+    "institutionSourceUrl": "https://www.unica.it/it/societa-e-territorio/musei/museo-di-fisica",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "profile": "university",
+    "profileSourceUrl": "https://web.unica.it/unica/it/contatti.page",
+    "notes": [
+      "Approximate city-level marker for Monserrato; coordinates identify the locality, not the campus or an individual building.",
+      "The physics department is at the Cittadella Universitaria in Monserrato, near Cagliari; this marker uses Monserrato rather than the central Cagliari rectorate.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ]
+  },
+  "national-tsing-hua-university": {
+    "latitude": 24.80361,
+    "longitude": 120.96861,
+    "precision": "city",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1675151,
+    "matchedLocality": "Hsinchu",
+    "institutionSourceUrl": "https://phys.site.nthu.edu.tw/index.php?Lang=en",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "profile": "university",
+    "profileSourceUrl": "https://phys.site.nthu.edu.tw/index.php?Lang=en",
+    "notes": [
+      "Approximate city-level marker for Hsinchu; coordinates identify the locality, not the campus or an individual building.",
+      "The official physics department gives 101, Section 2, Kuang-Fu Road, Hsinchu, Taiwan. This is National Tsing Hua University in Hsinchu, not Tsinghua University in Beijing.",
+      "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+    ]
+  }
+}

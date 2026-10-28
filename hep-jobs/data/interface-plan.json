@@ -1,0 +1,36 @@
+{
+  "status": "implemented",
+  "cycle": "2026-2027",
+  "map": {
+    "type": "geographical-world-map",
+    "navigation": "drag to pan; wheel/pinch to zoom",
+    "clustering": {
+      "space": "screen-pixels, recalculated with zoom and filters",
+      "marker": "counted dot with bounded size",
+      "onClick": "zoom to member bounds",
+      "sameLocation": "expand an accessible selectable job list; do not create false geographic offsets",
+      "counts": "number of distinct advertised searches, not an invented count of funded seats",
+      "color": "earliest confirmed upcoming actionable milestone; tooltip shows breakdown by date and opportunity type"
+    }
+  },
+  "deadlineColors": {
+    "within7Days": "red",
+    "within30Days": "amber",
+    "later": "blue",
+    "rollingOrUnknown": "neutral",
+    "pastHardDeadline": "hidden by default"
+  },
+  "opportunitySymbols": {
+    "formalVacancy": "filled",
+    "expressionOfInterest": "outlined"
+  },
+  "institutionBadges": "official national designation with source/year, plus separately evidenced profile; no inferred R1 equivalents abroad",
+  "archive": "retain past deadlines and closed listings; optional view",
+  "reviewQueue": "uncertain scope, dates, cycle or inaccessible primary pages are retained outside the default verified view",
+  "refresh": {
+    "cadence": "weekly",
+    "state": "maintenance tooling implemented; schedule activation pending publication",
+    "deadlineExpiry": "evaluate independently of the weekly discovery run"
+  },
+  "geoPrecision": "campus locations must be verified before plotting; missing coordinates remain null"
+}
