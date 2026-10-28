@@ -99,7 +99,7 @@ async function init(){
  try{
   const res=await fetch('data/catalog.json');if(!res.ok)throw Error('Catalog unavailable');catalog=await res.json();byInst=new Map(catalog.institutions.map(i=>[i.id,i]));dirSources=new Map(catalog.sources.map(s=>[s.id,s]));
   for(const [selector,values,label] of [['#field',[...new Set(catalog.jobs.flatMap(j=>j.fieldTags))].sort(),fieldLabel],['#country',[...new Set(catalog.jobs.map(j=>j.countryCode))].sort((a,b)=>country(a).localeCompare(country(b))),country]])for(const value of values){const option=new Option(label(value),value);$(selector).add(option)}
-  $('#coverage').textContent=`Initial coverage · ${catalog.jobs.filter(j=>j.verification==='verified').length} verified searches, ${catalog.jobs.filter(j=>j.verification!=='verified').length} leads awaiting review · Latest evidence check ${dateText(catalog.jobs.map(j=>j.checkedOn).sort().at(-1))}. Not an exhaustive global survey.`;
+  $('#coverage').textContent=`Initial coverage · ${catalog.jobs.filter(j=>j.verification==='verified').length} verified searches, ${catalog.jobs.filter(j=>j.verification!=='verified').length} leads awaiting review · Latest evidence check ${dateText(catalog.jobs.map(j=>j.checkedOn).sort().at(-1))}. No warranty expressed or implied.`;
   if(!window.L)throw Error('Map library unavailable');
   map=L.map('map',{minZoom:0,maxZoom:8,zoomSnap:0,zoomDelta:.5,scrollWheelZoom:false,touchZoom:true,bounceAtZoomLimits:false,dragging:true,maxBounds:[[-85,-190],[85,190]],maxBoundsViscosity:.7,attributionControl:true});
   map.attributionControl.setPrefix('<a href="https://leafletjs.com/">Leaflet</a>');map.attributionControl.addAttribution('<a href="https://www.naturalearthdata.com/">Natural Earth</a>');
