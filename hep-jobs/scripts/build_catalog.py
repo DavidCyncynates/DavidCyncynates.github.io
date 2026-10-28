@@ -180,7 +180,7 @@ def build(now):
                    'jobsByScope': dict(Counter(j['scope'] for j in jobs))},
         'licensing': {'locations': 'GeoNames city coordinates: CC BY 4.0; NCES/IPEDS campus points: US government data; official institution coordinates retain source attribution. See each location record.', 'classificationMetadata': 'Carnegie data: CC BY-NC-SA 4.0. Attribution and source URLs are retained in each classification record; no blanket MIT or CC BY license is applied to these imported data.',
                       'advertisements': 'Short factual descriptions and links only; original advertisements retain their existing rights.'},
-        'maintenance': {'cadencePlanned': 'weekly', 'scheduled': False,
+        'maintenance': {'cadencePlanned': 'weekly', 'scheduled': True, 'schedule': 'Monday 11:00 Europe/Rome', 'automationId': 'refresh-hep-faculty-job-map',
                         'note': 'The existing daily-search task was read as a source and has not been modified.'},
         'snapshotWarning': 'Status is calculated at generatedAt. Re-evaluate deadlines at display time; never use a stale snapshot as a permanent closed/open flag.',
     }

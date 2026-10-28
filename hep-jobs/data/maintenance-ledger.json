@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cycle": "2026-2027",
   "createdAt": "2026-10-28T14:35:19.036352+00:00",
-  "updatedAt": "2026-10-28T14:43:56.142571+00:00",
+  "updatedAt": "2026-10-28T14:46:28.887548+00:00",
   "seedPolicy": "Imported catalog evidence dates are retained as recorded claims. No full source scan or successful fetch is inferred from discovery, job verification, or ledger initialization.",
   "sources": {
     "aas-job-register": {
@@ -5364,6 +5364,14 @@
       "at": "2026-10-28T14:43:56.142571+00:00",
       "kind": "sync",
       "catalogHash": "adba940f300e77b43dd051d804af91d77208b6b83be689d8334ff94f65f18489",
+      "changedJobIds": [],
+      "jobs": 36,
+      "sources": 132
+    },
+    {
+      "at": "2026-10-28T14:46:28.887548+00:00",
+      "kind": "sync",
+      "catalogHash": "a3c9b12ab9bc87bdb3c8d748dc23113a655a3aee80ab16c4cf990075ff42bf0e",
       "changedJobIds": [],
       "jobs": 36,
       "sources": 132

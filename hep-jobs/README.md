@@ -39,7 +39,7 @@ Read `MAINTENANCE.md`. `data/maintenance-ledger.json` preserves evidence version
 source attempts, and incomplete coverage. Failed reads never delete jobs or
 advance successful coverage. Weekly maintenance runs through the Codex desktop
 schedule, not GitHub Actions; Actions validates changes before publication.
-The existing personal daily-search task is separate.
+The weekly schedule is active for Mondays at 11:00 Europe/Rome (Codex automation `refresh-hep-faculty-job-map`). The Mac must be awake and Codex running for this local schedule. The existing personal daily-search task is separate.
 
 ## Attribution
 

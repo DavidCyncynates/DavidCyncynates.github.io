@@ -29,7 +29,7 @@
   "reviewQueue": "uncertain scope, dates, cycle or inaccessible primary pages are retained outside the default verified view",
   "refresh": {
     "cadence": "weekly",
-    "state": "maintenance tooling implemented; schedule activation pending publication",
+    "state": "Active weekly Codex schedule: Monday 11:00 Europe/Rome",
     "deadlineExpiry": "evaluate independently of the weekly discovery run"
   },
   "geoPrecision": "campus locations must be verified before plotting; missing coordinates remain null"
