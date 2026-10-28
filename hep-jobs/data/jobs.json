@@ -67,7 +67,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -141,7 +141,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -228,7 +228,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": null,
@@ -306,7 +306,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": null,
@@ -386,7 +386,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -481,7 +481,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -588,7 +588,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -674,7 +674,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -772,7 +772,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -870,7 +870,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -960,7 +960,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1060,7 +1060,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1146,7 +1146,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1219,7 +1219,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": null,
@@ -1276,7 +1276,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": null,
@@ -1334,7 +1334,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": null,
@@ -1410,7 +1410,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1471,6 +1471,7 @@
         "kind": "listed",
         "sourceUrl": "https://inspirehep.net/api/jobs/3195961",
         "description": "Date listed in INSPIRE metadata; employer deadline wording and closure semantics could not be confirmed.",
+        "active": false,
         "cutoffAt": "2026-10-20T12:00:00+00:00"
       }
     ],
@@ -1483,22 +1484,24 @@
     "summary": "Faculty search for physics-driven methods in machine learning, artificial intelligence and data-intensive science across the department.",
     "notes": [
       "Broad physics search; high-energy physics is not the sole eligible field.",
-      "Held outside the default map: the date is present in INSPIRE metadata but not in the retrieved employer description, and the official deadline page was inaccessible. Do not infer a hard cutoff or ongoing availability."
+      "Employer detail now explicitly states the job posting has expired. October 19 metadata remains inactive/listed history rather than an inferred hard deadline."
     ],
     "verificationBasis": "Employer-submitted listing read; deadline meaning needs primary-source confirmation.",
+    "explicitClosed": true,
+    "closureSourceUrl": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29040&jobTitle=Assistant+%2F+Associate+Professor+in+Data-Intensive+Physics+and+AI",
     "fieldTags": [
       "ai-methods"
     ],
     "snapshotState": {
-      "status": "needs-review",
+      "status": "closed",
       "reviewRequired": true,
       "defaultEligible": false,
       "nextMilestone": null,
       "urgency": "neutral",
-      "hasPastPriorityOrReviewDate": true,
-      "deadlineTimezoneUnconfirmed": true,
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1588,7 +1591,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1687,7 +1690,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1779,7 +1782,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1878,7 +1881,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1946,7 +1949,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2046,7 +2049,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2159,7 +2162,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2253,7 +2256,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2329,7 +2332,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": null,
@@ -2400,7 +2403,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2483,7 +2486,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2569,7 +2572,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2593,6 +2596,95 @@
     },
     "sourceIds": [
       "source-eca436765c3c"
+    ]
+  },
+  {
+    "id": "kek-accl26-2-2026",
+    "institutionId": "kek-tsukuba",
+    "institutionName": "KEK — Tsukuba campus",
+    "countryCode": "JP",
+    "city": "Tsukuba",
+    "title": "Fixed-term Assistant Professor — accelerator/FEL technology (ACCL26-2)",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "accelerator physics",
+      "instrumentation"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Official 2026 recruitment released September 17 and updated October 9, with November 19 2026 closing date.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-11-19",
+        "time": "12:00",
+        "timezone": "Asia/Tokyo",
+        "kind": "hard",
+        "sourceUrl": "https://www.kek.jp/en/career/accl26-2e",
+        "description": "Official closing date, noon JST.",
+        "cutoffAt": "2026-11-19T03:00:00+00:00"
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://www.kek.jp/en/career/accl26-2e"
+    ],
+    "summary": "Accelerator Laboratory faculty appointment developing superconducting RF and electron/laser beam technology for an EUV free-electron-laser project at Tsukuba.",
+    "notes": [
+      "Fixed-term appointment through March 2030 at the latest; not advertised as tenure-track or permanent.",
+      "One advertised assistant-professor position."
+    ],
+    "discovery": "institution-directory-scan",
+    "verificationBasis": "Full employer advertisement and current institutional vacancy list read on 2026-10-28.",
+    "fieldTags": [
+      "instrumentation"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-11-19",
+        "time": "12:00",
+        "timezone": "Asia/Tokyo",
+        "kind": "hard",
+        "sourceUrl": "https://www.kek.jp/en/career/accl26-2e",
+        "description": "Official closing date, noon JST.",
+        "cutoffAt": "2026-11-19T03:00:00+00:00"
+      },
+      "urgency": "amber",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": false,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 36.08333,
+      "longitude": 140.11667,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 2110681,
+      "matchedLocality": "Tsukuba",
+      "institutionSourceUrl": "https://www.kek.jp/en/career/accl-26-5e",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker, not a verified building entrance; locality corroborated by employer advertisement."
+      ],
+      "profile": "research-institute",
+      "profileSourceUrl": "https://www.kek.jp/en/career/accl-26-5e"
+    },
+    "sourceIds": [
+      "source-083231bec761"
     ]
   },
   {
@@ -2658,7 +2750,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": null,
@@ -2674,7 +2766,7 @@
   {
     "cycle": "2026-2027",
     "kind": "formal-vacancy",
-    "verification": "needs-review",
+    "verification": "verified",
     "checkedOn": "2026-10-28",
     "discovery": "targeted-primary-source-expansion",
     "id": "cnrs-l2it-gravitational-waves-cpj-2026",
@@ -2699,16 +2791,27 @@
     "deadlines": [
       {
         "date": "2026-09-02",
+        "time": "17:00",
+        "timezone": "Europe/Paris",
+        "kind": "hard",
+        "sourceUrl": "https://www.l2it.in2p3.fr/en/emplois-et-stages/",
+        "description": "Application deadline explicitly Wednesday 2 September 2026 at 17:00 CEST.",
+        "cutoffAt": "2026-09-02T15:00:00+00:00"
+      },
+      {
+        "date": "2026-09-02",
         "time": null,
         "timezone": null,
         "kind": "listed",
         "sourceUrl": "https://inspirehep.net/api/jobs/3183025",
-        "description": "Date listed in INSPIRE metadata; employer deadline wording and closure semantics could not be confirmed.",
+        "description": "Date listed in INSPIRE metadata; employer deadline wording and closure semantics could not be confirmed. Superseded by the explicit deadline in the later employer-source check.",
+        "active": false,
         "cutoffAt": "2026-09-03T12:00:00+00:00"
       }
     ],
     "openUntilFilled": null,
     "sourceUrls": [
+      "https://www.l2it.in2p3.fr/en/emplois-et-stages/",
       "https://inspirehep.net/jobs/3183025",
       "https://inspirehep.net/api/jobs/3183025",
       "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-024/Default.aspx?lang=EN"
@@ -2716,24 +2819,23 @@
     "summary": "CNRS tenure-track chair at L2IT in Toulouse using present and future gravitational-wave observations to study fundamental physics and the Universe.",
     "notes": [
       "Employer reference CPJ-2026-024.",
-      "Original CNRS advertisement is no longer displayed at its linked URL; the archived employer-submitted INSPIRE record supplies the advertised deadline.",
-      "Held outside the default map: the date is present in INSPIRE metadata but not in the retrieved employer description, and the official deadline page was inaccessible. Do not infer a hard cutoff or ongoing availability."
+      "CNRS offer URL no longer displays the ad. The L2IT laboratory jobs list independently states the application cutoff; no closure inferred from the missing ad."
     ],
-    "verificationBasis": "Employer-submitted listing read; deadline meaning needs primary-source confirmation.",
+    "verificationBasis": "Official L2IT jobs list explicitly confirms CPJ tenure track and application cutoff.",
     "fieldTags": [
       "cosmology",
       "gravity"
     ],
     "snapshotState": {
-      "status": "needs-review",
-      "reviewRequired": true,
+      "status": "deadline-passed",
+      "reviewRequired": false,
       "defaultEligible": false,
       "nextMilestone": null,
       "urgency": "neutral",
-      "hasPastPriorityOrReviewDate": true,
-      "deadlineTimezoneUnconfirmed": true,
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2758,6 +2860,7 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3183025"
     },
     "sourceIds": [
+      "source-d732b60e293e",
       "source-f0cfe82487f5",
       "source-0efa84149b59",
       "source-5ae0521ebfb6"
@@ -2831,7 +2934,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2939,7 +3042,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3038,7 +3141,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3134,7 +3237,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3215,7 +3318,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": null,
@@ -3301,7 +3404,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": 25.05306,
@@ -3403,7 +3506,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": 24.80361,
@@ -3505,7 +3608,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3599,7 +3702,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": null,
@@ -3696,7 +3799,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3798,7 +3901,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3888,7 +3991,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3985,7 +4088,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4070,7 +4173,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4178,7 +4281,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4273,7 +4376,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4361,7 +4464,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4445,7 +4548,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4534,7 +4637,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4629,7 +4732,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4730,7 +4833,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4829,7 +4932,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4934,7 +5037,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4958,6 +5061,196 @@
     },
     "sourceIds": [
       "source-f06894f7be37"
+    ]
+  },
+  {
+    "id": "ohio-state-astronomy-2027",
+    "institutionId": "ohio-state",
+    "institutionName": "The Ohio State University",
+    "countryCode": "US",
+    "city": "Columbus",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "title": "Tenure-track Faculty Position in Astronomy",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "astrophysics",
+      "observational astronomy",
+      "theoretical astrophysics",
+      "astronomical instrumentation"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer-authored AAS advertisement published September 24, 2026, application deadline November 16, 2026 and Fall 2027 start.",
+    "startDate": "Fall 2027",
+    "sourceUrls": [
+      "https://aas.org/jobregister/ad/57dd4cbb"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-16",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://aas.org/jobregister/ad/57dd4cbb",
+        "description": "Employer-authored AAS advertisement states an application deadline of November 16; exact time and timezone not given.",
+        "cutoffAt": "2026-11-17T12:00:00+00:00"
+      }
+    ],
+    "summary": "Tenure-track astronomy search open to all observational, theoretical and instrumentation areas.",
+    "notes": [
+      "Search primarily at Assistant Professor rank; exceptional senior appointments may be considered."
+    ],
+    "openUntilFilled": false,
+    "verificationBasis": "Read employer-authored current advertisement body and its publication/deadline evidence.",
+    "fieldTags": [
+      "theory",
+      "astrophysics",
+      "instrumentation"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-11-16",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://aas.org/jobregister/ad/57dd4cbb",
+        "description": "Employer-authored AAS advertisement states an application deadline of November 16; exact time and timezone not given.",
+        "cutoffAt": "2026-11-17T12:00:00+00:00"
+      },
+      "urgency": "amber",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 39.999803,
+      "longitude": -83.007525,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        204796
+      ],
+      "matchedOfficialNames": [
+        "Ohio State University-Main Campus"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "sourceIds": [
+      "source-da3f7d1a5ab3"
+    ]
+  },
+  {
+    "id": "tdli-sjtu-astrophysics-faculty-2027",
+    "institutionId": "tdli-sjtu",
+    "institutionName": "Tsung-Dao Lee Institute / Shanghai Jiao Tong University",
+    "countryCode": "CN",
+    "city": "Shanghai",
+    "title": "Faculty positions in astrophysics and cosmology — TDLI / Department of Astronomy",
+    "rank": [
+      "Tenure-track Fellow",
+      "Senior Fellow",
+      "Professor"
+    ],
+    "fields": [
+      "astrophysics",
+      "cosmology",
+      "astroparticle physics"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer advertisement posted September 3 2026, priority November 10 2026 and nominal September 2027 start.",
+    "startDate": "September 2027 (flexible)",
+    "deadlines": [
+      {
+        "date": "2026-11-10",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32595",
+        "description": "Full consideration; search remains open until filled.",
+        "cutoffAt": "2026-11-11T12:00:00+00:00"
+      }
+    ],
+    "openUntilFilled": true,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/32595",
+      "https://tdli.sjtu.edu.cn/en/post/16371"
+    ],
+    "summary": "Several tenured or tenure-track astrophysics positions, including particle astrophysics and cosmology; observational, data-analysis and instrumental expertise encouraged.",
+    "notes": [
+      "Joint TDLI and Shanghai Jiao Tong Department of Astronomy search; one search record, not one record per position.",
+      "AJO header displays 23:59:59 without timezone; no precise local cutoff invented."
+    ],
+    "discovery": "institution-directory-scan",
+    "verificationBasis": "Full employer advertisement and current institutional vacancy list read on 2026-10-28.",
+    "fieldTags": [
+      "cosmology",
+      "astroparticle",
+      "astrophysics"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-11-10",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32595",
+        "description": "Full consideration; search remains open until filled.",
+        "cutoffAt": "2026-11-11T12:00:00+00:00"
+      },
+      "urgency": "amber",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 31.22222,
+      "longitude": 121.45806,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 1796236,
+      "matchedLocality": "Shanghai",
+      "institutionSourceUrl": "https://academicjobsonline.org/ajo/jobs/32304",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker, not a verified building entrance; locality corroborated by employer advertisement."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://academicjobsonline.org/ajo/jobs/32304"
+    },
+    "sourceIds": [
+      "source-780cd7eefb80",
+      "source-8c272d2abb01"
     ]
   },
   {
@@ -5031,7 +5324,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5113,7 +5406,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5207,7 +5500,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5302,7 +5595,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5394,7 +5687,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5487,7 +5780,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5588,7 +5881,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5675,7 +5968,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5703,6 +5996,95 @@
       "source-1728ff33ac4d",
       "source-63e4890a96b0",
       "source-fc553af85e36"
+    ]
+  },
+  {
+    "institutionId": "university-of-cagliari",
+    "institutionName": "University of Cagliari",
+    "countryCode": "IT",
+    "city": "Cagliari",
+    "id": "cagliari-full-professor-experimental-particle-2026",
+    "title": "Full Professor in Experimental Physics of Fundamental Interactions",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "rank": [
+      "Full Professor"
+    ],
+    "fields": [
+      "experimental particle physics",
+      "heavy-ion physics"
+    ],
+    "scope": "core",
+    "cycleEvidence": "D.R. 986 dated 21 September 2026; selection ords_42D_0926_02/PHYS-01 closed 22 October 2026.",
+    "startDate": null,
+    "openUntilFilled": false,
+    "explicitClosed": true,
+    "closureSourceUrl": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari/anno-2026/ords-42d-0926",
+    "deadlines": [
+      {
+        "date": "2026-10-22",
+        "time": "23:59",
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://personale.unica.it/docric/public/fileadmin/user_upload/2026/ordinari/DR_bando/DR986_Bando_17_ords_42D_0926.pdf",
+        "description": "Official call specifies electronic submission by 22 October 2026 at 23:59; no timezone stated.",
+        "cutoffAt": "2026-10-23T12:00:00+00:00"
+      }
+    ],
+    "sourceUrls": [
+      "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari/anno-2026/ords-42d-0926",
+      "https://personale.unica.it/docric/public/fileadmin/user_upload/2026/ordinari/DR_bando/DR986_Bando_17_ords_42D_0926.pdf"
+    ],
+    "summary": "One full professorship in experimental proton-proton and ultrarelativistic heavy-ion physics, particularly CERN-LHC experiments, with physics teaching and research coordination.",
+    "notes": [
+      "Selection ords_42D_0926_02/PHYS-01: one physics post within a 17-field call, distinct from the separate RTT search.",
+      "Official page marks the call SCADUTO; retain in the cycle archive.",
+      "Italian national habilitation, qualifying equivalent status or other eligibility routes specified in the full call apply."
+    ],
+    "verificationBasis": "Full official 2026 index, call page and 32-page PDF including physics annex 1 reviewed.",
+    "fieldTags": [
+      "experiment",
+      "nuclear"
+    ],
+    "snapshotState": {
+      "status": "closed",
+      "reviewRequired": false,
+      "defaultEligible": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "latitude": 39.25642,
+      "longitude": 9.1444,
+      "precision": "city",
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 2524084,
+      "matchedLocality": "Monserrato",
+      "institutionSourceUrl": "https://www.unica.it/it/societa-e-territorio/musei/museo-di-fisica",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "profile": "university",
+      "profileSourceUrl": "https://web.unica.it/unica/it/contatti.page",
+      "notes": [
+        "Approximate city-level marker for Monserrato; coordinates identify the locality, not the campus or an individual building.",
+        "The physics department is at the Cittadella Universitaria in Monserrato, near Cagliari; this marker uses Monserrato rather than the central Cagliari rectorate.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ]
+    },
+    "sourceIds": [
+      "source-f356ba203739",
+      "source-4558bf39d48e"
     ]
   },
   {
@@ -5768,7 +6150,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": 39.25642,
@@ -5796,6 +6178,181 @@
       "source-5f2763bec065",
       "source-030397c47405",
       "source-6d4b5172825a"
+    ]
+  },
+  {
+    "id": "berkeley-amo-theory-jpf05460",
+    "institutionId": "uc-berkeley",
+    "institutionName": "University of California, Berkeley",
+    "countryCode": "US",
+    "city": "Berkeley, California",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-scan",
+    "title": "Assistant Professor - Atomic Physics Theory",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "atomic, molecular and optical theory",
+      "precision tests of fundamental physics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer recruitment opens September 17, 2026 and specifies an anticipated July 1, 2027 or later start.",
+    "startDate": "2027-07-01",
+    "deadlines": [
+      {
+        "date": "2026-11-15",
+        "time": "23:59",
+        "timezone": "America/Los_Angeles",
+        "kind": "hard",
+        "sourceUrl": "https://aprecruit.berkeley.edu/JPF05460",
+        "description": "Final application date and full-consideration review date are both November 15 at 11:59 p.m. Pacific.",
+        "cutoffAt": "2026-11-16T07:59:00+00:00"
+      }
+    ],
+    "openUntilFilled": false,
+    "sourceUrls": [
+      "https://aprecruit.berkeley.edu/JPF05460"
+    ],
+    "summary": "Tenure-track theoretical AMO search explicitly including precision measurement and tests of fundamental physics.",
+    "notes": [
+      "Adjacent opportunity: this is an AMO search, not a dedicated high-energy search.",
+      "The employer asks applicants whose research overlaps other Berkeley searches to apply separately."
+    ],
+    "verificationBasis": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record.",
+    "fieldTags": [
+      "theory"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-11-15",
+        "time": "23:59",
+        "timezone": "America/Los_Angeles",
+        "kind": "hard",
+        "sourceUrl": "https://aprecruit.berkeley.edu/JPF05460",
+        "description": "Final application date and full-consideration review date are both November 15 at 11:59 p.m. Pacific.",
+        "cutoffAt": "2026-11-16T07:59:00+00:00"
+      },
+      "urgency": "amber",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": false,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 37.871918,
+      "longitude": -122.260463,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        110635
+      ],
+      "matchedOfficialNames": [
+        "University of California-Berkeley"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "sourceIds": [
+      "source-8bd901e802da"
+    ]
+  },
+  {
+    "id": "berkeley-astronomy-jpf05406",
+    "institutionId": "uc-berkeley",
+    "institutionName": "University of California, Berkeley",
+    "countryCode": "US",
+    "city": "Berkeley, California",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-scan",
+    "title": "Assistant Professor - Department of Astronomy",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "astronomy",
+      "astrophysics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer recruitment opens September 29, 2026 and specifies an anticipated July 1, 2027 start.",
+    "startDate": "2027-07-01",
+    "deadlines": [
+      {
+        "date": "2026-11-02",
+        "time": "23:59",
+        "timezone": "America/Los_Angeles",
+        "kind": "hard",
+        "sourceUrl": "https://aprecruit.berkeley.edu/JPF05406",
+        "description": "Final application date and full-consideration review date are both November 2 at 11:59 p.m. Pacific.",
+        "cutoffAt": "2026-11-03T07:59:00+00:00"
+      }
+    ],
+    "openUntilFilled": false,
+    "sourceUrls": [
+      "https://aprecruit.berkeley.edu/JPF05406"
+    ],
+    "summary": "Assistant-professor search open to all astronomy and astrophysics subfields.",
+    "notes": [],
+    "verificationBasis": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record.",
+    "fieldTags": [
+      "astrophysics"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-11-02",
+        "time": "23:59",
+        "timezone": "America/Los_Angeles",
+        "kind": "hard",
+        "sourceUrl": "https://aprecruit.berkeley.edu/JPF05406",
+        "description": "Final application date and full-consideration review date are both November 2 at 11:59 p.m. Pacific.",
+        "cutoffAt": "2026-11-03T07:59:00+00:00"
+      },
+      "urgency": "red",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": false,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 37.871918,
+      "longitude": -122.260463,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        110635
+      ],
+      "matchedOfficialNames": [
+        "University of California-Berkeley"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "sourceIds": [
+      "source-304cdbc6fe71"
     ]
   },
   {
@@ -5867,7 +6424,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5962,7 +6519,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6059,7 +6616,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6156,7 +6713,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6251,7 +6808,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6341,7 +6898,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6369,6 +6926,98 @@
       "source-f3071427e999",
       "source-7e8fd4f50f65",
       "source-c126bd8cca0f"
+    ]
+  },
+  {
+    "id": "florida-astronomical-instrumentation-2027",
+    "institutionId": "university-of-florida",
+    "institutionName": "University of Florida",
+    "countryCode": "US",
+    "city": "Gainesville",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-scan",
+    "title": "Assistant Professor for Astronomical Instrumentation",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "astronomical instrumentation",
+      "space instrumentation",
+      "astrophysics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer advertisement posted October 19, 2026 specifies an August 16, 2027 start.",
+    "startDate": "2027-08-16",
+    "deadlines": [
+      {
+        "date": "2026-12-11",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://explore.jobs.ufl.edu/en-us/job/541742/assistant-professor-for-astronomical-instrumentation",
+        "description": "Application review begins December 11, 2026 and continues until the position is filled.",
+        "cutoffAt": "2026-12-12T12:00:00+00:00"
+      }
+    ],
+    "openUntilFilled": true,
+    "sourceUrls": [
+      "https://explore.jobs.ufl.edu/en-us/job/541742/assistant-professor-for-astronomical-instrumentation",
+      "https://aas.org/jobregister/ad/4b7a9ca7"
+    ],
+    "summary": "Tenure-track astronomy faculty search in space astronomical instrumentation and technology development.",
+    "notes": [
+      "Nine-month faculty appointment; no hard application closing date stated."
+    ],
+    "verificationBasis": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record.",
+    "fieldTags": [
+      "astrophysics",
+      "instrumentation"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-12-11",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://explore.jobs.ufl.edu/en-us/job/541742/assistant-professor-for-astronomical-instrumentation",
+        "description": "Application review begins December 11, 2026 and continues until the position is filled.",
+        "cutoffAt": "2026-12-12T12:00:00+00:00"
+      },
+      "urgency": "blue",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 29.64629,
+      "longitude": -82.347911,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        134130
+      ],
+      "matchedOfficialNames": [
+        "University of Florida"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+      ]
+    },
+    "sourceIds": [
+      "source-67914975f6c3",
+      "source-1ef98d66d22a"
     ]
   },
   {
@@ -6436,7 +7085,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6461,6 +7110,105 @@
     "sourceIds": [
       "source-bb2aaffab877",
       "source-45e38cc10463"
+    ]
+  },
+  {
+    "id": "florida-instrument-science-541567",
+    "institutionId": "university-of-florida",
+    "institutionName": "University of Florida",
+    "countryCode": "US",
+    "city": "Gainesville",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-scan",
+    "title": "Assistant Scientist — Instrument Science (non-tenure-track faculty)",
+    "rank": [
+      "Assistant Scientist"
+    ],
+    "fields": [
+      "gravitational-wave instrumentation",
+      "precision optical measurements"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer advertisement posted October 13, 2026 gives a January 1, 2027 start and November 19, 2026 application close.",
+    "startDate": "2027-01-01",
+    "deadlines": [
+      {
+        "date": "2026-11-19",
+        "time": "23:55",
+        "timezone": "America/New_York",
+        "kind": "hard",
+        "sourceUrl": "https://explore.jobs.ufl.edu/en-us/job/541567/assistant-scientist-instrument-science",
+        "description": "Employer applications-close date; submission required by 11:55 p.m. Eastern.",
+        "cutoffAt": "2026-11-20T04:55:00+00:00"
+      },
+      {
+        "date": "2026-11-20",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://explore.jobs.ufl.edu/en-us/job/541567/assistant-scientist-instrument-science",
+        "description": "Review starts November 20, after the stated application closing date.",
+        "cutoffAt": "2026-11-21T12:00:00+00:00"
+      }
+    ],
+    "openUntilFilled": false,
+    "sourceUrls": [
+      "https://explore.jobs.ufl.edu/en-us/job/541567/assistant-scientist-instrument-science"
+    ],
+    "summary": "Non-tenure-track faculty appointment developing precision optical instruments for LIGO and LISA.",
+    "notes": [
+      "The employer explicitly classifies this as Non-Tenure-Track Faculty and a full-time, 12-month Assistant Scientist appointment.",
+      "Long-term renewal or permanence is not specified. The stated 12-month appointment must not be treated as a guarantee of permanent employment."
+    ],
+    "verificationBasis": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record.",
+    "fieldTags": [
+      "gravity",
+      "instrumentation"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-11-19",
+        "time": "23:55",
+        "timezone": "America/New_York",
+        "kind": "hard",
+        "sourceUrl": "https://explore.jobs.ufl.edu/en-us/job/541567/assistant-scientist-instrument-science",
+        "description": "Employer applications-close date; submission required by 11:55 p.m. Eastern.",
+        "cutoffAt": "2026-11-20T04:55:00+00:00"
+      },
+      "urgency": "amber",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 29.64629,
+      "longitude": -82.347911,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        134130
+      ],
+      "matchedOfficialNames": [
+        "University of Florida"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+      ]
+    },
+    "sourceIds": [
+      "source-181b4fcf0f3c"
     ]
   },
   {
@@ -6534,7 +7282,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6624,7 +7372,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6714,7 +7462,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6805,7 +7553,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6898,7 +7646,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6986,7 +7734,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7082,7 +7830,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7171,7 +7919,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7258,7 +8006,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7286,6 +8034,103 @@
       "source-7c9d5657b176",
       "source-bf0a004d510f",
       "source-dad30c150d92"
+    ]
+  },
+  {
+    "institutionId": "university-oxford",
+    "institutionName": "University of Oxford",
+    "countryCode": "GB",
+    "city": "Oxford",
+    "id": "oxford-savilian-astronomy-2027",
+    "title": "Savilian Professorship of Astronomy",
+    "cycle": "2026-2027",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-scan",
+    "startDate": null,
+    "openUntilFilled": null,
+    "kind": "formal-vacancy",
+    "rank": [
+      "Professor"
+    ],
+    "fields": [
+      "Astrophysics",
+      "Theoretical astrophysics",
+      "Cosmology",
+      "High-energy astrophysics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer vacancy 186704 closes 2 November 2026; appointment is intended from September 2027.",
+    "sourceUrls": [
+      "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186704",
+      "https://www.physics.ox.ac.uk/about-us/work-us"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-02",
+        "time": "12:00",
+        "timezone": "Europe/London",
+        "kind": "hard",
+        "sourceUrl": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186704",
+        "description": "Applications close at noon UK time on 2 November 2026.",
+        "cutoffAt": "2026-11-02T12:00:00+00:00"
+      }
+    ],
+    "summary": "Oxford Physics and New College seek an Astronomy professor, with preference for theoretical astrophysics while welcoming all astrophysics areas.",
+    "notes": [
+      "Employer reference 186704.",
+      "Appointment from September 2027 or as soon as possible thereafter; no exact start day specified."
+    ],
+    "verificationBasis": "Full employer recruitment advertisement and current Physics vacancy list read.",
+    "fieldTags": [
+      "theory",
+      "cosmology",
+      "astrophysics"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-11-02",
+        "time": "12:00",
+        "timezone": "Europe/London",
+        "kind": "hard",
+        "sourceUrl": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186704",
+        "description": "Applications close at noon UK time on 2 November 2026.",
+        "cutoffAt": "2026-11-02T12:00:00+00:00"
+      },
+      "urgency": "red",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": false,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 51.75222,
+      "longitude": -1.25596,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 2640729,
+      "matchedLocality": "Oxford",
+      "institutionSourceUrl": "https://inspirehep.net/api/jobs/3189637",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Exact city/country match for Oxford, GB, in the provided GeoNames cities15000 dataset. This is an approximate locality marker, not a campus or department building.",
+        "Employer-submitted advertisement corroborates the institution locality.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://inspirehep.net/api/jobs/3189637"
+    },
+    "sourceIds": [
+      "source-9c98d5f12f83",
+      "source-81459c9f4c89"
     ]
   },
   {
@@ -7356,7 +8201,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7453,7 +8298,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7547,7 +8392,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7642,7 +8487,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7668,6 +8513,186 @@
       "source-fdac0eda3958",
       "source-915355a557a4",
       "source-0ce93ff7d632"
+    ]
+  },
+  {
+    "id": "ut-austin-astronomy-2027",
+    "institutionId": "ut-austin",
+    "institutionName": "University of Texas at Austin",
+    "countryCode": "US",
+    "city": "Austin",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "title": "Tenure-Track Assistant Professor in Astronomy",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "astronomy",
+      "astrophysics",
+      "time-domain astrophysics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer-authored AAS advertisement published September 4, 2026, full consideration November 10, 2026 and anticipated August 2027 start.",
+    "startDate": "August 2027",
+    "sourceUrls": [
+      "https://aas.org/jobregister/ad/210c5bdf"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-10",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://aas.org/jobregister/ad/210c5bdf",
+        "description": "Complete applications received by November 10, 2026 are assured full consideration; no hard closing date stated.",
+        "cutoffAt": "2026-11-11T12:00:00+00:00"
+      }
+    ],
+    "summary": "Astronomy search open to all areas, particularly stellar and transient astrophysics and the Milky Way/Local Group.",
+    "notes": [
+      "Primarily Assistant Professor rank; exceptional senior candidates may be considered."
+    ],
+    "openUntilFilled": null,
+    "verificationBasis": "Read employer-authored current advertisement body and its publication/deadline evidence.",
+    "fieldTags": [
+      "astrophysics"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-11-10",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://aas.org/jobregister/ad/210c5bdf",
+        "description": "Complete applications received by November 10, 2026 are assured full consideration; no hard closing date stated.",
+        "cutoffAt": "2026-11-11T12:00:00+00:00"
+      },
+      "urgency": "amber",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 30.282825,
+      "longitude": -97.738273,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        228778
+      ],
+      "matchedOfficialNames": [
+        "The University of Texas at Austin"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "sourceIds": [
+      "source-96474dc3f22f"
+    ]
+  },
+  {
+    "id": "ut-austin-astronomical-instrumentation-2027",
+    "institutionId": "ut-austin",
+    "institutionName": "University of Texas at Austin",
+    "countryCode": "US",
+    "city": "Austin",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "title": "Tenured or Tenure-track Faculty Position in Astronomical Instrumentation",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "astronomical instrumentation",
+      "astrophysics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer-authored AAS advertisement published September 8, 2026 with review starting November 16, 2026 and start as early as August 2027.",
+    "startDate": "August 2027",
+    "sourceUrls": [
+      "https://aas.org/jobregister/ad/2d1b76f2"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-16",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://aas.org/jobregister/ad/2d1b76f2",
+        "description": "Review begins November 16, 2026; applications considered on a rolling basis until filled.",
+        "cutoffAt": "2026-11-17T12:00:00+00:00"
+      }
+    ],
+    "summary": "Open-rank astronomical-instrumentation search favoring contributions to McDonald Observatory and the Giant Magellan Telescope.",
+    "notes": [],
+    "openUntilFilled": true,
+    "verificationBasis": "Read employer-authored current advertisement body and its publication/deadline evidence.",
+    "fieldTags": [
+      "astrophysics",
+      "instrumentation"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-11-16",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://aas.org/jobregister/ad/2d1b76f2",
+        "description": "Review begins November 16, 2026; applications considered on a rolling basis until filled.",
+        "cutoffAt": "2026-11-17T12:00:00+00:00"
+      },
+      "urgency": "amber",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 30.282825,
+      "longitude": -97.738273,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        228778
+      ],
+      "matchedOfficialNames": [
+        "The University of Texas at Austin"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
+      ]
+    },
+    "sourceIds": [
+      "source-5cfd36028bdc"
     ]
   },
   {
@@ -7729,7 +8754,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7825,7 +8850,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7923,7 +8948,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8022,7 +9047,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8049,6 +9074,96 @@
     "sourceIds": [
       "lisa-jobs",
       "aei-ryc"
+    ]
+  },
+  {
+    "institutionId": "uib",
+    "institutionName": "University of the Balearic Islands",
+    "countryCode": "ES",
+    "city": "Palma",
+    "id": "uib-tenured-theory-astronomy-2627-dfs004",
+    "title": "Tenured Senior Lecturer in Theoretical Physics and Astronomy",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "rank": [
+      "Tenured Senior Lecturer"
+    ],
+    "fields": [
+      "theoretical physics",
+      "astronomy",
+      "astrophysics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Official May 2026 call explicitly covers academic year 2026–27; position code 2627_DFS_004.",
+    "startDate": null,
+    "openUntilFilled": false,
+    "deadlines": [
+      {
+        "date": "2026-05-26",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://rrhh.uib.cat/arees/pdi/convocatories/ppl",
+        "description": "Official category page states applications 13–26 May 2026; no closing time/timezone supplied.",
+        "cutoffAt": "2026-05-27T12:00:00+00:00"
+      }
+    ],
+    "sourceUrls": [
+      "https://rrhh.uib.cat/arees/pdi/convocatories/ppl",
+      "https://rrhh.uib.cat/documents/d/rrhh-public/854963corslplacestlmaig2026_en-gb-pdf",
+      "https://rrhh.uib.cat/documents/d/rrhh-public/terms-and-conditions_bases_angles_convtl-maig2026-pdf"
+    ],
+    "summary": "Permanent, open-ended full-time titular laboral(i3) position in theoretical physics, with an astronomy and astrophysics research profile at the Palma campus.",
+    "notes": [
+      "Position 2627_DFS_004; expired deadline retained for the explicitly 2026–27 archive.",
+      "The call requires appropriate Spanish/EU accreditation or qualifying equivalent status; I3 accreditation applies to this position.",
+      "Language and nationality/eligibility conditions are specified in the official terms."
+    ],
+    "verificationBasis": "Complete official 14-page vacancy list, full terms and category deadline reviewed.",
+    "fieldTags": [
+      "theory",
+      "astrophysics"
+    ],
+    "snapshotState": {
+      "status": "deadline-passed",
+      "reviewRequired": false,
+      "defaultEligible": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 39.56939,
+      "longitude": 2.65024,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 2512989,
+      "matchedLocality": "Palma",
+      "institutionSourceUrl": "https://transparencia.uib.eu/indicadors-institucionals",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Approximate city-level marker for Palma; coordinates identify the locality, not the campus or an individual building. Institution locality is corroborated by the linked official source.",
+        "Palma, Mallorca, is the verified main-campus locality; the university also has other island sites.",
+        "Institution type is descriptive; no US Carnegie-equivalent category is assigned."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://transparencia.uib.eu/indicadors-institucionals"
+    },
+    "sourceIds": [
+      "source-23f5d90044ea",
+      "source-a53f73a5b15e",
+      "source-91be24b3b7ab"
     ]
   },
   {
@@ -8118,7 +9233,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8219,7 +9334,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8244,6 +9359,293 @@
     "sourceIds": [
       "source-341497733aff",
       "source-0ff3b4d7bf37"
+    ]
+  },
+  {
+    "id": "vanderbilt-senior-lecturer-2027",
+    "institutionId": "vanderbilt",
+    "institutionName": "Vanderbilt University",
+    "countryCode": "US",
+    "city": "Nashville",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "title": "Full-time Senior Lecturer in Physics",
+    "rank": [
+      "Senior Lecturer"
+    ],
+    "fields": [
+      "physics",
+      "undergraduate physics teaching"
+    ],
+    "scope": "broad-physics",
+    "cycleEvidence": "Employer AJO advertisement posted October 13, 2026 specifies August 2027 start and February 15, 2027 review.",
+    "startDate": "August 2027",
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33063"
+    ],
+    "deadlines": [
+      {
+        "date": "2027-02-15",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33063",
+        "description": "Review starts February 15, 2027 and continues until filled.",
+        "cutoffAt": "2027-02-16T12:00:00+00:00"
+      }
+    ],
+    "summary": "Full-time non-tenure-track teaching appointment covering undergraduate physics and advanced laboratories.",
+    "notes": [
+      "Initial one-year appointment, renewable to a three-year term subject to performance and curricular need.",
+      "Broad physics teaching opportunity; no specific HEP research component."
+    ],
+    "openUntilFilled": true,
+    "verificationBasis": "Read employer-authored current advertisement body and its publication/deadline evidence.",
+    "fieldTags": [],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2027-02-15",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33063",
+        "description": "Review starts February 15, 2027 and continues until filled.",
+        "cutoffAt": "2027-02-16T12:00:00+00:00"
+      },
+      "urgency": "blue",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 36.14659,
+      "longitude": -86.803369,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        221999
+      ],
+      "matchedOfficialNames": [
+        "Vanderbilt University"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+      ]
+    },
+    "sourceIds": [
+      "source-4b3b4bc7495f"
+    ]
+  },
+  {
+    "id": "vanderbilt-quantum-simulation-2027",
+    "institutionId": "vanderbilt",
+    "institutionName": "Vanderbilt University",
+    "countryCode": "US",
+    "city": "Nashville",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "title": "Tenure-track Assistant Professor in Quantum Computing and Simulation",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "quantum computing",
+      "quantum simulation of field theories",
+      "quantum information"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer AJO advertisement posted October 16, 2026 specifies November 30, 2026 full consideration and PhD completion by August 1, 2027.",
+    "startDate": null,
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33110"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-30",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33110",
+        "description": "Full consideration requires all materials, including letters, by November 30, 2026.",
+        "cutoffAt": "2026-12-01T12:00:00+00:00"
+      },
+      {
+        "date": "2026-12-01",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33110",
+        "description": "Review begins December 1, 2026 and continues until filled.",
+        "cutoffAt": "2026-12-02T12:00:00+00:00"
+      }
+    ],
+    "summary": "Quantum-information faculty search explicitly including simulation of field theories and connections to high-energy and nuclear physics.",
+    "notes": [
+      "Adjacent quantum search, not a dedicated HEP opening.",
+      "AJO header labels November 30 as deadline, but the body explicitly describes full consideration and ongoing review; no hard closure inferred."
+    ],
+    "openUntilFilled": true,
+    "verificationBasis": "Read employer-authored current advertisement body and its publication/deadline evidence.",
+    "fieldTags": [
+      "quantum-information"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-11-30",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33110",
+        "description": "Full consideration requires all materials, including letters, by November 30, 2026.",
+        "cutoffAt": "2026-12-01T12:00:00+00:00"
+      },
+      "urgency": "blue",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 36.14659,
+      "longitude": -86.803369,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        221999
+      ],
+      "matchedOfficialNames": [
+        "Vanderbilt University"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+      ]
+    },
+    "sourceIds": [
+      "source-4909419cea97"
+    ]
+  },
+  {
+    "id": "villanova-astrophysics-2027",
+    "institutionId": "villanova",
+    "institutionName": "Villanova University",
+    "countryCode": "US",
+    "city": "Villanova",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-scan",
+    "title": "Tenure Track Assistant or Associate Professor in Astrophysics",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor"
+    ],
+    "fields": [
+      "astrophysics",
+      "planetary science",
+      "near-field cosmology"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer posting 20260086F is dated October 6, 2026 and explicitly states a Fall 2027 appointment.",
+    "startDate": "Fall 2027",
+    "deadlines": [
+      {
+        "date": "2026-11-15",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://jobs.villanova.edu/postings/36501",
+        "description": "Review of applications begins November 15, 2026.",
+        "cutoffAt": "2026-11-16T12:00:00+00:00"
+      },
+      {
+        "date": "2026-12-01",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://jobs.villanova.edu/postings/36501",
+        "description": "The advertisement specifies a final deadline of December 1, 2026; no submission time or timezone is stated.",
+        "cutoffAt": "2026-12-02T12:00:00+00:00"
+      }
+    ],
+    "openUntilFilled": false,
+    "sourceUrls": [
+      "https://jobs.villanova.edu/postings/36501"
+    ],
+    "summary": "Tenure-track search open to any astrophysics or planetary-science subfield; near-field cosmology is among departmental research areas.",
+    "notes": [
+      "This is the Astronomy and Planetary Science department search, distinct from Villanova Physics posting 36409.",
+      "The advertisement states a PhD requirement dated June 1, 2025; the October 2026 posting, review date, and explicit Fall 2027 start establish this application cycle."
+    ],
+    "verificationBasis": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record.",
+    "fieldTags": [
+      "cosmology",
+      "astrophysics"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-11-15",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://jobs.villanova.edu/postings/36501",
+        "description": "Review of applications begins November 15, 2026.",
+        "cutoffAt": "2026-11-16T12:00:00+00:00"
+      },
+      "urgency": "amber",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-10-28",
+      "latitude": 40.036463,
+      "longitude": -75.340502,
+      "precision": "campus",
+      "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "sourceDataset": "NCES IPEDS HD2024 institution directory",
+      "sourceYear": 2024,
+      "unitIds": [
+        216597
+      ],
+      "matchedOfficialNames": [
+        "Villanova University"
+      ],
+      "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+      "notes": [
+        "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
+      ]
+    },
+    "sourceIds": [
+      "source-cbfe48ced7b0"
     ]
   },
   {
@@ -8313,7 +9715,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8403,7 +9805,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8496,7 +9898,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8570,7 +9972,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "latitude": null,
@@ -8642,7 +10044,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-10-28T15:44:09.186155+00:00"
+      "evaluatedAt": "2026-10-28T20:00:13.094781+00:00"
     },
     "location": {
       "verification": "verified",

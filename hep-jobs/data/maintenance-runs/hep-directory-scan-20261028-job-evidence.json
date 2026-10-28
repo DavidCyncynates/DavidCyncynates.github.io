@@ -1,0 +1,77 @@
+[
+  {
+    "jobId": "berkeley-astronomy-jpf05406",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-304cdbc6fe71"
+    ],
+    "summary": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record."
+  },
+  {
+    "jobId": "berkeley-amo-theory-jpf05460",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-8bd901e802da"
+    ],
+    "summary": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record."
+  },
+  {
+    "jobId": "florida-astronomical-instrumentation-2027",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-67914975f6c3",
+      "source-1ef98d66d22a"
+    ],
+    "summary": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record."
+  },
+  {
+    "jobId": "florida-instrument-science-541567",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-181b4fcf0f3c"
+    ],
+    "summary": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record."
+  },
+  {
+    "jobId": "villanova-astrophysics-2027",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-cbfe48ced7b0"
+    ],
+    "summary": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record."
+  },
+  {
+    "jobId": "oxford-savilian-astronomy-2027",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-9c98d5f12f83",
+      "source-81459c9f4c89"
+    ],
+    "summary": "Full employer recruitment advertisement and current Physics vacancy list read."
+  },
+  {
+    "jobId": "kek-accl26-2-2026",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-083231bec761"
+    ],
+    "summary": "Full employer advertisement and current institutional vacancy list read on 2026-10-28."
+  },
+  {
+    "jobId": "tdli-sjtu-astrophysics-faculty-2027",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-780cd7eefb80",
+      "source-8c272d2abb01"
+    ],
+    "summary": "Full employer advertisement and current institutional vacancy list read on 2026-10-28."
+  },
+  {
+    "jobId": "cnrs-l2it-gravitational-waves-cpj-2026",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-d732b60e293e"
+    ],
+    "summary": "Official laboratory vacancy list explicitly supplies deadline and tenure-track identity; resolves prior metadata-only uncertainty."
+  }
+]

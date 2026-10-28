@@ -1,0 +1,69 @@
+[
+  {
+    "jobId": "cagliari-full-professor-experimental-particle-2026",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-f356ba203739",
+      "source-4558bf39d48e"
+    ],
+    "summary": "Full official 2026 index, call page and 32-page PDF including physics annex 1 reviewed."
+  },
+  {
+    "jobId": "imperial-data-intensive-physics-ai-2027",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-2e73a33989ed"
+    ],
+    "summary": "Employer now explicitly marks this advertisement expired; this establishes closure but not the original metadata date semantics."
+  },
+  {
+    "jobId": "ohio-state-astronomy-2027",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-da3f7d1a5ab3"
+    ],
+    "summary": "Read employer-authored current advertisement body and its publication/deadline evidence."
+  },
+  {
+    "jobId": "uib-tenured-theory-astronomy-2627-dfs004",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-23f5d90044ea",
+      "source-a53f73a5b15e",
+      "source-91be24b3b7ab"
+    ],
+    "summary": "Complete official 14-page vacancy list, full terms and category deadline reviewed."
+  },
+  {
+    "jobId": "ut-austin-astronomical-instrumentation-2027",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-5cfd36028bdc"
+    ],
+    "summary": "Read employer-authored current advertisement body and its publication/deadline evidence."
+  },
+  {
+    "jobId": "ut-austin-astronomy-2027",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-96474dc3f22f"
+    ],
+    "summary": "Read employer-authored current advertisement body and its publication/deadline evidence."
+  },
+  {
+    "jobId": "vanderbilt-quantum-simulation-2027",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-4909419cea97"
+    ],
+    "summary": "Read employer-authored current advertisement body and its publication/deadline evidence."
+  },
+  {
+    "jobId": "vanderbilt-senior-lecturer-2027",
+    "checkedOn": "2026-10-28",
+    "sourceIds": [
+      "source-4b3b4bc7495f"
+    ],
+    "summary": "Read employer-authored current advertisement body and its publication/deadline evidence."
+  }
+]

@@ -43,8 +43,22 @@
       "profileSourceUrl": "https://www.ictp.it/home/work-ictp"
     },
     "profileCategory": "research-institute",
-    "coverageState": "source-discovered",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:33.915610+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:33.915610+00:00",
+      "coverage": "All displayed international and local recruitment entries on the single page; scientific titles screened for HEP/cosmology and broad physics.",
+      "summary": "Relevant listed vacancy sources reviewed in the stated scope.",
+      "limitations": [
+        "Bounded to the public current ICTP recruitment page; not all UNESCO or partner institute recruitment."
+      ],
+      "evidenceUrls": [
+        "https://www.ictp.it/home/work-ictp"
+      ],
+      "reviewedAt": "2026-10-28T19:27:07.633247+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "academia-sinica-iop",
@@ -56,7 +70,10 @@
     "profileSourceUrl": "https://academicjobsonline.org/ajo/jobs/32236",
     "officialClassifications": [],
     "sourceIds": [
-      "source-437d3811a20b"
+      "source-149cf53edc12",
+      "source-437d3811a20b",
+      "source-8ca843b22c19",
+      "source-f390cfda612a"
     ],
     "localSearchTerms": [
       "faculty",
@@ -87,8 +104,25 @@
       "profileSourceUrl": "https://academicjobsonline.org/ajo/jobs/32236"
     },
     "profileCategory": "research-institute",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:39:58Z",
+      "lastFullScanAt": "2026-10-28T19:39:58Z",
+      "coverage": "Current employer IOP faculty index: both entries reviewed; institute support/postdoc list reviewed in first pass.",
+      "summary": "Completed the stated listed-source scope; no additional faculty search.",
+      "limitations": [
+        "Only public listed opportunities are covered; no inference about unpublished searches."
+      ],
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/AS/IoP",
+        "https://academicjobsonline.org/ajo/jobs/32236",
+        "https://www.phys.sinica.edu.tw/",
+        "https://www.phys.sinica.edu.tw/news_en.php?eng=T&id=job"
+      ],
+      "reviewedAt": "2026-10-28T19:45:50.725231+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "binghamton",
@@ -114,7 +148,8 @@
       }
     ],
     "sourceIds": [
-      "source-b27bf6c77cc4"
+      "source-b27bf6c77cc4",
+      "source-ca1372f393d9"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -139,7 +174,23 @@
         "IPEDS identifies the main campus in Vestal; the broader institution directory labels its city Binghamton."
       ]
     },
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:26:56+00:00",
+      "lastFullScanAt": null,
+      "coverage": "All current faculty-vacancy entries; Physics subsection contains HEP/cosmology assistant professor and physics lecturer. One page, no pagination.",
+      "summary": "Physics list was fully read, but both detailed physics advertisements are HTTP 403; HEP cycle details remain unresolved.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies.",
+        "Physics list was fully read, but both detailed physics advertisements are HTTP 403; HEP cycle details remain unresolved."
+      ],
+      "evidenceUrls": [
+        "https://www.binghamton.edu/academics/provost/faculty-resources/employment.html",
+        "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=204910"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -179,8 +230,23 @@
       "profileSourceUrl": "https://careers.cern/jobs/"
     },
     "profileCategory": "research-institute",
-    "coverageState": "source-discovered",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:33.915998+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:33.915998+00:00",
+      "coverage": "Single current jobs directory, all displayed role categories; seven Physics entries screened. No pagination shown.",
+      "summary": "Relevant listed vacancy sources reviewed in the stated scope.",
+      "limitations": [
+        "Faculty-equivalence and application deadline of TH-SP-2026-68-LD remain unresolved; retained as a lead only."
+      ],
+      "evidenceUrls": [
+        "https://careers.cern/jobs/",
+        "https://careers.cern/jobs/th-sp-2026-68-ld/"
+      ],
+      "reviewedAt": "2026-10-28T19:27:07.633247+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "cnrs-multihost",
@@ -193,7 +259,8 @@
     "officialClassifications": [],
     "sourceIds": [
       "source-2817a357826a",
-      "source-38768b3a5b5c"
+      "source-38768b3a5b5c",
+      "source-aa52c0e01c58"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -202,8 +269,28 @@
       "longitude": null,
       "verification": "not-geocoded"
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:21:16.153259+00:00",
+      "lastFullScanAt": "2026-10-28T19:21:16.153259+00:00",
+      "coverage": "Entire single-page 2026 CPJ list screened; Physics, Nuclear and Particle Physics, and Earth and Universe sections read for relevant leads. No pagination.",
+      "summary": "Relevant listed vacancy sources reviewed in the stated scope.",
+      "limitations": [
+        "Bounded to 2026 CPJ competition, not all CNRS researcher competitions or contract jobs. Several detailed CPJ ads no longer display; new CMS-HI and FCELT leads need host-location verification."
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3181705",
+        "https://inspirehep.net/jobs/3183112",
+        "https://carrieres.cnrs.fr/en/chair-recruitment/",
+        "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-032/Default.aspx",
+        "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-001/Default.aspx",
+        "https://inspirehep.net/api/jobs/3181705",
+        "https://inspirehep.net/api/jobs/3183112"
+      ],
+      "reviewedAt": "2026-10-28T19:27:07.633247+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "caltech",
@@ -229,7 +316,8 @@
       }
     ],
     "sourceIds": [
-      "source-3e4dc1230661"
+      "source-3e4dc1230661",
+      "source-fd1cfe6a551b"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -253,8 +341,23 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:12:30+00:00",
+      "lastFullScanAt": "2026-10-28T19:12:30+00:00",
+      "coverage": "All faculty entries on the single Caltech positions page; physics and adjacent fields screened; postdoctoral, instructor and non-physics searches excluded.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://applications.caltech.edu/jobs",
+        "https://applications.caltech.edu/jobs/physics"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "carnegie-mellon",
@@ -280,8 +383,11 @@
       }
     ],
     "sourceIds": [
+      "source-488991baa7d1",
+      "source-702548789c63",
       "source-7817c7cc3bf7",
-      "source-b006131a9ea0"
+      "source-b006131a9ea0",
+      "source-f8bdcdc4d0d3"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -305,7 +411,23 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:46:32+00:00",
+      "lastFullScanAt": null,
+      "coverage": "First pass inspected the Physics section of the university faculty-careers list. This follow-up retried the employer-authored AAS advertisement for the McWilliams director search; it returned HTTP 403.",
+      "summary": "The faculty list was reviewed, but the senior McWilliams director search still lacks readable detailed evidence.",
+      "limitations": [
+        "The McWilliams director AAS advertisement returned HTTP 403 in this follow-up. Its Interfolio page and the other Physics faculty Interfolio page returned no readable content in the first pass.",
+        "The senior director search is retained as an unresolved lead because its full appointment and deadline details could not be verified. The existing astrophysics search remains unchanged.",
+        "Coverage is limited to the named Physics faculty-list section; inaccessible advertisements prevent completion of its relevant lead review."
+      ],
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/a5ed92fc"
+      ],
+      "reviewedAt": "2026-10-28T19:54:42.203943+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -332,7 +454,15 @@
       }
     ],
     "sourceIds": [
-      "source-e1e02a466f35"
+      "source-1c71a7326096",
+      "source-4aaaf536ea0c",
+      "source-521ef59034d1",
+      "source-627a39eb7455",
+      "source-9fa09d5669a0",
+      "source-a59d4a5d82d2",
+      "source-aaf583b2c135",
+      "source-e1e02a466f35",
+      "source-f59221c06ef0"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -356,8 +486,32 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:56:41.730Z",
+      "lastFullScanAt": "2026-10-28T19:56:41.730Z",
+      "coverage": "Screened all 116 employer entries on Academic Jobs Online and read every potentially relevant astronomy, physics, and Applied and Engineering Physics faculty advertisement. Retained the existing astrophysics search. The planetary science, experimental quantum, and Applied and Engineering Physics searches do not state a high-energy physics or cosmology focus.",
+      "summary": "Reviewed all results in the stated search and read the relevant employer advertisements.",
+      "limitations": [
+        "This review covers the named public vacancy lists; other institutional opportunities may exist.",
+        "The central recruitment portal could not be read. Coverage is based on the complete 116-position Academic Jobs Online list viewed in the browser; a separate retrieval returned only a generic landing page."
+      ],
+      "evidenceUrls": [
+        "https://hr.cornell.edu/jobs",
+        "https://academicjobsonline.org/ajo/jobs/32678",
+        "https://apps.hr.cornell.edu/recruiting/facultycareer.cfm",
+        "https://academicjobsonline.org/ajo/jobs/32675",
+        "https://academicjobsonline.org/ajo/jobs/32893",
+        "https://academicjobsonline.org/ajo/jobs/32680",
+        "https://academicjobsonline.org/ajo/Cornell",
+        "https://academicjobsonline.org/ajo?joblst-0-0-2687-0-g-----",
+        "https://www.astro.cornell.edu",
+        "https://academicjobsonline.org/ajo?joblst-0-0-2687-0-g-----="
+      ],
+      "reviewedAt": "2026-10-28T20:00:12.972680+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "desy",
@@ -368,7 +522,8 @@
     "officialClassifications": [],
     "sourceIds": [
       "source-4bd35945176e",
-      "source-775e5bf850f7"
+      "source-775e5bf850f7",
+      "source-a9982f7e56c2"
     ],
     "profile": "Research institute / laboratory",
     "profileSourceUrl": "https://www.desy.de/career",
@@ -405,8 +560,22 @@
       "profileSourceUrl": "https://www.desy.de/career"
     },
     "profileCategory": "research-institute",
-    "coverageState": "source-discovered",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:37:41.219053+00:00",
+      "lastFullScanAt": "2026-10-28T19:37:41.219053+00:00",
+      "coverage": "All 33 current vacancy table rows; all Scientific titles and descriptions screened. Client filters only; all rows present in response.",
+      "summary": "Complete current DESY vacancy-table review; no new qualifying HEP faculty search.",
+      "limitations": [
+        "Bounded to current official DESY job table; fellowship/postdoc and two-year staff roles are excluded."
+      ],
+      "evidenceUrls": [
+        "https://v22.desy.de/index_eng.html"
+      ],
+      "reviewedAt": "2026-10-28T19:49:33.591652+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "durham-university",
@@ -455,8 +624,22 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3185361"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:48:06.060Z",
+      "lastFullScanAt": "2026-10-28T19:48:06.060Z",
+      "coverage": "Reviewed all results for physics (2), astronomy (1), and cosmology (1). Each list had one page, with the Next button disabled.",
+      "summary": "All three queries identified only the Quantum Light and Matter postdoctoral associate position (26001358); physics also returned an IT apprentice position. No faculty opening appeared in these current portal searches.",
+      "limitations": [
+        "Bounded current central portal keyword review. The astronomy departmental URL retains a TLS failure; unresolved historical faculty leads from the first pass remain in leads rather than being treated as open positions."
+      ],
+      "evidenceUrls": [
+        "https://durham.taleo.net/careersection/du_ext/jobsearch.ftl"
+      ],
+      "reviewedAt": "2026-10-28T19:50:14.983830+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "elte",
@@ -494,8 +677,23 @@
       "profileSourceUrl": "https://www.elte.hu/en/mission_statement_elte"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:34.332297+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:34.332297+00:00",
+      "coverage": "Single current open-vacancies list; all open entries and linked current tenure-track call inspected. Closed archive excluded from this bounded current scope.",
+      "summary": "Relevant listed vacancy sources reviewed in the stated scope.",
+      "limitations": [
+        "Closed archive not exhaustively traversed; current single open call verified. Existing duplicate records preserved."
+      ],
+      "evidenceUrls": [
+        "https://physics.elte.hu/en/vacancies",
+        "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54161"
+      ],
+      "reviewedAt": "2026-10-28T19:27:07.633247+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "igfae",
@@ -510,7 +708,8 @@
       "source-2adf0c3441b2",
       "source-6b5fcece38d9",
       "source-9b95b752b436",
-      "source-9dece7c05f96"
+      "source-9dece7c05f96",
+      "source-a91778bf9009"
     ],
     "localSearchTerms": [
       "convocatoria",
@@ -544,7 +743,32 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3207702"
     },
     "profileCategory": "research-institute",
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:26:46+00:00",
+      "lastFullScanAt": null,
+      "coverage": "Bounded review of every registered source plus available institutional-board fallbacks; incomplete coverage as detailed below.",
+      "summary": "Registered sources checked, but an adequate complete current vacancy-list scope could not be established.",
+      "limitations": [
+        "Three relevant call annex downloads require CAPTCHA; exact rank and duration could not be assessed. The director role remains a review lead rather than presumed permanent faculty."
+      ],
+      "evidenceUrls": [
+        "https://igfae.usc.es/igfae/oferta/convocatoria-direccion/",
+        "https://inspirehep.net/jobs/3207702",
+        "https://inspirehep.net/api/jobs/3207702",
+        "https://igfae.usc.es/igfae/en/oferta/director-call/",
+        "https://igfae.usc.es/igfae/en/jobs/",
+        "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-22/",
+        "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-21/",
+        "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-20/",
+        "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-19/",
+        "https://sede.usc.es/sede/publica/taboleiro/verAnuncioPublicable/148452/carga.htm",
+        "https://sede.usc.es/sede/publica/taboleiro/verAnuncioPublicable/148405/carga.htm",
+        "https://sede.usc.es/sede/publica/taboleiro/verAnuncioPublicable/148404/carga.htm"
+      ],
+      "reviewedAt": "2026-10-28T19:27:07.633247+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -573,6 +797,7 @@
       }
     ],
     "sourceIds": [
+      "source-27f3be074a12",
       "source-2a9f96ccebf3",
       "source-2da2fc47b426",
       "source-f70fc5b4d2fe"
@@ -603,7 +828,26 @@
         "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:19:08+00:00",
+      "lastFullScanAt": null,
+      "coverage": "Registered sources and bounded primary-board fallbacks attempted; full relevant vacancy-list coverage not established.",
+      "summary": "School employment page appears incomplete for the known AI search; linked instructional ad errors; central HR is HTTP 502 and INSPIRE API unreadable.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies.",
+        "School employment page appears incomplete for the known AI search; linked instructional ad errors; central HR is HTTP 502 and INSPIRE API unreadable.",
+        "Inaccessible URLs retained in source checks; no closure inferred: https://inspirehep.net/api/jobs/3198864; https://hr.gatech.edu/careers"
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3198864",
+        "https://hr.gatech.edu/careers",
+        "https://physics.gatech.edu/",
+        "https://physics.gatech.edu/about/employment"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -617,7 +861,9 @@
     "officialClassifications": [],
     "sourceIds": [
       "source-027c0a8cb93e",
-      "source-6a29a67ead4d"
+      "source-102778ff1f84",
+      "source-6a29a67ead4d",
+      "source-f303bd2d57f0"
     ],
     "localSearchTerms": [
       "johtaja",
@@ -650,8 +896,22 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3200481"
     },
     "profileCategory": "research-institute",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:38:26.473Z",
+      "lastFullScanAt": "2026-10-28T19:38:26.473Z",
+      "coverage": "Unfiltered current university vacancy list: all 24 positions inspected after activating Show more; no further results control remains visible.",
+      "summary": "No HEP/cosmology/adjacent or broad-physics faculty vacancy in the current central list. The only quantum-computing role is explicitly postdoctoral.",
+      "limitations": [
+        "Bounded to the explicitly inspected central board/query; does not assert an exhaustive global or historic search."
+      ],
+      "evidenceUrls": [
+        "https://www.helsinki.fi/en/about-us/careers/open-positions"
+      ],
+      "reviewedAt": "2026-10-28T19:49:33.591652+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "hkust",
@@ -665,6 +925,7 @@
     "sourceIds": [
       "source-02b3e5972587",
       "source-0a4852140122",
+      "source-565607abe2f3",
       "source-b49e390adb23"
     ],
     "localSearchTerms": [],
@@ -674,8 +935,25 @@
       "longitude": null,
       "verification": "not-geocoded"
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "Physics department current Jobs page, all six calls.",
+      "summary": "Listed vacancy sources reviewed; HEP leads retained for cycle review.",
+      "limitations": [
+        "HEP calls still lack explicit 2026–27 cycle evidence; presence on current page alone does not resolve this."
+      ],
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/29810",
+        "https://academicjobsonline.org/ajo/jobs/29808",
+        "https://academicjobsonline.org/ajo/jobs/29809",
+        "https://physics.hkust.edu.hk/jobs"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "ictp-saifr",
@@ -688,6 +966,7 @@
     "officialClassifications": [],
     "sourceIds": [
       "source-2a0497a7a4c4",
+      "source-a3071aae25d7",
       "source-aeaee72997fa"
     ],
     "localSearchTerms": [
@@ -723,8 +1002,25 @@
       "profileSourceUrl": "https://www.ictp-saifr.org/"
     },
     "profileCategory": "research-institute",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:47:06+00:00",
+      "lastFullScanAt": "2026-10-28T19:47:06+00:00",
+      "coverage": "The institute homepage Jobs navigation is the named vacancy list: Simons-FAPESP Research Professor and Scientific Visits. The faculty body was read; visits are outside faculty scope. No pagination or other Jobs entries. This scope excludes separate IFT/UNESP-wide competitions.",
+      "summary": "Completed the stated bounded recruitment-list scope.",
+      "limitations": [
+        "Review is limited to the named public lists and relevant roles; no claim of all possible institutional openings.",
+        "Separate IFT/UNESP-wide competitions are outside this center Jobs-menu scope. Scientific-visit detail timed out; visits are outside faculty scope."
+      ],
+      "evidenceUrls": [
+        "https://www.ictp-saifr.org/simonsfapesp2026/",
+        "https://www.ictp-saifr.org/scientific-visit/",
+        "https://www.ictp-saifr.org/"
+      ],
+      "reviewedAt": "2026-10-28T19:54:42.203943+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "imperial-college-london",
@@ -743,6 +1039,7 @@
       "source-71fe417d1501",
       "source-7368325cdc63",
       "source-871cca6e5500",
+      "source-922cdac5a1e4",
       "source-e73c40f72b53",
       "source-e94d0521847e",
       "source-fad02182d75d"
@@ -780,8 +1077,22 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3215354"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:44:05.516Z",
+      "lastFullScanAt": "2026-10-28T19:44:05.516Z",
+      "coverage": "Browser queries completed for physics (all 14 results, Show more exhausted), astronomy (0), cosmology (0).",
+      "summary": "Completed the current physics, astronomy, and cosmology vacancy searches. The only faculty opening was the already-mapped Particle Physics search (job 29599); remaining results were doctoral, postdoctoral, support, or unrelated research jobs.",
+      "limitations": [
+        "Bounded to the explicitly inspected central board/query; does not assert an exhaustive global or historic search."
+      ],
+      "evidenceUrls": [
+        "https://www.imperial.ac.uk/jobs/search-jobs/"
+      ],
+      "reviewedAt": "2026-10-28T19:49:33.591652+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "iit-madras",
@@ -793,6 +1104,12 @@
     "profileSourceUrl": "https://facapp.iitm.ac.in/2026ra/",
     "officialClassifications": [],
     "sourceIds": [
+      "source-198898899ed7",
+      "source-2049783e7a38",
+      "source-6b95102e3231",
+      "source-6fc7710e5cad",
+      "source-9ba1ec81e1c4",
+      "source-b844a9ba1236",
       "source-c1a5488a47c1"
     ],
     "localSearchTerms": [
@@ -824,7 +1141,27 @@
       "profileSourceUrl": "https://facapp.iitm.ac.in/2026ra/"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:41:59Z",
+      "lastFullScanAt": null,
+      "coverage": "External faculty index and physics recruitment page completed; new MBS landing/sign-in route and guidance inspected.",
+      "summary": "External physics search is explicitly closed. New MBS route requires existing LDAP credentials; external eligibility cannot be established.",
+      "limitations": [
+        "MBS/2/2026 detailed eligibility is behind authentication. It appears internal, but this is not asserted as a verified fact. No new vacancy inferred."
+      ],
+      "evidenceUrls": [
+        "https://mbsfacapp.iitm.ac.in/",
+        "https://web.iitm.ac.in/admin/opportunities.html",
+        "https://facapp.iitm.ac.in/",
+        "https://mbsfacapp.iitm.ac.in/mbs26/",
+        "https://www.iitm.ac.in/sites/default/files/Others/Faculty-Recruitment-handbook.pdf",
+        "https://physics.iitm.ac.in/facultyrecruitment.html",
+        "https://facapp.iitm.ac.in/2026ra/"
+      ],
+      "reviewedAt": "2026-10-28T19:45:50.725231+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -838,7 +1175,9 @@
     "officialClassifications": [],
     "sourceIds": [
       "source-3d0ed61561ac",
-      "source-55231d7006aa"
+      "source-4b910fd737a5",
+      "source-55231d7006aa",
+      "source-cfaef6d207a0"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -857,8 +1196,26 @@
       "profileSourceUrl": "https://www.ifae.es/about/at-a-glance/"
     },
     "profileCategory": "research-institute",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:21:17.489683+00:00",
+      "lastFullScanAt": "2026-10-28T19:21:17.489683+00:00",
+      "coverage": "All entries across page 1 and page 2 of current jobs archive; page 2 has only Previous and no Next.; Second and final page of the current jobs archive, all entries screened.",
+      "summary": "Both pages of the public vacancy list reviewed. July GW-specific RyC advert overlaps the later general RyC 2026 call; no distinct additional search established.",
+      "limitations": [
+        "Bounded to the current two-page jobs archive. The September general call expressly includes experimental gravitational-wave research and an October 16 host EOI date. No evidence establishes a separately open July GW route; existing deadline facts are preserved."
+      ],
+      "evidenceUrls": [
+        "https://www.ifae.es/careers/",
+        "https://www.ifae.es/careers/jobs/2026/09/call-for-expressions-of-interest-ramon-y-cajal-fellowship-programme-2026/",
+        "https://www.ifae.es/careers/jobs/",
+        "https://www.ifae.es/careers/jobs/page/2/",
+        "https://www.ifae.es/careers/jobs/2026/07/ramon-y-cajal-fellowship-programme-2026-tenure-track-position-in-gravitational-wave-physics-at-ifae/"
+      ],
+      "reviewedAt": "2026-10-28T19:32:30.882706+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "ihep-cas",
@@ -872,8 +1229,23 @@
     "profileSourceUrl": "https://english.ihep.cas.cn/ju/jo/index.html",
     "officialClassifications": [],
     "sourceIds": [
+      "source-08922ee3c1ba",
+      "source-22faf5aa715c",
+      "source-36b19483d408",
       "source-3d9c9a305a95",
-      "source-91cad0559e95"
+      "source-40ed279b1902",
+      "source-546ee32f4af1",
+      "source-5503ea4a813c",
+      "source-7aa55634f621",
+      "source-91cad0559e95",
+      "source-a4e176f8af0e",
+      "source-b36141b5cd17",
+      "source-bfc57f35426c",
+      "source-d0064285e7b3",
+      "source-d2dfc4cfe02f",
+      "source-e001da596b39",
+      "source-e00b41715349",
+      "source-f31fb8133e84"
     ],
     "localSearchTerms": [
       "人才招聘",
@@ -910,8 +1282,39 @@
       "profileSourceUrl": "https://english.ihep.cas.cn/ju/jo/index.html"
     },
     "profileCategory": "research-institute",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:42:57Z",
+      "lastFullScanAt": "2026-10-28T19:42:57Z",
+      "coverage": "Bounded 2026-posted scope: 19 Chinese establishment notices, 45 nonestablishment notices and five English 2026 notices. Relevant faculty/research calls and all 21 rows of the eight-page annual Beijing table read. English page 2 confirms date boundary.",
+      "summary": "Completed review of the stated 2026-posted lists; research and faculty leads retained for appointment-route/campus deduplication.",
+      "limitations": [
+        "This is not a refresh of all 80 historical English notices or all older Chinese rolling calls.",
+        "Some established scientific staff positions lack explicit faculty-equivalent ranks. Broad faculty call spans several campuses and overlaps targeted calls; no guessed new map points or duplicate promotions."
+      ],
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202605/t20260506_8196218.html",
+        "https://ihep.cas.cn/zszp/zpxx/fzbzp/",
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202606/t20260601_8211833.html",
+        "https://ihep.cas.cn/zszp/zpxx/",
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202605/t20260506_8196055.html",
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202603/t20260319_8161479.html",
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/",
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260410_8184544.html",
+        "https://english.ihep.cas.cn/ju/jo/index.html",
+        "https://english.ihep.cas.cn/ju/jo/202510/t20251011_1089295.html",
+        "https://ihep.cas.cn/zszp/zpxx/fzbzp/202610/t20261027_8298865.html",
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202603/P020260319371298377441.pdf",
+        "https://english.ihep.cas.cn/ju/jo/index_1.html",
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260403_8181071.html",
+        "https://ihep.cas.cn/zszp/zpxx/fzbzp/202610/t20261023_8296929.html",
+        "https://english.ihep.cas.cn/ju/jo/202603/t20260324_1153693.html",
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260403_8181080.html"
+      ],
+      "reviewedAt": "2026-10-28T19:45:50.725231+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "iop-bhubaneswar",
@@ -958,8 +1361,23 @@
       "profileSourceUrl": "https://www.iopb.res.in/job/2026/Faculty_Advt_App_JAN_26.pdf"
     },
     "profileCategory": "research-institute",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "Current openings list and linked HEP faculty announcement.",
+      "summary": "Listed vacancy sources reviewed; existing HEP faculty call retained.",
+      "limitations": [
+        "Past Jobs archive not surveyed; existing expired records preserved."
+      ],
+      "evidenceUrls": [
+        "https://www.iopb.res.in/job-opening/",
+        "https://www.iopb.res.in/job_opening/hep-faculty-advertisement/"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "james-madison",
@@ -987,7 +1405,12 @@
       }
     ],
     "sourceIds": [
+      "source-20b204f422a2",
+      "source-59abf896e8f8",
+      "source-70769475c860",
       "source-7351354ac384",
+      "source-77c98a46829b",
+      "source-c20571552e35",
       "source-de60cbacd041"
     ],
     "localSearchTerms": [
@@ -1016,8 +1439,26 @@
         "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:49:26+00:00",
+      "lastFullScanAt": "2026-10-28T19:49:26+00:00",
+      "coverage": "Entire employer-posted JMU Physics and Astronomy AJO list, exactly one position; full current advertisement read. No pagination.",
+      "summary": "Completed the stated bounded recruitment-list scope.",
+      "limitations": [
+        "Review is limited to the named public lists and relevant roles; no claim of all possible institutional openings.",
+        "Completeness is for the employer-posted AJO recruitment list; central HR portal coverage remains unverified."
+      ],
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/James%20Madison%20University/Department%20of%20Physics%20and%20Astronomy",
+        "https://academicjobsonline.org/ajo/James%20Madison%20University",
+        "https://www.jmu.edu/physics/employment-opps.shtml",
+        "https://academicjobsonline.org/ajo/jobs/32960"
+      ],
+      "reviewedAt": "2026-10-28T19:54:42.203943+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "jilin-university",
@@ -1029,7 +1470,12 @@
     "profileSourceUrl": null,
     "officialClassifications": [],
     "sourceIds": [
-      "source-1504cbd84660"
+      "source-1504cbd84660",
+      "source-24e5e4faae16",
+      "source-3bee74ff9505",
+      "source-40c4dc00ea0d",
+      "source-d4c16030a61a",
+      "source-ebfd5336f40f"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -1038,7 +1484,28 @@
       "longitude": null,
       "verification": "not-geocoded"
     },
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:43:30Z",
+      "lastFullScanAt": null,
+      "coverage": "2026 general faculty announcement and full existing HEP employer ad read; first-pass talent board reviewed. General careers portal is in scheduled maintenance; role-table download requires CAPTCHA.",
+      "summary": "Public evidence improved, but full current faculty-role list remains inaccessible.",
+      "limitations": [
+        "General careers portal maintenance (22:00–06:00 China time) prevented inspection.",
+        "Attached 2026 role spreadsheet requires CAPTCHA; not bypassed.",
+        "One-year INSPIRE metadata expiry is not an employer deadline."
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3181469",
+        "https://inspirehep.net/api/jobs/3181469",
+        "https://www.jlu.edu.cn/info/1095/57563.m.htm",
+        "https://www.jlu.edu.cn/system/_content/download.jsp?owner=1180385364&urltype=news.DownloadAttachUrl&wbfileid=1341778",
+        "https://zprcb.jlu.edu.cn/talent-sys/public/home",
+        "https://careers.jlu.edu.cn/"
+      ],
+      "reviewedAt": "2026-10-28T19:45:50.725231+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -1051,6 +1518,8 @@
     "profileSourceUrl": "https://www.kek.jp/en/career/ipns26-1e",
     "officialClassifications": [],
     "sourceIds": [
+      "source-162be672afd7",
+      "source-553802c0f38d",
       "source-c4ac888fa0a5"
     ],
     "localSearchTerms": [
@@ -1083,8 +1552,24 @@
       "profileSourceUrl": "https://www.kek.jp/en/career/ipns26-1e"
     },
     "profileCategory": "research-institute",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "KEK current researcher recruitment list across its campuses.",
+      "summary": "Listed vacancy sources reviewed; one additional accelerator faculty call identified.",
+      "limitations": [
+        "No claim of a complete historical KEK archive. ACCL26-4 location remains Tsukuba or Tokai and is not assigned a guessed coordinate."
+      ],
+      "evidenceUrls": [
+        "https://www.kek.jp/en/career/ipns26-1e",
+        "https://www.kek.jp/en/career/imss26-2e",
+        "https://www.kek.jp/en/career/classification/researcher"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "kek-tsukuba",
@@ -1096,6 +1581,10 @@
     "profileSourceUrl": "https://www.kek.jp/en/career/accl-26-5e",
     "officialClassifications": [],
     "sourceIds": [
+      "source-083231bec761",
+      "source-0e5037a7d40b",
+      "source-162be672afd7",
+      "source-1cf295615ed6",
       "source-eca436765c3c"
     ],
     "localSearchTerms": [
@@ -1127,8 +1616,26 @@
       "profileSourceUrl": "https://www.kek.jp/en/career/accl-26-5e"
     },
     "profileCategory": "research-institute",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "KEK current researcher recruitment list across its campuses.",
+      "summary": "Listed vacancy sources reviewed; one additional accelerator faculty call identified.",
+      "limitations": [
+        "No claim of a complete historical KEK archive. ACCL26-4 location remains Tsukuba or Tokai and is not assigned a guessed coordinate."
+      ],
+      "evidenceUrls": [
+        "https://www.kek.jp/en/career/accl-26-5e",
+        "https://www.kek.jp/en/career/imss26-3e",
+        "https://www.kek.jp/en/guide/guide07",
+        "https://www.kek.jp/en/career/classification/researcher",
+        "https://www.kek.jp/en/career/accl26-2e"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "kek-multicampus",
@@ -1140,6 +1647,7 @@
     "profileSourceUrl": null,
     "officialClassifications": [],
     "sourceIds": [
+      "source-162be672afd7",
       "source-c94dbc10d72c"
     ],
     "localSearchTerms": [],
@@ -1149,8 +1657,23 @@
       "longitude": null,
       "verification": "not-geocoded"
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "KEK current researcher recruitment list across its campuses.",
+      "summary": "Listed vacancy sources reviewed; one additional accelerator faculty call identified.",
+      "limitations": [
+        "No claim of a complete historical KEK archive. ACCL26-4 location remains Tsukuba or Tokai and is not assigned a guessed coordinate."
+      ],
+      "evidenceUrls": [
+        "https://www.kek.jp/en/career/accl26-4e",
+        "https://www.kek.jp/en/career/classification/researcher"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "kavli-ipmu",
@@ -1199,8 +1722,22 @@
       "profileSourceUrl": "https://www.ipmu.jp/en/place-and-people"
     },
     "profileCategory": "research-institute",
-    "coverageState": "source-discovered",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "Current institute Job Opportunities page.",
+      "summary": "Listed vacancy sources reviewed; no current faculty vacancy found.",
+      "limitations": [
+        "Does not imply absence of future or unadvertised searches."
+      ],
+      "evidenceUrls": [
+        "https://www.ipmu.jp/en/job-opportunities"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "cnrs-l2it",
@@ -1214,6 +1751,7 @@
     "sourceIds": [
       "source-0efa84149b59",
       "source-5ae0521ebfb6",
+      "source-d732b60e293e",
       "source-f0cfe82487f5"
     ],
     "localSearchTerms": [
@@ -1247,8 +1785,25 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3183025"
     },
     "profileCategory": "research-institute",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:21:17.746535+00:00",
+      "lastFullScanAt": "2026-10-28T19:21:17.746535+00:00",
+      "coverage": "Single laboratory vacancy list, including the sole current scientific offer and explicit deadline.",
+      "summary": "Relevant listed vacancy sources reviewed in the stated scope.",
+      "limitations": [
+        "Single laboratory jobs page only; broader CNRS competition assessed separately. No closure inferred from unavailable CNRS ad."
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3183025",
+        "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-024/Default.aspx?lang=EN",
+        "https://inspirehep.net/jobs/3183025",
+        "https://www.l2it.in2p3.fr/en/emplois-et-stages/"
+      ],
+      "reviewedAt": "2026-10-28T19:27:07.633247+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "lehigh",
@@ -1276,7 +1831,9 @@
       }
     ],
     "sourceIds": [
-      "source-8afad470e8a7"
+      "source-0bbb01cd7e99",
+      "source-8afad470e8a7",
+      "source-ac76661b07d9"
     ],
     "localSearchTerms": [
       "faculty",
@@ -1304,8 +1861,25 @@
         "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:15:09+00:00",
+      "lastFullScanAt": "2026-10-28T19:15:09+00:00",
+      "coverage": "Single university faculty list; all listed entries screened, Physics astrophysics detail read; no pagination.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies.",
+        "Inaccessible URLs retained in source checks; no closure inferred: https://inspirehep.net/api/jobs/3215688"
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3215688",
+        "https://facultyjobs.lehigh.edu/faculty",
+        "https://facultyjobs.lehigh.edu/node/1338"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "louisiana-state-university",
@@ -1334,6 +1908,8 @@
     ],
     "sourceIds": [
       "source-2e8b4d085694",
+      "source-3a195e767849",
+      "source-8c5c64b731c6",
       "source-be8a49d2a900"
     ],
     "localSearchTerms": [],
@@ -1358,7 +1934,24 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:46:08+00:00",
+      "lastFullScanAt": null,
+      "coverage": "First pass read the Physics and Astronomy homepage and HR careers landing page. Follow-up attempted the current gravity/astrophysics Workday advertisement and the official quantum cluster-hiring page.",
+      "summary": "The employer vacancy results could not be enumerated, and the follow-up advertisement pages remained unreadable.",
+      "limitations": [
+        "The Workday gravity/astrophysics advertisement returned an empty page, and the official quantum cluster-hiring page was inaccessible in this follow-up.",
+        "A complete Physics and Astronomy vacancy list, including all Workday results and any pagination, has not been inspected.",
+        "Search-index excerpts were treated only as leads; they did not change existing deadlines, vacancy status, or other catalog facts."
+      ],
+      "evidenceUrls": [
+        "https://lsu.wd1.myworkdayjobs.com/en-US/LSU/job/Open-Rank--Tenure-track-Assistant-Professor--Tenure-track-Associate-Professor-or-Professor--Theoretical-Gravity-Physics-_R00121003",
+        "https://www.lsu.edu/science/quantum-hires.php"
+      ],
+      "reviewedAt": "2026-10-28T19:54:42.203943+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -1385,6 +1978,7 @@
       }
     ],
     "sourceIds": [
+      "source-bd4e952202e6",
       "source-d06c4534a738",
       "source-fbd0cce5ef6d"
     ],
@@ -1410,8 +2004,24 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:11+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:11+00:00",
+      "coverage": "CTP single opportunities page; faculty and postdoctoral sections inspected. | Single physics employment list; both faculty searches inspected (theoretical physics and experimental quantum science). No faculty-list pagination.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/job-opportunities/",
+        "https://physics.mit.edu/about-physics/employment-opportunities/",
+        "https://academicjobsonline.org/ajo/jobs/33086"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "mcgill",
@@ -1423,7 +2033,8 @@
     "profileSourceUrl": "https://www.mcgill.ca/about/",
     "officialClassifications": [],
     "sourceIds": [
-      "source-76b9168ae78b"
+      "source-76b9168ae78b",
+      "source-98d3ce503398"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -1449,8 +2060,23 @@
       "profileSourceUrl": "https://www.mcgill.ca/about/"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:11+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:11+00:00",
+      "coverage": "Single physics faculty-positions page; both faculty entries screened, astrophysics detail followed; theoretical biophysics is outside this catalog scope.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://www.physics.mcgill.ca/pos/",
+        "https://www.physics.mcgill.ca/pos/astro-06-en.html"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "national-cheng-kung",
@@ -1462,7 +2088,8 @@
     "profileSourceUrl": null,
     "officialClassifications": [],
     "sourceIds": [
-      "source-746beb9c0b1b"
+      "source-746beb9c0b1b",
+      "source-87b1907006c6"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -1471,8 +2098,23 @@
       "longitude": null,
       "verification": "not-geocoded"
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "Department career list and employer AJO32429.",
+      "summary": "Listed vacancy sources reviewed; no new distinct search.",
+      "limitations": [
+        "AJO no longer accepts applications while body gives priority date and email alternative. Current availability remains unresolved."
+      ],
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32429",
+        "https://www.phys.ncku.edu.tw/news/career/"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "national-taiwan-university",
@@ -1485,6 +2127,7 @@
     "officialClassifications": [],
     "sourceIds": [
       "source-23b8ab2e6730",
+      "source-a8224d875a1d",
       "source-f149cb86e5f4"
     ],
     "localSearchTerms": [],
@@ -1512,8 +2155,24 @@
       ]
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "Department news recruitment notices for 2026–27 and linked faculty call.",
+      "summary": "Listed vacancy sources reviewed; existing date discrepancy retained.",
+      "limitations": [
+        "Department October 14 and AJO October 13 deadline discrepancy is unresolved; no promotion from needs-review."
+      ],
+      "evidenceUrls": [
+        "https://phys.ntu.edu.tw/News_Content_n_39670_s_264091.html",
+        "https://www.phys.ntu.edu.tw/enphysics/Default.html",
+        "https://www.phys.ntu.edu.tw/enphysics/Latestnews.html"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "national-tsing-hua-university",
@@ -1525,7 +2184,17 @@
     "profileSourceUrl": "https://phys.site.nthu.edu.tw/index.php?Lang=en",
     "officialClassifications": [],
     "sourceIds": [
-      "source-30e387666a6b"
+      "source-1b0c5db932c5",
+      "source-291b9b42ca9d",
+      "source-30e387666a6b",
+      "source-60a0ea6e1b87",
+      "source-6d883cea149d",
+      "source-904b9ca6a039",
+      "source-9c5f6a06f1ca",
+      "source-cc2d95d60065",
+      "source-cce3876f7389",
+      "source-d35eaad3806e",
+      "source-e8135e220bb7"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -1552,8 +2221,32 @@
       ]
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:41:59Z",
+      "lastFullScanAt": "2026-10-28T19:41:59Z",
+      "coverage": "All six physics-department announcement pages, 69 titles, screened; current faculty ad and potentially confusing old leadership call read.",
+      "summary": "Completed department recruitment-list scope; current October 31 faculty round confirmed.",
+      "limitations": [
+        "Department announcements scope only; older leadership calls are outside this application cycle."
+      ],
+      "evidenceUrls": [
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-6.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/p/450-1335-267435,c0.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/",
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-5.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-2.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-4.php?Lang=zh-tw",
+        "https://academicjobsonline.org/ajo/jobs/32613",
+        "https://phys.site.nthu.edu.tw/p/406-1335-309567,r3568.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-1.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-3.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/index.php?Lang=en"
+      ],
+      "reviewedAt": "2026-10-28T19:45:50.725231+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "national-yang-ming-chiao-tung",
@@ -1565,7 +2258,11 @@
     "profileSourceUrl": "https://phys.nycu.edu.tw/faculty-position-iop-nycu/",
     "officialClassifications": [],
     "sourceIds": [
-      "source-3b98e68ca141"
+      "source-236c3105e6fe",
+      "source-3b98e68ca141",
+      "source-406226a10ed4",
+      "source-7c1ef0720090",
+      "source-7dc541b104d7"
     ],
     "localSearchTerms": [
       "faculty",
@@ -1596,8 +2293,26 @@
       "profileSourceUrl": "https://phys.nycu.edu.tw/faculty-position-iop-nycu/"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:37:30Z",
+      "lastFullScanAt": "2026-10-28T19:37:30Z",
+      "coverage": "All 23 recruitment-category entries across all three pages read, with current June 29 faculty advertisement already read in first pass.",
+      "summary": "Completed departmental recruitment archive; no additional current-cycle institute faculty call.",
+      "limitations": [
+        "External industry/postdoc/student and older external-university notices are excluded from this institution’s current faculty inventory."
+      ],
+      "evidenceUrls": [
+        "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/page/3/",
+        "https://phys.nycu.edu.tw/faculty-position-iop-nycu/",
+        "https://phys.nycu.edu.tw/",
+        "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/",
+        "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/page/2/"
+      ],
+      "reviewedAt": "2026-10-28T19:45:50.725231+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "nuclear-physics-institute-cas",
@@ -1626,8 +2341,24 @@
       "longitude": null,
       "verification": "not-geocoded"
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:36.112941+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:36.112941+00:00",
+      "coverage": "Full single-page institute vacancy list; director and all displayed scientist/postdoctoral roles inspected. No pagination.",
+      "summary": "Relevant listed vacancy sources reviewed in the stated scope.",
+      "limitations": [
+        "Director is a fixed-term leadership appointment, not clearly permanent faculty-equivalent. No rank promotion made."
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3219186",
+        "https://www.ujf.cas.cz/en/about-institute/Career/job-offers/",
+        "https://inspirehep.net/jobs/3219186"
+      ],
+      "reviewedAt": "2026-10-28T19:27:07.633247+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "penn-state-university-park",
@@ -1655,7 +2386,9 @@
       }
     ],
     "sourceIds": [
-      "source-92298534f83f"
+      "source-92298534f83f",
+      "source-cf0a13e01f21",
+      "source-de00024c8380"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -1680,8 +2413,24 @@
         "Matched Pennsylvania State University-Main Campus at University Park."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:11+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:11+00:00",
+      "coverage": "All five employer AJO entries; two Physics faculty advertisements read and recognised as rank-specific postings for one broad search; other entries screened. Single page.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/PennState",
+        "https://academicjobsonline.org/ajo/jobs/32889",
+        "https://academicjobsonline.org/ajo/jobs/32892"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "scripps-pitzer-natural-sciences",
@@ -1724,10 +2473,12 @@
       }
     ],
     "sourceIds": [
+      "source-e048112ebd89",
       "source-f55836612e80"
     ],
     "localSearchTerms": [],
     "notes": [
+      "Joint department: each college retains its own official classification. Do not treat the consortium as a Carnegie institution.",
       "Joint department: each college retains its own official classification. Do not treat the consortium as a Carnegie institution."
     ],
     "location": {
@@ -1752,8 +2503,23 @@
         "Approximate joint-campus marker: arithmetic midpoint of the official IPEDS locations for Scripps College and Pitzer College. The two colleges are adjacent in Claremont; this is not an asserted department-building location."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:11+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:11+00:00",
+      "coverage": "Single current Scripps faculty vacancy index, all entries screened for joint Pitzer/Scripps Natural Sciences astrophysics; linked current astrophysics advertisement read.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://www.scrippscollege.edu/hr/faculty",
+        "https://www.scrippscollege.edu/hr/faculty/tenure-track-position-in-astrophysics-in-the-department-of-natural-sciences-pitzer-and-scripps-colleges"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "purdue",
@@ -1782,7 +2548,8 @@
     ],
     "sourceIds": [
       "source-72ddb0dd1611",
-      "source-748b937d1a45"
+      "source-748b937d1a45",
+      "source-e53fdad2cca6"
     ],
     "localSearchTerms": [
       "faculty",
@@ -1810,8 +2577,24 @@
         "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:26:56+00:00",
+      "lastFullScanAt": "2026-10-28T19:26:56+00:00",
+      "coverage": "Entire department positions page: faculty section lists experimental relativistic heavy-ion search; other sections screened.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://www.physics.purdue.edu/",
+        "https://academicjobsonline.org/ajo/jobs/32648",
+        "https://www.physics.purdue.edu/about/positions/index.html"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "rwth-aachen",
@@ -1825,7 +2608,8 @@
     "sourceIds": [
       "source-2426aa49dd3f",
       "source-7a82a261843f",
-      "source-7b59da0047d3"
+      "source-7b59da0047d3",
+      "source-a42ddf0e6cd1"
     ],
     "localSearchTerms": [
       "Professur",
@@ -1858,8 +2642,22 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3185307"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:44:49.206Z",
+      "lastFullScanAt": "2026-10-28T19:44:49.206Z",
+      "coverage": "All public Available Positions cards read; one card and no pagination/filter controls.",
+      "summary": "The only current public position is Architecture: Structure Material Resource, W2 with tenure track to W3, with a deadline of 15 November 2026. No physics vacancy appears in this professor appointment list.",
+      "limitations": [
+        "Bounded to the explicitly inspected central board/query; does not assert an exhaustive global or historic search."
+      ],
+      "evidenceUrls": [
+        "https://www.berufungsportal.rwth-aachen.de/"
+      ],
+      "reviewedAt": "2026-10-28T19:49:33.591652+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "rice-university",
@@ -1885,7 +2683,10 @@
       }
     ],
     "sourceIds": [
-      "source-6acec7cd59f6"
+      "source-03cb0a76e99e",
+      "source-4888263dabf6",
+      "source-6acec7cd59f6",
+      "source-8f18190062fd"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -1909,8 +2710,25 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:19:52+00:00",
+      "lastFullScanAt": "2026-10-28T19:19:52+00:00",
+      "coverage": "All 14 Rice employer AJO entries, including Physics & Astronomy and Faculty Development; duplicated astronomy/astro-particle call recognised; experimental AMO titles screened. | Entire short department positions page, currently showing only a postdoctoral associate; AJO supplements incomplete department publicity.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://physics.rice.edu",
+        "https://academicjobsonline.org/ajo/Rice",
+        "https://academicjobsonline.org/ajo/jobs/33162",
+        "https://physics.rice.edu/open-positions"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "sgt-university",
@@ -1922,7 +2740,9 @@
     "profileSourceUrl": "https://inspirehep.net/jobs/3190489",
     "officialClassifications": [],
     "sourceIds": [
-      "source-28440de2153b"
+      "source-28440de2153b",
+      "source-73757e2bbd64",
+      "source-fd9c424c9779"
     ],
     "localSearchTerms": [
       "faculty",
@@ -1953,8 +2773,24 @@
       "profileSourceUrl": "https://inspirehep.net/jobs/3190489"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "All three central careers entries and the known CCSP faculty advertisement, recovered through the public API.",
+      "summary": "Completed the stated central-list and known faculty-ad scope; existing foreign-faculty search confirmed.",
+      "limitations": [
+        "Rank and appointment duration remain unspecified in the employer ad."
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3190489",
+        "https://inspirehep.net/api/jobs/3190489",
+        "https://sgtuniversity.ac.in/careers"
+      ],
+      "reviewedAt": "2026-10-28T19:45:50.725231+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "srm-university-ap",
@@ -1998,8 +2834,24 @@
       "profileSourceUrl": "https://www.srmap.edu.in/careers/"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:43:12Z",
+      "lastFullScanAt": "2026-10-28T19:43:12Z",
+      "coverage": "Entire current public careers page plus parent visual inspection of its linked January 2026 faculty poster at 19:38:39.736 UTC.",
+      "summary": "Completed public careers-page scope. January poster closes February 15, 2026 and does not establish a newly open current-cycle vacancy.",
+      "limitations": [
+        "Generic year-round webpage wording conflicts with the linked poster’s dated deadline; no reopening or new distinct physics search is inferred.",
+        "Existing targeted HEP search remains unchanged; poster is not treated as a closure of that separate record."
+      ],
+      "evidenceUrls": [
+        "https://www.srmap.edu.in/wp-content/uploads/2026/01/recruitment-ad-srmap.jpeg",
+        "https://www.srmap.edu.in/careers/"
+      ],
+      "reviewedAt": "2026-10-28T19:45:50.725231+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "shinshu-university",
@@ -2011,7 +2863,12 @@
     "profileSourceUrl": "https://www.shinshu-u.ac.jp/faculty/science/others/assets/92832d2b77bb4a17439347ad5bddff93.pdf",
     "officialClassifications": [],
     "sourceIds": [
-      "source-1d920f643fd8"
+      "source-09f03ecc5112",
+      "source-0b2176be27a0",
+      "source-1d920f643fd8",
+      "source-425f34ac7a47",
+      "source-a758a17514fb",
+      "source-f34080163a2c"
     ],
     "localSearchTerms": [
       "faculty",
@@ -2042,8 +2899,27 @@
       "profileSourceUrl": "https://www.shinshu-u.ac.jp/faculty/science/others/assets/92832d2b77bb4a17439347ad5bddff93.pdf"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "Japanese and English Faculty of Science recruitment pages.",
+      "summary": "Listed vacancy sources reviewed; existing HEP call remains archived.",
+      "limitations": [
+        "English and Japanese pages are not synchronized; Japanese page supplies the current HEP closure evidence."
+      ],
+      "evidenceUrls": [
+        "https://www.shinshu-u.ac.jp/faculty/science/others/assets/92832d2b77bb4a17439347ad5bddff93.pdf",
+        "https://www.shinshu-u.ac.jp/faculty/science/",
+        "https://www.shinshu-u.ac.jp/guidance/office-worker/",
+        "https://www.shinshu-u.ac.jp/faculty/science/faculty/index.html",
+        "https://www.shinshu-u.ac.jp/faculty/science/others/recruitment.html",
+        "https://www.shinshu-u.ac.jp/faculty/science/en/others/recruitment.html"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "simon-fraser",
@@ -2091,8 +2967,22 @@
       "profileSourceUrl": "https://www.sfu.ca/physics/about-us/employment/"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:23:52+00:00",
+      "lastFullScanAt": "2026-10-28T19:23:52+00:00",
+      "coverage": "Single Physics employment page: tenure-track, teaching faculty, postdoctoral, research, and sessional sections inspected; continuing lecturer call read in full.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://www.sfu.ca/physics/about-us/employment/"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "southern-methodist",
@@ -2121,6 +3011,7 @@
     ],
     "sourceIds": [
       "source-24d351b75b24",
+      "source-70288d2f51b1",
       "source-dcd62b1d3882"
     ],
     "localSearchTerms": [
@@ -2149,8 +3040,25 @@
         "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:19:18+00:00",
+      "lastFullScanAt": "2026-10-28T19:19:18+00:00",
+      "coverage": "Single Dedman college faculty list; all tenured, tenure-track and teaching categories screened. Physics chair is the sole relevant entry.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies.",
+        "Inaccessible URLs retained in source checks; no closure inferred: https://www.physics.smu.edu/"
+      ],
+      "evidenceUrls": [
+        "https://www.physics.smu.edu/",
+        "https://academicjobsonline.org/ajo/jobs/32733",
+        "https://www.smu.edu/dedman/about/employment"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "tifr-mumbai",
@@ -2203,8 +3111,27 @@
       "profileSourceUrl": "https://main.tifr.res.in/portal/work_at_tifr.php"
     },
     "profileCategory": "research-institute",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "Main-campus central list plus theory and experimental HEP departmental vacancy pages.",
+      "summary": "Listed vacancy sources reviewed; no new distinct faculty search.",
+      "limitations": [
+        "Legacy /positions endpoint exceeded extraction limit; www.theory endpoint timed out but non-www equivalent read. Scope excludes other TIFR campuses."
+      ],
+      "evidenceUrls": [
+        "https://www.theory.tifr.res.in/jobs.html",
+        "https://main.tifr.res.in/portal/work_at_tifr.php",
+        "https://www.tifr.res.in/dhep/facultyPositions.php",
+        "https://theory.tifr.res.in/jobs.html",
+        "https://www.tifr.res.in/positions",
+        "https://main.tifr.res.in/maincampus/careers.php"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "tennessee-tech",
@@ -2230,6 +3157,7 @@
       }
     ],
     "sourceIds": [
+      "source-69745461e3ff",
       "source-ac612f46fb18"
     ],
     "localSearchTerms": [],
@@ -2254,8 +3182,24 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:53:37.158Z",
+      "lastFullScanAt": "2026-10-28T19:53:37.158Z",
+      "coverage": "Loaded and screened all 47 university jobs in the browser and read the full advertisement for position 26059. The only relevant Physics faculty search is already catalogued, with a December 15 priority deadline and an August 2027 start.",
+      "summary": "Reviewed all results in the stated search and read the relevant employer advertisements.",
+      "limitations": [
+        "This review covers the named public vacancy lists; other institutional opportunities may exist."
+      ],
+      "evidenceUrls": [
+        "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/preview/26059/?keyword=physics",
+        "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=physics",
+        "https://jobs.tntech.edu/"
+      ],
+      "reviewedAt": "2026-10-28T19:55:48.181815+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "ohio-state",
@@ -2286,7 +3230,15 @@
     ],
     "sourceIds": [
       "source-030e4d153662",
-      "source-36b7365a3a1d"
+      "source-36b7365a3a1d",
+      "source-54bb3190809b",
+      "source-54c01505a8b5",
+      "source-7428befd0371",
+      "source-c4848dddba3c",
+      "source-da3f7d1a5ab3",
+      "source-e47c08c8b197",
+      "source-e988b7682394",
+      "source-f8065ee40210"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -2310,8 +3262,22 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:55:14.768Z",
+      "lastFullScanAt": "2026-10-28T19:55:14.768Z",
+      "coverage": "Completed astronomy (5 results, one page), physics (22 results, both pages), and cosmology (4 results, one page) keyword queries.",
+      "summary": "Current central physics, astronomy, and cosmology queries were fully paginated and reviewed. Existing HEP searches and the new Astronomy search were identified; other roles were screened separately for field and appointment scope.",
+      "limitations": [
+        "Bounded to these three keyword queries in the central employer board; this does not assert historical or university-wide completeness."
+      ],
+      "evidenceUrls": [
+        "https://osu.wd1.myworkdayjobs.com/OSUCareers"
+      ],
+      "reviewedAt": "2026-10-28T19:55:45.084569+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "tdli-sjtu",
@@ -2323,7 +3289,11 @@
     "profileSourceUrl": "https://academicjobsonline.org/ajo/jobs/32304",
     "officialClassifications": [],
     "sourceIds": [
-      "source-655be499317c"
+      "source-109ec5023450",
+      "source-655be499317c",
+      "source-780cd7eefb80",
+      "source-8c272d2abb01",
+      "source-ade102d95da8"
     ],
     "localSearchTerms": [
       "faculty",
@@ -2354,8 +3324,26 @@
       "profileSourceUrl": "https://academicjobsonline.org/ajo/jobs/32304"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "Fellows and Scientists current recruitment categories, current global notice and relevant linked AJO calls.",
+      "summary": "Listed vacancy sources reviewed; additional astrophysics/cosmology search verified.",
+      "limitations": [
+        "Ordinary postdoctoral and condensed-matter-only routes excluded."
+      ],
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32304",
+        "https://tdli.sjtu.edu.cn/en/join-us/tenure-track-fellows",
+        "https://tdli.sjtu.edu.cn/en/join-us/scientists",
+        "https://tdli.sjtu.edu.cn/en/post/16371",
+        "https://academicjobsonline.org/ajo/jobs/32595"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "universidad-andres-bello",
@@ -2367,6 +3355,7 @@
     "profileSourceUrl": "https://inspirehep.net/api/jobs/3188903",
     "officialClassifications": [],
     "sourceIds": [
+      "source-32abccb7d126",
       "source-f3c91565265f"
     ],
     "localSearchTerms": [
@@ -2401,7 +3390,23 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3188903"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:48:15+00:00",
+      "lastFullScanAt": null,
+      "coverage": "Read the public Physics department homepage, navigation, and displayed news. The homepage exposes historical 2023–24 items, including a condensed-matter recruitment notice, rather than a current faculty vacancy index.",
+      "summary": "A current institutional faculty recruitment list has not been located or reviewed.",
+      "limitations": [
+        "The department homepage has no identifiable current 2026–27 faculty-vacancy list; its displayed recruitment news is historical.",
+        "The registered INSPIRE source could not be read in the first pass, and no current institutional recruitment-board fallback was established.",
+        "The existing expired advertisement is preserved; its absence from department news is not evidence of closure or of no additional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://fisica.unab.cl/"
+      ],
+      "reviewedAt": "2026-10-28T19:54:42.203943+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -2414,7 +3419,9 @@
     "profileSourceUrl": "https://inspirehep.net/api/jobs/3198780",
     "officialClassifications": [],
     "sourceIds": [
-      "source-9bd8d381afe7"
+      "source-8ec348b8de09",
+      "source-9bd8d381afe7",
+      "source-e05aa6cc6af2"
     ],
     "localSearchTerms": [
       "concurso académico",
@@ -2449,7 +3456,25 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3198780"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "blocked",
+      "checkedAt": "2026-10-28T19:19:08+00:00",
+      "lastFullScanAt": null,
+      "coverage": "Registered sources and bounded primary-board fallbacks attempted; full relevant vacancy-list coverage not established.",
+      "summary": "INSPIRE API unreadable and official academic competition directory returns HTTP 502 on two attempts.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies.",
+        "INSPIRE API unreadable and official academic competition directory returns HTTP 502 on two attempts.",
+        "Inaccessible URLs retained in source checks; no closure inferred: https://inspirehep.net/api/jobs/3198780; https://www.ubiobio.cl/concursos/; https://www.ubiobio.cl/concursos/?trk=public_post_reshare-text"
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3198780",
+        "https://www.ubiobio.cl/concursos/",
+        "https://www.ubiobio.cl/concursos/?trk=public_post_reshare-text"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "blocked",
     "lastFullScan": null
   },
   {
@@ -2463,9 +3488,17 @@
     "officialClassifications": [],
     "sourceIds": [
       "source-10cf3e15d283",
+      "source-259194fcc9bf",
+      "source-39a5633d4e9e",
+      "source-3ae745ca5e16",
       "source-3c7eb8767682",
+      "source-42954feea8ce",
+      "source-477fae1a8145",
+      "source-493153e601d3",
       "source-7eb77c7b3c38",
+      "source-8c7595772e35",
       "source-8c8795b0b835",
+      "source-ca65d4da1c48",
       "source-d001bba37d5a"
     ],
     "localSearchTerms": [
@@ -2501,7 +3534,35 @@
       "profileSourceUrl": "https://www.iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:21:29+00:00",
+      "lastFullScanAt": null,
+      "coverage": "Both pages of the IFUSP ongoing competitions list read; 12 entries screened, relevant nuclear/general/mathematical-physics details followed. Some old calls require separate cycle assessment. | Entire IAG faculty-competition table screened. Current 026/2026 astrophysics call checked; historical 013/2026 astronomy detail failed; no table pagination. | Second and final page of IFUSP ongoing competitions: both entries screened; no next page. Together with page 1, all 12 current list entries inspected.",
+      "summary": "IFUSP two-page list and IAG table enumerated, but historical IAG astronomy detail failed; relevant pre-August calls need explicit cycle assessment. No existing expired records deleted.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies.",
+        "IFUSP two-page list and IAG table enumerated, but historical IAG astronomy detail failed; relevant pre-August calls need explicit cycle assessment. No existing expired records deleted.",
+        "Inaccessible URLs retained in source checks; no closure inferred: https://iag.usp.br/concursos-para-docentes/professor-doutor-aga-013-2026"
+      ],
+      "evidenceUrls": [
+        "https://portal.if.usp.br/ataac/pt-br/node/8208",
+        "https://www.iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026",
+        "https://portal.if.usp.br/ataac/pt-br/node/8209",
+        "https://portal.if.usp.br/ataac/pt-br/concursos_andamento?page=1",
+        "https://iag.usp.br/concursos/concursos-para-docentes",
+        "https://portal.if.usp.br/ataac/pt-br/concursos_andamento",
+        "https://iag.usp.br/concursos-para-docentes/professor-doutor-aga-013-2026",
+        "https://portal.if.usp.br/ataac/pt-br/node/8145",
+        "https://portal.if.usp.br/ataac/pt-br/node/8122",
+        "https://portal.if.usp.br/ataac/pt-br/node/8100",
+        "https://portal.if.usp.br/ataac/pt-br/node/8096",
+        "https://portal.if.usp.br/ataac/pt-br/node/8086",
+        "https://portal.if.usp.br/ataac/pt-br/node/8165"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -2516,7 +3577,8 @@
     "sourceIds": [
       "source-23f38efb4235",
       "source-5cbc7c4c19fd",
-      "source-99b0fe30d16f"
+      "source-99b0fe30d16f",
+      "source-c132bbe00c29"
     ],
     "localSearchTerms": [
       "convocatoria",
@@ -2550,7 +3612,21 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3210713"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:45:40.218Z",
+      "lastFullScanAt": null,
+      "coverage": "Browser navigation timed out; no vacancy content available.",
+      "summary": "ICCUB board could not be inspected in browser.",
+      "limitations": [
+        "Browser fallback did not expose a complete vacancy list; existing jobs remain unchanged."
+      ],
+      "evidenceUrls": [
+        "https://icc.ub.edu/job-offers"
+      ],
+      "reviewedAt": "2026-10-28T19:49:33.591652+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -2564,6 +3640,7 @@
     "officialClassifications": [],
     "sourceIds": [
       "source-1728ff33ac4d",
+      "source-26e7824ddbf3",
       "source-63e4890a96b0",
       "source-fc553af85e36"
     ],
@@ -2598,8 +3675,25 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3172216"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:21:17.880550+00:00",
+      "lastFullScanAt": "2026-10-28T19:21:17.880550+00:00",
+      "coverage": "All ten displayed current professorship calls, unfiltered single page without pagination.",
+      "summary": "Relevant listed vacancy sources reviewed in the stated scope.",
+      "limitations": [
+        "Current professorship list only; expired accelerator advert blocked. Absence from current list does not imply closure."
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3172216",
+        "https://inspirehep.net/api/jobs/3172216",
+        "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/w3-professur-fuer-beschleunigerphysik?set_language=en",
+        "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/vacancies-professors"
+      ],
+      "reviewedAt": "2026-10-28T19:27:07.633247+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "university-of-cagliari",
@@ -2611,7 +3705,10 @@
     "profileSourceUrl": "https://web.unica.it/unica/it/contatti.page",
     "officialClassifications": [],
     "sourceIds": [
-      "source-5f2763bec065"
+      "source-5f2763bec065",
+      "source-6f8979049a5a",
+      "source-96d71ffedaed",
+      "source-a87b4b592edb"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -2638,8 +3735,24 @@
       ]
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:37:41.219445+00:00",
+      "lastFullScanAt": "2026-10-28T19:37:41.219445+00:00",
+      "coverage": "All 12 links on the 2026 RTT index and each linked field list.; Complete 2026 full-professor index, sole 17-position call, all field entries and the PHYS-01/A annex.; Complete 2026 associate-professor index: all six linked pages, including internal RTT evaluations.",
+      "summary": "All 2026 RTT/full/associate professor indexes and linked field lists reviewed; one new archived full-professor addition.",
+      "limitations": [
+        "Scope is limited to 2026 faculty and tenure-track researcher directories; the 2025 archive and temporary research contracts are excluded."
+      ],
+      "evidenceUrls": [
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026",
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026",
+        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari/anno-2026"
+      ],
+      "reviewedAt": "2026-10-28T19:49:33.591652+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "uc-berkeley",
@@ -2665,7 +3778,10 @@
       }
     ],
     "sourceIds": [
+      "source-304cdbc6fe71",
+      "source-5ebc68afc5f1",
       "source-8a0873b46cb1",
+      "source-8bd901e802da",
       "source-b28ccc1834da"
     ],
     "localSearchTerms": [],
@@ -2690,8 +3806,26 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:42+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:42+00:00",
+      "coverage": "Single all-open-recruitments table; Physics and Astronomy sections inspected, all four tenure-track calls screened; relevant astronomy and AMO theory advertisements read; temporary pools and postdocs excluded. | Single Physics departmental employment page; all three faculty searches screened against AP Recruit.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://physics.berkeley.edu/welcome/employment",
+        "https://aprecruit.berkeley.edu/apply",
+        "https://aprecruit.berkeley.edu/JPF05406",
+        "https://aprecruit.berkeley.edu/JPF05223",
+        "https://aprecruit.berkeley.edu/JPF05460"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "university-cape-town",
@@ -2741,8 +3875,24 @@
       "profileSourceUrl": "https://science.uct.ac.za/department-physics"
     },
     "profileCategory": "international-university",
-    "coverageState": "source-discovered",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "Both central current vacancy lists and Physics department page.",
+      "summary": "Listed vacancy sources reviewed; no eligible faculty opening found.",
+      "limitations": [
+        "No claim about unpublished or historical searches."
+      ],
+      "evidenceUrls": [
+        "https://www.uct.ac.za/staff/general-vacancies",
+        "https://science.uct.ac.za/department-physics",
+        "https://jobs.uct.ac.za/search"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "chicago",
@@ -2768,10 +3918,18 @@
       }
     ],
     "sourceIds": [
+      "source-11f2528e107c",
       "source-2685a30776be",
       "source-77ee45d40683",
+      "source-89dd08352d1f",
       "source-a756d912f3f6",
-      "source-eaba48dae837"
+      "source-d523655dabc8",
+      "source-d9818668a6ec",
+      "source-e8812febb2d0",
+      "source-eaba48dae837",
+      "source-eb424c0dd23f",
+      "source-f3f2af2d0966",
+      "source-f8c2803b1978"
     ],
     "localSearchTerms": [
       "faculty",
@@ -2799,8 +3957,34 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:47:26+00:00",
+      "lastFullScanAt": "2026-10-28T19:47:26+00:00",
+      "coverage": "Single Astronomy and Astrophysics faculty list, all four rank-specific links for Extreme Universe and Origins of Life; equivalent employer-authored AJO/AAS bodies read where Interfolio was blank. | Single Physics faculty list, both assistant and tenured associate theoretical-physics searches; both employer AJO bodies read, postdoctoral and student sections excluded.",
+      "summary": "Completed the stated bounded recruitment-list scope.",
+      "limitations": [
+        "Review is limited to the named public lists and relevant roles; no claim of all possible institutional openings.",
+        "Four Interfolio astronomy pages remain blank; equivalent employer-authored AJO/AAS ads were read. Origins-of-Life search documented separately as outside current HEP/cosmology emphasis."
+      ],
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32603",
+        "https://apply.interfolio.com/192963",
+        "https://apply.interfolio.com/192965",
+        "https://astro.uchicago.edu/",
+        "https://academicjobsonline.org/ajo/jobs/32608",
+        "https://aas.org/jobregister/ad/9ba8483a",
+        "https://academicjobsonline.org/ajo/jobs/32618",
+        "https://apply.interfolio.com/192968",
+        "https://physics.uchicago.edu/about/job-opportunities/",
+        "https://apply.interfolio.com/192971",
+        "https://aas.org/jobregister/ad/8852332e",
+        "https://astrophysics.uchicago.edu/about/job-opportunities/"
+      ],
+      "reviewedAt": "2026-10-28T19:54:42.203943+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "university-copenhagen",
@@ -2812,8 +3996,11 @@
     "profileSourceUrl": "https://inspirehep.net/api/jobs/3197131",
     "officialClassifications": [],
     "sourceIds": [
+      "source-20ba0b4f263a",
       "source-560f07e8dbca",
+      "source-65f494a662b1",
       "source-7e8fd4f50f65",
+      "source-ad10676e71e3",
       "source-c126bd8cca0f",
       "source-e53d348a56af",
       "source-f3071427e999"
@@ -2850,7 +4037,21 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3197131"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:47:34.697Z",
+      "lastFullScanAt": null,
+      "coverage": "Browser returned connection timeout; no faculty-list content.",
+      "summary": "The official faculty portal could not be read in this attempt.",
+      "limitations": [
+        "Browser fallback did not expose a complete vacancy list; existing jobs remain unchanged."
+      ],
+      "evidenceUrls": [
+        "https://employment.ku.dk/faculty/"
+      ],
+      "reviewedAt": "2026-10-28T19:49:33.591652+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -2879,7 +4080,13 @@
       }
     ],
     "sourceIds": [
-      "source-bb2aaffab877"
+      "source-0fad04cf603a",
+      "source-181b4fcf0f3c",
+      "source-1ef98d66d22a",
+      "source-1f41292cf72b",
+      "source-67914975f6c3",
+      "source-bb2aaffab877",
+      "source-d095cca96d1a"
     ],
     "localSearchTerms": [
       "faculty",
@@ -2907,8 +4114,28 @@
         "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:23:42+00:00",
+      "lastFullScanAt": "2026-10-28T19:23:42+00:00",
+      "coverage": "Reviewed all 15 physics keyword results in the first pass and all 2 astronomy keyword results in the browser. Inspected the faculty advertisements; there were no remaining results pages.",
+      "summary": "Reviewed all results in the stated search and read the relevant employer advertisements.",
+      "limitations": [
+        "This review covers the named public vacancy lists; other institutional opportunities may exist."
+      ],
+      "evidenceUrls": [
+        "https://explore.jobs.ufl.edu/en-us/job/529043/tenure-track-assistant-professor-experimental-optics-for-gravitational-wave-detection",
+        "https://explore.jobs.ufl.edu/en-us/job/541567/assistant-scientist-instrument-science",
+        "https://aas.org/jobregister/ad/4b7a9ca7",
+        "https://explore.jobs.ufl.edu/en-us/search/?search-keyword=physics",
+        "https://explore.jobs.ufl.edu/en-us/job/541742/assistant-professor-for-astronomical-instrumentation",
+        "https://explore.jobs.ufl.edu/en-us/job/541316/assistant-professor-astrophysics",
+        "https://explore.jobs.ufl.edu/en-us/search/?search-keyword=astronomy"
+      ],
+      "reviewedAt": "2026-10-28T19:55:48.181815+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "university-geneva",
@@ -2921,8 +4148,11 @@
     "officialClassifications": [],
     "sourceIds": [
       "source-28c97bf380a1",
+      "source-482d6595f95e",
+      "source-4f461de8cbad",
       "source-79ac17e5ee0d",
-      "source-a0ab1a577282"
+      "source-a0ab1a577282",
+      "source-e2ce2f6e02fa"
     ],
     "localSearchTerms": [
       "professeur",
@@ -2955,7 +4185,26 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3208143"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:21:18.250941+00:00",
+      "lastFullScanAt": null,
+      "coverage": "Bounded review of every registered source plus available institutional-board fallbacks; incomplete coverage as detailed below.",
+      "summary": "Registered sources checked, but an adequate complete current vacancy-list scope could not be established.",
+      "limitations": [
+        "Department routing page read; DPT/DPNC boards return human verification; central filtered query was not sufficient to establish coverage."
+      ],
+      "evidenceUrls": [
+        "https://jobs.unige.ch/www/wd_portal.show_job?p_web_page_id=75916&p_web_site_id=1",
+        "https://inspirehep.net/jobs/3208143",
+        "https://inspirehep.net/api/jobs/3208143",
+        "https://www.unige.ch/sciences/physique/la-section/emplois",
+        "https://www.unige.ch/sciences/physique/theorique/en/emplois/",
+        "https://www.unige.ch/dpnc/en/jobs/"
+      ],
+      "reviewedAt": "2026-10-28T19:27:07.633247+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -2968,6 +4217,8 @@
     "profileSourceUrl": "https://physics.haifa.ac.il/2026/07/19/tenure-track-position-in-physics-2027/?lang=en",
     "officialClassifications": [],
     "sourceIds": [
+      "source-12f6a3f844fe",
+      "source-1586983c8187",
       "source-4f0e6e41aa51"
     ],
     "localSearchTerms": [
@@ -2999,8 +4250,24 @@
       "profileSourceUrl": "https://physics.haifa.ac.il/2026/07/19/tenure-track-position-in-physics-2027/?lang=en"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "Department recruitment notices in complete served News list.",
+      "summary": "Listed vacancy sources reviewed; 2027 call remains deadline-passed.",
+      "limitations": [
+        "Previous 2026 appointment call belongs to prior application cycle."
+      ],
+      "evidenceUrls": [
+        "https://physics.haifa.ac.il/2026/07/19/tenure-track-position-in-physics-2027/?lang=en",
+        "https://physics.haifa.ac.il/?lang=en",
+        "https://physics.haifa.ac.il/news/?lang=en"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "university-of-houston",
@@ -3028,7 +4295,10 @@
       }
     ],
     "sourceIds": [
-      "source-10ab972596ca"
+      "source-10ab972596ca",
+      "source-5bc4995ee4b7",
+      "source-9521cfe88683",
+      "source-e485ec3ebefc"
     ],
     "localSearchTerms": [
       "faculty",
@@ -3056,8 +4326,26 @@
         "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:49:41.352Z",
+      "lastFullScanAt": "2026-10-28T19:49:41.352Z",
+      "coverage": "Screened all 3 Physics department results. The nuclear theory and quantum many-body faculty searches were already represented; the third result was an administrative position.",
+      "summary": "Reviewed all results in the stated search and read the relevant employer advertisements.",
+      "limitations": [
+        "This review covers the named public vacancy lists; other institutional opportunities may exist."
+      ],
+      "evidenceUrls": [
+        "https://careers.uh.edu/jobs/assistant-professor-nuclear-theorist-houston-texas-united-states",
+        "https://careers.uh.edu/jobs/search/uh-postings",
+        "https://careers.uh.edu/jobs/search/uh-postings?query=physics",
+        "https://www.uh.edu/provost/faculty/prospective-faculty/",
+        "https://careers.uh.edu/jobs/search/uh-postings?category_uids%5B%5D=d3b80de9ada098478edbd5589a0ffeee&category_uids%5B%5D=db3c1fb9609f486fa85f3e228dd5f7e2&page=1&query="
+      ],
+      "reviewedAt": "2026-10-28T19:55:48.181815+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "university-of-kentucky",
@@ -3084,8 +4372,16 @@
     ],
     "sourceIds": [
       "source-209c7e441f91",
+      "source-3468f8d8c61c",
+      "source-36f796be2e22",
+      "source-37b33c2de390",
+      "source-579e32ceb35d",
+      "source-a4a6b32423df",
+      "source-aab1d139d6db",
       "source-ad3687e3339a",
-      "source-e628677692c2"
+      "source-c8ff19d82591",
+      "source-e628677692c2",
+      "source-e82fe1079737"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -3109,8 +4405,34 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:50:19.429Z",
+      "lastFullScanAt": "2026-10-28T19:50:19.429Z",
+      "coverage": "Inspected all 3 Physics and Astronomy department results (department 8E100) and read their full advertisements. Computational astrophysics (FE05020) is an existing search. Quantum materials (FE05019) was excluded. The research faculty position (FE05064) remains a lead pending clarification of its appointment terms.",
+      "summary": "Reviewed all results in the stated search and read the relevant employer advertisements.",
+      "limitations": [
+        "This review covers the named public vacancy lists; other institutional opportunities may exist.",
+        "FE05064 is explicitly a research faculty position, but its continuation or permanence is not stated. It has not been added as a verified opening while its appointment terms remain unresolved."
+      ],
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/648332",
+        "https://ukjobs.uky.edu/postings/search?225=&988%5B%5D=2&commit=Search&query=&query_v0_posted_at_date=",
+        "https://ukjobs.uky.edu/postings/648992",
+        "https://academicjobsonline.org/ajo/jobs/32607",
+        "https://ukjobs.uky.edu/",
+        "https://ukjobs.uky.edu/postings/search",
+        "https://ukjobs.uky.edu/postings/search?query=physics",
+        "https://ukjobs.uky.edu/postings/652281",
+        "https://pa.as.uky.edu/astro",
+        "https://ukjobs.uky.edu/postings/search?query=physics&988%5B%5D=2&commit=Search",
+        "https://pa.as.uky.edu",
+        "https://ukjobs.uky.edu/postings/650517"
+      ],
+      "reviewedAt": "2026-10-28T19:55:48.181815+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "university-melbourne",
@@ -3121,6 +4443,7 @@
     "officialClassifications": [],
     "sourceIds": [
       "source-39d73d0166b6",
+      "source-6dc8aa51268d",
       "source-e1c911449308"
     ],
     "profile": "University",
@@ -3158,8 +4481,24 @@
       "profileSourceUrl": "https://about.unimelb.edu.au/careers"
     },
     "profileCategory": "international-university",
-    "coverageState": "source-discovered",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "lastFullScanAt": "2026-10-28T19:24:18Z",
+      "coverage": "Current unfiltered Workday external careers list, all three pages.",
+      "summary": "Listed vacancy sources reviewed; no eligible faculty vacancy found.",
+      "limitations": [
+        "Executive/general Indigenous EOI entries are not specific HEP searches."
+      ],
+      "evidenceUrls": [
+        "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career",
+        "https://about.unimelb.edu.au/careers",
+        "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career/job/Parkville-Victoria/Laser-Ablation--Automation-and-Digitisation-Research-Scientist_JR-018485-1"
+      ],
+      "reviewedAt": "2026-10-28T19:27:49Z"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "michigan-ann-arbor",
@@ -3188,7 +4527,8 @@
     ],
     "sourceIds": [
       "source-0de3fae08739",
-      "source-1abc8ad038f1"
+      "source-1abc8ad038f1",
+      "source-6c006fa5dd23"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -3213,8 +4553,24 @@
         "Matched the Ann Arbor campus, not Flint or Dearborn."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:49+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:49+00:00",
+      "coverage": "Entire institute opportunities page; only a theoretical-physics postdoctoral search is listed. | Single Physics Jobs page, its assistant-professor announcement, and Leinweber institute opportunities page. Faculty search is open to all physics subfields.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://lsa.umich.edu/litp/open-positions.html",
+        "https://lsa.umich.edu/physics/about-us/jobs.html",
+        "https://lsa.umich.edu/physics/news-events/all-news/search-news/assistant-professor-of-physics-open-position.html"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "university-naples-federico-ii",
@@ -3227,8 +4583,15 @@
     "officialClassifications": [],
     "sourceIds": [
       "source-511ed0f051df",
+      "source-73d3f9f128c8",
       "source-7bf52b9703d7",
-      "source-da6ed0d0c8b1"
+      "source-8134c947a191",
+      "source-89a12b9d835d",
+      "source-9df9323cffaf",
+      "source-c0e1208cba8b",
+      "source-da6ed0d0c8b1",
+      "source-e3b300a3a1de",
+      "source-f3f7bf018f58"
     ],
     "localSearchTerms": [
       "ricercatore tenure track",
@@ -3261,8 +4624,27 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3189627"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:37:41.219837+00:00",
+      "lastFullScanAt": "2026-10-28T19:37:41.219837+00:00",
+      "coverage": "Current open researcher competition tab; zero live vacancy cards. Pagination JS only paginates existing .card-bandi elements; commented historic HTML is not a live vacancy list.; Current open professor competitions tab; zero live cards.; All 24 in-progress professor competition cards present in HTML (three display pages at ten per page); 2026 entries screened and multi-field call annex read.; All 63 concluded professor competition cards present in HTML (seven display pages), screening 2026 calls and linked discipline details.; All 40 in-progress researcher competition cards (four display pages), all 2026 linked call pages and relevant multi-field PDFs.; All 117 concluded researcher competition cards (twelve display pages), screening 2026 records and reading each 2026 linked call page and multi-field annex.",
+      "summary": "Current open/in-progress/concluded faculty and researcher boards reviewed through all client-side pages; all 2026 researcher calls and relevant umbrella annexes screened. Existing astrophysics RTT is the only relevant match.",
+      "limitations": [
+        "Older legacy competitions published before 30 April 2025 are outside cycle scope. Internal promotion/evaluation procedures excluded; no closure inferred from an absent card."
+      ],
+      "evidenceUrls": [
+        "https://www.unina.it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori",
+        "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/reclutamento-ricercatori-a-tempo-determinato/procedure-concluse",
+        "https://www.unina.it/ateneo/concorsi/concorsi-docenti-e-ricercatori/reclutamento-ricercatori-a-tempo-determinato",
+        "https://www.unina.it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori/procedure-in-corso",
+        "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/reclutamento-ricercatori-a-tempo-determinato/procedure-in-corso",
+        "https://www.unina.it/ateneo/concorsi-e-borse-di-studio/chiamata-dei-professori/procedure-concluse"
+      ],
+      "reviewedAt": "2026-10-28T19:49:33.591652+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "oklahoma",
@@ -3315,8 +4697,22 @@
         "Matched the Norman campus."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:23:52+00:00",
+      "lastFullScanAt": "2026-10-28T19:23:52+00:00",
+      "coverage": "Whole single department opportunities page: one current faculty call, research positions and postdoctoral sections. Faculty HEP call and dates read; unrelated older calls excluded.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://www.ou.edu/cas/physics-astronomy/job-opportunities"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "university-oxford",
@@ -3328,12 +4724,15 @@
     "profileSourceUrl": "https://inspirehep.net/api/jobs/3189637",
     "officialClassifications": [],
     "sourceIds": [
+      "source-0861afe9c823",
       "source-7c9d5657b176",
+      "source-81459c9f4c89",
       "source-a5c235978264",
       "source-bf0a004d510f",
       "source-d17020f07949",
       "source-dad30c150d92",
-      "source-e20c0258f84c"
+      "source-e20c0258f84c",
+      "source-ee3e60faaf8a"
     ],
     "localSearchTerms": [
       "lecturer",
@@ -3368,8 +4767,31 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3189637"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:21:18.473225+00:00",
+      "lastFullScanAt": "2026-10-28T19:21:18.473225+00:00",
+      "coverage": "All nine displayed current Physics vacancies on the single unpaginated list; professorship and potentially senior research role followed.; Single current Mathematical Institute vacancy list and linked college-vacancy sublist.; Full single college-mathematics vacancy sublist.",
+      "summary": "Relevant listed vacancy sources reviewed in the stated scope.",
+      "limitations": [
+        "Current Physics and Mathematical Institute lists only; other college recruitment outside the linked Mathematics list not exhaustively surveyed. Expired ads retained."
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3189637",
+        "https://inspirehep.net/api/jobs/3177368",
+        "https://inspirehep.net/api/jobs/3189637",
+        "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186058",
+        "https://www.maths.ox.ac.uk/node/81914",
+        "https://inspirehep.net/jobs/3177368",
+        "https://www.physics.ox.ac.uk/about-us/work-us",
+        "https://www.maths.ox.ac.uk/about-us/vacancies",
+        "https://www.maths.ox.ac.uk/node/39835",
+        "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186704"
+      ],
+      "reviewedAt": "2026-10-28T19:27:07.633247+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "university-of-pittsburgh",
@@ -3399,7 +4821,9 @@
     "sourceIds": [
       "source-441a9face2b8",
       "source-469f3bdb717f",
-      "source-d96821079d00"
+      "source-7aef042c3788",
+      "source-d96821079d00",
+      "source-ebe3339fbcaa"
     ],
     "localSearchTerms": [
       "faculty",
@@ -3427,8 +4851,27 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:49+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:49+00:00",
+      "coverage": "Single department openings list; both faculty advertisements followed as employer PDFs (PACC director and astrophysics).",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies.",
+        "Inaccessible URLs retained in source checks; no closure inferred: https://inspirehep.net/api/jobs/3195090"
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3195090",
+        "https://www.physicsandastronomy.pitt.edu/about/department-openings",
+        "https://www.join.pitt.edu/",
+        "https://www.physicsandastronomy.pitt.edu/sites/default/files/image-gallery/Faculty%20and%20Pitt%20PACC%20Director%20Ad.pdf",
+        "https://www.physicsandastronomy.pitt.edu/sites/default/files/image-gallery/Faculty%20Ad_Astrophysics_2026.pdf"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "ut-austin",
@@ -3455,7 +4898,15 @@
     ],
     "sourceIds": [
       "source-0ce93ff7d632",
-      "source-91d892746dd7"
+      "source-4d47c0e1d054",
+      "source-5cfd36028bdc",
+      "source-5ed7eddddc25",
+      "source-6a89b4bce9a8",
+      "source-91d892746dd7",
+      "source-96474dc3f22f",
+      "source-bb64ee2ea52f",
+      "source-e5060b9e0326",
+      "source-f3922c55ae38"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -3479,7 +4930,28 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:47:35+00:00",
+      "lastFullScanAt": null,
+      "coverage": "Read the Physics and Astronomy homepages and the Physics faculty-recruiting page. Verified two current Astronomy faculty advertisements through employer-authored AAS bodies; attempted the Astronomy faculty/staff resource page.",
+      "summary": "Two Astronomy searches are verified, but a reliable complete institutional vacancy list remains unavailable.",
+      "limitations": [
+        "The Physics faculty-recruiting page says there are no open positions despite known current catalogued Physics advertisements, so it was not treated as a reliable current vacancy inventory or as closure evidence.",
+        "The Astronomy faculty/staff link redirects to institutional sign-in, and the central faculty portal returned no readable vacancies in the first pass. No login was attempted.",
+        "The two fully read Astronomy advertisements establish those searches individually; they do not establish complete Astronomy or university-wide vacancy-list coverage."
+      ],
+      "evidenceUrls": [
+        "https://astronomy.utexas.edu/info-faculty-staff",
+        "https://aas.org/jobregister/ad/2d1b76f2",
+        "https://physics.utexas.edu/about-overview/faculty-recruiting",
+        "https://aas.org/jobregister/ad/210c5bdf",
+        "https://physics.utexas.edu/",
+        "https://astronomy.utexas.edu/"
+      ],
+      "reviewedAt": "2026-10-28T19:54:42.203943+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -3492,6 +4964,7 @@
     "profileSourceUrl": "https://www.uvic.ca/about-uvic/about-the-university/",
     "officialClassifications": [],
     "sourceIds": [
+      "source-85254c1f991f",
       "source-de37bf41e003"
     ],
     "localSearchTerms": [],
@@ -3519,8 +4992,23 @@
       "profileSourceUrl": "https://www.uvic.ca/about-uvic/about-the-university/"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:49+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:49+00:00",
+      "coverage": "Single all-faculty postings list; all four Science-linked entries opened and screened (two mathematics, life sciences and physics).",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/",
+        "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/current/phys_270_163.php"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "university-warsaw",
@@ -3534,7 +5022,11 @@
     "sourceIds": [
       "source-0f194786ad6f",
       "source-1632b9ad7c40",
-      "source-a4f9a327d06f"
+      "source-3e33db7223bb",
+      "source-786ae6bab197",
+      "source-a1eee8c8d78f",
+      "source-a4f9a327d06f",
+      "source-e22455fcbaea"
     ],
     "localSearchTerms": [
       "adiunkt",
@@ -3567,8 +5059,22 @@
       "profileSourceUrl": "https://inspirehep.net/api/jobs/3208120"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:44:11.307852+00:00",
+      "lastFullScanAt": "2026-10-28T19:44:11.307852+00:00",
+      "coverage": "Complete public feed, 2130 records, filtered to Physics(unit 5), Heavy Ion Laboratory(unit 30), Astronomical Observatory(unit 44), published status and deadlines in 2026 or 2027. All 38 matching PDFs screened; no server pagination.",
+      "summary": "Completed the central vacancy-list review for physics, astronomy, and heavy-ion units; all 38 matching 2026–27 PDFs were screened. No new faculty opening was verified for the current application cycle.",
+      "limitations": [
+        "This review covers all listed records for the three stated units. Early 2026 faculty searches remain leads with uncertain cycle eligibility; their start dates alone do not establish that they belong to the 2026–27 cycle. An outdated central-list deadline does not override the updated department advertisement."
+      ],
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/infotype/job_offer_announcement"
+      ],
+      "reviewedAt": "2026-10-28T19:49:33.591652+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "uw-bothell",
@@ -3596,7 +5102,8 @@
       }
     ],
     "sourceIds": [
-      "source-9630338036da"
+      "source-9630338036da",
+      "source-a69fd7446a5e"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -3621,8 +5128,23 @@
         "Matched University of Washington-Bothell Campus, not the Seattle campus."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:13:49+00:00",
+      "lastFullScanAt": "2026-10-28T19:13:49+00:00",
+      "coverage": "All 411 displayed academic positions screened by institution/unit for UW Bothell Physical Sciences; its physics advertisement read. One all-results page.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://ap.washington.edu/ahr/academic-jobs/",
+        "https://ap.washington.edu/ahr/position-details/?job_id=189352"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "uib",
@@ -3634,8 +5156,17 @@
     "profileSourceUrl": "https://transparencia.uib.eu/indicadors-institucionals",
     "officialClassifications": [],
     "sourceIds": [
+      "source-079301940f76",
+      "source-0ce0dfc75113",
+      "source-10800726e37d",
+      "source-1c0c64698454",
+      "source-23f5d90044ea",
       "source-46b1e783a2d4",
-      "source-7fd1071baf33"
+      "source-7fd1071baf33",
+      "source-a9c90677a3a6",
+      "source-aa384d63a25d",
+      "source-ab72c72fbc91",
+      "source-fe1ebdbcaf1d"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -3662,7 +5193,27 @@
       "profileSourceUrl": "https://transparencia.uib.eu/indicadors-institucionals"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-10-28T19:39:20.819408+00:00",
+      "lastFullScanAt": null,
+      "coverage": "PDI faculty-category follow-up found a verified archived permanent theory/astronomy lecturer. Detailed assistant and associate vacancy annexes remain incomplete.",
+      "summary": "PDI faculty-category follow-up found a verified archived permanent theory/astronomy lecturer. Detailed assistant and associate vacancy annexes remain incomplete.",
+      "limitations": [
+        "Certificate validation failure on seu.uib.cat prevents detailed assistant/associate annex checks; no certificate bypass attempted. AMO/nuclear assistant-lecturer entry remains a scope-review lead."
+      ],
+      "evidenceUrls": [
+        "https://rrhh.uib.cat/arees/pdi/convocatories/professorat-associat-estabilitzacio",
+        "https://rrhh.uib.cat/arees/pdi/convocatories/borses",
+        "https://rrhh.uib.cat/arees/pdi/convocatories/ajudant-doctor-2",
+        "https://rrhh.uib.cat/arees/pdi/convocatories/ppl",
+        "https://rrhh.uib.cat/arees/pdi/convocatories/professorat-associat",
+        "https://rrhh.uib.cat/arees/pdi/convocatories",
+        "https://rrhh.uib.cat/arees/pdi/convocatories/personal-docent-numerari"
+      ],
+      "reviewedAt": "2026-10-28T19:49:33.591652+00:00"
+    },
+    "coverageState": "partial",
     "lastFullScan": null
   },
   {
@@ -3711,8 +5262,23 @@
       "profileSourceUrl": "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs/HCM/11197"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:21:29+00:00",
+      "lastFullScanAt": "2026-10-28T19:21:29+00:00",
+      "coverage": "Single all-professor vacancy list, including chair sections; all entries screened for physics/astrophysics; English and French astrophysics entries are one offer 17982.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs",
+        "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs/HCM/11197"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "vanderbilt",
@@ -3740,8 +5306,14 @@
       }
     ],
     "sourceIds": [
+      "source-0ac2af8dbf23",
+      "source-1f5a44daae91",
       "source-341497733aff",
-      "source-84d900fb89a3"
+      "source-4909419cea97",
+      "source-4b3b4bc7495f",
+      "source-84d900fb89a3",
+      "source-afc6d7a9f201",
+      "source-f90ed5afaf23"
     ],
     "localSearchTerms": [
       "faculty",
@@ -3769,8 +5341,29 @@
         "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:49:26+00:00",
+      "lastFullScanAt": "2026-10-28T19:49:26+00:00",
+      "coverage": "Entire employer-posted Physics and Astronomy AJO list, exactly three positions: nuclear theory, quantum computing/simulation, and Senior Lecturer. All three bodies read. No pagination.",
+      "summary": "Completed the stated bounded recruitment-list scope.",
+      "limitations": [
+        "Review is limited to the named public lists and relevant roles; no claim of all possible institutional openings.",
+        "Completeness is for the employer-posted AJO recruitment list; central HR portal coverage remains unverified."
+      ],
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/Vanderbilt%20University/Physics%20%26%20Astronomy",
+        "https://academicjobsonline.org/ajo/Vanderbilt%20University",
+        "https://academicjobsonline.org/ajo/jobs/32858",
+        "https://academicjobsonline.org/ajo/jobs/33110",
+        "https://academicjobsonline.org/ajo/jobs/33063",
+        "https://as.vanderbilt.edu/physics/",
+        "https://academicjobsonline.org/ajo/Vanderbilt"
+      ],
+      "reviewedAt": "2026-10-28T19:54:42.203943+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "villanova",
@@ -3798,7 +5391,13 @@
       }
     ],
     "sourceIds": [
-      "source-5f48455ab933"
+      "source-1bb3b34b7872",
+      "source-3d2993ad1d2c",
+      "source-5f48455ab933",
+      "source-606cd3631958",
+      "source-8c1d953c7855",
+      "source-cbfe48ced7b0",
+      "source-f34e6544d485"
     ],
     "localSearchTerms": [
       "faculty",
@@ -3826,8 +5425,29 @@
         "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:48:50.200Z",
+      "lastFullScanAt": "2026-10-28T19:48:50.200Z",
+      "coverage": "Reviewed all 14 faculty results for Astronomy and Planetary Science (department 182) and Physics (department 186). Retained the two current tenure-track searches. Excluded the 2025 call, postdoctoral positions, adjunct pools, and unrelated short-term optics position.",
+      "summary": "Reviewed all results in the stated search and read the relevant employer advertisements.",
+      "limitations": [
+        "This review covers the named public vacancy lists; other institutional opportunities may exist."
+      ],
+      "evidenceUrls": [
+        "https://jobs.villanova.edu/",
+        "https://jobs.villanova.edu/postings/search?query=physics",
+        "https://jobs.villanova.edu/postings/36409",
+        "https://jobs.villanova.edu/postings/search?query=Astrophysics",
+        "https://jobs.villanova.edu/postings/search?397=&399=&400=3&commit=Search&query=&query_organizational_tier_3_id=any&query_v0_posted_at_date=&utf8=%E2%9C%93",
+        "https://jobs.villanova.edu/postings/search",
+        "https://jobs.villanova.edu/postings/36501",
+        "https://jobs.villanova.edu/postings/36614"
+      ],
+      "reviewedAt": "2026-10-28T19:55:48.181815+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "virginia-tech",
@@ -3856,6 +5476,7 @@
     ],
     "sourceIds": [
       "source-41aa5e1068f7",
+      "source-4578744f4933",
       "source-f48a04c8ec55"
     ],
     "localSearchTerms": [
@@ -3884,8 +5505,24 @@
         "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:18:31+00:00",
+      "lastFullScanAt": "2026-10-28T19:18:31+00:00",
+      "coverage": "Whole department employment list, sole faculty entry is theoretical neutrino physics; staff coordinator and general links excluded.",
+      "summary": "Completed bounded review of listed relevant vacancy sources.",
+      "limitations": [
+        "Review covers the named public vacancy lists and relevant physics/astronomy entries at retrieval time; it is not a guarantee of all institutional vacancies."
+      ],
+      "evidenceUrls": [
+        "http://www.phys.vt.edu",
+        "https://jobs.apply.vt.edu/jobs/tenure-track-faculty-position-in-theoretical-neutrino-physics-blacksburg-virginia-united-states",
+        "https://www.phys.vt.edu/employment.html"
+      ],
+      "reviewedAt": "2026-10-28T19:29:02.193127+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "william-and-mary",
@@ -3911,7 +5548,13 @@
       }
     ],
     "sourceIds": [
-      "source-88275453dab0"
+      "source-7a4c1547290b",
+      "source-7b517efd0c59",
+      "source-7bb80ee0b71f",
+      "source-88275453dab0",
+      "source-d09903e02575",
+      "source-e204f82ac576",
+      "source-f8e1657b9b86"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -3935,8 +5578,27 @@
         "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance."
       ]
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:49:17+00:00",
+      "lastFullScanAt": "2026-10-28T19:49:17+00:00",
+      "coverage": "Entire employer AJO list, exactly one Physics position; full current advertisement read. No pagination.",
+      "summary": "Completed the stated bounded recruitment-list scope.",
+      "limitations": [
+        "Review is limited to the named public lists and relevant roles; no claim of all possible institutional openings.",
+        "Completeness is for the employer-posted AJO recruitment list; central HR portal coverage remains unverified."
+      ],
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/William%26Mary",
+        "https://academicjobsonline.org/ajo/William%20%26%20Mary/Physics",
+        "https://academicjobsonline.org/ajo/William%20%26%20Mary",
+        "https://academicjobsonline.org/ajo/jobs/33132",
+        "https://jobs.wm.edu/"
+      ],
+      "reviewedAt": "2026-10-28T19:54:42.203943+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "yantai-university",
@@ -3948,7 +5610,17 @@
     "profileSourceUrl": null,
     "officialClassifications": [],
     "sourceIds": [
-      "source-2ed4d1c5d8be"
+      "source-111b967692ad",
+      "source-2230db148b7e",
+      "source-2c519fd9e6b5",
+      "source-2ed4d1c5d8be",
+      "source-36aba8743bc2",
+      "source-4715586fb91c",
+      "source-7c6caec232f8",
+      "source-8422205415cb",
+      "source-86d7504ea09f",
+      "source-a0164923be2d",
+      "source-f88ceedaa55a"
     ],
     "localSearchTerms": [],
     "notes": [],
@@ -3957,8 +5629,37 @@
       "longitude": null,
       "verification": "not-geocoded"
     },
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:53:18Z",
+      "lastFullScanAt": "2026-10-28T19:53:18Z",
+      "coverage": "Reread all 37 public doctoral-recruitment entries across four pages. Read the complete physics-department entries for HuangHai Scholar (4) and Teacher (8), and the nuclear-school HuangHai Scholar entry (11). The recruitment notice list and general 2026 recruitment terms were reviewed in the first pass.",
+      "summary": "Completed the stated doctoral-list and relevant physics/particle-nuclear detail scope. Two physics role families and one nuclear-school scholar family confirmed; no duplicate or current-cycle promotion inferred.",
+      "limitations": [
+        "The listed physics roles run March 16 to December 31, 2026 at 00:00; timezone and appointment start are unstated. The wording is preserved without inventing an end-of-day cutoff.",
+        "The existing INSPIRE junior-faculty advertisement is open until filled, but its correspondence with these broader institutional rows and independent 2026–27 cycle eligibility remain unresolved. No new jobs or promotions are proposed.",
+        "Completion refers to this public 37-row doctoral list and relevant details, not unpublished searches or every historical recruitment route."
+      ],
+      "evidenceUrls": [
+        "https://rsc.ytu.edu.cn/info/1196/3157.htm",
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostViewNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1&postId=FE9BA2B521204952B3EA65BBF9729F1BCI9N",
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=2&postTypeCode=1",
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=4&postTypeCode=1",
+        "https://inspirehep.net/jobs/3129038",
+        "https://rsc.ytu.edu.cn/index.htm",
+        "https://inspirehep.net/api/jobs/3129038",
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostViewNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1&postId=18C31F6CE4A14220817A0BD825F38313UFJM",
+        "https://oei.ytu.edu.cn/",
+        "https://rsc.ytu.edu.cn/index/zpxx.htm",
+        "https://oei.ytu.edu.cn/xygk/cpyc.htm",
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1",
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostViewNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1&postId=48B41C8040ED4D76939E0CEA3FB97378UG24",
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=3&postTypeCode=1"
+      ],
+      "reviewedAt": "2026-10-28T20:00:12.972080+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   },
   {
     "id": "epfl",
@@ -3970,6 +5671,8 @@
     "profileSourceUrl": "https://www.epfl.ch/about/",
     "officialClassifications": [],
     "sourceIds": [
+      "source-45d0aa1f7c14",
+      "source-6de62612a816",
       "source-d6bcda16a105"
     ],
     "localSearchTerms": [],
@@ -3989,7 +5692,24 @@
       "profileSourceUrl": "https://www.epfl.ch/about/"
     },
     "profileCategory": "international-university",
-    "coverageState": "partial-record-verification",
-    "lastFullScan": null
+    "scan": {
+      "state": "complete",
+      "checkedAt": "2026-10-28T19:21:20.157379+00:00",
+      "lastFullScanAt": "2026-10-28T19:21:20.157379+00:00",
+      "coverage": "All current faculty-position headings on the central single-page list, screened for physics/HEP/cosmology.; Full Physics institute open-positions list, including its sole faculty listing.",
+      "summary": "Relevant listed vacancy sources reviewed in the stated scope.",
+      "limitations": [
+        "Current central faculty and Physics lists read; linked experimental-particle advert returns 404 and remains needs-review. Absence/unavailability is not closure evidence."
+      ],
+      "evidenceUrls": [
+        "https://facultyrecruiting.epfl.ch/",
+        "https://www.epfl.ch/about/working/page-26457-en-html/",
+        "https://www.epfl.ch/schools/sb/research/iphys/open-positions/",
+        "https://www.epfl.ch/about/working/faculty-position-in-experimantal-particle-physics/"
+      ],
+      "reviewedAt": "2026-10-28T19:27:07.633247+00:00"
+    },
+    "coverageState": "complete",
+    "lastFullScan": "2026-10-28"
   }
 ]

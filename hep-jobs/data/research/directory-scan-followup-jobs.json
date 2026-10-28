@@ -1,0 +1,324 @@
+[
+  {
+    "id": "ohio-state-astronomy-2027",
+    "institutionId": "ohio-state",
+    "institutionName": "The Ohio State University",
+    "countryCode": "US",
+    "city": "Columbus",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "title": "Tenure-track Faculty Position in Astronomy",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "astrophysics",
+      "observational astronomy",
+      "theoretical astrophysics",
+      "astronomical instrumentation"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer-authored AAS advertisement published September 24, 2026, application deadline November 16, 2026 and Fall 2027 start.",
+    "startDate": "Fall 2027",
+    "sourceUrls": [
+      "https://aas.org/jobregister/ad/57dd4cbb"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-16",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://aas.org/jobregister/ad/57dd4cbb",
+        "description": "Employer-authored AAS advertisement states an application deadline of November 16; exact time and timezone not given."
+      }
+    ],
+    "summary": "Tenure-track astronomy search open to all observational, theoretical and instrumentation areas.",
+    "notes": [
+      "Search primarily at Assistant Professor rank; exceptional senior appointments may be considered."
+    ],
+    "openUntilFilled": false,
+    "verificationBasis": "Read employer-authored current advertisement body and its publication/deadline evidence."
+  },
+  {
+    "id": "ut-austin-astronomy-2027",
+    "institutionId": "ut-austin",
+    "institutionName": "University of Texas at Austin",
+    "countryCode": "US",
+    "city": "Austin",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "title": "Tenure-Track Assistant Professor in Astronomy",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "astronomy",
+      "astrophysics",
+      "time-domain astrophysics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer-authored AAS advertisement published September 4, 2026, full consideration November 10, 2026 and anticipated August 2027 start.",
+    "startDate": "August 2027",
+    "sourceUrls": [
+      "https://aas.org/jobregister/ad/210c5bdf"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-10",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://aas.org/jobregister/ad/210c5bdf",
+        "description": "Complete applications received by November 10, 2026 are assured full consideration; no hard closing date stated."
+      }
+    ],
+    "summary": "Astronomy search open to all areas, particularly stellar and transient astrophysics and the Milky Way/Local Group.",
+    "notes": [
+      "Primarily Assistant Professor rank; exceptional senior candidates may be considered."
+    ],
+    "openUntilFilled": null,
+    "verificationBasis": "Read employer-authored current advertisement body and its publication/deadline evidence."
+  },
+  {
+    "id": "ut-austin-astronomical-instrumentation-2027",
+    "institutionId": "ut-austin",
+    "institutionName": "University of Texas at Austin",
+    "countryCode": "US",
+    "city": "Austin",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "title": "Tenured or Tenure-track Faculty Position in Astronomical Instrumentation",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "astronomical instrumentation",
+      "astrophysics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer-authored AAS advertisement published September 8, 2026 with review starting November 16, 2026 and start as early as August 2027.",
+    "startDate": "August 2027",
+    "sourceUrls": [
+      "https://aas.org/jobregister/ad/2d1b76f2"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-16",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://aas.org/jobregister/ad/2d1b76f2",
+        "description": "Review begins November 16, 2026; applications considered on a rolling basis until filled."
+      }
+    ],
+    "summary": "Open-rank astronomical-instrumentation search favoring contributions to McDonald Observatory and the Giant Magellan Telescope.",
+    "notes": [],
+    "openUntilFilled": true,
+    "verificationBasis": "Read employer-authored current advertisement body and its publication/deadline evidence."
+  },
+  {
+    "id": "vanderbilt-quantum-simulation-2027",
+    "institutionId": "vanderbilt",
+    "institutionName": "Vanderbilt University",
+    "countryCode": "US",
+    "city": "Nashville",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "title": "Tenure-track Assistant Professor in Quantum Computing and Simulation",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "quantum computing",
+      "quantum simulation of field theories",
+      "quantum information"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer AJO advertisement posted October 16, 2026 specifies November 30, 2026 full consideration and PhD completion by August 1, 2027.",
+    "startDate": null,
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33110"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-30",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33110",
+        "description": "Full consideration requires all materials, including letters, by November 30, 2026."
+      },
+      {
+        "date": "2026-12-01",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33110",
+        "description": "Review begins December 1, 2026 and continues until filled."
+      }
+    ],
+    "summary": "Quantum-information faculty search explicitly including simulation of field theories and connections to high-energy and nuclear physics.",
+    "notes": [
+      "Adjacent quantum search, not a dedicated HEP opening.",
+      "AJO header labels November 30 as deadline, but the body explicitly describes full consideration and ongoing review; no hard closure inferred."
+    ],
+    "openUntilFilled": true,
+    "verificationBasis": "Read employer-authored current advertisement body and its publication/deadline evidence."
+  },
+  {
+    "id": "vanderbilt-senior-lecturer-2027",
+    "institutionId": "vanderbilt",
+    "institutionName": "Vanderbilt University",
+    "countryCode": "US",
+    "city": "Nashville",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "title": "Full-time Senior Lecturer in Physics",
+    "rank": [
+      "Senior Lecturer"
+    ],
+    "fields": [
+      "physics",
+      "undergraduate physics teaching"
+    ],
+    "scope": "broad-physics",
+    "cycleEvidence": "Employer AJO advertisement posted October 13, 2026 specifies August 2027 start and February 15, 2027 review.",
+    "startDate": "August 2027",
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33063"
+    ],
+    "deadlines": [
+      {
+        "date": "2027-02-15",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33063",
+        "description": "Review starts February 15, 2027 and continues until filled."
+      }
+    ],
+    "summary": "Full-time non-tenure-track teaching appointment covering undergraduate physics and advanced laboratories.",
+    "notes": [
+      "Initial one-year appointment, renewable to a three-year term subject to performance and curricular need.",
+      "Broad physics teaching opportunity; no specific HEP research component."
+    ],
+    "openUntilFilled": true,
+    "verificationBasis": "Read employer-authored current advertisement body and its publication/deadline evidence."
+  },
+  {
+    "institutionId": "university-of-cagliari",
+    "institutionName": "University of Cagliari",
+    "countryCode": "IT",
+    "city": "Cagliari",
+    "id": "cagliari-full-professor-experimental-particle-2026",
+    "title": "Full Professor in Experimental Physics of Fundamental Interactions",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "rank": [
+      "Full Professor"
+    ],
+    "fields": [
+      "experimental particle physics",
+      "heavy-ion physics"
+    ],
+    "scope": "core",
+    "cycleEvidence": "D.R. 986 dated 21 September 2026; selection ords_42D_0926_02/PHYS-01 closed 22 October 2026.",
+    "startDate": null,
+    "openUntilFilled": false,
+    "explicitClosed": true,
+    "closureSourceUrl": "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari/anno-2026/ords-42d-0926",
+    "deadlines": [
+      {
+        "date": "2026-10-22",
+        "time": "23:59",
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://personale.unica.it/docric/public/fileadmin/user_upload/2026/ordinari/DR_bando/DR986_Bando_17_ords_42D_0926.pdf",
+        "description": "Official call specifies electronic submission by 22 October 2026 at 23:59; no timezone stated."
+      }
+    ],
+    "sourceUrls": [
+      "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari/anno-2026/ords-42d-0926",
+      "https://personale.unica.it/docric/public/fileadmin/user_upload/2026/ordinari/DR_bando/DR986_Bando_17_ords_42D_0926.pdf"
+    ],
+    "summary": "One full professorship in experimental proton-proton and ultrarelativistic heavy-ion physics, particularly CERN-LHC experiments, with physics teaching and research coordination.",
+    "notes": [
+      "Selection ords_42D_0926_02/PHYS-01: one physics post within a 17-field call, distinct from the separate RTT search.",
+      "Official page marks the call SCADUTO; retain in the cycle archive.",
+      "Italian national habilitation, qualifying equivalent status or other eligibility routes specified in the full call apply."
+    ],
+    "verificationBasis": "Full official 2026 index, call page and 32-page PDF including physics annex 1 reviewed."
+  },
+  {
+    "institutionId": "uib",
+    "institutionName": "University of the Balearic Islands",
+    "countryCode": "ES",
+    "city": "Palma",
+    "id": "uib-tenured-theory-astronomy-2627-dfs004",
+    "title": "Tenured Senior Lecturer in Theoretical Physics and Astronomy",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-followup",
+    "rank": [
+      "Tenured Senior Lecturer"
+    ],
+    "fields": [
+      "theoretical physics",
+      "astronomy",
+      "astrophysics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Official May 2026 call explicitly covers academic year 2026–27; position code 2627_DFS_004.",
+    "startDate": null,
+    "openUntilFilled": false,
+    "deadlines": [
+      {
+        "date": "2026-05-26",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://rrhh.uib.cat/arees/pdi/convocatories/ppl",
+        "description": "Official category page states applications 13–26 May 2026; no closing time/timezone supplied."
+      }
+    ],
+    "sourceUrls": [
+      "https://rrhh.uib.cat/arees/pdi/convocatories/ppl",
+      "https://rrhh.uib.cat/documents/d/rrhh-public/854963corslplacestlmaig2026_en-gb-pdf",
+      "https://rrhh.uib.cat/documents/d/rrhh-public/terms-and-conditions_bases_angles_convtl-maig2026-pdf"
+    ],
+    "summary": "Permanent, open-ended full-time titular laboral(i3) position in theoretical physics, with an astronomy and astrophysics research profile at the Palma campus.",
+    "notes": [
+      "Position 2627_DFS_004; expired deadline retained for the explicitly 2026–27 archive.",
+      "The call requires appropriate Spanish/EU accreditation or qualifying equivalent status; I3 accreditation applies to this position.",
+      "Language and nationality/eligibility conditions are specified in the official terms."
+    ],
+    "verificationBasis": "Complete official 14-page vacancy list, full terms and category deadline reviewed."
+  }
+]

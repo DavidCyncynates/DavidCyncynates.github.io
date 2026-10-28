@@ -1,0 +1,581 @@
+{
+  "runId": "hep-directory-followup-20261028-e70243b88f29-6",
+  "startedAt": "2026-10-28T19:48:06.060Z",
+  "finishedAt": "2026-10-28T19:53:54.653Z",
+  "checks": [
+    {
+      "sourceId": "source-3a4d8e011c9a",
+      "checkedAt": "2026-10-28T19:48:06.060Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://durham.taleo.net/careersection/du_ext/jobsearch.ftl"
+      ],
+      "summary": "All three queries identify only Quantum Light and Matter postdoctoral associate 26001358; physics also matches an IT apprentice. No faculty post in this bounded current portal search.",
+      "coverage": "Keyword physics (2), astronomy (1), and cosmology (1) queries fully read; all single-page lists with Next disabled.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": {
+        "keywords": [
+          "physics",
+          "astronomy",
+          "cosmology"
+        ]
+      }
+    },
+    {
+      "sourceId": "source-11f2528e107c",
+      "checkedAt": "2026-10-28T19:48:15+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32603"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-32abccb7d126",
+      "checkedAt": "2026-10-28T19:48:15+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://fisica.unab.cl/"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-84d900fb89a3",
+      "checkedAt": "2026-10-28T19:48:15+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://as.vanderbilt.edu/physics/"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-a756d912f3f6",
+      "checkedAt": "2026-10-28T19:48:15+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32608"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-a3c2f20ad7b1",
+      "checkedAt": "2026-10-28T19:48:18.092Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobs.unige.ch/www/wd_portal.show_page?p_web_page_id=5188"
+      ],
+      "summary": "The Geneva central board is unavailable at its registered URL; the department human-verification barrier remains.",
+      "coverage": "The official central URL returns Not Found in the browser.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-a8d5d20a7abb",
+      "checkedAt": "2026-10-28T19:48:50.200Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://jobs.villanova.edu/postings/search"
+      ],
+      "summary": "Current tenure-track searches 36501 (astrophysics) and 36409 (physics) are already mapped. Older search 31112 starts August 2025. Remaining results are postdoctoral roles, an older visiting instructor, rolling adjunct pools, or optics/photonics search 36614, reviewed separately for field scope.",
+      "coverage": "Departments 182 Astronomy and Planetary Science and 186 Physics, Position Type Faculty: all 14 results on a single page without pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": {
+        "departments": [
+          "182-Astronomy and Planetary Science",
+          "186-Physics"
+        ],
+        "positionType": "Faculty"
+      },
+      "pagination": {
+        "displayed": 14,
+        "total": 14
+      }
+    },
+    {
+      "sourceId": "source-1f5a44daae91",
+      "checkedAt": "2026-10-28T19:49:17+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/Vanderbilt%20University"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-4909419cea97",
+      "checkedAt": "2026-10-28T19:49:17+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/33110"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-4b3b4bc7495f",
+      "checkedAt": "2026-10-28T19:49:17+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/33063"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-70769475c860",
+      "checkedAt": "2026-10-28T19:49:17+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/James%20Madison%20University"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-d09903e02575",
+      "checkedAt": "2026-10-28T19:49:17+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/William%20%26%20Mary"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Entire employer AJO list, exactly one Physics position; full current advertisement read. No pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true,
+        "filters": "Relevant faculty vacancies within the explicitly stated list scope"
+      },
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-0ac2af8dbf23",
+      "checkedAt": "2026-10-28T19:49:26+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/Vanderbilt%20University/Physics%20%26%20Astronomy"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Entire employer-posted Physics and Astronomy AJO list, exactly three positions: nuclear theory, quantum computing/simulation, and Senior Lecturer. All three bodies read. No pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true,
+        "filters": "Relevant faculty vacancies within the explicitly stated list scope"
+      },
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-20b204f422a2",
+      "checkedAt": "2026-10-28T19:49:26+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/James%20Madison%20University/Department%20of%20Physics%20and%20Astronomy"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Entire employer-posted JMU Physics and Astronomy AJO list, exactly one position; full current advertisement read. No pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true,
+        "filters": "Relevant faculty vacancies within the explicitly stated list scope"
+      },
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-7bb80ee0b71f",
+      "checkedAt": "2026-10-28T19:49:26+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/William%20%26%20Mary/Physics"
+      ],
+      "summary": "Retrieval failed or returned no content. No closure inferred.",
+      "coverage": "Attempted source; no readable vacancy content.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-1cbb77ae56d2",
+      "checkedAt": "2026-10-28T19:49:41.352Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://careers.uh.edu/jobs/search/uh-postings"
+      ],
+      "summary": "Existing Nuclear Theorist and Quantum Information Theory/Many-body faculty searches, plus one administrative assistant. No additional physics faculty search.",
+      "coverage": "Physics department filter applied; Displaying all 3 entries; all read.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": {
+        "department": "Physics"
+      },
+      "pagination": {
+        "displayed": 3,
+        "total": 3
+      }
+    },
+    {
+      "sourceId": "source-7ffb63a49c0f",
+      "checkedAt": "2026-10-28T19:50:19.429Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/search"
+      ],
+      "summary": "FE05064 research faculty in astrophysics/plasma physics and Cloudy, FE05020 computational astrophysics, and FE05019 theoretical quantum materials. Detailed eligibility and cycle evidence were reviewed separately.",
+      "coverage": "Department 8E100 Physics and Astronomy filter; all three results on one page without pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": {
+        "department": "8E100:Physics And Astronomy"
+      },
+      "pagination": {
+        "displayed": 3,
+        "total": 3
+      }
+    },
+    {
+      "sourceId": "source-d095cca96d1a",
+      "checkedAt": "2026-10-28T19:50:33.581Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://explore.jobs.ufl.edu/en-us/search/?search-keyword=astronomy"
+      ],
+      "summary": "Existing Astronomy Instrumentation faculty vacancy plus one astrophysics postdoc; no additional faculty vacancy.",
+      "coverage": "Astronomy keyword query displays two results, no pagination; full descriptions read.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": {
+        "keyword": "astronomy"
+      },
+      "pagination": {
+        "displayed": 2,
+        "total": 2
+      }
+    },
+    {
+      "sourceId": "source-cb80c27bcc17",
+      "checkedAt": "2026-10-28T19:51:21.987Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/Cornell",
+        "https://academicjobsonline.org/ajo?joblst-0-0-2687-0-g-----"
+      ],
+      "summary": "Relevant faculty leads: Astronomy 32678 (astrophysics), 32680 (planetary science), Physics 32675 (quantum), and Applied and Engineering Physics 32893. The CLASSE high-energy role is a Klarman postdoctoral fellowship. Advertisement scope and duplication were assessed separately.",
+      "coverage": "Clicked All from the Cornell AJO employer listing; the entire 116-position list was read, with no further pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "displayed": 116,
+        "total": 116
+      }
+    },
+    {
+      "sourceId": "source-627a39eb7455",
+      "checkedAt": "2026-10-28T19:51:28+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32675"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-a59d4a5d82d2",
+      "checkedAt": "2026-10-28T19:51:28+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32680"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-aab1d139d6db",
+      "checkedAt": "2026-10-28T19:51:28+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/652281"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-e82fe1079737",
+      "checkedAt": "2026-10-28T19:51:28+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/650517"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-1690330756df",
+      "checkedAt": "2026-10-28T19:51:54.103Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostViewNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1&postId=FE9BA2B521204952B3EA65BBF9729F1BCI9N"
+      ],
+      "summary": "Two senior professional teaching posts; PhD required. Physics eligibility includes particle/nuclear physics, theory, condensed matter, and optics. Requires Huang Hai Scholar level-three performance over the preceding five years. Applications run March 16, 2026 at 00:00 to December 31, 2026 at 00:00; timezone unstated. No appointment start date. Relationship to the existing INSPIRE faculty advertisement is unconfirmed.",
+      "coverage": "Full detailed Huang Hai Scholar 4 physics row opened by clicking.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-209c7e441f91",
+      "checkedAt": "2026-10-28T19:52:06+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/648332"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-37b33c2de390",
+      "checkedAt": "2026-10-28T19:52:06+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32607"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-bc163276ff89",
+      "checkedAt": "2026-10-28T19:52:10.380Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostViewNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1&postId=48B41C8040ED4D76939E0CEA3FB97378UG24"
+      ],
+      "summary": "Four professional teaching posts at intermediate level or above; PhD required. Eligibility includes particle/nuclear physics, theory, condensed matter, optics, electronics, and optical engineering. Applications run March 16, 2026 at 00:00 to December 31, 2026 at 00:00; timezone unstated. No appointment start date or specific professor rank. Relationship to the existing INSPIRE advertisement is unconfirmed.",
+      "coverage": "Full detailed Teacher 8 physics row opened by clicking.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-36f796be2e22",
+      "checkedAt": "2026-10-28T19:52:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/648992"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-4aaaf536ea0c",
+      "checkedAt": "2026-10-28T19:52:42+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32678"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-f59221c06ef0",
+      "checkedAt": "2026-10-28T19:52:58+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo?joblst-0-0-2687-0-g-----="
+      ],
+      "summary": "Web retrieval normalized the browser All-list query with an extra equals sign and produced a generic AJO landing page; no vacancy coverage inferred.",
+      "coverage": "Rewritten URL only. The distinct original All-list URL was successfully reviewed in the parent browser.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-2230db148b7e",
+      "checkedAt": "2026-10-28T19:53:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=2&postTypeCode=1"
+      ],
+      "summary": "Freshly reread all entries on this public doctoral-post page. Physics and nuclear/particle-eligible scholar/teacher rows identified for the separately recorded full-detail checks.",
+      "coverage": "Complete page 2 of 4; 10 rows. All 37 displayed doctoral recruitment rows screened across four pages.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "page": 2,
+        "totalPages": 4,
+        "resultsScreened": 10,
+        "totalResults": 37,
+        "filters": "doctoral recruitment, postTypeCode=1"
+      }
+    },
+    {
+      "sourceId": "source-2c519fd9e6b5",
+      "checkedAt": "2026-10-28T19:53:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=4&postTypeCode=1"
+      ],
+      "summary": "Freshly reread all entries on this public doctoral-post page. Physics and nuclear/particle-eligible scholar/teacher rows identified for the separately recorded full-detail checks.",
+      "coverage": "Complete page 4 of 4; 7 rows. All 37 displayed doctoral recruitment rows screened across four pages.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "page": 4,
+        "totalPages": 4,
+        "resultsScreened": 7,
+        "totalResults": 37,
+        "filters": "doctoral recruitment, postTypeCode=1"
+      }
+    },
+    {
+      "sourceId": "source-a0164923be2d",
+      "checkedAt": "2026-10-28T19:53:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1"
+      ],
+      "summary": "Freshly reread all entries on this public doctoral-post page. Physics and nuclear/particle-eligible scholar/teacher rows identified for the separately recorded full-detail checks.",
+      "coverage": "Complete page 1 of 4; 10 rows. All 37 displayed doctoral recruitment rows screened across four pages.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "page": 1,
+        "totalPages": 4,
+        "resultsScreened": 10,
+        "totalResults": 37,
+        "filters": "doctoral recruitment, postTypeCode=1"
+      }
+    },
+    {
+      "sourceId": "source-f88ceedaa55a",
+      "checkedAt": "2026-10-28T19:53:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=3&postTypeCode=1"
+      ],
+      "summary": "Freshly reread all entries on this public doctoral-post page. Physics and nuclear/particle-eligible scholar/teacher rows identified for the separately recorded full-detail checks.",
+      "coverage": "Complete page 3 of 4; 10 rows. All 37 displayed doctoral recruitment rows screened across four pages.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "page": 3,
+        "totalPages": 4,
+        "resultsScreened": 10,
+        "totalResults": 37,
+        "filters": "doctoral recruitment, postTypeCode=1"
+      }
+    },
+    {
+      "sourceId": "source-69745461e3ff",
+      "checkedAt": "2026-10-28T19:53:37.158Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=physics"
+      ],
+      "summary": "The only relevant physics faculty listing is Assistant Professor Physics 26059, posted October 13, 2026 for August 2027. Other results are outside the field or are nonfaculty roles.",
+      "coverage": "The physics relevance search returned all 47 university jobs; scrolled to load all 47 and screened their titles and summaries.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": {
+        "keyword": "physics",
+        "ordering": "relevance"
+      },
+      "pagination": {
+        "displayed": 47,
+        "total": 47
+      }
+    },
+    {
+      "sourceId": "source-72be71c27399",
+      "checkedAt": "2026-10-28T19:53:45Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostViewNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1&postId=18C31F6CE4A14220817A0BD825F38313UFJM"
+      ],
+      "summary": "Web reader could not access this public detail URL. Retried with public HTTP.",
+      "coverage": "Attempted HuangHai Scholar 11 detail.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-9fa09d5669a0",
+      "checkedAt": "2026-10-28T19:53:54+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32893"
+      ],
+      "summary": "Read the stated public source.",
+      "coverage": "Single page or advertisement, without institution-wide completion claim.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "retrieval-time"
+    },
+    {
+      "sourceId": "source-5ea6fa509f1c",
+      "checkedAt": "2026-10-28T19:53:54.653Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/preview/26059/?keyword=physics"
+      ],
+      "summary": "Tenure-track Physics Assistant Professor, August 2027; astrophysics preferred, but all subfields encouraged. Full consideration December 15, 2026; open until filled. Requires existing authorization to work full-time in the US; employer cannot sponsor or transfer visas. Posted October 13, 2026.",
+      "coverage": "Full employer preview opened and read.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    }
+  ],
+  "summary": "Follow-up institution-directory scan: recorded bounded reviews, access attempts and coverage gaps."
+}

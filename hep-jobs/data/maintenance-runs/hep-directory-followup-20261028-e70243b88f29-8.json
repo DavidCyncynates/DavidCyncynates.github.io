@@ -1,0 +1,49 @@
+{
+  "runId": "hep-directory-followup-20261028-e70243b88f29-8",
+  "startedAt": "2026-10-28T19:55:14.768Z",
+  "finishedAt": "2026-10-28T19:56:41.730Z",
+  "checks": [
+    {
+      "sourceId": "source-36b7365a3a1d",
+      "checkedAt": "2026-10-28T19:55:14.768Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://osu.wd1.myworkdayjobs.com/OSUCareers"
+      ],
+      "summary": "Relevant faculty searches are the existing theoretical HEP and experimental nuclear/HEP searches and the newly verified Astronomy search. Physics also returns an experimental photonics faculty search undergoing field-scope screening; other results are postdoctoral, visitor, student, support, or clinical roles.",
+      "coverage": "Completed astronomy (5 results, one page), physics (22 results, both pages), and cosmology (4 results, one page) keyword queries.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": {
+        "keywords": [
+          "astronomy",
+          "physics",
+          "cosmology"
+        ]
+      },
+      "pagination": {
+        "astronomy": 5,
+        "physics": 22,
+        "physicsPages": 2,
+        "cosmology": 4
+      }
+    },
+    {
+      "sourceId": "source-cb80c27bcc17",
+      "checkedAt": "2026-10-28T19:56:41.730Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo?joblst-0-0-2687-0-g-----"
+      ],
+      "summary": "Astrophysics 32678 is already mapped. Planetary science 32680, experimental quantum physics 32675, and applied physics 32893 were read separately and lack the advertised HEP/cosmology connection required for inclusion; the CLASSE role is postdoctoral.",
+      "coverage": "Reopened the All listing after a text-fetch parser failed on its query string. All 116 positions remain on one page; reconfirmed the astronomy, physics, CLASSE, and applied-physics entries against the earlier full-list review.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "displayed": 116,
+        "total": 116
+      }
+    }
+  ],
+  "summary": "Follow-up institution-directory scan: recorded bounded reviews, access attempts and coverage gaps."
+}

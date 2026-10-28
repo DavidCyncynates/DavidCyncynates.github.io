@@ -1,0 +1,27 @@
+{
+  "runId": "hep-directory-followup-20261028-e70243b88f29-4",
+  "startedAt": "2026-10-28T19:43:47.670Z",
+  "finishedAt": "2026-10-28T19:43:47.670Z",
+  "checks": [
+    {
+      "sourceId": "source-fad02182d75d",
+      "checkedAt": "2026-10-28T19:43:47.670Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.imperial.ac.uk/jobs/search-jobs/"
+      ],
+      "summary": "No additional astronomy vacancies.",
+      "coverage": "Keyword astronomy: zero current matches, explicit no-jobs message.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": {
+        "keyword": "astronomy"
+      },
+      "pagination": {
+        "displayed": 0,
+        "total": 0
+      }
+    }
+  ],
+  "summary": "Follow-up institution-directory scan: recorded bounded reviews, access attempts and coverage gaps."
+}

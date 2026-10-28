@@ -1,0 +1,369 @@
+[
+  {
+    "id": "berkeley-astronomy-jpf05406",
+    "institutionId": "uc-berkeley",
+    "institutionName": "University of California, Berkeley",
+    "countryCode": "US",
+    "city": "Berkeley, California",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-scan",
+    "title": "Assistant Professor - Department of Astronomy",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "astronomy",
+      "astrophysics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer recruitment opens September 29, 2026 and specifies an anticipated July 1, 2027 start.",
+    "startDate": "2027-07-01",
+    "deadlines": [
+      {
+        "date": "2026-11-02",
+        "time": "23:59",
+        "timezone": "America/Los_Angeles",
+        "kind": "hard",
+        "sourceUrl": "https://aprecruit.berkeley.edu/JPF05406",
+        "description": "Final application date and full-consideration review date are both November 2 at 11:59 p.m. Pacific."
+      }
+    ],
+    "openUntilFilled": false,
+    "sourceUrls": [
+      "https://aprecruit.berkeley.edu/JPF05406"
+    ],
+    "summary": "Assistant-professor search open to all astronomy and astrophysics subfields.",
+    "notes": [],
+    "verificationBasis": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record."
+  },
+  {
+    "id": "berkeley-amo-theory-jpf05460",
+    "institutionId": "uc-berkeley",
+    "institutionName": "University of California, Berkeley",
+    "countryCode": "US",
+    "city": "Berkeley, California",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-scan",
+    "title": "Assistant Professor - Atomic Physics Theory",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "atomic, molecular and optical theory",
+      "precision tests of fundamental physics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer recruitment opens September 17, 2026 and specifies an anticipated July 1, 2027 or later start.",
+    "startDate": "2027-07-01",
+    "deadlines": [
+      {
+        "date": "2026-11-15",
+        "time": "23:59",
+        "timezone": "America/Los_Angeles",
+        "kind": "hard",
+        "sourceUrl": "https://aprecruit.berkeley.edu/JPF05460",
+        "description": "Final application date and full-consideration review date are both November 15 at 11:59 p.m. Pacific."
+      }
+    ],
+    "openUntilFilled": false,
+    "sourceUrls": [
+      "https://aprecruit.berkeley.edu/JPF05460"
+    ],
+    "summary": "Tenure-track theoretical AMO search explicitly including precision measurement and tests of fundamental physics.",
+    "notes": [
+      "Adjacent opportunity: this is an AMO search, not a dedicated high-energy search.",
+      "The employer asks applicants whose research overlaps other Berkeley searches to apply separately."
+    ],
+    "verificationBasis": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record."
+  },
+  {
+    "id": "florida-astronomical-instrumentation-2027",
+    "institutionId": "university-of-florida",
+    "institutionName": "University of Florida",
+    "countryCode": "US",
+    "city": "Gainesville",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-scan",
+    "title": "Assistant Professor for Astronomical Instrumentation",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "astronomical instrumentation",
+      "space instrumentation",
+      "astrophysics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer advertisement posted October 19, 2026 specifies an August 16, 2027 start.",
+    "startDate": "2027-08-16",
+    "deadlines": [
+      {
+        "date": "2026-12-11",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://explore.jobs.ufl.edu/en-us/job/541742/assistant-professor-for-astronomical-instrumentation",
+        "description": "Application review begins December 11, 2026 and continues until the position is filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "sourceUrls": [
+      "https://explore.jobs.ufl.edu/en-us/job/541742/assistant-professor-for-astronomical-instrumentation",
+      "https://aas.org/jobregister/ad/4b7a9ca7"
+    ],
+    "summary": "Tenure-track astronomy faculty search in space astronomical instrumentation and technology development.",
+    "notes": [
+      "Nine-month faculty appointment; no hard application closing date stated."
+    ],
+    "verificationBasis": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record."
+  },
+  {
+    "id": "florida-instrument-science-541567",
+    "institutionId": "university-of-florida",
+    "institutionName": "University of Florida",
+    "countryCode": "US",
+    "city": "Gainesville",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-scan",
+    "title": "Assistant Scientist — Instrument Science (non-tenure-track faculty)",
+    "rank": [
+      "Assistant Scientist"
+    ],
+    "fields": [
+      "gravitational-wave instrumentation",
+      "precision optical measurements"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer advertisement posted October 13, 2026 gives a January 1, 2027 start and November 19, 2026 application close.",
+    "startDate": "2027-01-01",
+    "deadlines": [
+      {
+        "date": "2026-11-19",
+        "time": "23:55",
+        "timezone": "America/New_York",
+        "kind": "hard",
+        "sourceUrl": "https://explore.jobs.ufl.edu/en-us/job/541567/assistant-scientist-instrument-science",
+        "description": "Employer applications-close date; submission required by 11:55 p.m. Eastern."
+      },
+      {
+        "date": "2026-11-20",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://explore.jobs.ufl.edu/en-us/job/541567/assistant-scientist-instrument-science",
+        "description": "Review starts November 20, after the stated application closing date."
+      }
+    ],
+    "openUntilFilled": false,
+    "sourceUrls": [
+      "https://explore.jobs.ufl.edu/en-us/job/541567/assistant-scientist-instrument-science"
+    ],
+    "summary": "Non-tenure-track faculty appointment developing precision optical instruments for LIGO and LISA.",
+    "notes": [
+      "The employer explicitly classifies this as Non-Tenure-Track Faculty and a full-time, 12-month Assistant Scientist appointment.",
+      "Long-term renewal or permanence is not specified. The stated 12-month appointment must not be treated as a guarantee of permanent employment."
+    ],
+    "verificationBasis": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record."
+  },
+  {
+    "id": "villanova-astrophysics-2027",
+    "institutionId": "villanova",
+    "institutionName": "Villanova University",
+    "countryCode": "US",
+    "city": "Villanova",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-scan",
+    "title": "Tenure Track Assistant or Associate Professor in Astrophysics",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor"
+    ],
+    "fields": [
+      "astrophysics",
+      "planetary science",
+      "near-field cosmology"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer posting 20260086F is dated October 6, 2026 and explicitly states a Fall 2027 appointment.",
+    "startDate": "Fall 2027",
+    "deadlines": [
+      {
+        "date": "2026-11-15",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://jobs.villanova.edu/postings/36501",
+        "description": "Review of applications begins November 15, 2026."
+      },
+      {
+        "date": "2026-12-01",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://jobs.villanova.edu/postings/36501",
+        "description": "The advertisement specifies a final deadline of December 1, 2026; no submission time or timezone is stated."
+      }
+    ],
+    "openUntilFilled": false,
+    "sourceUrls": [
+      "https://jobs.villanova.edu/postings/36501"
+    ],
+    "summary": "Tenure-track search open to any astrophysics or planetary-science subfield; near-field cosmology is among departmental research areas.",
+    "notes": [
+      "This is the Astronomy and Planetary Science department search, distinct from Villanova Physics posting 36409.",
+      "The advertisement states a PhD requirement dated June 1, 2025; the October 2026 posting, review date, and explicit Fall 2027 start establish this application cycle."
+    ],
+    "verificationBasis": "Read current employer advertisement, including appointment, cycle, and deadline wording; source checks accompany this record."
+  },
+  {
+    "institutionId": "university-oxford",
+    "institutionName": "University of Oxford",
+    "countryCode": "GB",
+    "city": "Oxford",
+    "id": "oxford-savilian-astronomy-2027",
+    "title": "Savilian Professorship of Astronomy",
+    "cycle": "2026-2027",
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "discovery": "institution-directory-scan",
+    "startDate": null,
+    "openUntilFilled": null,
+    "kind": "formal-vacancy",
+    "rank": [
+      "Professor"
+    ],
+    "fields": [
+      "Astrophysics",
+      "Theoretical astrophysics",
+      "Cosmology",
+      "High-energy astrophysics"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Employer vacancy 186704 closes 2 November 2026; appointment is intended from September 2027.",
+    "sourceUrls": [
+      "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186704",
+      "https://www.physics.ox.ac.uk/about-us/work-us"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-02",
+        "time": "12:00",
+        "timezone": "Europe/London",
+        "kind": "hard",
+        "sourceUrl": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186704",
+        "description": "Applications close at noon UK time on 2 November 2026."
+      }
+    ],
+    "summary": "Oxford Physics and New College seek an Astronomy professor, with preference for theoretical astrophysics while welcoming all astrophysics areas.",
+    "notes": [
+      "Employer reference 186704.",
+      "Appointment from September 2027 or as soon as possible thereafter; no exact start day specified."
+    ],
+    "verificationBasis": "Full employer recruitment advertisement and current Physics vacancy list read."
+  },
+  {
+    "id": "kek-accl26-2-2026",
+    "institutionId": "kek-tsukuba",
+    "institutionName": "KEK — Tsukuba campus",
+    "countryCode": "JP",
+    "city": "Tsukuba",
+    "title": "Fixed-term Assistant Professor — accelerator/FEL technology (ACCL26-2)",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "accelerator physics",
+      "instrumentation"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Official 2026 recruitment released September 17 and updated October 9, with November 19 2026 closing date.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-11-19",
+        "time": "12:00",
+        "timezone": "Asia/Tokyo",
+        "kind": "hard",
+        "sourceUrl": "https://www.kek.jp/en/career/accl26-2e",
+        "description": "Official closing date, noon JST."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://www.kek.jp/en/career/accl26-2e"
+    ],
+    "summary": "Accelerator Laboratory faculty appointment developing superconducting RF and electron/laser beam technology for an EUV free-electron-laser project at Tsukuba.",
+    "notes": [
+      "Fixed-term appointment through March 2030 at the latest; not advertised as tenure-track or permanent.",
+      "One advertised assistant-professor position."
+    ],
+    "discovery": "institution-directory-scan",
+    "verificationBasis": "Full employer advertisement and current institutional vacancy list read on 2026-10-28."
+  },
+  {
+    "id": "tdli-sjtu-astrophysics-faculty-2027",
+    "institutionId": "tdli-sjtu",
+    "institutionName": "Tsung-Dao Lee Institute / Shanghai Jiao Tong University",
+    "countryCode": "CN",
+    "city": "Shanghai",
+    "title": "Faculty positions in astrophysics and cosmology — TDLI / Department of Astronomy",
+    "rank": [
+      "Tenure-track Fellow",
+      "Senior Fellow",
+      "Professor"
+    ],
+    "fields": [
+      "astrophysics",
+      "cosmology",
+      "astroparticle physics"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer advertisement posted September 3 2026, priority November 10 2026 and nominal September 2027 start.",
+    "startDate": "September 2027 (flexible)",
+    "deadlines": [
+      {
+        "date": "2026-11-10",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32595",
+        "description": "Full consideration; search remains open until filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "verification": "verified",
+    "checkedOn": "2026-10-28",
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/32595",
+      "https://tdli.sjtu.edu.cn/en/post/16371"
+    ],
+    "summary": "Several tenured or tenure-track astrophysics positions, including particle astrophysics and cosmology; observational, data-analysis and instrumental expertise encouraged.",
+    "notes": [
+      "Joint TDLI and Shanghai Jiao Tong Department of Astronomy search; one search record, not one record per position.",
+      "AJO header displays 23:59:59 without timezone; no precise local cutoff invented."
+    ],
+    "discovery": "institution-directory-scan",
+    "verificationBasis": "Full employer advertisement and current institutional vacancy list read on 2026-10-28."
+  }
+]

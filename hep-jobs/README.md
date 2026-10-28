@@ -26,7 +26,7 @@ node --test scripts/test_*.mjs
 ```
 
 The build creates `data/catalog.json`, individual exports, SQLite, and the
-readable `catalog.html`. It emits exact UTC cutoffs for browser evaluation from
+readable `catalog.html`. Institution scan labels are derived from the recorded source attempts and dated `data/research/institution-scans.json` reviews. Each completed scan retains its bounded search scope; partial and blocked scans retain their gaps. It emits exact UTC cutoffs for browser evaluation from
 advertised timezone/date semantics. Viewing-time status does not mutate records.
 
 `core.mjs` contains date/filter/clustering rules. Clusters use projected screen
@@ -54,7 +54,18 @@ leads for review (16 catalog records and four research follow-ups). Expired
 listings remain archived. The coverage report and evidence audit in
 `data/maintenance-runs/global-survey-20261028-*.json` describe 151 recorded
 checks across 123 source URLs, including failures and retries. No board scan
-was marked complete; the weekly rotation carries the remaining gaps forward.
+was marked complete in that initial discovery pass.
+
+The subsequent institution-directory scan reviewed all 84 listed institutions
+and added 15 verified searches, including two expired calls retained in the
+archive. It completed the stated vacancy-list scopes for 69 institutions;
+14 retain specific coverage gaps and one remains blocked. The directory shows
+dated results and expandable scope notes instead of a blanket pending label.
+The append-only source attempts and institution reviews retain failures,
+pagination limits and the evidence behind each result. Completed scans cover
+the stated sources and filters, not an assertion that no other vacancy exists.
+Weekly maintenance carries the unresolved gaps forward and marks completed
+checks stale after 28 days.
 
 ## Attribution
 

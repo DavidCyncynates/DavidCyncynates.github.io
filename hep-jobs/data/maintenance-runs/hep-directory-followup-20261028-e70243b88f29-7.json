@@ -1,0 +1,39 @@
+{
+  "runId": "hep-directory-followup-20261028-e70243b88f29-7",
+  "startedAt": "2026-10-28T19:54:07Z",
+  "finishedAt": "2026-10-28T19:54:28.727Z",
+  "checks": [
+    {
+      "sourceId": "source-72be71c27399",
+      "checkedAt": "2026-10-28T19:54:07Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostViewNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1&postId=18C31F6CE4A14220817A0BD825F38313UFJM"
+      ],
+      "summary": "Full public detail read: one teaching/professional-technical post at middle grade or higher, PhD required. Eligible fields include nuclear science/technology, particle and nuclear physics, plasma physics and materials. Requires HuangHai Scholar third-tier performance over the last five years. Application window March 16, 2026 00:00 to December 31, 2026 00:00, timezone unstated.",
+      "coverage": "Complete HuangHai Scholar 11 detail; appointment start and precise professor rank not specified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-36b7365a3a1d",
+      "checkedAt": "2026-10-28T19:54:28.727Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://osu.wd1.myworkdayjobs.com/OSUCareers"
+      ],
+      "summary": "Two faculty searches: R161214 experimental nuclear/HEP, already catalogued, and R159581 Astronomy, a newly verified addition. The other three results are postdoctoral roles.",
+      "coverage": "Astronomy keyword search: all five results on page 1 of 1.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "filters": {
+        "keyword": "astronomy"
+      },
+      "pagination": {
+        "displayed": 5,
+        "total": 5
+      }
+    }
+  ],
+  "summary": "Follow-up institution-directory scan: recorded bounded reviews, access attempts and coverage gaps."
+}

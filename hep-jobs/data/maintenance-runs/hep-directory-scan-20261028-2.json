@@ -1,0 +1,711 @@
+{
+  "runId": "hep-directory-scan-20261028-2",
+  "startedAt": "2026-10-28T19:24:18Z",
+  "finishedAt": "2026-10-28T19:27:49Z",
+  "checks": [
+    {
+      "sourceId": "source-871d432d25ec",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.iopb.res.in/job-opening/"
+      ],
+      "summary": "Nine current openings screened. Existing HEP faculty search is the only eligible faculty call.",
+      "coverage": "All nine Current Openings entries; excludes linked Past Jobs archive.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 9,
+        "filters": "Current Openings"
+      }
+    },
+    {
+      "sourceId": "source-162be672afd7",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.kek.jp/en/career/classification/researcher"
+      ],
+      "summary": "All seven current researcher openings screened. ACCL26-2 is an additional fixed-term Assistant Professor role. ACCL26-4 and ACCL26-5 already recorded. IMSS materials-science and postdoctoral roles screened separately.",
+      "coverage": "Current researcher openings section, seven records on one page; current faculty advertisements followed. Ended archive not comprehensively reprocessed.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 7,
+        "filters": "Current researcher openings"
+      }
+    },
+    {
+      "sourceId": "source-4f3e96e77a34",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.ipmu.jp/en/job-opportunities"
+      ],
+      "summary": "Scientific-staff openings are two postdoctoral opportunities; no eligible faculty call listed. Administrative list says no open positions.",
+      "coverage": "Entire current Job Opportunities page, Scientific Staff and other opportunities; no pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "current Scientific Staff"
+      }
+    },
+    {
+      "sourceId": "source-87b1907006c6",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.phys.ncku.edu.tw/news/career/"
+      ],
+      "summary": "Single current career notice is the 2027 physics faculty call already held for review.",
+      "coverage": "Department career category, single June 30 2026 notice, one page and no additional pagination; linked AJO32429 body read.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 1,
+        "filters": "career category"
+      }
+    },
+    {
+      "sourceId": "source-a8224d875a1d",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.phys.ntu.edu.tw/enphysics/Latestnews.html"
+      ],
+      "summary": "All 2026 and 2025 news titles screened through the 2024 boundary; sole current faculty call matches existing NTU record.",
+      "coverage": "Single-page department news list, all 2026/2025 entries and current faculty advertisement; no pagination in inspected list.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "2026/2025 entries through 2024 boundary"
+      }
+    },
+    {
+      "sourceId": "source-fd9c424c9779",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://sgtuniversity.ac.in/careers"
+      ],
+      "summary": "All three Teaching vacancies are temporary project fellow/research assistant roles in life sciences or chemistry; non-teaching list empty.",
+      "coverage": "Entire current Jobs Openings table, three teaching entries, no pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 3,
+        "filters": "none"
+      }
+    },
+    {
+      "sourceId": "source-09f03ecc5112",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.shinshu-u.ac.jp/faculty/science/others/recruitment.html"
+      ],
+      "summary": "All current Science faculty calls screened: ecology/lake research and the already-recorded cosmic-ray/HEP tenure-track call, explicitly marked ended August 6.",
+      "coverage": "Complete Japanese Faculty of Science recruitment page; all displayed calls, no pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "Faculty of Science"
+      }
+    },
+    {
+      "sourceId": "source-f34080163a2c",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.shinshu-u.ac.jp/faculty/science/en/others/recruitment.html"
+      ],
+      "summary": "English page shows an older fixed-term natural science Assistant Professor call with March 9 deadline and September 2026 start.",
+      "coverage": "Entire English recruitment page; one call.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 1
+      }
+    },
+    {
+      "sourceId": "source-f6f752d12e95",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://main.tifr.res.in/maincampus/careers.php"
+      ],
+      "summary": "All 12 displayed central recruitment notices screened; faculty ad 2026/16 is already recorded. DHEP and theory rolling faculty pages also read.",
+      "coverage": "Main-campus careers page, 12 visible notices, no pagination; DHEP and theory faculty lists.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 12,
+        "filters": "main campus"
+      }
+    },
+    {
+      "sourceId": "source-87c516b49d2a",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.tifr.res.in/dhep/facultyPositions.php"
+      ],
+      "summary": "Standing experimental HEP tenure-track call read; no separately dated new search.",
+      "coverage": "Complete DHEP faculty positions page; no pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1
+      }
+    },
+    {
+      "sourceId": "source-909384e028d2",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://theory.tifr.res.in/jobs.html"
+      ],
+      "summary": "Standing regular-faculty call across HEP, strings, QCD and cosmology read; older postdoctoral section excluded.",
+      "coverage": "Complete theoretical physics job page, faculty section; no pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "filters": "faculty"
+      }
+    },
+    {
+      "sourceId": "source-ade102d95da8",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://tdli.sjtu.edu.cn/en/join-us/tenure-track-fellows"
+      ],
+      "summary": "Single current October 13 2026 global faculty recruitment notice followed in browser; it links separate particle/nuclear and astrophysics searches.",
+      "coverage": "Entire Fellows recruitment page, one current notice, no pagination; full linked notice and relevant AJO ads read.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 1,
+        "filters": "Fellows"
+      }
+    },
+    {
+      "sourceId": "source-109ec5023450",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://tdli.sjtu.edu.cn/en/join-us/scientists"
+      ],
+      "summary": "Six visible older scientist recruitment entries screened (2024–2020); no new 2026–27 faculty call.",
+      "coverage": "Full current Scientists category, six entries, no next page.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 6
+      }
+    },
+    {
+      "sourceId": "source-8c272d2abb01",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://tdli.sjtu.edu.cn/en/post/16371"
+      ],
+      "summary": "October 13 global recruitment notice resolved with browser after web timeouts. Faculty routes include particle/nuclear AJO32304 and astrophysics AJO32595.",
+      "coverage": "Entire faculty and research-divisions announcement read in browser.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-819437de9adb",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://jobs.uct.ac.za/search"
+      ],
+      "summary": "All 22 current results screened, page 1 of 1. No physics/HEP/cosmology faculty title found.",
+      "coverage": "Unfiltered results, all 22 records, page 1/1.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "pagesAvailable": 1,
+        "resultsScreened": 22,
+        "filters": "none"
+      }
+    },
+    {
+      "sourceId": "source-34132fb1d163",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.uct.ac.za/staff/general-vacancies"
+      ],
+      "summary": "All eight academic/executive entries screened; disciplines are medicine, biological sciences, humanities and administration.",
+      "coverage": "Entire academic/executive vacancy section, eight records, no pagination.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 8,
+        "filters": "Academic and Executive"
+      }
+    },
+    {
+      "sourceId": "source-1586983c8187",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://physics.haifa.ac.il/news/?lang=en"
+      ],
+      "summary": "All six department news entries read, July 2026 through December 2025. Currentcycle 2027 faculty call matches existing record and hard October 1 deadline.",
+      "coverage": "Full department News archive as served, six entries, no pagination; both 2027 and prior 2026 faculty notices inspected.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 6,
+        "filters": "none"
+      }
+    },
+    {
+      "sourceId": "source-39d73d0166b6",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career"
+      ],
+      "summary": "Browser resolved empty web extraction. All 45 current jobs inspected on pages 1–3. No HEP/cosmology/physics faculty search found; laser-scientist lead is analytical geochemistry.",
+      "coverage": "Unfiltered live Workday vacancy list, all 45 jobs across 3 pages; laser-scientist detail followed.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 3,
+        "pagesAvailable": 3,
+        "resultsScreened": 45,
+        "filters": "none",
+        "method": "browser"
+      }
+    },
+    {
+      "sourceId": "source-b844a9ba1236",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://physics.iitm.ac.in/facultyrecruitment.html"
+      ],
+      "summary": "Physics faculty recruitment page lists 2026 advertisement with experimental high-energy nuclear/particle specialization. Existing search retained.",
+      "coverage": "Full departmental recruitment page; one identified call.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-198898899ed7",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://mbsfacapp.iitm.ac.in/"
+      ],
+      "summary": "New Merit Based Selection announcement IITM/MBS/2/2026 issuedOct23, portal openedOct26. Public page does not specify physics eligibility or ranks.",
+      "coverage": "Public recruitment landing page only; detailed eligibility/application scope unresolved.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-5503ea4a813c",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/"
+      ],
+      "summary": "2026 regular-staff titles screened through 2025 boundary; relevant research/talent/annual notices followed.",
+      "coverage": "2026 section of Chinese regular-staff list; annual job-table attachment and older rolling advertisements remain unresolved.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-22faf5aa715c",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/fzbzp/"
+      ],
+      "summary": "2026 nonestablishment titles screened; Oct27 experimental-center and Oct23 research-engineer calls are dispatched technical posts requiring bachelor-level qualifications.",
+      "coverage": "2026 nonestablishment titles; two latest ambiguous calls followed; not all historical posts read.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-d0064285e7b3",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://english.ihep.cas.cn/ju/jo/index_1.html"
+      ],
+      "summary": "Second English board page inspected to verify older-date boundary; current 2026 faculty umbrella ad read separately.",
+      "coverage": "Page2 of English list, older 2025/2024 titles.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-d4c16030a61a",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://zprcb.jlu.edu.cn/talent-sys/public/home"
+      ],
+      "summary": "Browser read all four talent-program results, medicine and civil engineering only.",
+      "coverage": "Unfiltered talent-program board, four results, one page; does not cover general teacher recruitment.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 4,
+        "filters": "none",
+        "method": "browser"
+      }
+    },
+    {
+      "sourceId": "source-3bee74ff9505",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.jlu.edu.cn/info/1095/57563.m.htm"
+      ],
+      "summary": "Official May 20 2026 faculty call remains valid until next 2027 announcement; detailed position table is an attachment.",
+      "coverage": "General faculty-call body only; attachment not inspected.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ebfd5336f40f",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://careers.jlu.edu.cn/"
+      ],
+      "summary": "Browser displays scheduled maintenance22:00–06:00; no job results accessible.",
+      "coverage": "General faculty recruitment portal unavailable during maintenance.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-e8135e220bb7",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://phys.site.nthu.edu.tw/index.php?Lang=en"
+      ],
+      "summary": "English department page supplies navigation/seminars but no vacancy list. Chinese page also checked in browser.",
+      "coverage": "Department navigation and announcements only; no adequate current faculty list located.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-9c5f6a06f1ca",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32613"
+      ],
+      "summary": "Existing current cycle broad faculty call verified: October 31 second-round deadline and August 2027 start.",
+      "coverage": "One employer advertisement; not directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-406226a10ed4",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://phys.nycu.edu.tw/"
+      ],
+      "summary": "Department homepage and current faculty call inspected; news blocks contain events rather than a complete recruitment list.",
+      "coverage": "Homepage plus known faculty advertisement only.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-f66d39ba00db",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.srmap.edu.in/careers/"
+      ],
+      "summary": "Current faculty table explicitly includes Physics and open ranks; 2026 rolling notice and 2025 notices linked.",
+      "coverage": "Current faculty/leadership/nonteaching sections inspected; January 2026 image notification not fully transcribed.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-86d7504ea09f",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://oei.ytu.edu.cn/xygk/cpyc.htm"
+      ],
+      "summary": "Physics department talent page has no entries and a one page navigation placeholder.",
+      "coverage": "Rendered public page only; empty department list does not establish no vacancies.",
+      "paginationComplete": false,
+      "scopeType": "department-page"
+    },
+    {
+      "sourceId": "source-8422205415cb",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rsc.ytu.edu.cn/index/zpxx.htm"
+      ],
+      "summary": "All four HR notices screened: lawprofessor,2026doctoral recruitment, and two policy notices.",
+      "coverage": "HR recruitment page one of one, four entries; general faculty call followed but role table pending.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-111b967692ad",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rsc.ytu.edu.cn/info/1196/3157.htm"
+      ],
+      "summary": "2026 doctoral-staff call body read; rolling until filled with finalDecember 31 cutoff. Faculty/physics details require linked role table.",
+      "coverage": "General recruitment body; attached position table not yet inspected.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-083231bec761",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.kek.jp/en/career/accl26-2e"
+      ],
+      "summary": "Accelerator Laboratory faculty appointment developing superconducting RF and electron/laser beam technology for an EUV free-electron-laser project at Tsukuba.",
+      "coverage": "Full employer advertisement read; supports newly verified job.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-780cd7eefb80",
+      "checkedAt": "2026-10-28T19:24:18Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32595"
+      ],
+      "summary": "Several tenured or tenure-track astrophysics positions, including particle astrophysics and cosmology; observational, data-analysis and instrumental expertise encouraged.",
+      "coverage": "Full employer advertisement read; supports newly verified job.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-dd747f06dda6",
+      "checkedAt": "2026-10-28T19:26:46+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://sede.usc.es/sede/publica/taboleiro/verAnuncioPublicable/148452/carga.htm"
+      ],
+      "summary": "Advert annex could not be read: CAPTCHA-protected document download (one repeat request inaccessible). No bypass attempted.",
+      "coverage": "Attempted full official annex for current IGFAE research contract; rank/contract terms remain unresolved.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-2c965c7b83a9",
+      "checkedAt": "2026-10-28T19:26:46+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://sede.usc.es/sede/publica/taboleiro/verAnuncioPublicable/148405/carga.htm"
+      ],
+      "summary": "Advert annex could not be read: CAPTCHA-protected document download (one repeat request inaccessible). No bypass attempted.",
+      "coverage": "Attempted full official annex for current IGFAE research contract; rank/contract terms remain unresolved.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-45441f44409d",
+      "checkedAt": "2026-10-28T19:26:46+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://sede.usc.es/sede/publica/taboleiro/verAnuncioPublicable/148404/carga.htm"
+      ],
+      "summary": "Advert annex could not be read: CAPTCHA-protected document download (one repeat request inaccessible). No bypass attempted.",
+      "coverage": "Attempted full official annex for current IGFAE research contract; rank/contract terms remain unresolved.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e53fdad2cca6",
+      "checkedAt": "2026-10-28T19:26:56+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.physics.purdue.edu/about/positions/index.html"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Entire department positions page: faculty section lists experimental relativistic heavy-ion search; other sections screened.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-4888263dabf6",
+      "checkedAt": "2026-10-28T19:26:56+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://physics.rice.edu/open-positions"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Entire short department positions page, currently showing only a postdoctoral associate; AJO supplements incomplete department publicity.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": true
+      }
+    },
+    {
+      "sourceId": "source-c4848dddba3c",
+      "checkedAt": "2026-10-28T19:26:56+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.osu.edu/employment-opportunities"
+      ],
+      "summary": "Read the stated source; this check does not by itself establish institution-wide vacancy coverage.",
+      "coverage": "Physics employment landing page read; separate Astronomy recruitment remains unreviewed.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "pagination": {
+        "pagesRead": 1,
+        "terminalPageConfirmed": false
+      }
+    },
+    {
+      "sourceId": "source-ca1372f393d9",
+      "checkedAt": "2026-10-28T19:26:56+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=204910"
+      ],
+      "summary": "Advertisement linked from official faculty list returned no readable content. No vacancy closure inferred.",
+      "coverage": "Attempted individual advertisement only; not a vacancy-list scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f8bdcdc4d0d3",
+      "checkedAt": "2026-10-28T19:26:56+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/195638"
+      ],
+      "summary": "Advertisement linked from official faculty list returned no readable content. No vacancy closure inferred.",
+      "coverage": "Attempted individual advertisement only; not a vacancy-list scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-488991baa7d1",
+      "checkedAt": "2026-10-28T19:26:56+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/195599"
+      ],
+      "summary": "Advertisement linked from official faculty list returned no readable content. No vacancy closure inferred.",
+      "coverage": "Attempted individual advertisement only; not a vacancy-list scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f390cfda612a",
+      "checkedAt": "2026-10-28T19:27:37Z",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.phys.sinica.edu.tw/news_en.php?eng=T&id=job"
+      ],
+      "summary": "Six current institute job entries screened; assistant/student/postdoctoral roles only. Existing broad faculty AJO call retained.",
+      "coverage": "IOP job-opening page, six visible records, one page, no next-page control. Existing AJO32236 also read.",
+      "paginationComplete": true,
+      "scopeType": "vacancy-list",
+      "pagination": {
+        "pagesRead": 1,
+        "resultsScreened": 6,
+        "filters": "none"
+      }
+    },
+    {
+      "sourceId": "source-bfc57f35426c",
+      "checkedAt": "2026-10-28T19:27:37Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202603/P020260319371298377441.pdf"
+      ],
+      "summary": "Attachment request timed out. No position-table facts inferred.",
+      "coverage": "2026 Beijing role table unavailable.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a0164923be2d",
+      "checkedAt": "2026-10-28T19:27:49Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&postTypeCode=1"
+      ],
+      "summary": "Screened page 1 of 4 in the 37-record doctoral recruitment list. Physics entries are Huang Hai Scholar 4 (two posts) and Teacher 8 (four posts); full row details remain truncated.",
+      "coverage": "All four pages screened at title/department level; individual faculty rank/requirements and deduplication unresolved.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-2230db148b7e",
+      "checkedAt": "2026-10-28T19:27:49Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=2&postTypeCode=1"
+      ],
+      "summary": "Screened page 2 of 4 in the 37-record doctoral recruitment list. Physics entries are Huang Hai Scholar 4 (two posts) and Teacher 8 (four posts); full row details remain truncated.",
+      "coverage": "All four pages screened at title/department level; individual faculty rank/requirements and deduplication unresolved.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-f88ceedaa55a",
+      "checkedAt": "2026-10-28T19:27:49Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=3&postTypeCode=1"
+      ],
+      "summary": "Screened page 3 of 4 in the 37-record doctoral recruitment list. Physics entries are Huang Hai Scholar 4 (two posts) and Teacher 8 (four posts); full row details remain truncated.",
+      "coverage": "All four pages screened at title/department level; individual faculty rank/requirements and deduplication unresolved.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-2c519fd9e6b5",
+      "checkedAt": "2026-10-28T19:27:49Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://rszp.ytu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=ytdx&page=4&postTypeCode=1"
+      ],
+      "summary": "Screened page 4 of 4 in the 37-record doctoral recruitment list. Physics entries are Huang Hai Scholar 4 (two posts) and Teacher 8 (four posts); full row details remain truncated.",
+      "coverage": "All four pages screened at title/department level; individual faculty rank/requirements and deduplication unresolved.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list"
+    }
+  ],
+  "summary": "Institution-directory scan: bounded vacancy-list reviews and recorded access/coverage gaps."
+}
