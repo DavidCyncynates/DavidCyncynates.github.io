@@ -33,9 +33,8 @@ function render(){
 }
 function renderList(){
   const jobs=region?filtered.filter(j=>region.has(j.id)):filtered;
-  $('#result-count').textContent=`${jobs.length} ${jobs.length===1?'search':'searches'}${region?' in this region':''}`;
   const missing=jobs.filter(j=>!plotReady(j)).length;
-  $('#result-note').textContent=`Sorted by next milestone${missing?` · ${missing} not yet located`:''}`;
+  $('#result-count').textContent=`${jobs.length} ${jobs.length===1?'search':'searches'}${region?' in this region':''}${missing?` · ${missing} not yet located`:''}`;
   $('#clear-region').hidden=!region;
   $('#job-list').innerHTML=jobs.length?jobs.map(j=>{const s=status(j,now);return `<button class="job-card" data-job="${esc(j.id)}" aria-label="View ${esc(j.title)} at ${esc(j.institutionName)}"><span class="place">${esc(j.city)} · ${esc(country(j.countryCode))}</span><strong>${esc(j.institutionName)}</strong><span class="title">${esc(j.title)}</span><span class="date"><i class="dot ${s.urgency} ${j.kind!=='formal-vacancy'?'outline':''}"></i>${esc(timing(j))}</span>${s.review?'<span class="badge">Needs verification</span>':''}${j.kind!=='formal-vacancy'?'<span class="badge">Expression of interest</span>':''}${j.scope!=='core'?`<span class="badge">${j.scope==='adjacent'?'Adjacent field':'Broad physics'}</span>`:''}</button>`}).join(''):'<p class="empty">No searches match these filters. Try another research area or include closed searches.</p>';
 }
@@ -52,7 +51,8 @@ function renderMarkers(){
     const label=count===1?`${jobs[0].institutionName}: ${jobs[0].title}`:`${count} searches in this region`;
     const key=jobs.map(j=>j.id).sort().join('|');retained.add(key);
     const icon=L.divIcon({className:'map-marker',html:`<div class="marker-dot ${urgency} ${shape} ${allClosed?'is-closed':''} ${states.every(s=>s.review)?'is-review':''}"><span>${count>1?count:''}</span></div>`,iconSize:[size,size],iconAnchor:[size/2,size/2]});
-    const tooltip=`<strong>${esc(count===1?jobs[0].institutionName:count+' searches')}</strong><br>${esc(count===1?timing(jobs[0]):[...new Set(jobs.map(j=>j.city))].join(' · '))}${count>1?`<br>${jobs.length-eois} advertised · ${eois} EOI<br>${states.filter(s=>!s.closed&&s.urgency==='red').length} within 7 days · ${states.filter(s=>!s.closed&&s.urgency==='amber').length} within 8–30 days<br>Click to explore`:''}`;
+    const institutions=[...new Set(jobs.map(j=>byInst.get(j.institutionId)?.name||j.institutionName))].sort((a,b)=>a.localeCompare(b));
+    const tooltip=`<div class="map-institutions">${institutions.slice(0,4).map(name=>`<span>${esc(name)}</span>`).join('')}${institutions.length>4?'<span aria-label="More institutions">…</span>':''}</div>`;
     const position=map.unproject([c.x,c.y],map.getZoom());
     let entry=markerCache.get(key);
     if(entry){
@@ -61,10 +61,10 @@ function renderMarkers(){
       if(entry.html!==icon.options.html){entry.marker.setIcon(icon);entry.html=icon.options.html;}
       continue;
     }
-    const marker=L.marker(position,{icon,title:label,alt:label,keyboard:true,riseOnHover:true}).addTo(markers);
+    const marker=L.marker(position,{icon,alt:label,keyboard:true,riseOnHover:true}).addTo(markers);
     markerCache.set(key,{marker,html:icon.options.html,tooltip});
     marker.getElement()?.setAttribute('aria-label',label);
-    marker.bindTooltip(tooltip,{direction:'top',offset:[0,-size/2]});
+    marker.bindTooltip(tooltip,{direction:'auto',className:'institution-tooltip'});
     marker.on('click',()=>{
       smoothZoom?.cancel();
       if(count===1){showJob(jobs[0].id);return}
@@ -107,7 +107,11 @@ async function init(){
   clusterUpdates=createClusterUpdates(map.getContainer(),renderMarkers);
   map.on('zoomend',clusterUpdates.request);map.on('unload',clusterUpdates.destroy);
   smoothZoom=installSmoothZoom(map,L);
-  const observer=new ResizeObserver(()=>map.invalidateSize({pan:false}));observer.observe($('#map'));
+  const observer=new ResizeObserver(([entry])=>{
+    const width=entry.contentRect.width;
+    $('#map').style.setProperty('--tooltip-width',`${Math.min(360,Math.max(180,width/3),Math.max(100,width/2-16))}px`);
+    map.invalidateSize({pan:false});
+  });observer.observe($('#map'));
   render();renderDirectory();updateTheme();
   try{const world=await fetch('assets/world.geojson');if(!world.ok)throw Error();land=L.geoJSON(await world.json(),{style:landStyle,interactive:false,noClip:true}).addTo(map);land.bringToBack()}catch{const message=document.createElement('p');message.className='map-error';message.textContent='The background map could not load. Job locations and the list remain available.';$('.map-panel').append(message)}
   const id=new URL(locationHref()).searchParams.get('job');if(id)showJob(id);
