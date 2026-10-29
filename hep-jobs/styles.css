@@ -15,3 +15,29 @@
 @media(max-width:650px){.site-header{min-height:68px}.home>span:last-child{display:none}.brand-mark{width:39px;height:39px;border-radius:12px}}
 
 .scan-details{font-size:12px;color:var(--muted);margin-top:8px;overflow-wrap:anywhere}.scan-details summary{cursor:pointer;color:var(--accent)}.scan-details p{margin-top:8px;line-height:1.5}
+
+.resource-view[hidden],.directory-link[hidden]{display:none}
+.view-tabs{display:flex;gap:6px;border-bottom:1px solid var(--line);margin-bottom:22px}
+.view-tabs a{padding:10px 17px 12px;color:var(--muted);text-decoration:none;font-size:14px;font-weight:600;border-bottom:2px solid transparent;margin-bottom:-1px}
+.view-tabs a[aria-selected="true"]{color:var(--accent);border-bottom-color:var(--accent)}
+.view-tabs a:hover{color:var(--text)}
+.rumor-intro{margin:5px 0 25px}.rumor-intro h2{font:500 25px/1.25 "Iowan Old Style",Palatino,Georgia,serif}
+.rumor-intro p{font-size:14px;color:var(--muted);margin-top:7px;max-width:700px}
+.rumor-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.rumor-card{display:flex;flex-direction:column;min-width:0;border:1px solid var(--line);border-radius:10px;background:var(--surface);padding:22px}
+.rumor-card-top{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.rumor-region{font-size:12px;font-weight:650;color:var(--accent)}
+.rumor-state{font-size:11px;line-height:1.4;border:1px solid var(--line);padding:3px 7px;border-radius:5px;color:var(--muted)}
+.rumor-state.current{color:var(--accent)}
+.rumor-card h3{font-size:17px;font-weight:600;line-height:1.35;margin:17px 0 4px}
+.rumor-field{font-size:12px;color:var(--muted)}
+.rumor-description{font-size:14px;line-height:1.6;margin:17px 0 12px}
+.rumor-note{font-size:12px;line-height:1.6;color:var(--muted);margin-bottom:18px}
+.rumor-open{display:flex;justify-content:space-between;align-items:center;gap:15px;align-self:flex-start;margin-top:auto;padding:9px 12px;border:1px solid var(--line);border-radius:6px;text-decoration:none;font-size:13px;font-weight:600}
+.rumor-open:hover{border-color:var(--accent);background:var(--surface-2)}
+.rumor-checked{font-size:11px;color:var(--muted);margin-top:13px}
+.rumor-other{margin-top:30px}.rumor-other>h3{font-size:14px;font-weight:600;margin:0 0 13px;color:var(--muted)}
+.rumor-footnote{font-size:12px;color:var(--muted);max-width:900px;margin-top:25px;line-height:1.7}.rumor-footnote a{white-space:nowrap}
+.rumor-error{border:1px solid var(--line);padding:20px;border-radius:8px}
+@media(max-width:1000px){.rumor-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.rumor-grid{grid-template-columns:1fr}.rumor-card{padding:19px}.rumor-intro h2{font-size:23px}.view-tabs{margin-bottom:20px}.view-tabs a{flex:1;text-align:center}}

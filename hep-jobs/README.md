@@ -67,6 +67,12 @@ the stated sources and filters, not an assertion that no other vacancy exists.
 Weekly maintenance carries the unresolved gaps forward and marks completed
 checks stale after 28 days.
 
+The Rumor mills tab links to external community resources using
+`data/rumor-mills.json`. It distinguishes current, unverified, and archived
+sources, and keeps link-check dates separate from source-update dates. The
+existing weekly refresh checks these links under `MAINTENANCE.md`; their
+reports do not directly change vacancy status or institutional scan coverage.
+
 ## Attribution
 
 - Leaflet 1.9.4: BSD-2-Clause, licence in `vendor/leaflet/LICENSE`.

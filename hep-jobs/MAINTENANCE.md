@@ -92,6 +92,18 @@ The ledger tool is offline: it fetches nothing, modifies no catalog records, and
 
 The weekly heartbeat should stay quiet when nothing meaningful changed. Notify the user about new or materially changed opportunities, completed publication, persistent coverage failures, or a required decision. Do not send applications, emails, or other messages to institutions.
 
+## Rumor-mill links in the weekly run
+
+Review `data/rumor-mills.json` during the existing weekly refresh; do not create a separate schedule. This is a directory of external community resources, independent of the vacancy catalog and its institution-coverage ledger. Follow each source link, inspect its stated cycle and activity, and check for an explicit move or cessation notice. Retry previously inaccessible links reasonably without allowing one outage to prevent the other checks.
+
+Each source retains a stable `id`, `name`, `region`, `field`, exact `url`, `status`, `cycle`, short `description` and `note`, `checkedOn`, `sourceUpdatedOn`, and `evidenceUrls`. Use `current` for a successfully inspected page covering the current hiring cycle, `unverified` when its current activity cannot be established, and `archive` only when the source explicitly stopped updates or the link is explicitly an archive. An outage, timeout, 404, or old modification date alone does not prove that a source has closed. Preserve any previously established cycle and update date when a later access failure leaves them unverified, and explain the failure in `note`.
+
+`checkedOn` is the UTC date the link and its status were actually checked, including an unsuccessful access attempt; it is not the source's update date or evidence that all hiring reports were verified. The top-level `checkedOn` records the latest actual directory review, while individual dates identify the checks each entry received. Set `sourceUpdatedOn` only from an explicit source update or last-modified statement; use `null` when unavailable. In particular, the date near the heading of the UC Davis pages is not a substitute for the footer's last-modified date. Keep an announcement's cessation date in the note rather than inventing a last-update date. Record the cycle as the source labels it, and retain public evidence URLs for the status assessment. Do not advance any date merely because the site was rebuilt or a scheduled run started.
+
+Keep descriptions short and factual. Link to the source; do not copy candidate names, shortlists, offers, personal rumors, private correspondence, or individual hiring outcomes into this directory. These pages may reveal a new advertised search, but verify its employer advertisement through the normal vacancy workflow before adding or changing a catalog job. Rumor-mill activity must never directly close a vacancy, change its deadlines, alter verification, or count as a completed institutional vacancy scan. A source's rollover to another year does not roll the map beyond its 2026–2027 application-cycle scope.
+
+Record link-review results, access failures, and material status or URL changes separately in the weekly run summary. Preserve earlier assessments through the committed history. Keep unavailable regional resources visibly unverified and discontinued ones visibly archived; do not imply worldwide coverage. Publish directory changes with the same reviewed weekly update as the catalog.
+
 ## Seed and recovery commands
 
 The initial ledger is already seeded; this command is for a genuinely new catalog only:
