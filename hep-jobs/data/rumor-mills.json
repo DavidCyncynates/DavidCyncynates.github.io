@@ -1,0 +1,89 @@
+{
+  "checkedOn": "2026-10-29",
+  "sources": [
+    {
+      "id": "north-america-hep-theory",
+      "name": "Theoretical Particle Physics Jobs Rumor Mill",
+      "region": "North America",
+      "field": "HEP theory",
+      "url": "https://particle.physics.ucdavis.edu/rumor/doku.php?id=current",
+      "status": "current",
+      "cycle": "2027",
+      "description": "Faculty searches in theoretical particle physics in the United States and Canada.",
+      "note": "",
+      "checkedOn": "2026-10-29",
+      "sourceUpdatedOn": "2026-10-27",
+      "evidenceUrls": [
+        "https://particle.physics.ucdavis.edu/rumor/doku.php?id=current",
+        "https://sites.google.com/site/postdocrumor/"
+      ]
+    },
+    {
+      "id": "uk-ireland-hep-theory",
+      "name": "UK & Ireland Faculty Rumor Mill",
+      "region": "UK & Ireland",
+      "field": "HEP theory",
+      "url": "https://particle.physics.ucdavis.edu/rumor/doku.php?id=currentuk",
+      "status": "current",
+      "cycle": "2026–2027",
+      "description": "Theoretical particle physics faculty searches, linked as the UK and Ireland rumor mill.",
+      "note": "",
+      "checkedOn": "2026-10-29",
+      "sourceUpdatedOn": "2026-09-28",
+      "evidenceUrls": [
+        "https://particle.physics.ucdavis.edu/rumor/doku.php?id=currentuk",
+        "https://sites.google.com/site/postdocrumor/"
+      ]
+    },
+    {
+      "id": "international-hep-experiment",
+      "name": "HEP Experiment Faculty Rumor Mill",
+      "region": "International",
+      "field": "HEP experiment",
+      "url": "https://sites.google.com/site/hepexrumor/",
+      "status": "current",
+      "cycle": "2026–2027",
+      "description": "US and international tenure-track and permanent searches in collider physics, dark matter, neutrinos and related experimental fields.",
+      "note": "",
+      "checkedOn": "2026-10-29",
+      "sourceUpdatedOn": "2026-10-05",
+      "evidenceUrls": [
+        "https://sites.google.com/site/hepexrumor/"
+      ]
+    },
+    {
+      "id": "germanic-nordic-hep-theory",
+      "name": "Germanic/Nordic Faculty Rumor Mill",
+      "region": "Germanic & Nordic Europe",
+      "field": "HEP theory, strings & mathematical physics",
+      "url": "https://gasdrumor.bplaced.net/",
+      "status": "unverified",
+      "cycle": null,
+      "description": "A regional theory faculty rumor mill linked by the HEP community directories.",
+      "note": "The page could not be reached at the latest check; its current cycle is unconfirmed.",
+      "checkedOn": "2026-10-29",
+      "sourceUpdatedOn": null,
+      "evidenceUrls": [
+        "https://sites.google.com/site/postdocrumor/",
+        "https://particle.physics.ucdavis.edu/rumor/doku.php?id=currentuk",
+        "https://gasdrumor.bplaced.net/"
+      ]
+    },
+    {
+      "id": "asia-hep-faculty",
+      "name": "HEP Rumors Asia",
+      "region": "Asia",
+      "field": "High-energy physics",
+      "url": "https://sites.google.com/site/heprumorsasia/",
+      "status": "archive",
+      "cycle": null,
+      "description": "An archive of Asian HEP faculty job announcements and hiring reports.",
+      "note": "The site announced on 4 July 2024 that it would no longer publish new job announcements or rumors.",
+      "checkedOn": "2026-10-29",
+      "sourceUpdatedOn": null,
+      "evidenceUrls": [
+        "https://sites.google.com/site/heprumorsasia/"
+      ]
+    }
+  ]
+}

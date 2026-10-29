@@ -1,6 +1,8 @@
 import {status,matches,sortJobs,clusterPoints,formatDate as dateText} from './core.mjs';
 import {installSmoothZoom} from './smooth-zoom.mjs';
 import {createClusterUpdates} from './cluster-updates.mjs';
+import {installViews} from './views.mjs';
+import {loadRumors} from './rumors.mjs';
 const $=s=>document.querySelector(s), esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const publicURL=u=>{try{const x=new URL(u);return ['https:','http:'].includes(x.protocol)?x.href:'#'}catch{return '#'}};
 const link=(u,text,cls='')=>`<a class="${cls}" href="${esc(publicURL(u))}" target="_blank" rel="noopener noreferrer">${esc(text)} ↗</a>`;
@@ -18,6 +20,7 @@ let catalog,byInst,filtered=[],region=null,map,land,markers,selected=null,dirSou
 let now=Date.now();
 const markerCache=new Map();
 let smoothZoom,clusterUpdates;
+let activeView='vacancies',mapStarted=false,rumorsLoaded=false,resumeMap;
 function filters(){return {q:$('#search').value,field:$('#field').value,country:$('#country').value,kind:$('#kind').value,scope:$('#scope').value,profile:$('#profile').value,due:$('#due').value,closed:$('#closed').checked,review:$('#review').checked}}
 function location(j){return j.location?.verification==='verified'?j.location:byInst.get(j.institutionId)?.location}
 function plotReady(j){const p=location(j);return p?.verification==='verified'&&Number.isFinite(p.latitude)&&Number.isFinite(p.longitude)}
@@ -38,7 +41,7 @@ function renderList(){
   $('#job-list').innerHTML=jobs.length?jobs.map(j=>{const s=status(j,now);return `<button class="job-card" data-job="${esc(j.id)}" aria-label="View ${esc(j.title)} at ${esc(j.institutionName)}"><span class="place">${esc(j.city)} · ${esc(country(j.countryCode))}</span><strong>${esc(j.institutionName)}</strong><span class="title">${esc(j.title)}</span><span class="date"><i class="dot ${s.urgency} ${j.kind!=='formal-vacancy'?'outline':''}"></i>${esc(timing(j))}</span>${s.review?'<span class="badge">Needs verification</span>':''}${j.kind!=='formal-vacancy'?'<span class="badge">Expression of interest</span>':''}${j.scope!=='core'?`<span class="badge">${j.scope==='adjacent'?'Adjacent field':'Broad physics'}</span>`:''}</button>`}).join(''):'<p class="empty">No searches match these filters. Try another research area or include closed searches.</p>';
 }
 function renderMarkers(){
-  if(!map)return;
+  if(!map||activeView!=='vacancies')return;
   const retained=new Set();
   const points=filtered.filter(plotReady).map(j=>{const p=location(j), xy=map.project([p.latitude,p.longitude],map.getZoom());return {x:xy.x,y:xy.y,job:j}});
   for(const c of clusterPoints(points)){
@@ -105,6 +108,9 @@ async function init(){
   const res=await fetch('data/catalog.json');if(!res.ok)throw Error('Catalog unavailable');catalog=await res.json();byInst=new Map(catalog.institutions.map(i=>[i.id,i]));dirSources=new Map(catalog.sources.map(s=>[s.id,s]));
   for(const [selector,values,label] of [['#field',[...new Set(catalog.jobs.flatMap(j=>j.fieldTags))].sort(),fieldLabel],['#country',[...new Set(catalog.jobs.map(j=>j.countryCode))].sort((a,b)=>country(a).localeCompare(country(b))),country]])for(const value of values){const option=new Option(label(value),value);$(selector).add(option)}
   $('#coverage').textContent=`Initial coverage · ${catalog.jobs.filter(j=>j.verification==='verified').length} verified searches, ${catalog.jobs.filter(j=>j.verification!=='verified').length} leads awaiting review · Latest evidence check ${dateText(catalog.jobs.map(j=>j.checkedOn).sort().at(-1))}. No warranty expressed or implied.`;
+  // If the visitor switched tabs during the fetch, wait for measurable map bounds.
+  if(activeView!=='vacancies')await new Promise(resolve=>{resumeMap=resolve});
+  now=Date.now();
   if(!window.L)throw Error('Map library unavailable');
   map=L.map('map',{minZoom:0,maxZoom:8,zoomSnap:0,zoomDelta:.5,scrollWheelZoom:false,touchZoom:true,bounceAtZoomLimits:false,dragging:true,maxBounds:[[-85,-190],[85,190]],maxBoundsViscosity:.7,attributionControl:true});
   map.attributionControl.setPrefix('<a href="https://leafletjs.com/">Leaflet</a>');map.attributionControl.addAttribution('<a href="https://www.naturalearthdata.com/">Natural Earth</a>');
@@ -114,15 +120,27 @@ async function init(){
   smoothZoom=installSmoothZoom(map,L);
   const observer=new ResizeObserver(([entry])=>{
     const width=entry.contentRect.width;
+    if(!width||!entry.contentRect.height||activeView!=='vacancies')return;
     $('#map').style.setProperty('--tooltip-width',`${Math.min(360,Math.max(180,width/3),Math.max(100,width/2-16))}px`);
     map.invalidateSize({pan:false});
   });observer.observe($('#map'));
   render();renderDirectory();updateTheme();
   try{const world=await fetch('assets/world.geojson');if(!world.ok)throw Error();land=L.geoJSON(await world.json(),{style:landStyle,interactive:false,noClip:true}).addTo(map);land.bringToBack()}catch{const message=document.createElement('p');message.className='map-error';message.textContent='The background map could not load. Job locations and the list remain available.';$('.map-panel').append(message)}
-  const id=new URL(locationHref()).searchParams.get('job');if(id)showJob(id);
+  const id=new URL(locationHref()).searchParams.get('job');if(id&&activeView==='vacancies')showJob(id);
   let statusKey=JSON.stringify(catalog.jobs.map(j=>status(j,now)));
   const refreshDates=()=>{now=Date.now();const nextKey=JSON.stringify(catalog.jobs.map(j=>status(j,now)));if(nextKey!==statusKey){statusKey=nextKey;render();if(selected)showJob(selected)}};
   setInterval(refreshDates,60000);document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshDates()});
  }catch(error){$('#result-count').textContent='Unable to load the map';$('#job-list').innerHTML='<p class="empty">Please reload, or <a href="catalog.html">open the readable catalog</a>.</p>';console.error(error)}
 }
-init();
+installViews({document,window,onChange(view){
+  activeView=view;smoothZoom?.cancel();updateTheme();
+  if(view==='rumors'){
+    if($('#detail').open)$('#detail').close();
+    if(!rumorsLoaded){rumorsLoaded=true;loadRumors(document)}
+  }else{
+    now=Date.now();
+    if(resumeMap){resumeMap();resumeMap=null}
+    if(!mapStarted){mapStarted=true;init()}
+    else requestAnimationFrame(()=>{if(map&&activeView==='vacancies'){map.invalidateSize({pan:false});render()}});
+  }
+}});
