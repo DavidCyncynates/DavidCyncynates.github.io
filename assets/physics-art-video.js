@@ -14,7 +14,7 @@
 
     const syncControl = () => {
       const action = video.paused ? 'Play' : 'Pause';
-      const label = activeMode?.dataset.videoLabel || 'Stochastic iron echoes';
+      const label = activeMode?.dataset.videoLabel || 'Gaussian pulse iron echoes';
       frame.setAttribute('aria-label', `${action} ${label.toLowerCase()} video`);
     };
 
@@ -27,7 +27,7 @@
       }
       video.play().then(() => {
         if (currentRequest !== request) return;
-        // A pointer may have left while the first frame was still loading.
+        // Playback may have been toggled off while the first frame was loading.
         if (!wanted || !visible || document.hidden) video.pause();
       }).catch(() => {
         if (currentRequest !== request) return;
@@ -58,25 +58,20 @@
       update();
     }));
 
-    frame.addEventListener('pointerenter', (event) => {
-      if (event.pointerType === 'touch' || !hover.matches || reducedMotion.matches) return;
-      wanted = true;
-      update();
-    });
-    frame.addEventListener('pointerleave', (event) => {
-      if (event.pointerType !== 'touch') stop();
-    });
     const togglePlayback = () => {
       wanted = !wanted;
       update();
     };
+    frame.addEventListener('pointerenter', (event) => {
+      if (event.pointerType === 'touch' || !hover.matches || reducedMotion.matches) return;
+      togglePlayback();
+    });
     frame.addEventListener('click', togglePlayback);
     frame.addEventListener('keydown', (event) => {
       if (event.key !== ' ' && event.key !== 'Enter') return;
       event.preventDefault();
       if (!event.repeat) togglePlayback();
     });
-    frame.addEventListener('blur', stop);
     video.addEventListener('play', syncControl);
     video.addEventListener('pause', syncControl);
     video.addEventListener('error', stop);
