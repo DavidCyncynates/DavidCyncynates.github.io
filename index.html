@@ -307,7 +307,7 @@
     .art-media--friendship img { transform: scale(1.02); }
     .art-piece--video { grid-column: 1 / -1; width: min(100%, 854px); justify-self: center; }
     .art-video { background: #000; }
-    .art-video video { display: block; width: 100%; height: auto; aspect-ratio: 854 / 480; }
+    .art-video video { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; }
     .art-video[role="button"] { cursor: pointer; }
     .art-video[role="button"] video { pointer-events: none; }
     .art-caption {
@@ -562,20 +562,20 @@
         <div class="art-grid">
           <figure class="art-piece art-piece--video" id="iron-echoes">
             <div class="art-media art-video" data-hover-video>
-              <video controls muted loop playsinline preload="none" width="854" height="480"
-                poster="assets/physics-art/stochastic-iron-echoes.jpg"
+              <video controls muted loop playsinline preload="none" width="1920" height="1080"
+                poster="assets/physics-art/stochastic-iron-echoes-1080p.jpg"
                 aria-label="Stochastic iron echoes: side-by-side MAD and SANE animation">
-                <source src="assets/physics-art/stochastic-iron-echoes.mp4" type="video/mp4">
-                <a href="assets/physics-art/stochastic-iron-echoes.mp4">Open the video</a>.
+                <source src="assets/physics-art/stochastic-iron-echoes-1080p.mp4" type="video/mp4">
+                <a href="assets/physics-art/stochastic-iron-echoes-1080p.mp4">Open the video</a>.
               </video>
             </div>
             <figcaption class="art-caption">
               <div>
                 <h3>Stochastic iron echoes · MAD / SANE</h3>
                 <p data-video-hint>Play or pause the video.</p>
-                <p>GRMHD data: <a href="https://ui.adsabs.harvard.edu/abs/2025ApJS..277...16D/abstract" target="_blank" rel="noopener noreferrer">Dhruv et al. (2025), ApJS 277, 16</a>.</p>
+                <p>GRMHD data: <a href="https://ui.adsabs.harvard.edu/abs/2025ApJS..277...16D/abstract" target="_blank" rel="noopener noreferrer">Dhruv et al. (2025), ApJS 277, 16</a>. AI-upscaled from 480p.</p>
               </div>
-              <a class="art-file-link" href="assets/physics-art/stochastic-iron-echoes.mp4" target="_blank" rel="noopener">MP4 ↗</a>
+              <a class="art-file-link" href="assets/physics-art/stochastic-iron-echoes-1080p.mp4" target="_blank" rel="noopener">MP4 ↗</a>
             </figcaption>
           </figure>
 
