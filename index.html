@@ -305,8 +305,12 @@
     .art-media:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
     .art-media img { width: 100%; height: auto; }
     .art-media--friendship img { transform: scale(1.02); }
-    .art-piece--video { grid-column: 1 / -1; width: min(100%, 854px); justify-self: center; }
-    #physics-art .section-head { margin-bottom: .65rem; }
+    #physics-art { --art-video-width: 854px; }
+    .art-piece--video { grid-column: 1 / -1; width: min(100%, var(--art-video-width)); justify-self: center; }
+    #physics-art .section-head {
+      margin-bottom: .65rem;
+      padding-inline-end: max(0px, calc((100% - var(--art-video-width)) / 2));
+    }
     #physics-art .section-title-wrap h2 { margin: 0; }
     .art-section-title { display: flex; align-items: center; justify-content: space-between; gap: .65rem; }
     .art-video-switch {
