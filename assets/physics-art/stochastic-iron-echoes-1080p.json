@@ -1,0 +1,39 @@
+{
+  "purpose": "Display enhancement of the Physics art animation; not a native 1080p ray-traced render.",
+  "source": {
+    "file": "stochastic-iron-echoes.mp4",
+    "sha256": "da8dd1b1df4788ac633eddebcbb423bfd58d1b20a2e1a1c7198ec3a84de852e3",
+    "width": 854,
+    "height": 480,
+    "frames": 240,
+    "fps": 24
+  },
+  "model": {
+    "name": "RealESRGAN_x2plus",
+    "url": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.1/RealESRGAN_x2plus.pth",
+    "sha256": "49fafd45f8fd7aa8d31ab2a22d14d91b536c34494a5cfe31eb5d89c2fa266abb"
+  },
+  "processing": {
+    "ai_weight": 0.75,
+    "lanczos_source_weight": 0.25,
+    "final_resize": "Lanczos to 1920 by 1080",
+    "annotations": "Original top labels and lower-left scale bar composited with feathering in the surrounding black margins",
+    "frame_interpolation": false
+  },
+  "encoding": {
+    "codec": "H.264",
+    "crf": 18,
+    "preset": "slow",
+    "pixel_format": "yuv420p",
+    "faststart": true
+  },
+  "output": {
+    "file": "stochastic-iron-echoes-1080p.mp4",
+    "sha256": "d8308e30ce6004c0b933f8e3017ea7ca335e4f83322d0b7f6e18462fbffb065b",
+    "width": 1920,
+    "height": 1080,
+    "frames": 240,
+    "fps": 24
+  },
+  "grmhd_data_reference": "https://ui.adsabs.harvard.edu/abs/2025ApJS..277...16D/abstract"
+}
