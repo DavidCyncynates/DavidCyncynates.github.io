@@ -4,7 +4,6 @@
 
   document.querySelectorAll('[data-hover-video]').forEach((frame) => {
     const video = frame.querySelector('video');
-    const toggle = frame.querySelector('button');
     const hint = frame.closest('figure').querySelector('[data-video-hint]');
     let wanted = false;
     let visible = true;
@@ -12,8 +11,7 @@
 
     const syncControl = () => {
       const action = video.paused ? 'Play' : 'Pause';
-      toggle.querySelector('span').textContent = action;
-      toggle.setAttribute('aria-label', `${action} stochastic iron echoes video`);
+      frame.setAttribute('aria-label', `${action} stochastic iron echoes video`);
     };
 
     const update = () => {
@@ -40,7 +38,7 @@
 
     const updatePreference = () => {
       hint.textContent = hover.matches && !reducedMotion.matches
-        ? 'Hover to play · click to pause.'
+        ? 'Hover to play · move away to pause.'
         : 'Tap or click to play and pause.';
       stop();
     };
@@ -53,11 +51,17 @@
     frame.addEventListener('pointerleave', (event) => {
       if (event.pointerType !== 'touch') stop();
     });
-    toggle.addEventListener('click', () => {
+    const togglePlayback = () => {
       wanted = !wanted;
       update();
+    };
+    frame.addEventListener('click', togglePlayback);
+    frame.addEventListener('keydown', (event) => {
+      if (event.key !== ' ' && event.key !== 'Enter') return;
+      event.preventDefault();
+      if (!event.repeat) togglePlayback();
     });
-    toggle.addEventListener('blur', stop);
+    frame.addEventListener('blur', stop);
     video.addEventListener('play', syncControl);
     video.addEventListener('pause', syncControl);
     video.addEventListener('error', stop);
@@ -77,7 +81,8 @@
 
     video.muted = true;
     video.controls = false;
-    toggle.hidden = false;
+    frame.setAttribute('role', 'button');
+    frame.tabIndex = 0;
     updatePreference();
   });
 })();
