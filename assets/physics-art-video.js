@@ -5,8 +5,8 @@
   document.querySelectorAll('[data-hover-video]').forEach((frame) => {
     const video = frame.querySelector('video');
     const figure = frame.closest('figure');
-    const selector = figure.querySelector('.art-video-switch');
-    const modes = [...figure.querySelectorAll('[data-video-mode]')];
+    const selector = figure.closest('section').querySelector('.art-video-switch');
+    const modes = [...(selector?.querySelectorAll('[data-video-mode]') || [])];
     let activeMode = modes.find((mode) => mode.getAttribute('aria-pressed') === 'true');
     let wanted = false;
     let visible = true;

@@ -306,10 +306,11 @@
     .art-media img { width: 100%; height: auto; }
     .art-media--friendship img { transform: scale(1.02); }
     .art-piece--video { grid-column: 1 / -1; width: min(100%, 854px); justify-self: center; }
-    #physics-art .section-head { margin-bottom: .35rem; }
-    #physics-art .section-title-wrap h2 { margin-bottom: 0; }
+    #physics-art .section-head { margin-bottom: .65rem; }
+    #physics-art .section-title-wrap h2 { margin: 0; }
+    .art-section-title { display: flex; align-items: center; justify-content: space-between; gap: .65rem; }
     .art-video-switch {
-      width: fit-content; margin: 0 0 .65rem auto; padding: 3px;
+      flex-shrink: 0; width: fit-content; margin: 0; padding: 3px;
       border: 1px solid var(--line-strong); border-radius: 999px; background: var(--control-bg);
     }
     .art-video-switch:not([hidden]) { display: flex; }
@@ -388,6 +389,11 @@
       .publication { grid-template-columns: 1fr; gap: .25rem; }
       .journal-link { grid-column: 1; margin-top: .2rem; }
       .footer-inner { flex-direction: column; }
+    }
+
+    @media (max-width: 380px) {
+      #physics-art .section-title-wrap h2 { font-size: 1.55rem; }
+      .art-video-switch button { padding-inline: .65rem; }
     }
 
     @media (prefers-reduced-motion: reduce) {
@@ -483,13 +489,8 @@
       <div class="shell">
         <div class="section-head">
           <div class="section-index">01 · Physics art</div>
-          <div class="section-title-wrap">
+          <div class="section-title-wrap art-section-title">
             <h2>Physics art.</h2>
-          </div>
-        </div>
-
-        <div class="art-grid">
-          <figure class="art-piece art-piece--video" id="iron-echoes">
             <div class="art-video-switch" role="group" aria-label="Iron echo illumination" hidden>
               <button type="button" data-video-mode="pulse" aria-pressed="true" aria-controls="iron-echo-video"
                 data-video-src="assets/physics-art/gaussian-iron-echoes.mp4?v=20f399b9f70b"
@@ -500,6 +501,11 @@
                 data-video-poster="assets/physics-art/stochastic-iron-echoes.jpg?v=977332b31327"
                 data-video-label="Stochastic iron echoes">Stochastic</button>
             </div>
+          </div>
+        </div>
+
+        <div class="art-grid">
+          <figure class="art-piece art-piece--video" id="iron-echoes">
             <div class="art-media art-video" data-hover-video>
               <video id="iron-echo-video" controls muted loop playsinline preload="none" width="854" height="480"
                 poster="assets/physics-art/gaussian-iron-echoes.jpg?v=20f399b9f70b"
@@ -823,6 +829,6 @@
       });
     })();
   </script>
-  <script src="assets/physics-art-video.js?v=5" defer></script>
+  <script src="assets/physics-art-video.js?v=6" defer></script>
 </body>
 </html>
