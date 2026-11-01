@@ -4,7 +4,6 @@
 
   document.querySelectorAll('[data-hover-video]').forEach((frame) => {
     const video = frame.querySelector('video');
-    const hint = frame.closest('figure').querySelector('[data-video-hint]');
     let wanted = false;
     let visible = true;
     let request = 0;
@@ -36,13 +35,6 @@
       update();
     };
 
-    const updatePreference = () => {
-      hint.textContent = hover.matches && !reducedMotion.matches
-        ? 'Hover to play · move away to pause.'
-        : 'Tap or click to play and pause.';
-      stop();
-    };
-
     frame.addEventListener('pointerenter', (event) => {
       if (event.pointerType === 'touch' || !hover.matches || reducedMotion.matches) return;
       wanted = true;
@@ -69,8 +61,8 @@
       if (document.hidden) stop();
     });
     window.addEventListener('pagehide', stop);
-    hover.addEventListener('change', updatePreference);
-    reducedMotion.addEventListener('change', updatePreference);
+    hover.addEventListener('change', stop);
+    reducedMotion.addEventListener('change', stop);
 
     if ('IntersectionObserver' in window) {
       new IntersectionObserver(([entry]) => {
@@ -83,6 +75,6 @@
     video.controls = false;
     frame.setAttribute('role', 'button');
     frame.tabIndex = 0;
-    updatePreference();
+    stop();
   });
 })();
