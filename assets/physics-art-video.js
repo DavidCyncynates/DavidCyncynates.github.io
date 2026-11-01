@@ -4,13 +4,18 @@
 
   document.querySelectorAll('[data-hover-video]').forEach((frame) => {
     const video = frame.querySelector('video');
+    const figure = frame.closest('figure');
+    const selector = figure.querySelector('.art-video-switch');
+    const modes = [...figure.querySelectorAll('[data-video-mode]')];
+    let activeMode = modes.find((mode) => mode.getAttribute('aria-pressed') === 'true');
     let wanted = false;
     let visible = true;
     let request = 0;
 
     const syncControl = () => {
       const action = video.paused ? 'Play' : 'Pause';
-      frame.setAttribute('aria-label', `${action} stochastic iron echoes video`);
+      const label = activeMode?.dataset.videoLabel || 'Stochastic iron echoes';
+      frame.setAttribute('aria-label', `${action} ${label.toLowerCase()} video`);
     };
 
     const update = () => {
@@ -21,6 +26,7 @@
         return;
       }
       video.play().then(() => {
+        if (currentRequest !== request) return;
         // A pointer may have left while the first frame was still loading.
         if (!wanted || !visible || document.hidden) video.pause();
       }).catch(() => {
@@ -34,6 +40,23 @@
       wanted = false;
       update();
     };
+
+    modes.forEach((mode) => mode.addEventListener('click', () => {
+      if (mode === activeMode) return;
+      // Invalidate a pending play request before replacing its media resource.
+      stop();
+      activeMode = mode;
+      modes.forEach((option) => option.setAttribute('aria-pressed', String(option === mode)));
+      video.poster = mode.dataset.videoPoster;
+      video.querySelector('source').src = mode.dataset.videoSrc;
+      video.querySelector('a').href = mode.dataset.videoSrc;
+      figure.querySelector('.art-file-link').href = mode.dataset.videoSrc;
+      video.setAttribute('aria-label', `${mode.dataset.videoLabel}: side-by-side MAD and SANE animation, with a scale bar of ten gravitational radii`);
+      video.load();
+      // Choosing a mode is an explicit playback request, including on touchscreens.
+      wanted = true;
+      update();
+    }));
 
     frame.addEventListener('pointerenter', (event) => {
       if (event.pointerType === 'touch' || !hover.matches || reducedMotion.matches) return;
@@ -76,5 +99,6 @@
     frame.setAttribute('role', 'button');
     frame.tabIndex = 0;
     stop();
+    if (selector) selector.hidden = false;
   });
 })();
