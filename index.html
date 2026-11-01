@@ -306,19 +306,10 @@
     .art-media img { width: 100%; height: auto; }
     .art-media--friendship img { transform: scale(1.02); }
     .art-piece--video { grid-column: 1 / -1; width: min(100%, 854px); justify-self: center; }
-    .art-video { position: relative; background: #000; }
+    .art-video { background: #000; }
     .art-video video { display: block; width: 100%; height: auto; aspect-ratio: 854 / 480; }
-    .art-video-toggle {
-      position: absolute; inset: 0; display: flex; align-items: flex-end; justify-content: flex-end;
-      width: 100%; padding: .7rem; border: 0; background: transparent; color: #fff;
-      font: inherit; font-size: .8rem; cursor: pointer;
-    }
-    .art-video-toggle[hidden] { display: none; }
-    .art-video-toggle span {
-      display: grid; place-items: center; min-width: 64px; min-height: 44px; padding: .4rem .7rem;
-      border: 1px solid rgba(255,255,255,.3); border-radius: 8px; background: rgba(0,0,0,.7);
-    }
-    .art-video-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: -4px; }
+    .art-video[role="button"] { cursor: pointer; }
+    .art-video[role="button"] video { pointer-events: none; }
     .art-caption {
       display: grid; grid-template-columns: minmax(0,1fr) auto; gap: .8rem;
       align-items: start; padding: .85rem .12rem 0;
@@ -569,6 +560,25 @@
         </div>
 
         <div class="art-grid">
+          <figure class="art-piece art-piece--video" id="iron-echoes">
+            <div class="art-media art-video" data-hover-video>
+              <video controls muted loop playsinline preload="none" width="854" height="480"
+                poster="assets/physics-art/stochastic-iron-echoes.jpg"
+                aria-label="Stochastic iron echoes: side-by-side MAD and SANE animation">
+                <source src="assets/physics-art/stochastic-iron-echoes.mp4" type="video/mp4">
+                <a href="assets/physics-art/stochastic-iron-echoes.mp4">Open the video</a>.
+              </video>
+            </div>
+            <figcaption class="art-caption">
+              <div>
+                <h3>Stochastic iron echoes · MAD / SANE</h3>
+                <p data-video-hint>Play or pause the video.</p>
+                <p>GRMHD data: <a href="https://ui.adsabs.harvard.edu/abs/2025ApJS..277...16D/abstract" target="_blank" rel="noopener noreferrer">Dhruv et al. (2025), ApJS 277, 16</a>.</p>
+              </div>
+              <a class="art-file-link" href="assets/physics-art/stochastic-iron-echoes.mp4" target="_blank" rel="noopener">MP4 ↗</a>
+            </figcaption>
+          </figure>
+
           <figure class="art-piece">
             <a class="art-media" href="assets/physics-art/axiverse-baryogenesis.png" target="_blank" rel="noopener" aria-label="Open the Axiverse Baryogenesis figure at full resolution">
               <img src="assets/physics-art/axiverse-baryogenesis.webp" alt="Abstract scientific visualization in cyan, green, violet, and magenta, with a broad horizontal band and dense vertical streaks" width="1597" height="1280" loading="lazy" decoding="async">
@@ -592,26 +602,6 @@
                 <p>Resonant Nonlinear Pairs in the Axiverse and Their Late-Time Direct and Astrophysical Signatures.</p>
               </div>
               <a class="art-file-link" href="assets/physics-art/friendship-in-the-axiverse.pdf" target="_blank" rel="noopener">PDF ↗</a>
-            </figcaption>
-          </figure>
-
-          <figure class="art-piece art-piece--video" id="iron-echoes">
-            <div class="art-media art-video" data-hover-video>
-              <video controls muted loop playsinline preload="none" width="854" height="480"
-                poster="assets/physics-art/stochastic-iron-echoes.jpg"
-                aria-label="Stochastic iron echoes: side-by-side MAD and SANE animation">
-                <source src="assets/physics-art/stochastic-iron-echoes.mp4" type="video/mp4">
-                <a href="assets/physics-art/stochastic-iron-echoes.mp4">Open the video</a>.
-              </video>
-              <button class="art-video-toggle" type="button" aria-label="Play stochastic iron echoes video" hidden><span>Play</span></button>
-            </div>
-            <figcaption class="art-caption">
-              <div>
-                <h3>Stochastic iron echoes · MAD / SANE</h3>
-                <p data-video-hint>Play or pause the video.</p>
-                <p>GRMHD data: <a href="https://ui.adsabs.harvard.edu/abs/2025ApJS..277...16D/abstract" target="_blank" rel="noopener noreferrer">Dhruv et al. (2025), ApJS 277, 16</a>.</p>
-              </div>
-              <a class="art-file-link" href="assets/physics-art/stochastic-iron-echoes.mp4" target="_blank" rel="noopener">MP4 ↗</a>
             </figcaption>
           </figure>
         </div>
@@ -794,6 +784,6 @@
       });
     })();
   </script>
-  <script src="assets/physics-art-video.js" defer></script>
+  <script src="assets/physics-art-video.js?v=2" defer></script>
 </body>
 </html>
