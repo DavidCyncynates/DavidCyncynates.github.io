@@ -306,6 +306,8 @@
     .art-media img { width: 100%; height: auto; }
     .art-media--friendship img { transform: scale(1.02); }
     .art-piece--video { grid-column: 1 / -1; width: min(100%, 854px); justify-self: center; }
+    #physics-art .section-head { margin-bottom: .35rem; }
+    #physics-art .section-title-wrap h2 { margin-bottom: 0; }
     .art-video-switch {
       width: fit-content; margin: 0 0 .65rem auto; padding: 3px;
       border: 1px solid var(--line-strong); border-radius: 999px; background: var(--control-bg);
@@ -489,21 +491,21 @@
         <div class="art-grid">
           <figure class="art-piece art-piece--video" id="iron-echoes">
             <div class="art-video-switch" role="group" aria-label="Iron echo illumination" hidden>
-              <button type="button" data-video-mode="pulse" aria-pressed="false" aria-controls="iron-echo-video"
+              <button type="button" data-video-mode="pulse" aria-pressed="true" aria-controls="iron-echo-video"
                 data-video-src="assets/physics-art/gaussian-iron-echoes.mp4?v=20f399b9f70b"
                 data-video-poster="assets/physics-art/gaussian-iron-echoes.jpg?v=20f399b9f70b"
                 data-video-label="Gaussian pulse iron echoes">Pulse</button>
-              <button type="button" data-video-mode="stochastic" aria-pressed="true" aria-controls="iron-echo-video"
+              <button type="button" data-video-mode="stochastic" aria-pressed="false" aria-controls="iron-echo-video"
                 data-video-src="assets/physics-art/stochastic-iron-echoes.mp4?v=977332b31327"
                 data-video-poster="assets/physics-art/stochastic-iron-echoes.jpg?v=977332b31327"
                 data-video-label="Stochastic iron echoes">Stochastic</button>
             </div>
             <div class="art-media art-video" data-hover-video>
               <video id="iron-echo-video" controls muted loop playsinline preload="none" width="854" height="480"
-                poster="assets/physics-art/stochastic-iron-echoes.jpg?v=977332b31327"
-                aria-label="Stochastic iron echoes: side-by-side MAD and SANE animation, with a scale bar of ten gravitational radii">
-                <source src="assets/physics-art/stochastic-iron-echoes.mp4?v=977332b31327" type="video/mp4">
-                <a href="assets/physics-art/stochastic-iron-echoes.mp4?v=977332b31327">Open the video</a>.
+                poster="assets/physics-art/gaussian-iron-echoes.jpg?v=20f399b9f70b"
+                aria-label="Gaussian pulse iron echoes: side-by-side MAD and SANE animation, with a scale bar of ten gravitational radii">
+                <source src="assets/physics-art/gaussian-iron-echoes.mp4?v=20f399b9f70b" type="video/mp4">
+                <a href="assets/physics-art/gaussian-iron-echoes.mp4?v=20f399b9f70b">Open the video</a>.
               </video>
               <svg class="art-video-annotations" viewBox="0 0 854 480" aria-hidden="true" focusable="false">
                 <g fill="#000">
@@ -524,7 +526,7 @@
                 <h3>Iron echoes · MAD / SANE</h3>
                 <p>GRMHD data: <a href="https://ui.adsabs.harvard.edu/abs/2025ApJS..277...16D/abstract" target="_blank" rel="noopener noreferrer">Dhruv et al. (2025), ApJS 277, 16</a>.</p>
               </div>
-              <a class="art-file-link" href="assets/physics-art/stochastic-iron-echoes.mp4?v=977332b31327" target="_blank" rel="noopener">MP4 ↗</a>
+              <a class="art-file-link" href="assets/physics-art/gaussian-iron-echoes.mp4?v=20f399b9f70b" target="_blank" rel="noopener">MP4 ↗</a>
             </figcaption>
           </figure>
 
@@ -821,6 +823,6 @@
       });
     })();
   </script>
-  <script src="assets/physics-art-video.js?v=4" defer></script>
+  <script src="assets/physics-art-video.js?v=5" defer></script>
 </body>
 </html>
