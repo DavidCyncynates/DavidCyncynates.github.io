@@ -1,0 +1,265 @@
+[
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-11-02",
+    "discovery": "weekly-public-source-sweep",
+    "openUntilFilled": null,
+    "verificationBasis": "Read current employer advertisement and stated application-cycle evidence.",
+    "id": "aip-potsdam-cosmology-director-2026",
+    "institutionId": "aip-potsdam",
+    "institutionName": "Leibniz Institute for Astrophysics Potsdam / University of Potsdam",
+    "countryCode": "DE",
+    "city": "Potsdam",
+    "title": "W3 Professor in Astrophysical Cosmology and Director at AIP",
+    "rank": [
+      "Full Professor",
+      "Director"
+    ],
+    "fields": [
+      "cosmology",
+      "large-scale structure",
+      "computational astrophysics"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Employer PDF published October 23, 2026, with applications due November 30, 2026; AAS advertisement published October 30.",
+    "startDate": null,
+    "sourceUrls": [
+      "https://www.uni-potsdam.de/fileadmin/projects/verwaltung/docs/Dezernat3/Ausschreibungen/1_Professuren/W3_Kosmologie_AIP_eng.pdf",
+      "https://aas.org/jobregister/ad/a04bc2f9"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-30",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://www.uni-potsdam.de/fileadmin/projects/verwaltung/docs/Dezernat3/Ausschreibungen/1_Professuren/W3_Kosmologie_AIP_eng.pdf",
+        "description": "Employer PDF requires applications by November 30; no time or timezone stated."
+      }
+    ],
+    "summary": "Joint tenured professorship and leadership of a new astrophysical cosmology department at AIP, including cosmic structure formation, theory, simulations and large-survey analysis.",
+    "notes": [
+      "Primary workplace is AIP in Potsdam-Babelsberg; university teaching is part of the joint appointment.",
+      "Start date differs between sources: employer PDF says as soon as possible; AAS says expected in 2028. Confirm with the institution."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://www.aip.de/en/career/jobs/?set_language=en",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-11-02",
+    "discovery": "weekly-public-source-sweep",
+    "openUntilFilled": null,
+    "verificationBasis": "Read current employer advertisement and stated application-cycle evidence.",
+    "id": "uw-milwaukee-cgca-faculty-2027",
+    "institutionId": "uw-milwaukee",
+    "institutionName": "University of Wisconsin-Milwaukee",
+    "countryCode": "US",
+    "city": "Milwaukee",
+    "title": "Open-rank Faculty in Gravitation, Cosmology, Astronomy and Astrophysics",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor",
+      "Professor"
+    ],
+    "fields": [
+      "gravitation",
+      "cosmology",
+      "astrophysics"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Employer-authored AAS advertisement published October 30, 2026, for an August 23, 2027 appointment.",
+    "startDate": "2027-08-23",
+    "sourceUrls": [
+      "https://aas.org/jobregister/ad/2702ed17"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-29",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://aas.org/jobregister/ad/2702ed17",
+        "description": "Submit by November 29 to ensure consideration; later applications may not receive consideration."
+      },
+      {
+        "date": "2026-11-30",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://aas.org/jobregister/ad/2702ed17",
+        "description": "Initial review date for continuous recruitment; not a hard closure."
+      }
+    ],
+    "summary": "Faculty search associated with the Center for Gravitation, Cosmology and Astrophysics, open across gravitation, cosmology, astronomy and astrophysics.",
+    "notes": [
+      "Intended as a tenure-track appointment; higher rank may be considered for a sufficiently senior applicant.",
+      "The employer describes continuous recruitment. The November 29 milestone is distinct from the November 30 review start."
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-11-02",
+    "discovery": "weekly-public-source-sweep",
+    "openUntilFilled": null,
+    "verificationBasis": "Read current employer advertisement and stated application-cycle evidence.",
+    "id": "icrr-ctao-assistant-professor-2026",
+    "institutionId": "icrr-kashiwa",
+    "institutionName": "University of Tokyo — Institute for Cosmic Ray Research",
+    "countryCode": "JP",
+    "city": "Kashiwa",
+    "title": "Assistant Professor in CTAO Gamma-ray Observations",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "experimental astroparticle physics",
+      "gamma-ray astronomy",
+      "cosmic rays",
+      "multimessenger astrophysics",
+      "instrumentation"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Employer call ICRR2026-08 dated September 24, 2026, with November 25, 2026 application deadline.",
+    "startDate": "As soon as possible after selection",
+    "sourceUrls": [
+      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/ICRR2026-08_jp.pdf",
+      "https://www.icrr.u-tokyo.ac.jp/en/careers/"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-25",
+        "time": "12:00",
+        "timezone": "Asia/Tokyo",
+        "kind": "hard",
+        "sourceUrl": "https://www.icrr.u-tokyo.ac.jp/en/careers/",
+        "description": "Materials and references must arrive by noon; English employer careers page explicitly states JST."
+      }
+    ],
+    "summary": "Faculty appointment advancing very-high-energy gamma-ray observations with CTAO Large-Sized Telescopes and contributing to telescope construction and operation.",
+    "notes": [
+      "A few positions; the marker represents one advertised search, not a count of posts.",
+      "Five-year term with one possible renewal under the stated conditions. Work location is ICRR in Kashiwa."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://www.icrr.u-tokyo.ac.jp/en/careers/",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-11-02",
+    "discovery": "weekly-public-source-sweep",
+    "openUntilFilled": null,
+    "verificationBasis": "Read current employer advertisement and stated application-cycle evidence.",
+    "id": "kyoto-xray-astronomy-assistant-professor-2027",
+    "institutionId": "kyoto-university",
+    "institutionName": "Kyoto University",
+    "countryCode": "JP",
+    "city": "Kyoto",
+    "title": "Assistant Professor in X-ray Astronomy and Instrumentation",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "high-energy astrophysics",
+      "X-ray astronomy",
+      "instrumentation"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Japanese employer call dated September 14, 2026 (Reiwa 8), with November 12, 2026 deadline and appointment from April 2027 (Reiwa 9).",
+    "startDate": "2027-04-01 or as soon as possible thereafter",
+    "sourceUrls": [
+      "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260914.pdf"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-12",
+        "time": "23:59",
+        "timezone": "Asia/Tokyo",
+        "kind": "hard",
+        "sourceUrl": "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260914.pdf",
+        "description": "Applications must arrive by 23:59 JST; dates converted from the explicitly stated Reiwa calendar."
+      }
+    ],
+    "summary": "Permanent assistant professorship in the Cosmic Ray Laboratory, focused on precision X-ray spectroscopy and future observational instruments.",
+    "notes": [
+      "No fixed term is specified (任期なし).",
+      "PhD required by appointment and normally obtained within seven years; documented parental or caring interruptions may be considered."
+    ],
+    "institutionSources": [
+      {
+        "url": "https://www.scphys.kyoto-u.ac.jp/news/public.html",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "institutionId": "carnegie-mellon",
+    "institutionName": "Carnegie Mellon University",
+    "countryCode": "US",
+    "city": "Pittsburgh",
+    "title": "Director of the McWilliams Center for Cosmology & Astrophysics and Full or Associate Professor with Tenure",
+    "rank": [
+      "Professor",
+      "Associate Professor",
+      "Director"
+    ],
+    "fields": [
+      "astrophysics",
+      "cosmology",
+      "artificial intelligence",
+      "machine learning",
+      "statistics",
+      "data science"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer AAS advertisement posted 16 October 2026, with rolling review beginning 8 November 2026.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-11-08",
+        "kind": "review-start",
+        "time": null,
+        "timezone": null,
+        "sourceUrl": "https://aas.org/jobregister/ad/a5ed92fc",
+        "description": "Applications reviewed on a rolling basis beginning this date; no final application cutoff stated."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "sourceUrls": [
+      "https://aas.org/jobregister/ad/a5ed92fc",
+      "https://apply.interfolio.com/195638"
+    ],
+    "checkedOn": "2026-11-02",
+    "summary": "Tenured senior astrophysics faculty search combined with McWilliams Center directorship, with a primary Physics appointment and joint appointment in Machine Learning or Statistics & Data Science.",
+    "notes": [
+      "Research should make substantive contributions both to astrophysics and to ML/statistics/data-science methods.",
+      "The advertisement gives a rolling review start, not an explicit final deadline.",
+      "Interfolio application endpoint remained an unreadable JavaScript shell; faculty and cycle facts verified in employer AAS ad."
+    ],
+    "id": "cmu-mcwilliams-director-2027",
+    "discovery": "weekly-employer-ad-verification",
+    "verificationBasis": "Employer-authored AAS advertisement now readable; prior directory lead resolved."
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "checkedOn": "2026-11-02",
+  "scope": "Completed partial source sweep; not an exhaustive global survey.",
+  "planned": {
+    "weeklyRequired": 165,
+    "rotation": 131,
+    "retries": 105,
+    "unique": 344
+  },
+  "actual": {
+    "recordedSourceAttempts": 466,
+    "uniqueSources": 363,
+    "latestOutcomes": {
+      "partial": 225,
+      "complete": 34,
+      "failed": 104
+    }
+  },
+  "newVerifiedJobs": [
+    "aip-potsdam-cosmology-director-2026",
+    "uw-milwaukee-cgca-faculty-2027",
+    "icrr-ctao-assistant-professor-2026",
+    "kyoto-xray-astronomy-assistant-professor-2027",
+    "cmu-mcwilliams-director-2027"
+  ],
+  "revisedJobs": [
+    "biobio-particle-gravity-cosmology-2027",
+    "rwth-aachen-precision-particle-professor-2026",
+    "igfae-director-2027",
+    "ut-austin-cosmology-2027",
+    "epfl-experimental-particle-2026"
+  ],
+  "limitations": [
+    "Large central boards were bounded scans; INSPIRE checked the latest 100 all-job and 100 junior/senior records, with page-2 continuation retained in source evidence.",
+    "EURAXESS was limited to its landing result page; physics filters and pagination remain pending.",
+    "DESY returned 28 of 81 listed jobs. Script-rendered and blocked recruitment portals remain unresolved.",
+    "Failed reads preserve previous verified facts and do not prove vacancy closure.",
+    "Japan expansion covered current JPS titles and selected primary calls; not all Japanese or global institutions were reviewed."
+  ],
+  "rumorMillReview": {
+    "checkedOn": "2026-11-02",
+    "current": [
+      "north-america-hep-theory",
+      "uk-ireland-hep-theory",
+      "international-hep-experiment"
+    ],
+    "archive": [
+      "asia-hep-faculty"
+    ],
+    "unverified": [
+      "germanic-nordic-hep-theory"
+    ],
+    "notes": "Inspected stated cycles and explicit update/cessation notices only; no personal hiring outcomes copied. Germanic/Nordic endpoint timed out twice; earlier cycle/update facts preserved. The UC Davis heading dates were not used as last-modified dates."
+  },
+  "institutionReviews": {
+    "count": 87,
+    "outcomes": {
+      "complete": 27,
+      "partial": 60
+    }
+  }
+}

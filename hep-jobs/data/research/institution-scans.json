@@ -4813,5 +4813,3279 @@
       "source-69745461e3ff",
       "source-ac612f46fb18"
     ]
+  },
+  {
+    "institutionId": "ictp-trieste",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All international and local recruitment rows on the single Work at ICTP page, including final roster section; no pagination. Bounded to displayed current/under-evaluation calls.",
+    "summary": "Completed ICTP single Work at ICTP vacancy list. Current relevant HECAP entry is September 2025; no newly advertised eligible 2026–2027 HEP faculty-equivalent search identified.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies."
+    ],
+    "directorySourceIds": [
+      "source-29d281c2334d"
+    ],
+    "requiredSourceIds": [
+      "source-29d281c2334d"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-29d281c2334d",
+        "checkedAt": "2026-11-02T10:13:20+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "academia-sinica-iop",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan. One department/landing page only; linked recruitment directories and full institution coverage not completed.",
+    "summary": "Academia Sinica physics faculty call retains October 1, 2026 full consideration, later applications potentially considered until filled, and September 1, 2027 expected start. Academia Sinica physics homepage read; scientific news and seminars are present, without a bounded vacancy list. Faculty advertisement was separately checked through AJO.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-149cf53edc12",
+      "source-437d3811a20b",
+      "source-8ca843b22c19",
+      "source-f390cfda612a"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-437d3811a20b",
+        "checkedAt": "2026-11-02T10:08:22.428439+00:00"
+      },
+      {
+        "sourceId": "source-8ca843b22c19",
+        "checkedAt": "2026-11-02T10:08:33.512693+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "binghamton",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "Landing page/current visible content only; linked archives and pagination not exhaustively inspected.",
+    "summary": "Binghamton faculty directory lists theoretical HEP/cosmology Assistant Professor and physics Lecturer. Linked HEP detail needs separate review; no new cycle/status conclusion.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-b27bf6c77cc4",
+      "source-ca1372f393d9"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-b27bf6c77cc4",
+        "checkedAt": "2026-11-02T10:08:18.851414+00:00"
+      },
+      {
+        "sourceId": "source-ca1372f393d9",
+        "checkedAt": "2026-11-02T10:11:04.102792+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "cern",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All displayed Physics category rows: Applied Physics 4, Experimental Physics 1, Theoretical Physics 2. No next-page control; separate engineering/corporate categories not faculty search scope.",
+    "summary": "CERN current jobs directory physics categories show four applied-physics, one experimental-physics and two theoretical-physics rows. Includes known Theoretical Physicist and a fellowship; no new faculty-like call established.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies."
+    ],
+    "directorySourceIds": [
+      "source-0179aea01f0c"
+    ],
+    "requiredSourceIds": [
+      "source-0179aea01f0c"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-0179aea01f0c",
+        "checkedAt": "2026-11-02T10:08:37.725169+00:00"
+      },
+      {
+        "sourceId": "source-da1b6e0e084c",
+        "checkedAt": "2026-11-02T10:08:34.626758+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "cnrs-multihost",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan. One advertisement or its public response; no institution-wide vacancy scan.",
+    "summary": "CNRS Higgs-detector employer INSPIRE text retains 2 September 2026 17:00 deadline. The metadata closed flag and removed official detail do not independently prove vacancy closure. CNRS page identifies the requested theoretical-particle offer but says it is no longer available. This unavailable-ad notice is not used to infer closure or change existing dates.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-2817a357826a",
+      "source-38768b3a5b5c",
+      "source-aa52c0e01c58"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-03c0a39fd0ac",
+        "checkedAt": "2026-11-02T10:08:25.161994+00:00"
+      },
+      {
+        "sourceId": "source-14eb251a168e",
+        "checkedAt": "2026-11-02T10:08:21.503253+00:00"
+      },
+      {
+        "sourceId": "source-2817a357826a",
+        "checkedAt": "2026-11-02T10:08:24.999321+00:00"
+      },
+      {
+        "sourceId": "source-38768b3a5b5c",
+        "checkedAt": "2026-11-02T10:08:41.636543+00:00"
+      },
+      {
+        "sourceId": "source-d68f8da4bae7",
+        "checkedAt": "2026-11-02T10:08:31.321767+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "caltech",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All eight faculty entries on Caltech single positions page; postdoc, lecturer and instructorship sections inspected for separation. No pagination.",
+    "summary": "Caltech single positions page has eight faculty entries; the experimental/theoretical Physics search is the relevant broad-physics listing. Postdoc and unrelated faculty titles excluded.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies."
+    ],
+    "directorySourceIds": [
+      "source-3e4dc1230661",
+      "source-fd1cfe6a551b"
+    ],
+    "requiredSourceIds": [
+      "source-3e4dc1230661"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-3e4dc1230661",
+        "checkedAt": "2026-11-02T10:08:36.646075+00:00"
+      },
+      {
+        "sourceId": "source-fd1cfe6a551b",
+        "checkedAt": "2026-11-02T10:08:29.309447+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "carnegie-mellon",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "Entire rendered CMU faculty list screened, with all three Physics entries reviewed; no pagination. Coverage is bounded to this current faculty board.",
+    "summary": "CMU faculty list Physics section contains McWilliams director, astrophysics/statistics/ML assistant professor, and theoretical-HEP postdoc. No additional faculty title found in this bounded section.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained."
+    ],
+    "directorySourceIds": [
+      "source-488991baa7d1",
+      "source-702548789c63",
+      "source-7817c7cc3bf7",
+      "source-b006131a9ea0",
+      "source-f8bdcdc4d0d3"
+    ],
+    "requiredSourceIds": [
+      "source-b006131a9ea0"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-1f81a82e3778",
+        "checkedAt": "2026-11-02T10:09:11.944Z"
+      },
+      {
+        "sourceId": "source-488991baa7d1",
+        "checkedAt": "2026-11-02T10:08:14.981597+00:00"
+      },
+      {
+        "sourceId": "source-702548789c63",
+        "checkedAt": "2026-11-02T10:09:49+00:00"
+      },
+      {
+        "sourceId": "source-7817c7cc3bf7",
+        "checkedAt": "2026-11-02T10:08:23.266020+00:00"
+      },
+      {
+        "sourceId": "source-b006131a9ea0",
+        "checkedAt": "2026-11-02T10:08:33.712923+00:00"
+      },
+      {
+        "sourceId": "source-f8bdcdc4d0d3",
+        "checkedAt": "2026-11-02T10:08:36.326916+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "cornell-university",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested advertisement; recruitment directory not scanned. One requested public page only; no complete institution-wide vacancy scan.",
+    "summary": "Cornell astrophysics advertisement retains October 30, 2026 review start, November 30 AJO listed date, and until-filled body wording. Cornell Astronomy homepage contains research and October 2026 news; no new vacancy advertisement is established by this page.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "7 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-1c71a7326096",
+      "source-4aaaf536ea0c",
+      "source-521ef59034d1",
+      "source-627a39eb7455",
+      "source-9fa09d5669a0",
+      "source-a59d4a5d82d2",
+      "source-aaf583b2c135",
+      "source-e1e02a466f35",
+      "source-f59221c06ef0"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-4aaaf536ea0c",
+        "checkedAt": "2026-11-02T10:08:28.714507+00:00"
+      },
+      {
+        "sourceId": "source-e1e02a466f35",
+        "checkedAt": "2026-11-02T10:08:40.590579+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "desy",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One department/landing page only; linked recruitment directories and full institution coverage not completed. First 28 of 81 displayed DESY records; pagination remains outstanding. Continue remaining list pages next run. Only 28 visible rows of page-reported 81 records recovered; no full-list completion claim. Continue with remaining records/portal rendering.",
+    "summary": "DESY career landing page directs readers to current vacancies; no vacancy rows are present on this landing page. DESY first rendered vacancy-list page reports 81 records but displays 28 rows, mostly technical, student or postdoctoral opportunities. Full pagination was not reviewed. DESY listing returned 28 visible rows while the page reports 81 records. Visible roles include postdoctoral/doctoral HEP and support/scientist positions; the remaining records were not recovered, so coverage is partial.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-4bd35945176e",
+      "source-775e5bf850f7",
+      "source-a9982f7e56c2"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-4bd35945176e",
+        "checkedAt": "2026-11-02T10:08:30.214928+00:00"
+      },
+      {
+        "sourceId": "source-775e5bf850f7",
+        "checkedAt": "2026-11-02T10:08:39.454695+00:00"
+      },
+      {
+        "sourceId": "source-a9982f7e56c2",
+        "checkedAt": "2026-11-02T10:08:38.143865+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "durham-university",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan.",
+    "summary": "Durham IPPP employer text retains 28 September 2026 deadline; closed API flag alone is not promoted to explicit closure.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-19cbdb644a34",
+      "source-554c38c80000",
+      "source-b6cb1230f9ac"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-19cbdb644a34",
+        "checkedAt": "2026-11-02T10:08:37.535156+00:00"
+      },
+      {
+        "sourceId": "source-554c38c80000",
+        "checkedAt": "2026-11-02T10:08:24.547398+00:00"
+      },
+      {
+        "sourceId": "source-707fc778105d",
+        "checkedAt": "2026-11-02T10:10:25.158Z"
+      },
+      {
+        "sourceId": "source-b6cb1230f9ac",
+        "checkedAt": "2026-11-02T10:08:41.423374+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "elte",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "Current section and visible closed entries read; More link/remaining archive not paginated.",
+    "summary": "Current vacancies section links call 54161. The distinct older 54165 call remains in the closed-vacancies section; historical experimental-particle and postdoctoral entries also appear.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-5272d43aac0e"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-24d7b92a63b0",
+        "checkedAt": "2026-11-02T10:08:13.724982+00:00"
+      },
+      {
+        "sourceId": "source-5272d43aac0e",
+        "checkedAt": "2026-11-02T10:08:23.117829+00:00"
+      },
+      {
+        "sourceId": "source-5c214c3196fc",
+        "checkedAt": "2026-11-02T10:11:03.300562+00:00"
+      },
+      {
+        "sourceId": "source-96b2a1fc3254",
+        "checkedAt": "2026-11-02T10:08:31.041366+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "igfae",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan. One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion. One advertisement or its public response; no institution-wide vacancy scan.",
+    "summary": "Official IGFAE director notice explicitly labels the offer closed (Oferta pechada), with 15 October 2026 deadline. Director/faculty-scope uncertainty remains. Official API confirms IGFAE director call and October 15, 2026 date; closed metadata alone not used as closure, separately corroborated by official employer call. IGFAE INSPIRE description retains 15 October 2026 application deadline. Official closure wording was inspected separately at employer page. IGFAE official director call explicitly displays Oferta pechada (closed); October 15, 2026 deadline unchanged, initial four-year directorship and first-half-2027 incorporation. Faculty-scope ambiguity retained.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-2adf0c3441b2",
+      "source-6b5fcece38d9",
+      "source-9b95b752b436",
+      "source-9dece7c05f96",
+      "source-a91778bf9009"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2adf0c3441b2",
+        "checkedAt": "2026-11-02T10:08:21.961820+00:00"
+      },
+      {
+        "sourceId": "source-2c965c7b83a9",
+        "checkedAt": "2026-11-02T10:08:35.819444+00:00"
+      },
+      {
+        "sourceId": "source-45441f44409d",
+        "checkedAt": "2026-11-02T10:08:39.029779+00:00"
+      },
+      {
+        "sourceId": "source-6b5fcece38d9",
+        "checkedAt": "2026-11-02T10:09:28.489258+00:00"
+      },
+      {
+        "sourceId": "source-9b95b752b436",
+        "checkedAt": "2026-11-02T10:08:27.556175+00:00"
+      },
+      {
+        "sourceId": "source-9dece7c05f96",
+        "checkedAt": "2026-11-02T10:08:35.347367+00:00"
+      },
+      {
+        "sourceId": "source-dd747f06dda6",
+        "checkedAt": "2026-11-02T10:08:40.087436+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "georgia-tech",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan. One requested public page only; no complete institution-wide vacancy scan. One department/landing page only; linked recruitment directories and full institution coverage not completed.",
+    "summary": "Georgia Tech AI/physics employer record retains 15 November 2026 full-consideration date, with search continuing until filled. Georgia Tech careers landing page supplies faculty, research and staff recruitment links but does not itself display the assigned AI-physics advertisement or a vacancy list. Georgia Tech physics homepage read; research/news content present but no bounded faculty-vacancy list. No vacancy closure or absence claimed.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-27f3be074a12",
+      "source-2a9f96ccebf3",
+      "source-2da2fc47b426",
+      "source-f70fc5b4d2fe"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2a9f96ccebf3",
+        "checkedAt": "2026-11-02T10:08:19.207247+00:00"
+      },
+      {
+        "sourceId": "source-2da2fc47b426",
+        "checkedAt": "2026-11-02T10:08:27.514132+00:00"
+      },
+      {
+        "sourceId": "source-bd42d5bb275e",
+        "checkedAt": "2026-11-02T10:08:19.067696+00:00"
+      },
+      {
+        "sourceId": "source-f70fc5b4d2fe",
+        "checkedAt": "2026-11-02T10:08:35.055347+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "helsinki-institute-physics",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan. One department/landing page only; linked recruitment directories and full institution coverage not completed.",
+    "summary": "HIP director record retains October 5, 2026 closing date for a five-year appointment starting February 1, 2027 or by agreement; faculty-scope uncertainty unchanged. HIP jobs landing page points to University of Helsinki Open Positions and other external boards; no institution vacancy rows are displayed here.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-027c0a8cb93e",
+      "source-102778ff1f84",
+      "source-6a29a67ead4d",
+      "source-f303bd2d57f0"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-027c0a8cb93e",
+        "checkedAt": "2026-11-02T10:08:30.491240+00:00"
+      },
+      {
+        "sourceId": "source-102778ff1f84",
+        "checkedAt": "2026-11-02T10:08:33.838769+00:00"
+      },
+      {
+        "sourceId": "source-6a29a67ead4d",
+        "checkedAt": "2026-11-02T10:08:39.985621+00:00"
+      },
+      {
+        "sourceId": "source-f303bd2d57f0",
+        "checkedAt": "2026-11-02T10:10:26+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "hkust",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All six complete search descriptions on one physics-department jobs page screened. No pagination; current-cycle eligibility remains unresolved for dated older links.",
+    "summary": "HKUST physics jobs page contains six advertised searches. HEP experiment, observational cosmology, and particle theory/cosmology still link older AJO IDs 29809, 29810, 29808; no explicit current-cycle dates appear here.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies."
+    ],
+    "directorySourceIds": [
+      "source-02b3e5972587",
+      "source-0a4852140122",
+      "source-565607abe2f3",
+      "source-b49e390adb23"
+    ],
+    "requiredSourceIds": [
+      "source-565607abe2f3"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-02b3e5972587",
+        "checkedAt": "2026-11-02T10:08:12.844190+00:00"
+      },
+      {
+        "sourceId": "source-0a4852140122",
+        "checkedAt": "2026-11-02T10:08:26.360820+00:00"
+      },
+      {
+        "sourceId": "source-565607abe2f3",
+        "checkedAt": "2026-11-02T10:08:30.685299+00:00"
+      },
+      {
+        "sourceId": "source-b49e390adb23",
+        "checkedAt": "2026-11-02T10:08:33.750659+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "ictp-saifr",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested advertisement; recruitment directory not scanned. One requested public page only; no complete institution-wide vacancy scan.",
+    "summary": "ICTP-SAIFR research professor advertisement retains January 22, 2027 encouraged application date and until-filled policy; possible later tenured competition is distinct. ICTP-SAIFR Scientific Visits page invites research visits of any duration; this is not a faculty vacancy or faculty fellowship-hosting call.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-2a0497a7a4c4",
+      "source-a3071aae25d7",
+      "source-aeaee72997fa"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2a0497a7a4c4",
+        "checkedAt": "2026-11-02T10:08:27.238660+00:00"
+      },
+      {
+        "sourceId": "source-61747b79380e",
+        "checkedAt": "2026-11-02T10:08:29.522586+00:00"
+      },
+      {
+        "sourceId": "source-a3071aae25d7",
+        "checkedAt": "2026-11-02T10:08:51.187986+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "imperial-college-london",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion. One advertisement and its displayed metadata; no institution-wide directory scan. One requested advertisement; recruitment directory not scanned.",
+    "summary": "Official API retains Imperial gravitational-wave closing September 30, 2026 at 23:59 BST and appointment after January 1, 2027; no new extension observed. Imperial gravitational-wave employer INSPIRE text retains 30 September 2026 23:59 BST deadline; no fresh closure conclusion from metadata alone. Imperial SHiP employer-submitted advertisement retains apply-by November 25, 2026 and experimental particle-physics programme. Official API confirms Imperial SHiP experimental particle assistant/associate professor; apply by November 25, 2026, unchanged.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "4 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-019793a6a784",
+      "source-1ea8777c3ef3",
+      "source-2e73a33989ed",
+      "source-4abfc7034cdc",
+      "source-71fe417d1501",
+      "source-7368325cdc63",
+      "source-871cca6e5500",
+      "source-922cdac5a1e4",
+      "source-e73c40f72b53",
+      "source-e94d0521847e",
+      "source-fad02182d75d"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-019793a6a784",
+        "checkedAt": "2026-11-02T10:11:59+00:00"
+      },
+      {
+        "sourceId": "source-1ea8777c3ef3",
+        "checkedAt": "2026-11-02T10:08:28.975618+00:00"
+      },
+      {
+        "sourceId": "source-4abfc7034cdc",
+        "checkedAt": "2026-11-02T10:09:28.531179+00:00"
+      },
+      {
+        "sourceId": "source-71fe417d1501",
+        "checkedAt": "2026-11-02T10:08:32.891652+00:00"
+      },
+      {
+        "sourceId": "source-7368325cdc63",
+        "checkedAt": "2026-11-02T10:08:45.876960+00:00"
+      },
+      {
+        "sourceId": "source-871cca6e5500",
+        "checkedAt": "2026-11-02T10:08:32.211582+00:00"
+      },
+      {
+        "sourceId": "source-e94d0521847e",
+        "checkedAt": "2026-11-02T10:09:28.309185+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "iit-madras",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan.",
+    "summary": "IIT Madras official 2026 recruitment portal explicitly states applications closed October 15, 2026 at 24:00 IST; this corroborates the existing employer-based closure.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "6 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-198898899ed7",
+      "source-2049783e7a38",
+      "source-6b95102e3231",
+      "source-6fc7710e5cad",
+      "source-9ba1ec81e1c4",
+      "source-b844a9ba1236",
+      "source-c1a5488a47c1"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-10c75de040b9",
+        "checkedAt": "2026-11-02T10:08:29.828872+00:00"
+      },
+      {
+        "sourceId": "source-c1a5488a47c1",
+        "checkedAt": "2026-11-02T10:08:35.937053+00:00"
+      },
+      {
+        "sourceId": "source-e59e794b61a5",
+        "checkedAt": "2026-11-02T10:09:28.518525+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "ifae",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All nine rows on page 1 (read 10:11:18Z) and all nine on page 2 (read 10:12:08Z); page 2 has Previous but no Next. Scope current open jobs archive only. Page 1 and final page 2 both reviewed; eighteen total list rows. Current jobs archive, not all historical or unpublished searches.",
+    "summary": "Both IFAE current jobs pages reviewed: eighteen rows including general and GW-specific RyC routes. No new distinct faculty call established. Read final page of two-page IFAE current jobs archive; nine final-page rows, Previous only.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies."
+    ],
+    "directorySourceIds": [
+      "source-3d0ed61561ac",
+      "source-4b910fd737a5",
+      "source-55231d7006aa",
+      "source-cfaef6d207a0"
+    ],
+    "requiredSourceIds": [
+      "source-4b910fd737a5",
+      "source-cfaef6d207a0"
+    ],
+    "evidence": [
+      {
+        "sourceId": "aei-ryc",
+        "checkedAt": "2026-11-02T10:08:12.843872+00:00"
+      },
+      {
+        "sourceId": "source-3d0ed61561ac",
+        "checkedAt": "2026-11-02T10:11:08+00:00"
+      },
+      {
+        "sourceId": "source-4b910fd737a5",
+        "checkedAt": "2026-11-02T10:12:08+00:00"
+      },
+      {
+        "sourceId": "source-55231d7006aa",
+        "checkedAt": "2026-11-02T10:12:08+00:00"
+      },
+      {
+        "sourceId": "source-cfaef6d207a0",
+        "checkedAt": "2026-11-02T10:12:08+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "ihep-cas",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan. One requested advertisement; recruitment directory not scanned. Landing page/current visible content only; linked archives and pagination not exhaustively inspected. One advertisement and its displayed metadata; no institution-wide directory scan.",
+    "summary": "IHEP May 6, 2026 staff announcement includes JUNO site-operations leader and administrative secretary, open until suitable candidates found. Faculty rank is not established; not promoted to faculty catalog. IHEP June 1, 2026 announcement is one computing-centre scientific-data research-staff job, open until suitable appointment. No faculty rank established; not promoted. IHEP Chinese recruitment landing page reviewed: dated permanent/staff, non-permanent and postdoc subsections, with separate more links. Not fully paginated; no new faculty-level claim established. IHEP6 May 2026 notice recruits engineering-operation and project-support staff, with applications until filled. These are not faculty vacancies. IHEP March 19, 2026 recruitment overview lists broad disciplines and about 21 Beijing places; faculty rank and individual cycle/deadline require detailed positions annex. No new verified faculty job established. IHEP April 10, 2026 multidisciplinary staff call is for nuclear-materials research and HEPS beamline scientist roles, open until suitable candidates found. Faculty rank/current-cycle eligibility is not established.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "11 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-08922ee3c1ba",
+      "source-22faf5aa715c",
+      "source-36b19483d408",
+      "source-3d9c9a305a95",
+      "source-40ed279b1902",
+      "source-546ee32f4af1",
+      "source-5503ea4a813c",
+      "source-7aa55634f621",
+      "source-91cad0559e95",
+      "source-a4e176f8af0e",
+      "source-b36141b5cd17",
+      "source-bfc57f35426c",
+      "source-d0064285e7b3",
+      "source-d2dfc4cfe02f",
+      "source-e001da596b39",
+      "source-e00b41715349",
+      "source-f31fb8133e84"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-08922ee3c1ba",
+        "checkedAt": "2026-11-02T10:08:31.618803+00:00"
+      },
+      {
+        "sourceId": "source-36b19483d408",
+        "checkedAt": "2026-11-02T10:08:41.697104+00:00"
+      },
+      {
+        "sourceId": "source-3d9c9a305a95",
+        "checkedAt": "2026-11-02T10:08:21.610714+00:00"
+      },
+      {
+        "sourceId": "source-40ed279b1902",
+        "checkedAt": "2026-11-02T10:08:30.029758+00:00"
+      },
+      {
+        "sourceId": "source-4d42cdc1ff11",
+        "checkedAt": "2026-11-02T10:09:28.308831+00:00"
+      },
+      {
+        "sourceId": "source-546ee32f4af1",
+        "checkedAt": "2026-11-02T10:08:43.944868+00:00"
+      },
+      {
+        "sourceId": "source-7aa55634f621",
+        "checkedAt": "2026-11-02T10:08:37.938526+00:00"
+      },
+      {
+        "sourceId": "source-cf8acf1c8536",
+        "checkedAt": "2026-11-02T10:08:34.439896+00:00"
+      },
+      {
+        "sourceId": "source-ea9df1e1ab1e",
+        "checkedAt": "2026-11-02T10:08:21.015658+00:00"
+      },
+      {
+        "sourceId": "source-ec0bcbaad2fe",
+        "checkedAt": "2026-11-02T10:08:21.083916+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "iop-bhubaneswar",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "Current Job Opening list: all 5 notices on this page; past-jobs archive outside scope. No current-list pagination.",
+    "summary": "Reviewed five current IOP notices: HEP faculty call due 14 November 2026, plus electronics technical staff, research associate, consultant results, and tradesman notices.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies."
+    ],
+    "directorySourceIds": [
+      "source-35f6965f0963",
+      "source-871d432d25ec"
+    ],
+    "requiredSourceIds": [
+      "source-871d432d25ec"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-35f6965f0963",
+        "checkedAt": "2026-11-02T10:08:14.100979+00:00"
+      },
+      {
+        "sourceId": "source-871d432d25ec",
+        "checkedAt": "2026-11-02T10:08:17.340365+00:00"
+      },
+      {
+        "sourceId": "source-a406a694e409",
+        "checkedAt": "2026-11-02T10:09:35.070Z"
+      }
+    ]
+  },
+  {
+    "institutionId": "james-madison",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "James Madison University employer filter, all one listed position on one AJO page; no additional pagination.",
+    "summary": "James Madison AJO employer list contains one listed position: Assistant Professor of Physics and Astronomy, already catalogued. Linked advertisement read separately and retains November 20, 2026 review start.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "3 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete."
+    ],
+    "directorySourceIds": [
+      "source-20b204f422a2",
+      "source-59abf896e8f8",
+      "source-70769475c860",
+      "source-7351354ac384",
+      "source-77c98a46829b",
+      "source-c20571552e35",
+      "source-de60cbacd041"
+    ],
+    "requiredSourceIds": [
+      "source-70769475c860"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-1dc2afc552d4",
+        "checkedAt": "2026-11-02T10:08:26.863545+00:00"
+      },
+      {
+        "sourceId": "source-59abf896e8f8",
+        "checkedAt": "2026-11-02T10:11:08+00:00"
+      },
+      {
+        "sourceId": "source-70769475c860",
+        "checkedAt": "2026-11-02T10:08:41.964287+00:00"
+      },
+      {
+        "sourceId": "source-7351354ac384",
+        "checkedAt": "2026-11-02T10:09:35.070Z"
+      },
+      {
+        "sourceId": "source-de60cbacd041",
+        "checkedAt": "2026-11-02T10:11:15.474020+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "jilin-university",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan.",
+    "summary": "Jilin advertises particle/hadron-physics faculty positions open until filled. July 2026 submission and a one-year INSPIRE metadata date do not resolve the rolling-call cycle ambiguity.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "2 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-1504cbd84660",
+      "source-24e5e4faae16",
+      "source-3bee74ff9505",
+      "source-40c4dc00ea0d",
+      "source-d4c16030a61a",
+      "source-ebfd5336f40f"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-1504cbd84660",
+        "checkedAt": "2026-11-02T10:08:26.694770+00:00"
+      },
+      {
+        "sourceId": "source-24e5e4faae16",
+        "checkedAt": "2026-11-02T10:08:21.499974+00:00"
+      },
+      {
+        "sourceId": "source-40c4dc00ea0d",
+        "checkedAt": "2026-11-02T10:08:36.439164+00:00"
+      },
+      {
+        "sourceId": "source-ebfd5336f40f",
+        "checkedAt": "2026-11-02T10:11:59+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "kek-tokai",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested advertisement; recruitment directory not scanned.",
+    "summary": "KEK IPNS26-1 page describes fixed-term non-tenured associate professorship in J-PARC muon g-2/EDM, with possible extension through March 31, 2031. No deadline revision found in the displayed body.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-162be672afd7",
+      "source-553802c0f38d",
+      "source-c4ac888fa0a5"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-c4ac888fa0a5",
+        "checkedAt": "2026-11-02T10:08:37.979794+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "kek-tsukuba",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan. One department/landing page only; linked recruitment directories and full institution coverage not completed. One advertisement and its displayed metadata; no institution-wide directory scan.",
+    "summary": "ACCL26-2 assistant professor in accelerator/FEL technology: closing November 19, 2026 at noon JST; Tsukuba workplace; September release and October update unchanged. KEK Finding Jobs landing page gives researcher, engineer and other vacancy-category links; no individual vacancy rows on this page. KEK IMSS26-3 advert is beamline engineering/synchrotron-radiation science, due 17 December 2026 noon JST; materials/life-science scope is outside targeted HEP additions. KEK ACCL26-5 associate professor retains December 9, 2026 at noon JST; superconducting-cavity theory and related quantum technology, Tsukuba workplace.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-083231bec761",
+      "source-0e5037a7d40b",
+      "source-162be672afd7",
+      "source-1cf295615ed6",
+      "source-eca436765c3c"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-083231bec761",
+        "checkedAt": "2026-11-02T10:08:20.789511+00:00"
+      },
+      {
+        "sourceId": "source-0e5037a7d40b",
+        "checkedAt": "2026-11-02T10:08:36.183918+00:00"
+      },
+      {
+        "sourceId": "source-1cf295615ed6",
+        "checkedAt": "2026-11-02T10:08:31.881850+00:00"
+      },
+      {
+        "sourceId": "source-636e70feba32",
+        "checkedAt": "2026-11-02T10:08:29.987953+00:00"
+      },
+      {
+        "sourceId": "source-eca436765c3c",
+        "checkedAt": "2026-11-02T10:08:28.266853+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "kek-multicampus",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan.",
+    "summary": "KEK ACCL26-4 retains 20 January 2027 noon JST deadline; four-year appointment may become permanent after evaluation. Workplace remains Tsukuba or Tokai, so unresolved location is preserved.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-162be672afd7",
+      "source-c94dbc10d72c"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-c94dbc10d72c",
+        "checkedAt": "2026-11-02T10:08:19.097865+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "kyoto-university",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "Top current announcements of long department archive; older archive not fully reviewed.",
+    "summary": "Read current Kyoto physics recruitment page and followed X-ray faculty call; separate nuclear-theory and other calls require follow-up.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-dd7f587bf08b"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-b2f146ffa109",
+        "checkedAt": "2026-11-02T10:15:10.393370+00:00"
+      },
+      {
+        "sourceId": "source-dd7f587bf08b",
+        "checkedAt": "2026-11-02T10:11:09+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "cnrs-l2it",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan. One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion.",
+    "summary": "CNRS L2IT gravitational-wave chair API retains 2 September 2026 metadata deadline and scientific-project description. No new explicit closure evidence. Official API retains CNRS L2IT gravitational-wave chair description and September 2, 2026 metadata date; separately established employer time preserved, metadata closed flag alone not used as closure.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-0efa84149b59",
+      "source-5ae0521ebfb6",
+      "source-d732b60e293e",
+      "source-f0cfe82487f5"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-0efa84149b59",
+        "checkedAt": "2026-11-02T10:08:29.842699+00:00"
+      },
+      {
+        "sourceId": "source-5ae0521ebfb6",
+        "checkedAt": "2026-11-02T10:11:59+00:00"
+      },
+      {
+        "sourceId": "source-f0cfe82487f5",
+        "checkedAt": "2026-11-02T10:09:28.686509+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "lehigh",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan.",
+    "summary": "Lehigh extragalactic astrophysics assistant-professor call retains December 1, 2026 full consideration/review start and open-until-filled wording, July 1, 2027 expected start.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "2 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-0bbb01cd7e99",
+      "source-8afad470e8a7",
+      "source-ac76661b07d9"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-7b46f2fbc0b7",
+        "checkedAt": "2026-11-02T10:08:17.010712+00:00"
+      },
+      {
+        "sourceId": "source-8afad470e8a7",
+        "checkedAt": "2026-11-02T10:08:24.638514+00:00"
+      },
+      {
+        "sourceId": "source-fbcc287218eb",
+        "checkedAt": "2026-11-02T10:09:02+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "aip-potsdam",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "Visible current English vacancy list; Japanese/other pages or linked ads not exhaustively scanned.",
+    "summary": "Visible AIP current vacancies reviewed: W3 cosmology, W2 astrobiology, dwarf-galaxy tenure-track scientist, optics and postdoctoral roles. Dwarf-galaxy role retained for scope review; unrelated roles not imported.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-a9271858649f"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-7b7be7e8adb7",
+        "checkedAt": "2026-11-02T10:14:56+00:00"
+      },
+      {
+        "sourceId": "source-7dd39c4da749",
+        "checkedAt": "2026-11-02T10:14:56+00:00"
+      },
+      {
+        "sourceId": "source-a9271858649f",
+        "checkedAt": "2026-11-02T10:16:05+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "louisiana-state-university",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All six positions/announced slots on the one-page quantum-cluster hiring landing page reviewed; includes two coming-soon slots. This is only the cluster scope.",
+    "summary": "LSU quantum cluster landing page lists six slots: four described physics/materials/chemistry searches and two engineering/computer-science slots coming soon. No explicit HEP/cosmology connection in these descriptions.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained."
+    ],
+    "directorySourceIds": [
+      "source-2e8b4d085694",
+      "source-3a195e767849",
+      "source-8c5c64b731c6",
+      "source-be8a49d2a900"
+    ],
+    "requiredSourceIds": [
+      "source-8c5c64b731c6"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-2e8b4d085694",
+        "checkedAt": "2026-11-02T10:08:42.660516+00:00"
+      },
+      {
+        "sourceId": "source-3a195e767849",
+        "checkedAt": "2026-11-02T10:11:49+00:00"
+      },
+      {
+        "sourceId": "source-8c5c64b731c6",
+        "checkedAt": "2026-11-02T10:08:42.455946+00:00"
+      },
+      {
+        "sourceId": "source-be8a49d2a900",
+        "checkedAt": "2026-11-02T10:08:33.412198+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "mit",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "Single-page Faculty position(s) subsection fully reviewed: two faculty entries and common application deadline; no pagination. Other MIT units outside scope.",
+    "summary": "MIT Physics faculty subsection contains theoretical physics and experimental quantum-science positions, both due 1 December 2026; no change to existing theory vacancy.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete."
+    ],
+    "directorySourceIds": [
+      "source-bd4e952202e6",
+      "source-d06c4534a738",
+      "source-fbd0cce5ef6d"
+    ],
+    "requiredSourceIds": [
+      "source-fbd0cce5ef6d"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-d04046d76973",
+        "checkedAt": "2026-11-02T10:08:27.399336+00:00"
+      },
+      {
+        "sourceId": "source-fbd0cce5ef6d",
+        "checkedAt": "2026-11-02T10:09:49+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "mcgill",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "Both faculty entries on the McGill Physics faculty positions page; no pagination.",
+    "summary": "McGill faculty list has two entries: astrophysics and theoretical biophysics, both posted September 11, 2026. No additional relevant faculty search is listed.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained."
+    ],
+    "directorySourceIds": [
+      "source-76b9168ae78b",
+      "source-98d3ce503398"
+    ],
+    "requiredSourceIds": [
+      "source-76b9168ae78b"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-76b9168ae78b",
+        "checkedAt": "2026-11-02T10:08:37.007083+00:00"
+      },
+      {
+        "sourceId": "source-8f4fafacd05d",
+        "checkedAt": "2026-11-02T10:08:17.455933+00:00"
+      },
+      {
+        "sourceId": "source-98d3ce503398",
+        "checkedAt": "2026-11-02T10:08:17.952797+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "national-cheng-kung",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All one visible recruitment notice in the career category screened; no pagination control present. Linked PDF content not recovered in this attempt.",
+    "summary": "NCKU department career category contains one visible June 30, 2026 faculty notice for August 1, 2027 appointments, linking an employer Google Drive PDF.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained."
+    ],
+    "directorySourceIds": [
+      "source-746beb9c0b1b",
+      "source-87b1907006c6"
+    ],
+    "requiredSourceIds": [
+      "source-87b1907006c6"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-746beb9c0b1b",
+        "checkedAt": "2026-11-02T10:08:23.449351+00:00"
+      },
+      {
+        "sourceId": "source-87b1907006c6",
+        "checkedAt": "2026-11-02T10:08:36.275961+00:00"
+      },
+      {
+        "sourceId": "source-c2e4e87d437d",
+        "checkedAt": "2026-11-02T10:11:15.474147+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "national-taiwan-university",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan. One requested public page only; no complete institution-wide vacancy scan. One department/landing page only; linked recruitment directories and full institution coverage not completed.",
+    "summary": "Department still requests materials by 14 October 2026 and starts review 15 October, continuing until filled. Conflict with AJO 13 October header persists. NTU complete displayed news list inspected for 2026 and 2025 entries. July 1, 2026 Physics/Applied Physics/Astrophysics faculty notice is present; this is a news page, not a complete institutional vacancy survey. NTU department homepage links its July 1, 2026 all-rank physics/applied physics/astrophysics faculty call. The linked official ad was read separately; homepage is not a full vacancy directory.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-23b8ab2e6730",
+      "source-a8224d875a1d",
+      "source-f149cb86e5f4"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-059ce1be5409",
+        "checkedAt": "2026-11-02T10:11:15.834582+00:00"
+      },
+      {
+        "sourceId": "source-23b8ab2e6730",
+        "checkedAt": "2026-11-02T10:08:13.625525+00:00"
+      },
+      {
+        "sourceId": "source-50d7f6e05785",
+        "checkedAt": "2026-11-02T10:08:15.268586+00:00"
+      },
+      {
+        "sourceId": "source-a8224d875a1d",
+        "checkedAt": "2026-11-02T10:08:45.820551+00:00"
+      },
+      {
+        "sourceId": "source-f149cb86e5f4",
+        "checkedAt": "2026-11-02T10:08:30.041274+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "national-tsing-hua-university",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested public page only; no complete institution-wide vacancy scan. One advertisement and its displayed metadata; no institution-wide directory scan.",
+    "summary": "NTHU Physics Chinese homepage exposes research, talks, faculty and teaching navigation; no dated faculty vacancy is present in the retrieved page. NTHU AJO advert retains 31 October 2026 second-round deadline and 1 August 2027 start. AJO now says new applications no longer accepted; body also supplies email route. No broader closure inference beyond portal state.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "9 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-1b0c5db932c5",
+      "source-291b9b42ca9d",
+      "source-30e387666a6b",
+      "source-60a0ea6e1b87",
+      "source-6d883cea149d",
+      "source-904b9ca6a039",
+      "source-9c5f6a06f1ca",
+      "source-cc2d95d60065",
+      "source-cce3876f7389",
+      "source-d35eaad3806e",
+      "source-e8135e220bb7"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-30e387666a6b",
+        "checkedAt": "2026-11-02T10:08:38.030128+00:00"
+      },
+      {
+        "sourceId": "source-9c5f6a06f1ca",
+        "checkedAt": "2026-11-02T10:08:32.407463+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "national-yang-ming-chiao-tung",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan. Landing page/current visible content only; linked archives and pagination not exhaustively inspected.",
+    "summary": "NYCU faculty announcement dated 29 June 2026 retains 28 October review start and open-until-filled wording. NYCU department homepage still links the 29 June 2026 physics-faculty announcement, independently read. Homepage news is not a complete vacancy list.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-236c3105e6fe",
+      "source-3b98e68ca141",
+      "source-406226a10ed4",
+      "source-7c1ef0720090",
+      "source-7dc541b104d7"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-3b98e68ca141",
+        "checkedAt": "2026-11-02T10:08:14.136052+00:00"
+      },
+      {
+        "sourceId": "source-406226a10ed4",
+        "checkedAt": "2026-11-02T10:08:28.549259+00:00"
+      },
+      {
+        "sourceId": "source-daade525bb22",
+        "checkedAt": "2026-11-02T10:08:27.702261+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "nuclear-physics-institute-cas",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All four advertisements on one static institute jobs page screened; no pagination present.",
+    "summary": "Four advertised roles on the static NPI jobs page: the director appointment and three postdoctoral roles (ALICE, CRL AMS, CRL IRMS). Director date remains December 4, 2026 at 15:00, timezone unstated.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained."
+    ],
+    "directorySourceIds": [
+      "source-5b24ba53b5ef",
+      "source-8daf45e62f08",
+      "source-a2e86e11ec37"
+    ],
+    "requiredSourceIds": [
+      "source-8daf45e62f08"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-5b24ba53b5ef",
+        "checkedAt": "2026-11-02T10:08:23.153161+00:00"
+      },
+      {
+        "sourceId": "source-8daf45e62f08",
+        "checkedAt": "2026-11-02T10:08:24.829432+00:00"
+      },
+      {
+        "sourceId": "source-a2e86e11ec37",
+        "checkedAt": "2026-11-02T10:08:18.375801+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "penn-state-university-park",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan. One requested advertisement; recruitment directory not scanned.",
+    "summary": "Penn State AJO body corroborates November 22, 2026 full consideration with later applications considered until filled; header still says November 15, so body/employer date remains controlling. Penn State advertisement body retains November 22, 2026 full-consideration date and until-filled wording; AJO header still says November 15. Body priority date is already captured.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-92298534f83f",
+      "source-cf0a13e01f21",
+      "source-de00024c8380"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2c8a7152bad0",
+        "checkedAt": "2026-11-02T10:09:11.944Z"
+      },
+      {
+        "sourceId": "source-cf0a13e01f21",
+        "checkedAt": "2026-11-02T10:08:27.144151+00:00"
+      },
+      {
+        "sourceId": "source-de00024c8380",
+        "checkedAt": "2026-11-02T10:08:34.643687+00:00"
+      },
+      {
+        "sourceId": "source-e5679ac7bc07",
+        "checkedAt": "2026-11-02T10:08:20.981401+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "scripps-pitzer-natural-sciences",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One source URL retried via web reader; no wider directory scan.",
+    "summary": "AAS employer ad readable: Pitzer/Scripps astrophysics tenure-track search retains 1 October 2026 review start until filled,1 July 2027 start.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "2 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-e048112ebd89",
+      "source-f55836612e80"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-14809006faca",
+        "checkedAt": "2026-11-02T10:09:11.944Z"
+      },
+      {
+        "sourceId": "source-b8fde9437aaf",
+        "checkedAt": "2026-11-02T10:09:49+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "purdue",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested advertisement; recruitment directory not scanned.",
+    "summary": "Purdue AJO heavy-ion copy retains December 4, 2026 full-consideration date and until-filled employer wording. Expired AJO account notice does not establish vacancy closure.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-72ddb0dd1611",
+      "source-748b937d1a45",
+      "source-e53fdad2cca6"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-635ef7b4362f",
+        "checkedAt": "2026-11-02T10:08:29.869418+00:00"
+      },
+      {
+        "sourceId": "source-748b937d1a45",
+        "checkedAt": "2026-11-02T10:08:30.189760+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "rwth-aachen",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested advertisement; recruitment directory not scanned. One advertisement or its public response; no institution-wide vacancy scan.",
+    "summary": "Read both pages of RWTH employer PDF. Full W3 experimental particle-physics Precision Frontier professorship has explicit September 9, 2026 submission deadline and March 1, 2028 start. Supports resolving the existing needs-review record. RWTH precision-frontier experimental-particle professorship still lists September 9, 2026 in INSPIRE metadata, with March 1, 2028 appointment target. Closed metadata alone is not treated as new closure evidence.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-2426aa49dd3f",
+      "source-7a82a261843f",
+      "source-7b59da0047d3",
+      "source-a42ddf0e6cd1"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2426aa49dd3f",
+        "checkedAt": "2026-11-02T10:08:26.966446+00:00"
+      },
+      {
+        "sourceId": "source-7a82a261843f",
+        "checkedAt": "2026-11-02T10:08:31.214833+00:00"
+      },
+      {
+        "sourceId": "source-7b59da0047d3",
+        "checkedAt": "2026-11-02T10:08:24.043628+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "rice-university",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested advertisement; recruitment directory not scanned.",
+    "summary": "Rice AI-related astronomy/astroparticle/cosmology advertisement retains December 1, 2026 review start and December 10 full-consideration date.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "3 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-03cb0a76e99e",
+      "source-4888263dabf6",
+      "source-6acec7cd59f6",
+      "source-8f18190062fd"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-8f18190062fd",
+        "checkedAt": "2026-11-02T10:08:32.595447+00:00"
+      },
+      {
+        "sourceId": "source-a88a59ead1f3",
+        "checkedAt": "2026-11-02T10:08:18.742001+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "sgt-university",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan.",
+    "summary": "CCSP foreign-faculty call retains dated 2026 advertisement and 31 December 2026 application deadline.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-28440de2153b",
+      "source-73757e2bbd64",
+      "source-fd9c424c9779"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-28440de2153b",
+        "checkedAt": "2026-11-02T10:08:13.769800+00:00"
+      },
+      {
+        "sourceId": "source-73757e2bbd64",
+        "checkedAt": "2026-11-02T10:08:16.618593+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "srm-university-ap",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested advertisement; recruitment directory not scanned.",
+    "summary": "SRM-AP HEP assistant-professor employer-submitted description still states October 25, 2026 deadline. Closed metadata is not separate employer closure evidence.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-f66d39ba00db"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-3aebf646f920",
+        "checkedAt": "2026-11-02T10:08:28.166825+00:00"
+      },
+      {
+        "sourceId": "source-de42aabae805",
+        "checkedAt": "2026-11-02T10:08:37.866484+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "shinshu-university",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "Landing page/current visible content only; linked archives and pagination not exhaustively inspected. One advertisement or its public response; no institution-wide vacancy scan. One requested public page only; no complete institution-wide vacancy scan.",
+    "summary": "Shinshu science homepage reviewed; latest hiring headline concerns a lake/highland centre special assistant professor. Recruitment archive not traversed; no new HEP faculty claim. Read Shinshu official PDF: one tenure-track assistant professor in experimental cosmic-ray/HEP; August 6, 2026 close-of-business receipt deadline and April 1, 2027 start unchanged. Shinshu Faculty of Science information index is now accessible; it links faculty/research and facilities, without a displayed recruitment list.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-09f03ecc5112",
+      "source-0b2176be27a0",
+      "source-1d920f643fd8",
+      "source-425f34ac7a47",
+      "source-a758a17514fb",
+      "source-f34080163a2c"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-0b2176be27a0",
+        "checkedAt": "2026-11-02T10:08:28.498595+00:00"
+      },
+      {
+        "sourceId": "source-1d920f643fd8",
+        "checkedAt": "2026-11-02T10:08:33.461609+00:00"
+      },
+      {
+        "sourceId": "source-425f34ac7a47",
+        "checkedAt": "2026-11-02T10:08:44.844485+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "simon-fraser",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All faculty and research-employment sections on the single static page reviewed. Two Lecturer posts in one call; no current tenure-track postings. Separate sessional/TA external boards outside this scope.",
+    "summary": "SFU page says no current tenure-track postings and advertises two continuing physics Lecturer positions, full consideration December 1, 2026, expected July 15, 2027 start; other advertised research role is postdoctoral.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies."
+    ],
+    "directorySourceIds": [
+      "source-91eca797df6e"
+    ],
+    "requiredSourceIds": [
+      "source-91eca797df6e"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-91eca797df6e",
+        "checkedAt": "2026-11-02T10:08:24.927229+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "southern-methodist",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested advertisement; recruitment directory not scanned.",
+    "summary": "SMU experimental Physics chair advertisement retains November 10, 2026 review start and until-filled policy.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-24d351b75b24",
+      "source-70288d2f51b1",
+      "source-dcd62b1d3882"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-24d351b75b24",
+        "checkedAt": "2026-11-02T10:11:08+00:00"
+      },
+      {
+        "sourceId": "source-819a33aaec41",
+        "checkedAt": "2026-11-02T10:08:17.270217+00:00"
+      },
+      {
+        "sourceId": "source-dcd62b1d3882",
+        "checkedAt": "2026-11-02T10:08:34.629162+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "tifr-mumbai",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested public page only; no complete institution-wide vacancy scan.",
+    "summary": "TIFR Work at TIFR page explicitly describes year-round faculty applications through department/centre pages, without a cycle-specific faculty cutoff. TIFR DHEP invites tenure-track experimental HEP faculty applications on a generic page without an explicit 2026–2027 cycle date; not independent evidence for the numbered 2026 call deadline. TIFR theory page has generic rolling faculty invitation. The January 20, 2027 deadline belongs to postdoctoral Visiting Fellows, not faculty.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-3ba051a37ffe",
+      "source-70fdadc86184",
+      "source-87c516b49d2a",
+      "source-909384e028d2",
+      "source-e54e87259020",
+      "source-f6f752d12e95"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-3ba051a37ffe",
+        "checkedAt": "2026-11-02T10:09:49+00:00"
+      },
+      {
+        "sourceId": "source-6247f6822e3e",
+        "checkedAt": "2026-11-02T10:08:23.262550+00:00"
+      },
+      {
+        "sourceId": "source-70fdadc86184",
+        "checkedAt": "2026-11-02T10:08:44.328639+00:00"
+      },
+      {
+        "sourceId": "source-87c516b49d2a",
+        "checkedAt": "2026-11-02T10:08:32.442048+00:00"
+      },
+      {
+        "sourceId": "source-909384e028d2",
+        "checkedAt": "2026-11-02T10:08:32.985729+00:00"
+      },
+      {
+        "sourceId": "source-e54e87259020",
+        "checkedAt": "2026-11-02T10:09:49+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "tennessee-tech",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement read via web fallback; institution directory not scanned.",
+    "summary": "AAS Tennessee Tech advertisement read successfully; December 15, 2026 is full consideration and vacancy remains open until filled.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-69745461e3ff",
+      "source-ac612f46fb18"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-a0684fd9e695",
+        "checkedAt": "2026-11-02T10:09:11.944Z"
+      },
+      {
+        "sourceId": "source-ac612f46fb18",
+        "checkedAt": "2026-11-02T10:09:35.070Z"
+      },
+      {
+        "sourceId": "source-c344b1bc01f9",
+        "checkedAt": "2026-11-02T10:09:16+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "ohio-state",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One source URL retried via web reader; no wider directory scan.",
+    "summary": "AAS employer ad readable: Ohio State astronomy faculty, Fall 2027 start; header lists 16 November 2026 deadline. Existing record preserved.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "8 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-030e4d153662",
+      "source-36b7365a3a1d",
+      "source-54bb3190809b",
+      "source-54c01505a8b5",
+      "source-7428befd0371",
+      "source-c4848dddba3c",
+      "source-da3f7d1a5ab3",
+      "source-e47c08c8b197",
+      "source-e988b7682394",
+      "source-f8065ee40210"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-0f7f30566d2f",
+        "checkedAt": "2026-11-02T10:11:49+00:00"
+      },
+      {
+        "sourceId": "source-54bb3190809b",
+        "checkedAt": "2026-11-02T10:11:49+00:00"
+      },
+      {
+        "sourceId": "source-da3f7d1a5ab3",
+        "checkedAt": "2026-11-02T10:09:40+00:00"
+      },
+      {
+        "sourceId": "source-f06894f7be37",
+        "checkedAt": "2026-11-02T10:11:49+00:00"
+      },
+      {
+        "sourceId": "source-fd6e1a12fcb6",
+        "checkedAt": "2026-11-02T10:08:36.321806+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "tdli-sjtu",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan. One advertisement or its public response; no institution-wide vacancy scan.",
+    "summary": "TDLI particle/nuclear faculty call retains 20 December 2026 full consideration and open-until-filled wording. TDLI/SJTU astrophysics tenure-track search retains November 10, 2026 full consideration, open until filled, nominal September 2027 start; particle astrophysics and cosmology included. TDLI recruitment announcement dated 13 October 2026 links astrophysics faculty AJO32595 and particle/nuclear faculty AJO32304; the overview does not itself restate the astrophysics deadline.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-109ec5023450",
+      "source-655be499317c",
+      "source-780cd7eefb80",
+      "source-8c272d2abb01",
+      "source-ade102d95da8"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-655be499317c",
+        "checkedAt": "2026-11-02T10:08:16.061971+00:00"
+      },
+      {
+        "sourceId": "source-780cd7eefb80",
+        "checkedAt": "2026-11-02T10:08:23.711233+00:00"
+      },
+      {
+        "sourceId": "source-8c272d2abb01",
+        "checkedAt": "2026-11-02T10:08:17.455410+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "universidad-andres-bello",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "Landing page/current visible content only; linked archives and pagination not exhaustively inspected. One advertisement and its displayed metadata; no institution-wide directory scan.",
+    "summary": "UNAB physics homepage reviewed; research/news page with older condensed-matter recruitment headline, not a current exhaustive vacancy list. UNAB employer INSPIRE text retains 10 September 2026 particle-physics deadline. API closed flag alone is not treated as fresh explicit closure evidence.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-32abccb7d126",
+      "source-f3c91565265f"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2e487b1290bc",
+        "checkedAt": "2026-11-02T10:08:36.397031+00:00"
+      },
+      {
+        "sourceId": "source-32abccb7d126",
+        "checkedAt": "2026-11-02T10:08:29.571896+00:00"
+      },
+      {
+        "sourceId": "source-f3c91565265f",
+        "checkedAt": "2026-11-02T10:08:22.988925+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-biobio",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All eleven 2027 academic-competition calls and general application section on the single Bío-Bío list; no pagination. Concursos Académicos 2027: all 11 numbered competitions 01–11 plus linked physics 02-2027 PDF; single complete list, no pagination.",
+    "summary": "Bío-Bío current 2027 academic-competition list contains 11 calls. Physics call 02-2027 in Chillán closes November 3, 2026; listed availability is March 8, 2027. Re-read directory after linked relevant advertisement review: Reviewed all eleven 2027 academic competitions: relevant call 02-2027 is full-time physics at Chillán, due 3 November 2026; official PDF confirms particle fields/cosmology/gravity and 8 March 2027 start.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies."
+    ],
+    "directorySourceIds": [
+      "source-8ec348b8de09",
+      "source-9bd8d381afe7",
+      "source-e05aa6cc6af2"
+    ],
+    "requiredSourceIds": [
+      "source-8ec348b8de09",
+      "source-e05aa6cc6af2"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-879715393ec6",
+        "checkedAt": "2026-11-02T10:09:28.308957+00:00"
+      },
+      {
+        "sourceId": "source-8ec348b8de09",
+        "checkedAt": "2026-11-02T10:08:41.619664+00:00"
+      },
+      {
+        "sourceId": "source-9bd8d381afe7",
+        "checkedAt": "2026-11-02T10:08:33.233841+00:00"
+      },
+      {
+        "sourceId": "source-e05aa6cc6af2",
+        "checkedAt": "2026-11-02T10:16:36.902159+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-sao-paulo",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "Both current-list pages read across this run (10 first-page rows and 2 second-page rows). Per-URL check retained as partial; downstream competition details not exhaustively inspected. One advertisement or its public response; no institution-wide vacancy scan. One advertisement and its displayed metadata; no institution-wide directory scan. Landing page/current visible content only; linked archives and pagination not exhaustively inspected. One requested advertisement; recruitment directory not scanned.",
+    "summary": "Reviewed first USP current-competition page with ten rows, including existing IF-93/26 and IF-94/26 full-professor competitions and earlier 2026 professor competitions. Second and last page also read. USP IF-45/26 is an applied nuclear-beam physics Professor Doutor competition. Application window May 13 to August 10, 2026; selection phase is scheduled November 3. It is not a newly open application window. USP IF-20/26 is an experimental high-energy accelerator physics competition whose application window ended 8 June 2026; later competition proceedings are not a new application call. Applicant identities excluded. Read IAG faculty-competition table: general astrophysics 026/2026 retains 29 October 2026 date while status still says inscriptions open; no extension inferred from stale table status. Older rows and details not exhaustively reviewed. Reviewed the second and last USP current-competition page: IF-125/25 and temporary General Physics teaching competition IF-07/26. Companion first page read separately in this run. USP IF-93/26 interdepartmental full-professor competition retains October 15, 2026 opening and April 12, 2027 at 23:59 end date on the official page. USP IAG026/2026 official general-astrophysics notice retains 29 October 2026 17:00 Brasília closing time. No extension verified. USP IAG/013/2026 is an earlier spectroscopy faculty competition with April 9–July 8, See the recorded source attempts for the remaining checks.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "4 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-10cf3e15d283",
+      "source-259194fcc9bf",
+      "source-39a5633d4e9e",
+      "source-3ae745ca5e16",
+      "source-3c7eb8767682",
+      "source-42954feea8ce",
+      "source-477fae1a8145",
+      "source-493153e601d3",
+      "source-7eb77c7b3c38",
+      "source-8c7595772e35",
+      "source-8c8795b0b835",
+      "source-ca65d4da1c48",
+      "source-d001bba37d5a"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-10cf3e15d283",
+        "checkedAt": "2026-11-02T10:08:35.261424+00:00"
+      },
+      {
+        "sourceId": "source-39a5633d4e9e",
+        "checkedAt": "2026-11-02T10:08:37.490716+00:00"
+      },
+      {
+        "sourceId": "source-3ae745ca5e16",
+        "checkedAt": "2026-11-02T10:08:33.857872+00:00"
+      },
+      {
+        "sourceId": "source-3c7eb8767682",
+        "checkedAt": "2026-11-02T10:08:26.406525+00:00"
+      },
+      {
+        "sourceId": "source-477fae1a8145",
+        "checkedAt": "2026-11-02T10:08:32.246344+00:00"
+      },
+      {
+        "sourceId": "source-578ff42dc80c",
+        "checkedAt": "2026-11-02T10:08:15.626877+00:00"
+      },
+      {
+        "sourceId": "source-7eb77c7b3c38",
+        "checkedAt": "2026-11-02T10:08:24.231762+00:00"
+      },
+      {
+        "sourceId": "source-8c8795b0b835",
+        "checkedAt": "2026-11-02T10:08:21.888910+00:00"
+      },
+      {
+        "sourceId": "source-ca65d4da1c48",
+        "checkedAt": "2026-11-02T10:08:42.772395+00:00"
+      },
+      {
+        "sourceId": "source-d001bba37d5a",
+        "checkedAt": "2026-11-02T10:08:19.422595+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-barcelona",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan. One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion.",
+    "summary": "ICCUB ICREA 2027 host EOI retains November 1, 2026 full consideration. INSPIRE metadata now says closed, but the announcement body does not establish a hard host cutoff; no closure inferred from that flag.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-23f38efb4235",
+      "source-5cbc7c4c19fd",
+      "source-99b0fe30d16f",
+      "source-c132bbe00c29"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-23f38efb4235",
+        "checkedAt": "2026-11-02T10:08:21.305969+00:00"
+      },
+      {
+        "sourceId": "source-5cbc7c4c19fd",
+        "checkedAt": "2026-11-02T10:09:02+00:00"
+      },
+      {
+        "sourceId": "source-99b0fe30d16f",
+        "checkedAt": "2026-11-02T10:09:28.309055+00:00"
+      },
+      {
+        "sourceId": "source-c132bbe00c29",
+        "checkedAt": "2026-11-02T10:10:25.158Z"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-bonn",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All eight displayed professorship rows on unfiltered Bonn single current list; no pagination.",
+    "summary": "Bonn current single professorship list displays eight rows in Sinology, church history, trauma studies, linguistics, finance, econometrics and discrete mathematics. No physics professorship listed; prior ads retained.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained."
+    ],
+    "directorySourceIds": [
+      "source-1728ff33ac4d",
+      "source-26e7824ddbf3",
+      "source-63e4890a96b0",
+      "source-fc553af85e36"
+    ],
+    "requiredSourceIds": [
+      "source-26e7824ddbf3"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-1728ff33ac4d",
+        "checkedAt": "2026-11-02T10:09:28.519086+00:00"
+      },
+      {
+        "sourceId": "source-26e7824ddbf3",
+        "checkedAt": "2026-11-02T10:08:44.109197+00:00"
+      },
+      {
+        "sourceId": "source-63e4890a96b0",
+        "checkedAt": "2026-11-02T10:08:41.778883+00:00"
+      },
+      {
+        "sourceId": "source-fc553af85e36",
+        "checkedAt": "2026-11-02T10:09:40+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-of-cagliari",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "Landing page/current visible content only; linked archives and pagination not exhaustively inspected.",
+    "summary": "Read 12 entries on Cagliari 2026 RTT index. Broad multi-department competition titles require linked annex review; no complete physics vacancy coverage claimed.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-5f2763bec065",
+      "source-6f8979049a5a",
+      "source-96d71ffedaed",
+      "source-a87b4b592edb"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-030397c47405",
+        "checkedAt": "2026-11-02T10:08:36.564042+00:00"
+      },
+      {
+        "sourceId": "source-6d4b5172825a",
+        "checkedAt": "2026-11-02T10:08:23.147567+00:00"
+      },
+      {
+        "sourceId": "source-96d71ffedaed",
+        "checkedAt": "2026-11-02T10:08:33.154051+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "uc-berkeley",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All three listed faculty searches plus lecturer-pool link on the single static departmental employment page screened; campus-wide recruitment portal outside scope.",
+    "summary": "Berkeley Physics employment page lists AMO theory JPF05460, condensed-matter experiment JPF05490, open space/astro/nuclear/particle search JPF05524, and a lecturer pool; no new relevant faculty search identified here.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete."
+    ],
+    "directorySourceIds": [
+      "source-304cdbc6fe71",
+      "source-5ebc68afc5f1",
+      "source-8a0873b46cb1",
+      "source-8bd901e802da",
+      "source-b28ccc1834da"
+    ],
+    "requiredSourceIds": [
+      "source-b28ccc1834da"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-304cdbc6fe71",
+        "checkedAt": "2026-11-02T10:08:21.898051+00:00"
+      },
+      {
+        "sourceId": "source-61e94cfd9b5d",
+        "checkedAt": "2026-11-02T10:08:15.966140+00:00"
+      },
+      {
+        "sourceId": "source-8bd901e802da",
+        "checkedAt": "2026-11-02T10:08:32.581079+00:00"
+      },
+      {
+        "sourceId": "source-b28ccc1834da",
+        "checkedAt": "2026-11-02T10:08:26.375829+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-cape-town",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "Academic and executive table on general-vacancies page: all 8 rows; no pagination present for this table. Other job categories outside faculty scope. All 21 rows of unfiltered current UCT central search; explicitly Results 1–21 of 21, Page 1 of 1.",
+    "summary": "Reviewed all eight entries in Academic and executive vacancies table. Entries concern registrar, biology, medicine, properties, humanities/languages and mechanical engineering; no physics faculty entry in this bounded table. UCT current central search explicitly shows 21 of 21 results, page 1 of 1. No physics/astronomy faculty vacancy appears in those rows.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies."
+    ],
+    "directorySourceIds": [
+      "source-34132fb1d163",
+      "source-71efdfb858a2",
+      "source-819437de9adb"
+    ],
+    "requiredSourceIds": [
+      "source-34132fb1d163",
+      "source-819437de9adb"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-34132fb1d163",
+        "checkedAt": "2026-11-02T10:08:23.839422+00:00"
+      },
+      {
+        "sourceId": "source-71efdfb858a2",
+        "checkedAt": "2026-11-02T10:08:37.031835+00:00"
+      },
+      {
+        "sourceId": "source-819437de9adb",
+        "checkedAt": "2026-11-02T10:08:40.710863+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "chicago",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All two faculty links on the one-page departmental vacancy list screened; separate postdoc and undergraduate categories excluded.",
+    "summary": "Chicago department jobs list contains assistant-professor and associate-professor faculty links, plus separate postdoc and undergraduate categories; no additional faculty title in this list.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "7 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "3 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete."
+    ],
+    "directorySourceIds": [
+      "source-11f2528e107c",
+      "source-2685a30776be",
+      "source-77ee45d40683",
+      "source-89dd08352d1f",
+      "source-a756d912f3f6",
+      "source-d523655dabc8",
+      "source-d9818668a6ec",
+      "source-e8812febb2d0",
+      "source-eaba48dae837",
+      "source-eb424c0dd23f",
+      "source-f3f2af2d0966",
+      "source-f8c2803b1978"
+    ],
+    "requiredSourceIds": [
+      "source-eaba48dae837"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-11f2528e107c",
+        "checkedAt": "2026-11-02T10:08:26.361006+00:00"
+      },
+      {
+        "sourceId": "source-2685a30776be",
+        "checkedAt": "2026-11-02T10:11:59+00:00"
+      },
+      {
+        "sourceId": "source-6cef3912a8a5",
+        "checkedAt": "2026-11-02T10:11:59+00:00"
+      },
+      {
+        "sourceId": "source-77ee45d40683",
+        "checkedAt": "2026-11-02T10:08:16.783118+00:00"
+      },
+      {
+        "sourceId": "source-a756d912f3f6",
+        "checkedAt": "2026-11-02T10:08:33.712177+00:00"
+      },
+      {
+        "sourceId": "source-bbe8d8c3a373",
+        "checkedAt": "2026-11-02T10:11:59+00:00"
+      },
+      {
+        "sourceId": "source-d9818668a6ec",
+        "checkedAt": "2026-11-02T10:08:34.440590+00:00"
+      },
+      {
+        "sourceId": "source-e8812febb2d0",
+        "checkedAt": "2026-11-02T10:08:39.563206+00:00"
+      },
+      {
+        "sourceId": "source-eaba48dae837",
+        "checkedAt": "2026-11-02T10:08:28.253879+00:00"
+      },
+      {
+        "sourceId": "source-eb424c0dd23f",
+        "checkedAt": "2026-11-02T10:10:25.158Z"
+      },
+      {
+        "sourceId": "source-f3f2af2d0966",
+        "checkedAt": "2026-11-02T10:09:40+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-copenhagen",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested advertisement; recruitment directory not scanned. Department jobs landing page only; linked university portal not scanned in this check.",
+    "summary": "NBIA four-year assistant-professor EOI retains November 15, 2026 priority date; the text explicitly allows later expressions of interest. NBI jobs landing is readable via web and directs applicants to UCPH job portal; it does not contain a vacancy list. Copenhagen theory associate-professor description retains first-stage October 1, 2026 at 23:59 GMT+2 cutoff; invited full applications are a separate later stage.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "5 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-20ba0b4f263a",
+      "source-560f07e8dbca",
+      "source-65f494a662b1",
+      "source-7e8fd4f50f65",
+      "source-ad10676e71e3",
+      "source-c126bd8cca0f",
+      "source-e53d348a56af",
+      "source-f3071427e999"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-20ba0b4f263a",
+        "checkedAt": "2026-11-02T10:08:31.319633+00:00"
+      },
+      {
+        "sourceId": "source-560f07e8dbca",
+        "checkedAt": "2026-11-02T10:08:28.970720+00:00"
+      },
+      {
+        "sourceId": "source-65f494a662b1",
+        "checkedAt": "2026-11-02T10:10:26+00:00"
+      },
+      {
+        "sourceId": "source-7e8fd4f50f65",
+        "checkedAt": "2026-11-02T10:08:37.680418+00:00"
+      },
+      {
+        "sourceId": "source-ad10676e71e3",
+        "checkedAt": "2026-11-02T10:09:35.070Z"
+      },
+      {
+        "sourceId": "source-c126bd8cca0f",
+        "checkedAt": "2026-11-02T10:09:40+00:00"
+      },
+      {
+        "sourceId": "source-e53d348a56af",
+        "checkedAt": "2026-11-02T10:09:16+00:00"
+      },
+      {
+        "sourceId": "source-f3071427e999",
+        "checkedAt": "2026-11-02T10:08:29.192190+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-of-florida",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan. One source URL retried via web reader; no wider directory scan.",
+    "summary": "Florida Instrument Science assistant scientist retains January 1, 2027 start, November 19 application close at 11:55 p.m. ET, and November 20 review start. AAS employer ad readable on retry: Florida astronomical instrumentation Assistant Professor; review 11 December 2026 until filled; posted 20 October 2026. Existing facts unchanged. Florida astronomical instrumentation assistant professor retains December 11, 2026 review start and open-until-filled wording, with August 16, 2027 start. Florida experimental dark-matter assistant professor retains November 8, 2026 posting close at 11:55 p.m. ET and August 16, 2027 start.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-0fad04cf603a",
+      "source-181b4fcf0f3c",
+      "source-1ef98d66d22a",
+      "source-1f41292cf72b",
+      "source-67914975f6c3",
+      "source-bb2aaffab877",
+      "source-d095cca96d1a"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-181b4fcf0f3c",
+        "checkedAt": "2026-11-02T10:08:21.128902+00:00"
+      },
+      {
+        "sourceId": "source-1ef98d66d22a",
+        "checkedAt": "2026-11-02T10:09:40+00:00"
+      },
+      {
+        "sourceId": "source-45e38cc10463",
+        "checkedAt": "2026-11-02T10:08:14.416751+00:00"
+      },
+      {
+        "sourceId": "source-67914975f6c3",
+        "checkedAt": "2026-11-02T10:08:23.372729+00:00"
+      },
+      {
+        "sourceId": "source-bb2aaffab877",
+        "checkedAt": "2026-11-02T10:08:26.766798+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-geneva",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan. One requested advertisement; recruitment directory not scanned.",
+    "summary": "Official Geneva collider-physics professorship retains December 17, 2026 at 23:59 Geneva time; expected start August 1, 2027 or by agreement. Geneva collider faculty advertisement retains December 17, 2026 hard deadline and August 1, 2027 or agreed start; detector hardware is the central remit.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "5 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-28c97bf380a1",
+      "source-482d6595f95e",
+      "source-4f461de8cbad",
+      "source-79ac17e5ee0d",
+      "source-a0ab1a577282",
+      "source-e2ce2f6e02fa"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-28c97bf380a1",
+        "checkedAt": "2026-11-02T10:08:21.690357+00:00"
+      },
+      {
+        "sourceId": "source-482d6595f95e",
+        "checkedAt": "2026-11-02T10:10:26+00:00"
+      },
+      {
+        "sourceId": "source-4f461de8cbad",
+        "checkedAt": "2026-11-02T10:10:26+00:00"
+      },
+      {
+        "sourceId": "source-79ac17e5ee0d",
+        "checkedAt": "2026-11-02T10:08:16.872549+00:00"
+      },
+      {
+        "sourceId": "source-a0ab1a577282",
+        "checkedAt": "2026-11-02T10:08:33.431421+00:00"
+      },
+      {
+        "sourceId": "source-a3c2f20ad7b1",
+        "checkedAt": "2026-11-02T10:08:39.562594+00:00"
+      },
+      {
+        "sourceId": "source-e2ce2f6e02fa",
+        "checkedAt": "2026-11-02T10:10:25.158Z"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-haifa",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested public page only; no complete institution-wide vacancy scan. One department/landing page only; linked recruitment directories and full institution coverage not completed. One advertisement or its public response; no institution-wide vacancy scan.",
+    "summary": "Haifa department homepage links its July 19, 2026 Physics 2027 tenure-track call; homepage alone provides no new deadline facts. Haifa news page repeats the July 2026 current-cycle call with October 1, 2026 deadline, and an older 2025 call. News archive is not a full recruitment-directory scan. Haifa physics senior-lecturer call retains October 1, 2026 receipt deadline and October 2027 start; theoretical physics, biophysics and astrophysics eligible.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-12f6a3f844fe",
+      "source-1586983c8187",
+      "source-4f0e6e41aa51"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-12f6a3f844fe",
+        "checkedAt": "2026-11-02T10:08:39.048555+00:00"
+      },
+      {
+        "sourceId": "source-1586983c8187",
+        "checkedAt": "2026-11-02T10:08:33.514427+00:00"
+      },
+      {
+        "sourceId": "source-4f0e6e41aa51",
+        "checkedAt": "2026-11-02T10:08:30.104207+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-of-houston",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan.",
+    "summary": "Houston nuclear-theory assistant professor seeks neutrino-nucleus expertise. Review begins immediately and continues through December 1, 2026 or until filled; this wording does not establish an unambiguous hard cutoff.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "2 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-10ab972596ca",
+      "source-5bc4995ee4b7",
+      "source-9521cfe88683",
+      "source-e485ec3ebefc"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-10ab972596ca",
+        "checkedAt": "2026-11-02T10:08:20.789703+00:00"
+      },
+      {
+        "sourceId": "source-5bc4995ee4b7",
+        "checkedAt": "2026-11-02T10:09:49+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-of-kentucky",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "Keyword physics, all 15 returned results on one page; counts agree. Clinical/radiology roles and quantum-materials role screened out of core HEP/cosmology scope. Keyword physics with faculty filter 988[]=2: all 15 returned records on one page; reviewed two Physics&Astronomy results and read computational-astrophysics detail 650517. No next page in returned results.",
+    "summary": "All 15 physics-keyword results reviewed: computational astrophysics FE05020, theoretical quantum materials FE05019, and clinical/radiology posts. Current computational-astrophysics detail now links posting 650517. Re-read directory after linked relevant advertisement review: Physics faculty search returned 15 records, including existing computational-astrophysics and quantum-materials searches; no additional targeted HEP listing among remaining clinical-physics results.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "6 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete."
+    ],
+    "directorySourceIds": [
+      "source-209c7e441f91",
+      "source-3468f8d8c61c",
+      "source-36f796be2e22",
+      "source-37b33c2de390",
+      "source-579e32ceb35d",
+      "source-a4a6b32423df",
+      "source-aab1d139d6db",
+      "source-ad3687e3339a",
+      "source-c8ff19d82591",
+      "source-e628677692c2",
+      "source-e82fe1079737"
+    ],
+    "requiredSourceIds": [
+      "source-a4a6b32423df",
+      "source-c8ff19d82591"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-209c7e441f91",
+        "checkedAt": "2026-11-02T10:08:26.930047+00:00"
+      },
+      {
+        "sourceId": "source-37b33c2de390",
+        "checkedAt": "2026-11-02T10:08:21.952403+00:00"
+      },
+      {
+        "sourceId": "source-a4a6b32423df",
+        "checkedAt": "2026-11-02T10:08:42.552295+00:00"
+      },
+      {
+        "sourceId": "source-c8ff19d82591",
+        "checkedAt": "2026-11-02T10:16:38.194393+00:00"
+      },
+      {
+        "sourceId": "source-e82fe1079737",
+        "checkedAt": "2026-11-02T10:11:15.473934+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-melbourne",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "Careers landing page only; linked vacancies not rendered.",
+    "summary": "Melbourne careers landing page readable via web retry and links to current Workday opportunities; Workday listing remained an unreadable shell.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-39d73d0166b6",
+      "source-6dc8aa51268d",
+      "source-e1c911449308"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-39d73d0166b6",
+        "checkedAt": "2026-11-02T10:08:25.998445+00:00"
+      },
+      {
+        "sourceId": "source-6dc8aa51268d",
+        "checkedAt": "2026-11-02T10:08:31.880887+00:00"
+      },
+      {
+        "sourceId": "source-e1c911449308",
+        "checkedAt": "2026-11-02T10:09:49+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "michigan-ann-arbor",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan.",
+    "summary": "Michigan official broad-physics Assistant Professor advertisement retains 1 November 2026 review/full-consideration date; later applications accepted.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "3 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-0de3fae08739",
+      "source-1abc8ad038f1",
+      "source-6c006fa5dd23"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-c09d962a1c87",
+        "checkedAt": "2026-11-02T10:09:11.944Z"
+      },
+      {
+        "sourceId": "source-dd2ee6a5575f",
+        "checkedAt": "2026-11-02T10:08:20.350726+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-naples-federico-ii",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan. One department/landing page only; linked recruitment directories and full institution coverage not completed.",
+    "summary": "Naples RTT astrophysics/cosmology INSPIRE body retains September 7, 2026 at 12:00 and labels it CET. Since September local civil time differs from literal CET, no inferred IANA timezone added. Naples fixed-term researcher department page directs users to central university lists for active and concluded RTDa/RTDb calls; no actual calls displayed here.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "7 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-511ed0f051df",
+      "source-73d3f9f128c8",
+      "source-7bf52b9703d7",
+      "source-8134c947a191",
+      "source-89a12b9d835d",
+      "source-9df9323cffaf",
+      "source-c0e1208cba8b",
+      "source-da6ed0d0c8b1",
+      "source-e3b300a3a1de",
+      "source-f3f7bf018f58"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-511ed0f051df",
+        "checkedAt": "2026-11-02T10:08:34.916729+00:00"
+      },
+      {
+        "sourceId": "source-da6ed0d0c8b1",
+        "checkedAt": "2026-11-02T10:08:42.607469+00:00"
+      },
+      {
+        "sourceId": "source-e3b300a3a1de",
+        "checkedAt": "2026-11-02T10:08:36.717674+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "oklahoma",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "Faculty section of department job-opportunities page: one current faculty call; single page, no faculty pagination.",
+    "summary": "Reviewed department faculty section: one experimental HEP Assistant/Associate Professor call; review after 14 November 2026 until filled. Other sections concern postdocs/research staff.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained."
+    ],
+    "directorySourceIds": [
+      "source-7d5f722047fe"
+    ],
+    "requiredSourceIds": [
+      "source-7d5f722047fe"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-7d5f722047fe",
+        "checkedAt": "2026-11-02T10:08:17.207708+00:00"
+      },
+      {
+        "sourceId": "source-c98e47e8a2f0",
+        "checkedAt": "2026-11-02T10:08:27.101900+00:00"
+      },
+      {
+        "sourceId": "source-e16f435343ed",
+        "checkedAt": "2026-11-02T10:09:35.070Z"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-oxford",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All eight current entries on the single Oxford Physics vacancy list, screened for faculty and senior research titles; no pagination links. Individual senior-researcher detail remains a limitation.",
+    "summary": "Oxford Physics current list has eight vacancies, including Savilian Professorship of Astronomy closing November 2, 2026 at noon. Other rows are research posts; a senior-researcher detail remains unresolved.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "5 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete."
+    ],
+    "directorySourceIds": [
+      "source-0861afe9c823",
+      "source-7c9d5657b176",
+      "source-81459c9f4c89",
+      "source-a5c235978264",
+      "source-bf0a004d510f",
+      "source-d17020f07949",
+      "source-dad30c150d92",
+      "source-e20c0258f84c",
+      "source-ee3e60faaf8a"
+    ],
+    "requiredSourceIds": [
+      "source-81459c9f4c89"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-301440401ed3",
+        "checkedAt": "2026-11-02T10:12:44+00:00"
+      },
+      {
+        "sourceId": "source-7c9d5657b176",
+        "checkedAt": "2026-11-02T10:08:35.480139+00:00"
+      },
+      {
+        "sourceId": "source-81459c9f4c89",
+        "checkedAt": "2026-11-02T10:08:31.907132+00:00"
+      },
+      {
+        "sourceId": "source-9c98d5f12f83",
+        "checkedAt": "2026-11-02T10:08:17.999403+00:00"
+      },
+      {
+        "sourceId": "source-bf0a004d510f",
+        "checkedAt": "2026-11-02T10:08:35.620938+00:00"
+      },
+      {
+        "sourceId": "source-e20c0258f84c",
+        "checkedAt": "2026-11-02T10:08:47.302658+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-of-pittsburgh",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All three current vacancy entries on one static department openings page; no pagination present. Linked LINCC ad followed separately.",
+    "summary": "Three current listings: full professor/PITT PACC director, astrophysics assistant professor, and LINCC Project Scientist/Research Assistant Professor. The LINCC PDF was followed and yielded a new dated research-faculty lead.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "3 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete."
+    ],
+    "directorySourceIds": [
+      "source-441a9face2b8",
+      "source-469f3bdb717f",
+      "source-7aef042c3788",
+      "source-d96821079d00",
+      "source-ebe3339fbcaa"
+    ],
+    "requiredSourceIds": [
+      "source-469f3bdb717f"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-130b8fa6d4f9",
+        "checkedAt": "2026-11-02T10:08:13.007393+00:00"
+      },
+      {
+        "sourceId": "source-2cc06bf8ca54",
+        "checkedAt": "2026-11-02T10:11:15.473796+00:00"
+      },
+      {
+        "sourceId": "source-441a9face2b8",
+        "checkedAt": "2026-11-02T10:08:28.410989+00:00"
+      },
+      {
+        "sourceId": "source-469f3bdb717f",
+        "checkedAt": "2026-11-02T10:08:22.531631+00:00"
+      },
+      {
+        "sourceId": "source-4ea9ca63e1af",
+        "checkedAt": "2026-11-02T10:08:28.799904+00:00"
+      },
+      {
+        "sourceId": "source-8fa790b8392b",
+        "checkedAt": "2026-11-02T10:09:11.944Z"
+      },
+      {
+        "sourceId": "source-ea60a2b57601",
+        "checkedAt": "2026-11-02T10:08:35.360031+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "ut-austin",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One source URL retried via web reader; no wider directory scan. One requested public page only; no complete institution-wide vacancy scan. One advertisement read via web fallback; institution directory not scanned.",
+    "summary": "AAS employer ad readable on retry: UT Austin astronomical instrumentation open-rank search; review 16 November 2026 until filled, start as early August 2027. Existing facts unchanged. Legacy UT Physics URL redirects successfully to physics.utexas.edu; homepage contains current department news and research, without a vacancy list. AAS UT Austin employer advertisement read successfully. November 10, 2026 assures full consideration; anticipated August 2027 start. Existing facts unchanged.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "6 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "3 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-0ce93ff7d632",
+      "source-4d47c0e1d054",
+      "source-5cfd36028bdc",
+      "source-5ed7eddddc25",
+      "source-6a89b4bce9a8",
+      "source-91d892746dd7",
+      "source-96474dc3f22f",
+      "source-bb64ee2ea52f",
+      "source-e5060b9e0326",
+      "source-f3922c55ae38"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-097e30cbc26f",
+        "checkedAt": "2026-11-02T10:14:56+00:00"
+      },
+      {
+        "sourceId": "source-0ce93ff7d632",
+        "checkedAt": "2026-11-02T10:08:12.844284+00:00"
+      },
+      {
+        "sourceId": "source-4d47c0e1d054",
+        "checkedAt": "2026-11-02T10:08:40.776886+00:00"
+      },
+      {
+        "sourceId": "source-5cfd36028bdc",
+        "checkedAt": "2026-11-02T10:09:40+00:00"
+      },
+      {
+        "sourceId": "source-6a89b4bce9a8",
+        "checkedAt": "2026-11-02T10:08:47.541972+00:00"
+      },
+      {
+        "sourceId": "source-79c7dec84d5c",
+        "checkedAt": "2026-11-02T10:08:23.942400+00:00"
+      },
+      {
+        "sourceId": "source-915355a557a4",
+        "checkedAt": "2026-11-02T10:08:17.865471+00:00"
+      },
+      {
+        "sourceId": "source-91d892746dd7",
+        "checkedAt": "2026-11-02T10:08:46.795371+00:00"
+      },
+      {
+        "sourceId": "source-96474dc3f22f",
+        "checkedAt": "2026-11-02T10:09:02+00:00"
+      },
+      {
+        "sourceId": "source-bb64ee2ea52f",
+        "checkedAt": "2026-11-02T10:11:08+00:00"
+      },
+      {
+        "sourceId": "source-ddc92035ca2e",
+        "checkedAt": "2026-11-02T10:09:35.070Z"
+      },
+      {
+        "sourceId": "source-fdac0eda3958",
+        "checkedAt": "2026-11-02T10:08:21.397203+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "icrr-kashiwa",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "Visible current English vacancy list; Japanese/other pages or linked ads not exhaustively scanned.",
+    "summary": "Current ICRR English careers page lists CTAO assistant professorship and two postdoctoral calls; explicit November 25 noon JST deadline corroborates Japanese PDF.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-434e629eb76f"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-434e629eb76f",
+        "checkedAt": "2026-11-02T10:16:05+00:00"
+      },
+      {
+        "sourceId": "source-dff991a4cf7e",
+        "checkedAt": "2026-11-02T10:15:10.392910+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "victoria",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One linked official Physics&Astronomy advertisement, not entire faculty directory. Landing page/current visible content only; linked archives and pagination not exhaustively inspected.",
+    "summary": "UVic official theoretical-HEP tenure-track Assistant Professor advert retains 4 January 2027 review start; existing catalog opportunity. Read UVic faculty/librarian directory; science links include a Physics Assistant Professor posting. Linked details require separate advertisement review.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-85254c1f991f",
+      "source-de37bf41e003"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-85254c1f991f",
+        "checkedAt": "2026-11-02T10:11:03.300954+00:00"
+      },
+      {
+        "sourceId": "source-de37bf41e003",
+        "checkedAt": "2026-11-02T10:08:23.725984+00:00"
+      },
+      {
+        "sourceId": "source-eb6330222098",
+        "checkedAt": "2026-11-02T10:08:35.498660+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-warsaw",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan. Landing page/current visible content only; linked archives and pagination not exhaustively inspected. One advertisement and its displayed metadata; no institution-wide directory scan.",
+    "summary": "Employer-submitted Warsaw theoretical-physics assistant-professor advertisement retains November 30, 2026 application date and links the official call PDF. Read returned academic-teacher API array of 2130 announcement metadata records. Numeric title/unit codes and linked PDFs prevent full faculty-field classification from metadata alone; relevant WF entries remain follow-up leads. Read all three pages of official Warsaw WF-1210-16/2026 PDF: two research/teaching assistant-professor positions, 30 November 2026 deadline, 1 October 2027 start, 33 months with possible unlimited prolongation. Read Warsaw university job-offers page including student/postdoc listings and other positions; physics faculty coverage requires separate academic-teacher portal. Not a complete faculty scan.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "4 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-0f194786ad6f",
+      "source-1632b9ad7c40",
+      "source-3e33db7223bb",
+      "source-786ae6bab197",
+      "source-a1eee8c8d78f",
+      "source-a4f9a327d06f",
+      "source-e22455fcbaea"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-0f194786ad6f",
+        "checkedAt": "2026-11-02T10:08:20.789631+00:00"
+      },
+      {
+        "sourceId": "source-1632b9ad7c40",
+        "checkedAt": "2026-11-02T10:08:13.433099+00:00"
+      },
+      {
+        "sourceId": "source-3e33db7223bb",
+        "checkedAt": "2026-11-02T10:10:25.158Z"
+      },
+      {
+        "sourceId": "source-786ae6bab197",
+        "checkedAt": "2026-11-02T10:08:33.073463+00:00"
+      },
+      {
+        "sourceId": "source-9432eefb7a96",
+        "checkedAt": "2026-11-02T10:08:46.020494+00:00"
+      },
+      {
+        "sourceId": "source-a1eee8c8d78f",
+        "checkedAt": "2026-11-02T10:08:22.219244+00:00"
+      },
+      {
+        "sourceId": "source-a4f9a327d06f",
+        "checkedAt": "2026-11-02T10:08:18.376164+00:00"
+      },
+      {
+        "sourceId": "source-ae909287852d",
+        "checkedAt": "2026-11-02T10:10:25.158Z"
+      },
+      {
+        "sourceId": "source-b2f4431695c7",
+        "checkedAt": "2026-11-02T10:08:35.419799+00:00"
+      },
+      {
+        "sourceId": "source-e22455fcbaea",
+        "checkedAt": "2026-11-02T10:08:27.714814+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "uw-bothell",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan.",
+    "summary": "UW Bothell physics assistant professor retains November 1, 2026 priority/full consideration and open-until-filled wording, anticipated September 16, 2027 start.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-9630338036da",
+      "source-a69fd7446a5e"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-8878aba24048",
+        "checkedAt": "2026-11-02T10:08:17.355942+00:00"
+      },
+      {
+        "sourceId": "source-a69fd7446a5e",
+        "checkedAt": "2026-11-02T10:08:25.925512+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "uw-milwaukee",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One current employer advertisement; not a complete institution scan.",
+    "summary": "Employer AAS ad confirms UW Milwaukee open-rank CGCA search, August 23, 2027 start; November 29 priority submission and November 30 initial review under continuous recruitment.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-e62ac87e5143",
+        "checkedAt": "2026-11-02T10:14:56+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "uib",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "Landing page/current visible content only; linked archives and pagination not exhaustively inspected.",
+    "summary": "UIB relativity group jobs page gives generic student/postdoc/external-fellowship hosting information. It supplies no new dated 2026–27 faculty call.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "10 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-079301940f76",
+      "source-0ce0dfc75113",
+      "source-10800726e37d",
+      "source-1c0c64698454",
+      "source-23f5d90044ea",
+      "source-46b1e783a2d4",
+      "source-7fd1071baf33",
+      "source-a9c90677a3a6",
+      "source-aa384d63a25d",
+      "source-ab72c72fbc91",
+      "source-fe1ebdbcaf1d"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "aei-ryc",
+        "checkedAt": "2026-11-02T10:08:12.843872+00:00"
+      },
+      {
+        "sourceId": "lisa-jobs",
+        "checkedAt": "2026-11-02T10:08:20.789354+00:00"
+      },
+      {
+        "sourceId": "source-46b1e783a2d4",
+        "checkedAt": "2026-11-02T10:08:34.636316+00:00"
+      },
+      {
+        "sourceId": "source-652e729ec6eb",
+        "checkedAt": "2026-11-02T10:08:38.319341+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "universite-laval",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All 25 displayed professor-list rows including bilingual duplicates; unfiltered single-page list without pagination.",
+    "summary": "Laval single professor list includes English and French versions of astrophysics offer 17982 through December 31, 2026; other displayed entries are outside the catalog scope.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies."
+    ],
+    "directorySourceIds": [
+      "source-78ebcc015d13",
+      "source-c751a5b2c81e"
+    ],
+    "requiredSourceIds": [
+      "source-c751a5b2c81e"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-78ebcc015d13",
+        "checkedAt": "2026-11-02T10:08:30.773371+00:00"
+      },
+      {
+        "sourceId": "source-a46de1f149ca",
+        "checkedAt": "2026-11-02T10:09:16+00:00"
+      },
+      {
+        "sourceId": "source-c751a5b2c81e",
+        "checkedAt": "2026-11-02T10:08:40.710140+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "vanderbilt",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One requested advertisement; recruitment directory not scanned. One advertisement or its public response; no institution-wide vacancy scan. One advertisement and its displayed metadata; no institution-wide directory scan.",
+    "summary": "Vanderbilt high-energy nuclear theory advertisement retains October 31, 2026 full-consideration date, November 1 review start, and until-filled policy. Vanderbilt quantum computing/simulation tenure-track theory search retains November 30, 2026 full consideration and December 1 review start, continuing until filled. Vanderbilt non-tenure-track Senior Lecturer advertisement retains review beginning 15 February 2027, until filled; August 2027 start.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "4 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-0ac2af8dbf23",
+      "source-1f5a44daae91",
+      "source-341497733aff",
+      "source-4909419cea97",
+      "source-4b3b4bc7495f",
+      "source-84d900fb89a3",
+      "source-afc6d7a9f201",
+      "source-f90ed5afaf23"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-0ff3b4d7bf37",
+        "checkedAt": "2026-11-02T10:08:12.844380+00:00"
+      },
+      {
+        "sourceId": "source-341497733aff",
+        "checkedAt": "2026-11-02T10:08:27.825152+00:00"
+      },
+      {
+        "sourceId": "source-4909419cea97",
+        "checkedAt": "2026-11-02T10:08:22.605409+00:00"
+      },
+      {
+        "sourceId": "source-4b3b4bc7495f",
+        "checkedAt": "2026-11-02T10:08:15.066758+00:00"
+      },
+      {
+        "sourceId": "source-afc6d7a9f201",
+        "checkedAt": "2026-11-02T10:08:51.704264+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "villanova",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "All seven results for exact query=physics, with no pagination; excludes unrelated astronomy queries and department filters. Keyword Astrophysics, all 13 returned rows on one page; counts agree. Faculty, old-cycle, student, adjunct-pool and postdoctoral rows distinguished.",
+    "summary": "Villanova physics keyword search displays all seven results. One current tenure-track Physics search is relevant; other rows are adjunct, student, technician or postdoctoral posts. Astrophysics search returned all 13 rows: current-cycle astrophysics and broad-physics tenure-track searches, older faculty/pool entries, and postdoctoral/student roles. No additional current-cycle faculty lead identified in these rows.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete."
+    ],
+    "directorySourceIds": [
+      "source-1bb3b34b7872",
+      "source-3d2993ad1d2c",
+      "source-5f48455ab933",
+      "source-606cd3631958",
+      "source-8c1d953c7855",
+      "source-cbfe48ced7b0",
+      "source-f34e6544d485"
+    ],
+    "requiredSourceIds": [
+      "source-3d2993ad1d2c",
+      "source-606cd3631958"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-3d2993ad1d2c",
+        "checkedAt": "2026-11-02T10:08:49.742092+00:00"
+      },
+      {
+        "sourceId": "source-5f48455ab933",
+        "checkedAt": "2026-11-02T10:08:23.159401+00:00"
+      },
+      {
+        "sourceId": "source-606cd3631958",
+        "checkedAt": "2026-11-02T10:08:39.498192+00:00"
+      },
+      {
+        "sourceId": "source-cbfe48ced7b0",
+        "checkedAt": "2026-11-02T10:08:19.253526+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "virginia-tech",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "One advertisement or its public response; no institution-wide vacancy scan.",
+    "summary": "Virginia Tech theoretical neutrino search retains November 9, 2026 full consideration/review start, open until filled, expected August 10, 2027 start.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-41aa5e1068f7",
+      "source-4578744f4933",
+      "source-f48a04c8ec55"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-f48a04c8ec55",
+        "checkedAt": "2026-11-02T10:08:28.571163+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "william-and-mary",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "William&Mary Physics AJO department listing explicitly states 1 position listed; read sole linked ad 33132. No pagination.",
+    "summary": "Re-read directory after linked relevant advertisement review: Read entire William & Mary AJO department list: one position 33132. Linked advert confirms astroparticle/cosmology faculty full consideration 2 December 2026; later applications considered if needed.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "3 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "2 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete."
+    ],
+    "directorySourceIds": [
+      "source-7a4c1547290b",
+      "source-7b517efd0c59",
+      "source-7bb80ee0b71f",
+      "source-88275453dab0",
+      "source-d09903e02575",
+      "source-e204f82ac576",
+      "source-f8e1657b9b86"
+    ],
+    "requiredSourceIds": [
+      "source-7bb80ee0b71f"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-7b517efd0c59",
+        "checkedAt": "2026-11-02T10:08:50.955036+00:00"
+      },
+      {
+        "sourceId": "source-7bb80ee0b71f",
+        "checkedAt": "2026-11-02T10:16:42.055684+00:00"
+      },
+      {
+        "sourceId": "source-7c18bfa63a51",
+        "checkedAt": "2026-11-02T10:11:49+00:00"
+      },
+      {
+        "sourceId": "source-88275453dab0",
+        "checkedAt": "2026-11-02T10:08:38.419352+00:00"
+      },
+      {
+        "sourceId": "source-e204f82ac576",
+        "checkedAt": "2026-11-02T10:11:03.711898+00:00"
+      },
+      {
+        "sourceId": "source-f8e1657b9b86",
+        "checkedAt": "2026-11-02T10:10:25.158Z"
+      }
+    ]
+  },
+  {
+    "institutionId": "yantai-university",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "partial",
+    "coverage": "Landing page/current visible content only; linked archives and pagination not exhaustively inspected. One requested advertisement; recruitment directory not scanned.",
+    "summary": "Yantai HR landing page shows dated recruitment headlines and links to full recruitment section. Current list is partial; no new HEP-cycle vacancy established. Yantai junior particle/nuclear theory description remains rolling until filled. March 2026 submission and one-year metadata date do not resolve explicit application-cycle ambiguity; retain needs-review.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "8 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete.",
+      "No fully paginated current vacancy list established completion during this sweep."
+    ],
+    "directorySourceIds": [
+      "source-111b967692ad",
+      "source-2230db148b7e",
+      "source-2c519fd9e6b5",
+      "source-2ed4d1c5d8be",
+      "source-36aba8743bc2",
+      "source-4715586fb91c",
+      "source-7c6caec232f8",
+      "source-8422205415cb",
+      "source-86d7504ea09f",
+      "source-a0164923be2d",
+      "source-f88ceedaa55a"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2ed4d1c5d8be",
+        "checkedAt": "2026-11-02T10:08:14.010135+00:00"
+      },
+      {
+        "sourceId": "source-36aba8743bc2",
+        "checkedAt": "2026-11-02T10:08:25.363061+00:00"
+      },
+      {
+        "sourceId": "source-4715586fb91c",
+        "checkedAt": "2026-11-02T10:08:28.637902+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "epfl",
+    "checkedAt": "2026-11-02T10:22:00.687010+00:00",
+    "outcome": "complete",
+    "coverage": "Open Faculty Positions: all 12 listed entries across all school sections on the single page. No pagination. Unlisted/removed ads not treated as closed.",
+    "summary": "Read all 12 EPFL open-faculty entries grouped by school. No current particle/cosmology call is listed; no closure inferred for previously advertised experimental-particle search.",
+    "limitations": [
+      "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
+      "2 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained.",
+      "1 other registered directory sources were not freshly checked; broader institutional coverage remains incomplete."
+    ],
+    "directorySourceIds": [
+      "source-45d0aa1f7c14",
+      "source-6de62612a816",
+      "source-d6bcda16a105"
+    ],
+    "requiredSourceIds": [
+      "source-45d0aa1f7c14"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-45d0aa1f7c14",
+        "checkedAt": "2026-11-02T10:08:34.922077+00:00"
+      },
+      {
+        "sourceId": "source-6027019f7ea0",
+        "checkedAt": "2026-11-02T10:08:29.693797+00:00"
+      },
+      {
+        "sourceId": "source-d6bcda16a105",
+        "checkedAt": "2026-11-02T10:08:40.183635+00:00"
+      },
+      {
+        "sourceId": "source-fde39c45365f",
+        "checkedAt": "2026-11-02T10:10:25.158Z"
+      }
+    ]
   }
 ]

@@ -193,23 +193,24 @@
     "deadlines": [
       {
         "date": "2026-12-02",
-        "time": null,
-        "timezone": null,
-        "kind": "listed",
-        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33167",
-        "description": "Application date displayed by AJO; accessible primary text does not specify hard versus full-consideration deadline."
+        "time": "23:59",
+        "timezone": "America/Chicago",
+        "kind": "priority",
+        "sourceUrl": "https://aas.org/jobregister/ad/6b5e3745",
+        "description": "Full consideration for all application materials received by 11:59 p.m. CST; not an explicit hard closing date."
       }
     ],
     "openUntilFilled": null,
     "verification": "verified",
-    "checkedOn": "2026-10-28",
+    "checkedOn": "2026-11-02",
     "sourceUrls": [
       "https://academicjobsonline.org/ajo/jobs/33167",
-      "https://faculty.utexas.edu/career/193143"
+      "https://faculty.utexas.edu/career/193143",
+      "https://aas.org/jobregister/ad/6b5e3745"
     ],
     "summary": "Tenure-track cosmology search within the Texas Center for Cosmology and Astroparticle Physics, with connections to high-energy theory and gravitational physics.",
     "notes": [
-      "AJO and the official faculty-careers index agree on December 2. The detailed UT recruitment page could not be read in this pass, so the deadline has not been treated as a hard closure."
+      "Employer-authored AAS announcement clarifies the prior AJO listed date as full consideration, with explicit CST submission time."
     ],
     "discovery": "daily-search-chat",
     "institutionSources": [

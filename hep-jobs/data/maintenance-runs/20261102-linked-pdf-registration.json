@@ -1,0 +1,21 @@
+{
+  "runId": "hep-jobs-20261102-linked-pdf-registration",
+  "startedAt": "2026-11-02T10:11:03.301032+00:00",
+  "finishedAt": "2026-11-02T10:22:23.227409+00:00",
+  "checks": [
+    {
+      "sourceId": "source-ea16f0bcea00",
+      "checkedAt": "2026-11-02T10:11:03.301032+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.ubiobio.cl/concursos/2027-1/02_Depto_Cs_Basicas_Fisica.pdf"
+      ],
+      "summary": "Read all 3 pages of official UBB02-2027 physics PDF: particle fields/cosmology/gravity,3 November 2026 hard deadline and 8 March 2027 start; full-time contract with renewal review after 2 years. The same actual PDF read was initially associated with its parent directory; this records it against the newly registered PDF source as well.",
+      "coverage": "One three-page official physics competition PDF; not a separate directory scan.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:11:03.301032+00:00"
+    }
+  ],
+  "summary": "Associate a previously recorded actual linked-PDF read with its newly registered exact source URL. No invented new request time."
+}

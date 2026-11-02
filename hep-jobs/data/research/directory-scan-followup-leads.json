@@ -11,7 +11,14 @@
     "evidence": "Official faculty board lists this distinct senior Physics search with October 14, 2026 posting date. Interfolio returned no readable detail and AAS returned HTTP 403.",
     "unresolved": [
       "Full deadline and cycle/start-date details; employer ad body required before verified inclusion."
-    ]
+    ],
+    "resolution": {
+      "checkedOn": "2026-11-02",
+      "outcome": "verified-and-added",
+      "jobId": "cmu-mcwilliams-director-2027",
+      "evidenceUrl": "https://aas.org/jobregister/ad/a5ed92fc",
+      "summary": "Employer AAS advertisement recovered; rolling review begins November 8, 2026. Previous failed reads retained in ledger."
+    }
   },
   {
     "institutionId": "university-of-kentucky",

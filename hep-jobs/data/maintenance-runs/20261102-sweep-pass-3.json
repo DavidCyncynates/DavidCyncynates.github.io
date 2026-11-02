@@ -1,0 +1,85 @@
+{
+  "runId": "hep-jobs-20261102-sweep-pass-3",
+  "startedAt": "2026-11-02T10:08:26.361006+00:00",
+  "finishedAt": "2026-11-02T10:21:02.746682+00:00",
+  "checks": [
+    {
+      "sourceId": "source-11f2528e107c",
+      "checkedAt": "2026-11-02T10:08:26.361006+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32603"
+      ],
+      "summary": "Chicago theory assistant professor advertisement retains November 1, 2026 review start and until-filled policy.",
+      "coverage": "One requested advertisement; recruitment directory not scanned.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual public HTTP request start in UTC; response saved and assessed during this run.",
+      "requestCompletedAt": "2026-11-02T10:08:26.929483+00:00",
+      "retrievalMethod": "public-http"
+    },
+    {
+      "sourceId": "source-ca1372f393d9",
+      "checkedAt": "2026-11-02T10:11:04.102792+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=204910"
+      ],
+      "summary": "Linked Binghamton HEP/cosmology detail returned HTTP403 and no advertisement body; prior needs-review facts retained.",
+      "coverage": "No usable vacancy text obtained; prior facts preserved.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:11:04.102792+00:00"
+    },
+    {
+      "sourceId": "source-29d281c2334d",
+      "checkedAt": "2026-11-02T10:13:20+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.ictp.it/home/work-ictp"
+      ],
+      "summary": "Completed ICTP single Work at ICTP vacancy list. Current relevant HECAP entry is September 2025; no newly advertised eligible 2026–2027 HEP faculty-equivalent search identified.",
+      "coverage": "All international and local recruitment rows on the single Work at ICTP page, including final roster section; no pagination. Bounded to displayed current/under-evaluation calls.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool",
+      "paginationComplete": true
+    },
+    {
+      "sourceId": "source-dff991a4cf7e",
+      "checkedAt": "2026-11-02T10:15:10.392910+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/ICRR2026-08_jp.pdf"
+      ],
+      "summary": "Direct HTTP 200 recovered employer PDF; all pages extracted and inspected: five-year assistant-professor CTAO call at Kashiwa, November 25 noon deadline.",
+      "scopeType": "advertisement",
+      "coverage": "One current employer advertisement; not a complete institution scan."
+    },
+    {
+      "sourceId": "source-b2f146ffa109",
+      "checkedAt": "2026-11-02T10:15:10.393370+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260914.pdf"
+      ],
+      "summary": "Direct HTTP 200 recovered employer PDF; all pages extracted and deadline lines inspected. Kyoto first page also rendered for Japanese calendar and JST deadline verification.",
+      "scopeType": "advertisement",
+      "coverage": "One current employer advertisement; not a complete institution scan."
+    },
+    {
+      "sourceId": "source-e05aa6cc6af2",
+      "checkedAt": "2026-11-02T10:16:36.902159+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.ubiobio.cl/concursos/"
+      ],
+      "summary": "Re-read directory after linked relevant advertisement review: Reviewed all eleven 2027 academic competitions: relevant call 02-2027 is full-time physics at Chillán, due 3 November 2026; official PDF confirms particle fields/cosmology/gravity and 8 March 2027 start.",
+      "coverage": "Concursos Académicos 2027: all 11 numbered competitions 01–11 plus linked physics 02-2027 PDF; single complete list, no pagination.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:16:36.902159+00:00",
+      "paginationComplete": true
+    }
+  ],
+  "summary": "November 2 weekly refresh: chronological source-attempt pass 3. This bounded partial sweep covers all planned weekly sources, a country-interleaved rotation, retries and experimental/international follow-up; it does not establish exhaustive global coverage."
+}

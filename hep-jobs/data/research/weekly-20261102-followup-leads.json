@@ -1,0 +1,113 @@
+[
+  {
+    "checkedOn": "2026-11-02",
+    "title": "Assistant Professor, Physics, Tenure-Track — University of Cincinnati Blue Ash",
+    "sourceUrl": "https://inspirehep.net/api/jobs/3213959",
+    "kind": "formal-vacancy",
+    "verification": "needs-review",
+    "scope": "broad-physics",
+    "facts": "Teaching-focused tenure-track physics; anticipated15 August2027 start; body says review10 January2027 until filled, while metadata date12 November2026 appears unrelated. No HEP-specific research requirement. Campus coordinates and institutional scope need review before plotting."
+  },
+  {
+    "checkedOn": "2026-11-02",
+    "title": "Director of High Energy Physics Division — Argonne National Laboratory",
+    "sourceUrl": "https://inspirehep.net/api/jobs/3174989",
+    "employerUrl": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/High-Energy-Physics-Division-Director_422916",
+    "verification": "needs-review",
+    "facts": "National-laboratory division director advertisement; metadata deadline31 December2026, but body supplies no date. Faculty/permanent-scientific appointment and cycle evidence require further review."
+  },
+  {
+    "checkedOn": "2026-11-02",
+    "title": "Warsaw physics announcement metadata WF-1210-21/2026 and WF-1210-23/2026",
+    "sourceUrl": "https://konkursydlanauczycieli.uw.edu.pl/api/document/infotype/job_offer_announcement",
+    "verification": "needs-review",
+    "facts": "API metadata documents4246/4247, unit5, start29 October2026 and end30 November2026; numerical position codes and linked PDF identifiers13294/13297 need decoding and review. Do not infer faculty field or promote from metadata alone."
+  },
+  {
+    "checkedOn": "2026-11-02",
+    "type": "new-lead",
+    "suggestedJobId": "pittsburgh-lincc-research-assistant-professor-2026",
+    "institutionId": "university-of-pittsburgh",
+    "sourceUrl": "https://www.physicsandastronomy.pitt.edu/sites/default/files/image-gallery/RAP_Newman_MWV_2026.pdf",
+    "checkedAt": "2026-11-02T10:11:15.473796+00:00",
+    "title": "Project Scientist / Research Assistant Professor — LINCC Frameworks",
+    "verification": "needs-review",
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "fields": [
+      "astrophysics",
+      "astronomical surveys",
+      "computational astrophysics"
+    ],
+    "rank": [
+      "Research Assistant Professor"
+    ],
+    "tenure": "non-tenure-stream",
+    "startDate": null,
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer PDF explicitly gives December 15, 2026 full-consideration milestone.",
+    "deadline": {
+      "date": "2026-12-15",
+      "kind": "priority",
+      "time": null,
+      "timezone": null
+    },
+    "openUntilFilled": null,
+    "notes": [
+      "Applications continue on a rolling basis after the full-consideration date; the ad does not use the phrase open until filled.",
+      "Full-time research faculty rank explicitly stated; no appointment start date stated."
+    ],
+    "excerpts": [
+      "will hold the rank of non-tenure-stream Research Assistant Professor",
+      "by 15 December, 2026 to ensure full consideration; applications will continue to be considered on a rolling basis."
+    ],
+    "advertisementFactsVerified": true,
+    "recommendation": "Retain outside default map as an appointment-scope-review lead. The employer explicitly establishes non-tenure-stream Research Assistant Professor rank, so this is not merely an ordinary postdoc or inferred faculty equivalent. Contract duration, renewal, continuation and permanent status are not stated. Apply the same unresolved research-faculty inclusion policy as Kentucky FE05064; do not silently treat it as a permanent/continuing faculty vacancy.",
+    "unresolved": [
+      "Appointment term, renewal and continuing/permanent status unspecified.",
+      "Consistent inclusion policy for explicitly non-tenure research faculty remains unresolved in existing Kentucky FE05064 lead."
+    ]
+  },
+  {
+    "checkedOn": "2026-11-02",
+    "type": "scope-review-lead",
+    "sourceId": "source-da1b6e0e084c",
+    "sourceUrl": "https://careers.cern/jobs/th-sp-2026-68-ld/",
+    "checkedAt": "2026-11-02T10:08:34.626758+00:00",
+    "title": "Theoretical Physicist talent pool — TH-SP-2026-68-LD",
+    "recommendation": "Do not promote as guaranteed faculty vacancy. If retained, classify as a talent-pool expression of interest needing faculty-scope review.",
+    "facts": {
+      "deadline": "2026-12-31",
+      "time": "23:59",
+      "timezone": "Europe/Zurich",
+      "contractMonths": 60,
+      "startDate": null
+    },
+    "excerpts": [
+      "talent pool for Limited Duration research positions",
+      "future hiring opportunities based on organisational needs",
+      "Possibility to extend your contract up to 8 years + eligibility for indefinite contract tenure."
+    ]
+  },
+  {
+    "title": "Additional Kyoto nuclear-theory and JAXA faculty calls",
+    "sourceUrl": "https://www.jps.or.jp/keijiban/jinji.php",
+    "checkedOn": "2026-11-02",
+    "verification": "needs-review",
+    "reason": "Listed on Japanese-language JPS board; individual advertisements, deadline semantics and scope remain to be reviewed."
+  },
+  {
+    "title": "AIP tenure-track scientist in dwarf galaxies",
+    "sourceUrl": "https://www.aip.de/en/career/jobs/?set_language=en",
+    "checkedOn": "2026-11-02",
+    "verification": "needs-review",
+    "reason": "Current employer board lists December 15, 2026 deadline; faculty-equivalent rank and scope need individual-ad assessment."
+  },
+  {
+    "title": "Koç University experimental physics faculty",
+    "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32968",
+    "checkedOn": "2026-11-02",
+    "verification": "needs-review",
+    "reason": "Discovered on AJO physics index; current cycle and HEP scope not yet verified."
+  }
+]

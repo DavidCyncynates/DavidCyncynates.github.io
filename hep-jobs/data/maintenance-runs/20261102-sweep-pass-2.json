@@ -1,0 +1,1294 @@
+{
+  "runId": "hep-jobs-20261102-sweep-pass-2",
+  "startedAt": "2026-11-02T10:08:05.207143+00:00",
+  "finishedAt": "2026-11-02T10:21:02.746682+00:00",
+  "checks": [
+    {
+      "sourceId": "source-11f2528e107c",
+      "checkedAt": "2026-11-02T10:08:05.207143+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32603"
+      ],
+      "summary": "Connectivity probe fetched only the first 100 bytes of AJO HTML. No substantive advertisement assessed; later full read recorded separately.",
+      "coverage": "Connectivity probe only; no vacancy evidence.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual HTTP request start recorded by diagnostic command."
+    },
+    {
+      "sourceId": "source-73757e2bbd64",
+      "checkedAt": "2026-11-02T10:08:16.618593+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3190489"
+      ],
+      "summary": "CCSP foreign-faculty call retains dated 2026 advertisement and 31 December 2026 application deadline.",
+      "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:08:16.618593+00:00"
+    },
+    {
+      "sourceId": "source-2a9f96ccebf3",
+      "checkedAt": "2026-11-02T10:08:19.207247+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3198864"
+      ],
+      "summary": "Georgia Tech AI/physics employer record retains 15 November 2026 full-consideration date, with search continuing until filled.",
+      "coverage": "One advertisement and its displayed metadata; no institution-wide directory scan.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:08:19.207247+00:00"
+    },
+    {
+      "sourceId": "source-0f194786ad6f",
+      "checkedAt": "2026-11-02T10:08:20.789631+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3208120"
+      ],
+      "summary": "Employer-submitted Warsaw theoretical-physics assistant-professor advertisement retains November 30, 2026 application date and links the official call PDF.",
+      "coverage": "One advertisement or its public response; no institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:08:21.027246+00:00",
+      "httpStatus": 200
+    },
+    {
+      "sourceId": "source-5b24ba53b5ef",
+      "checkedAt": "2026-11-02T10:08:23.153161+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3219186"
+      ],
+      "summary": "NPI director ad retains December 4, 2026 at 15:00, timezone unstated, for June 1, 2027 to May 31, 2032. Scope remains a five-year director appointment rather than guaranteed faculty tenure.",
+      "coverage": "One advertisement or its public response; no institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:08:23.370987+00:00",
+      "httpStatus": 200
+    },
+    {
+      "sourceId": "source-8afad470e8a7",
+      "checkedAt": "2026-11-02T10:08:24.638514+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3215688"
+      ],
+      "summary": "Lehigh extragalactic astrophysics assistant-professor call retains December 1, 2026 full consideration/review start and open-until-filled wording, July 1, 2027 expected start.",
+      "coverage": "One advertisement or its public response; no institution-wide vacancy scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:08:24.842108+00:00",
+      "httpStatus": 200
+    },
+    {
+      "sourceId": "source-4715586fb91c",
+      "checkedAt": "2026-11-02T10:08:28.637902+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3129038"
+      ],
+      "summary": "Yantai junior particle/nuclear theory description remains rolling until filled. March 2026 submission and one-year metadata date do not resolve explicit application-cycle ambiguity; retain needs-review.",
+      "coverage": "One requested advertisement; recruitment directory not scanned.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual public HTTP request start in UTC; response saved and assessed during this run.",
+      "requestCompletedAt": "2026-11-02T10:08:28.799362+00:00",
+      "retrievalMethod": "public-http"
+    },
+    {
+      "sourceId": "source-a0ab1a577282",
+      "checkedAt": "2026-11-02T10:08:33.431421+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3208143"
+      ],
+      "summary": "Geneva collider faculty advertisement retains December 17, 2026 hard deadline and August 1, 2027 or agreed start; detector hardware is the central remit.",
+      "coverage": "One requested advertisement; recruitment directory not scanned.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual public HTTP request start in UTC; response saved and assessed during this run.",
+      "requestCompletedAt": "2026-11-02T10:08:33.613374+00:00",
+      "retrievalMethod": "public-http"
+    },
+    {
+      "sourceId": "source-cf8acf1c8536",
+      "checkedAt": "2026-11-02T10:08:34.439896+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3143299"
+      ],
+      "summary": "IHEP silicon-detector talent-program recruitment is readable; age reference is January 1, 2026 and no application-stage cutoff is stated. Existing cycle ambiguity remains.",
+      "coverage": "One requested advertisement; recruitment directory not scanned.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual public HTTP request start in UTC; response saved and assessed during this run.",
+      "requestCompletedAt": "2026-11-02T10:08:34.643146+00:00",
+      "retrievalMethod": "public-http"
+    },
+    {
+      "sourceId": "source-7e8fd4f50f65",
+      "checkedAt": "2026-11-02T10:08:37.680418+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3197131"
+      ],
+      "summary": "Copenhagen theory associate-professor description retains first-stage October 1, 2026 at 23:59 GMT+2 cutoff; invited full applications are a separate later stage.",
+      "coverage": "One requested advertisement; recruitment directory not scanned.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual public HTTP request start in UTC; response saved and assessed during this run.",
+      "requestCompletedAt": "2026-11-02T10:08:37.865490+00:00",
+      "retrievalMethod": "public-http"
+    },
+    {
+      "sourceId": "source-de42aabae805",
+      "checkedAt": "2026-11-02T10:08:37.866484+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3212760"
+      ],
+      "summary": "SRM-AP HEP assistant-professor employer-submitted description still states October 25, 2026 deadline. Closed metadata is not separate employer closure evidence.",
+      "coverage": "One requested advertisement; recruitment directory not scanned.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual public HTTP request start in UTC; response saved and assessed during this run.",
+      "requestCompletedAt": "2026-11-02T10:08:38.029525+00:00",
+      "retrievalMethod": "public-http"
+    },
+    {
+      "sourceId": "source-5cbc7c4c19fd",
+      "checkedAt": "2026-11-02T10:09:02+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://icc.ub.edu/node/1715527"
+      ],
+      "summary": "Web fallback also timed out for ICCUB EOI page.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-96474dc3f22f",
+      "checkedAt": "2026-11-02T10:09:02+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/210c5bdf"
+      ],
+      "summary": "AAS UT Austin employer advertisement read successfully. November 10, 2026 assures full consideration; anticipated August 2027 start. Existing facts unchanged.",
+      "coverage": "One advertisement read via web fallback; institution directory not scanned.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-ca1372f393d9",
+      "checkedAt": "2026-11-02T10:09:02+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=204910"
+      ],
+      "summary": "Web fallback could not access Binghamton advertisement.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-fbcc287218eb",
+      "checkedAt": "2026-11-02T10:09:02+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/193844"
+      ],
+      "summary": "Web fallback returns Interfolio page with zero readable lines.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-14809006faca",
+      "checkedAt": "2026-11-02T10:09:11.944Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/189792"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-1f81a82e3778",
+      "checkedAt": "2026-11-02T10:09:11.944Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/ebe9db3c"
+      ],
+      "summary": "AAS ad read successfully: CMU astrophysics/AI-statistics assistant professor; rolling review starts November 8, 2026, letters not required initially. Existing deadline semantics unchanged.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-2c8a7152bad0",
+      "checkedAt": "2026-11-02T10:09:11.944Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-Associate-Professor-of-Physics--Tenure-Tenure-Track-_REQ_0000082843-1"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-8fa790b8392b",
+      "checkedAt": "2026-11-02T10:09:11.944Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/33a81251"
+      ],
+      "summary": "AAS ad read successfully: Pittsburgh astrophysics assistant professor, December 1, 2026 full consideration with applications accepted throughout search; August 15, 2027 or later start.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-a0684fd9e695",
+      "checkedAt": "2026-11-02T10:09:11.944Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-c09d962a1c87",
+      "checkedAt": "2026-11-02T10:09:11.944Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/188444"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-a46de1f149ca",
+      "checkedAt": "2026-11-02T10:09:16+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/d5c0665c"
+      ],
+      "summary": "AAS Laval employer advertisement read successfully; retains December 31, 2026 application date and September 2026 publication.",
+      "coverage": "One advertisement read via web fallback; institution directory not scanned.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-c344b1bc01f9",
+      "checkedAt": "2026-11-02T10:09:16+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/5b64bbe4"
+      ],
+      "summary": "AAS Tennessee Tech advertisement read successfully; December 15, 2026 is full consideration and vacancy remains open until filled.",
+      "coverage": "One advertisement read via web fallback; institution directory not scanned.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-29d281c2334d",
+      "checkedAt": "2026-11-02T10:09:16+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.ictp.it/home/work-ictp"
+      ],
+      "summary": "Web fallback retrieves ICTP work list. Displayed relevant HECAP senior research entry is a September 2025 competition; list review continued separately.",
+      "coverage": "Read international and most local recruitment rows; final local-list section not yet assessed.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-e53d348a56af",
+      "checkedAt": "2026-11-02T10:09:16+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://nbia.nbi.ku.dk/"
+      ],
+      "summary": "Web fallback also timed out for NBIA homepage.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-4d42cdc1ff11",
+      "checkedAt": "2026-11-02T10:09:28.308831+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3208715",
+        "https://inspirehep.net/api/jobs/3208715"
+      ],
+      "summary": "Official API confirms IHEP tenure-track research associate professor positions, January 15, 2027 deadline, 2027 commencement; existing facts retained.",
+      "coverage": "One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:09:28.517300+00:00"
+    },
+    {
+      "sourceId": "source-879715393ec6",
+      "checkedAt": "2026-11-02T10:09:28.308957+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3198780",
+        "https://inspirehep.net/api/jobs/3198780"
+      ],
+      "summary": "Official API confirms Bio-Bio particle/gravity/cosmology tenure-track call: all materials due November 3, 2026, March 2027 start; unchanged.",
+      "coverage": "One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:09:28.487679+00:00"
+    },
+    {
+      "sourceId": "source-99b0fe30d16f",
+      "checkedAt": "2026-11-02T10:09:28.309055+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3210713",
+        "https://inspirehep.net/api/jobs/3210713"
+      ],
+      "summary": "ICCUB ICREA 2027 host EOI retains November 1, 2026 full consideration. INSPIRE metadata now says closed, but the announcement body does not establish a hard host cutoff; no closure inferred from that flag.",
+      "coverage": "One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:09:28.529946+00:00"
+    },
+    {
+      "sourceId": "source-e94d0521847e",
+      "checkedAt": "2026-11-02T10:09:28.309185+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3215354",
+        "https://inspirehep.net/api/jobs/3215354"
+      ],
+      "summary": "Official API confirms Imperial SHiP experimental particle assistant/associate professor; apply by November 25, 2026, unchanged.",
+      "coverage": "One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:09:28.517254+00:00"
+    },
+    {
+      "sourceId": "source-6b5fcece38d9",
+      "checkedAt": "2026-11-02T10:09:28.489258+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3207702",
+        "https://inspirehep.net/api/jobs/3207702"
+      ],
+      "summary": "Official API confirms IGFAE director call and October 15, 2026 date; closed metadata alone not used as closure, separately corroborated by official employer call.",
+      "coverage": "One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:09:28.684223+00:00"
+    },
+    {
+      "sourceId": "source-e59e794b61a5",
+      "checkedAt": "2026-11-02T10:09:28.518525+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3127451",
+        "https://inspirehep.net/api/jobs/3127451"
+      ],
+      "summary": "IIT Madras INSPIRE record remains experimental particle/nuclear assistant professor. Metadata October 21 conflicts with the separately read employer portal October 15 closure; preserve employer closure.",
+      "coverage": "One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:09:28.719972+00:00"
+    },
+    {
+      "sourceId": "source-1728ff33ac4d",
+      "checkedAt": "2026-11-02T10:09:28.519086+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3172216",
+        "https://inspirehep.net/api/jobs/3172216"
+      ],
+      "summary": "Official API confirms Bonn W3 accelerator professorship and September 30, 2026 date; closed metadata alone not used as explicit closure.",
+      "coverage": "One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:09:28.684280+00:00"
+    },
+    {
+      "sourceId": "source-4abfc7034cdc",
+      "checkedAt": "2026-11-02T10:09:28.531179+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3186998",
+        "https://inspirehep.net/api/jobs/3186998"
+      ],
+      "summary": "Official API retains Imperial gravitational-wave closing September 30, 2026 at 23:59 BST and appointment after January 1, 2027; no new extension observed.",
+      "coverage": "One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:09:28.688969+00:00"
+    },
+    {
+      "sourceId": "source-f0cfe82487f5",
+      "checkedAt": "2026-11-02T10:09:28.686509+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs/3183025",
+        "https://inspirehep.net/api/jobs/3183025"
+      ],
+      "summary": "Official API retains CNRS L2IT gravitational-wave chair description and September 2, 2026 metadata date; separately established employer time preserved, metadata closed flag alone not used as closure.",
+      "coverage": "One employer-submitted advertisement read via official INSPIRE API after frontend shell; no recruitment-directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:09:28.848671+00:00"
+    },
+    {
+      "sourceId": "source-a406a694e409",
+      "checkedAt": "2026-11-02T10:09:35.070Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.iopb.res.in/wp-content/uploads/2026/09/Advertisement-for-Faculty-Position-at-IOP.pdf.pdf"
+      ],
+      "summary": "Web retrieval confirmed three-page scanned IOP PDF; all pages were rendered locally from the successful direct fetch and visually read, corroborating November 14, 2026 deadline.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-ac612f46fb18",
+      "checkedAt": "2026-11-02T10:09:35.070Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobs.tntech.edu/"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-ddc92035ca2e",
+      "checkedAt": "2026-11-02T10:09:35.070Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://faculty.utexas.edu/career/193143"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-e16f435343ed",
+      "checkedAt": "2026-11-02T10:09:35.070Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/193146"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-7351354ac384",
+      "checkedAt": "2026-11-02T10:09:35.070Z",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.jmu.edu/physics/index.shtml"
+      ],
+      "summary": "Web reader recovered JMU physics/astronomy overview, showing department/program information without a vacancy list. The reader labels its crawl last week.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "department-page",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-ad10676e71e3",
+      "checkedAt": "2026-11-02T10:09:35.070Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://employment.ku.dk/faculty/"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-1ef98d66d22a",
+      "checkedAt": "2026-11-02T10:09:40+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/4b7a9ca7"
+      ],
+      "summary": "AAS employer ad readable on retry: Florida astronomical instrumentation Assistant Professor; review 11 December 2026 until filled; posted 20 October 2026. Existing facts unchanged.",
+      "coverage": "One source URL retried via web reader; no wider directory scan.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:40+00:00"
+    },
+    {
+      "sourceId": "source-5cfd36028bdc",
+      "checkedAt": "2026-11-02T10:09:40+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/2d1b76f2"
+      ],
+      "summary": "AAS employer ad readable on retry: UT Austin astronomical instrumentation open-rank search; review 16 November 2026 until filled, start as early August 2027. Existing facts unchanged.",
+      "coverage": "One source URL retried via web reader; no wider directory scan.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:40+00:00"
+    },
+    {
+      "sourceId": "source-da3f7d1a5ab3",
+      "checkedAt": "2026-11-02T10:09:40+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/57dd4cbb"
+      ],
+      "summary": "AAS employer ad readable: Ohio State astronomy faculty, Fall 2027 start; header lists 16 November 2026 deadline. Existing record preserved.",
+      "coverage": "One source URL retried via web reader; no wider directory scan.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:40+00:00"
+    },
+    {
+      "sourceId": "source-f3f2af2d0966",
+      "checkedAt": "2026-11-02T10:09:40+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/8852332e"
+      ],
+      "summary": "Web-reader retry also returned 403 Forbidden; no fresh Chicago advertisement content obtained.",
+      "coverage": "One source URL retried via web reader; no wider directory scan.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:40+00:00"
+    },
+    {
+      "sourceId": "source-c126bd8cca0f",
+      "checkedAt": "2026-11-02T10:09:40+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobportal.ku.dk/videnskabelige-stillinger/?show=167785"
+      ],
+      "summary": "Web-reader retry timed out for Copenhagen posting; employer API mirror reviewed separately.",
+      "coverage": "One source URL retried via web reader; no wider directory scan.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:40+00:00"
+    },
+    {
+      "sourceId": "source-fc553af85e36",
+      "checkedAt": "2026-11-02T10:09:40+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/w3-professur-fuer-beschleunigerphysik?set_language=en"
+      ],
+      "summary": "Web-reader retry could not access Bonn accelerator-professor advertisement; no closure inferred.",
+      "coverage": "One source URL retried via web reader; no wider directory scan.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:40+00:00"
+    },
+    {
+      "sourceId": "source-b8fde9437aaf",
+      "checkedAt": "2026-11-02T10:09:49+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/0017344c"
+      ],
+      "summary": "AAS employer ad readable: Pitzer/Scripps astrophysics tenure-track search retains 1 October 2026 review start until filled,1 July 2027 start.",
+      "coverage": "One source URL retried via web reader; no wider directory scan.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:49+00:00"
+    },
+    {
+      "sourceId": "source-fbd0cce5ef6d",
+      "checkedAt": "2026-11-02T10:09:49+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://physics.mit.edu/about-physics/employment-opportunities/"
+      ],
+      "summary": "MIT Physics faculty subsection contains theoretical physics and experimental quantum-science positions, both due 1 December 2026; no change to existing theory vacancy.",
+      "coverage": "Single-page Faculty position(s) subsection fully reviewed: two faculty entries and common application deadline; no pagination. Other MIT units outside scope.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:49+00:00",
+      "paginationComplete": true
+    },
+    {
+      "sourceId": "source-e1c911449308",
+      "checkedAt": "2026-11-02T10:09:49+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://about.unimelb.edu.au/careers"
+      ],
+      "summary": "Melbourne careers landing page readable via web retry and links to current Workday opportunities; Workday listing remained an unreadable shell.",
+      "coverage": "Careers landing page only; linked vacancies not rendered.",
+      "scopeType": "department-page",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:49+00:00"
+    },
+    {
+      "sourceId": "source-3ba051a37ffe",
+      "checkedAt": "2026-11-02T10:09:49+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.theory.tifr.res.in/jobs.html"
+      ],
+      "summary": "Web-reader retry timed out for TIFR theory jobs page; no vacancy conclusion.",
+      "coverage": "One source URL retried via web reader; no wider directory scan.",
+      "scopeType": "department-page",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:49+00:00"
+    },
+    {
+      "sourceId": "source-e54e87259020",
+      "checkedAt": "2026-11-02T10:09:49+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.tifr.res.in/positions"
+      ],
+      "summary": "Web-reader retry returned 503 Service Unavailable; no vacancy conclusion.",
+      "coverage": "One source URL retried via web reader; no wider directory scan.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:49+00:00"
+    },
+    {
+      "sourceId": "source-5bc4995ee4b7",
+      "checkedAt": "2026-11-02T10:09:49+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://careers.uh.edu/jobs/search/uh-postings?query=physics"
+      ],
+      "summary": "Web-reader retry could not access Houston physics search results; no vacancy conclusion.",
+      "coverage": "One source URL retried via web reader; no wider directory scan.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:49+00:00"
+    },
+    {
+      "sourceId": "source-702548789c63",
+      "checkedAt": "2026-11-02T10:09:49+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/a5ed92fc"
+      ],
+      "summary": "AAS employer ad now readable: NEW CMU McWilliams Center director with tenured Full/Associate Professor appointment and ML or Statistics/Data Science joint appointment; rolling review begins 8 November 2026; posted 16 October 2026.",
+      "coverage": "One source URL retried via web reader; no wider directory scan.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-web-tool-request-start",
+      "sourceReadAt": "2026-11-02T10:09:49+00:00"
+    },
+    {
+      "sourceId": "source-3e33db7223bb",
+      "checkedAt": "2026-11-02T10:10:25.158Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.fuw.edu.pl/praca.html"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-ae909287852d",
+      "checkedAt": "2026-11-02T10:10:25.158Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://konkursydlanauczycieli.uw.edu.pl/podglad2/open/"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-e2ce2f6e02fa",
+      "checkedAt": "2026-11-02T10:10:25.158Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.unige.ch/dpnc/en/jobs/"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-fde39c45365f",
+      "checkedAt": "2026-11-02T10:10:25.158Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.epfl.ch/about/working/faculty-position-in-experimantal-particle-physics/"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-c132bbe00c29",
+      "checkedAt": "2026-11-02T10:10:25.158Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://icc.ub.edu/job-offers"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-707fc778105d",
+      "checkedAt": "2026-11-02T10:10:25.158Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://orca.dur.ac.uk/joinus.html"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-f8e1657b9b86",
+      "checkedAt": "2026-11-02T10:10:25.158Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobs.wm.edu/"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "vacancy-list",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-eb424c0dd23f",
+      "checkedAt": "2026-11-02T10:10:25.158Z",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/192971"
+      ],
+      "summary": "Web-reader retry also failed to recover usable vacancy content; previous facts preserved.",
+      "coverage": "Single-page web-reader retry; returned text may use the tool cache. No full-directory completion inferred.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "web-tool-request-time"
+    },
+    {
+      "sourceId": "source-f303bd2d57f0",
+      "checkedAt": "2026-11-02T10:10:26+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.helsinki.fi/en/about-us/careers/open-positions"
+      ],
+      "summary": "Web fallback confirms unrendered vacancy widget; 0 positions not reliable evidence of no vacancies.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-4f461de8cbad",
+      "checkedAt": "2026-11-02T10:10:26+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.unige.ch/sciences/physique/la-section/emplois"
+      ],
+      "summary": "Web fallback confirms access-denied security page. No vacancy conclusions.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-482d6595f95e",
+      "checkedAt": "2026-11-02T10:10:26+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.unige.ch/sciences/physique/theorique/en/emplois/"
+      ],
+      "summary": "Web fallback confirms access-denied security page. No vacancy conclusions.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-65f494a662b1",
+      "checkedAt": "2026-11-02T10:10:26+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://nbi.ku.dk/english/jobs"
+      ],
+      "summary": "NBI jobs landing is readable via web and directs applicants to UCPH job portal; it does not contain a vacancy list.",
+      "coverage": "Department jobs landing page only; linked university portal not scanned in this check.",
+      "scopeType": "department-page",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-5c214c3196fc",
+      "checkedAt": "2026-11-02T10:11:03.300562+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs?field_of_interest=physics&page=1&size=25&sort=mostrecent"
+      ],
+      "summary": "Inspected first 25 physics-tagged INSPIRE records sorted mostrecent; mainly postdoc/student roles plus existing Lehigh/NPI/broad-physics calls. Total 4406; continue at page 2.",
+      "coverage": "API field_of_interest=physics, sort=mostrecent, size 25, page 1 only;25 of 4406 records. paginationComplete:false; continuation page 2.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:11:03.300562+00:00"
+    },
+    {
+      "sourceId": "source-85254c1f991f",
+      "checkedAt": "2026-11-02T10:11:03.300954+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/current/phys_270_163.php"
+      ],
+      "summary": "UVic official theoretical-HEP tenure-track Assistant Professor advert retains 4 January 2027 review start; existing catalog opportunity.",
+      "coverage": "One linked official Physics&Astronomy advertisement, not entire faculty directory.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:11:03.300954+00:00"
+    },
+    {
+      "sourceId": "source-e05aa6cc6af2",
+      "checkedAt": "2026-11-02T10:11:03.301032+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.ubiobio.cl/concursos/2027-1/02_Depto_Cs_Basicas_Fisica.pdf"
+      ],
+      "summary": "Read all 3 pages of official UBB02-2027 physics PDF: particle fields/cosmology/gravity,3 November 2026 hard deadline and 8 March 2027 start; full-time contract with renewal review after 2 years.",
+      "coverage": "One three-page official physics competition PDF; not a separate directory scan.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:11:03.301032+00:00"
+    },
+    {
+      "sourceId": "source-e204f82ac576",
+      "checkedAt": "2026-11-02T10:11:03.711898+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/33132"
+      ],
+      "summary": "William&Mary 33132 employer ad retains 2 December 2026 full consideration/initial review, with later applications considered if needed;10 August 2027 start.",
+      "coverage": "One linked employer advertisement.",
+      "scopeType": "advertisement",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:11:03.711898+00:00"
+    },
+    {
+      "sourceId": "source-3d0ed61561ac",
+      "checkedAt": "2026-11-02T10:11:08+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.ifae.es/careers/"
+      ],
+      "summary": "IFAE careers landing has no vacancy rows; Open Positions link is available and was followed in separate checks.",
+      "coverage": "Careers navigation page only; its linked vacancy list checked separately.",
+      "scopeType": "department-page",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-24d351b75b24",
+      "checkedAt": "2026-11-02T10:11:08+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.physics.smu.edu/"
+      ],
+      "summary": "Web fallback remains inaccessible or has zero readable vacancy lines.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "department-page",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-59abf896e8f8",
+      "checkedAt": "2026-11-02T10:11:08+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://jobs.jmu.edu/jobs/search?query=physics"
+      ],
+      "summary": "Web fallback remains inaccessible or has zero readable vacancy lines.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-bb64ee2ea52f",
+      "checkedAt": "2026-11-02T10:11:08+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://faculty.utexas.edu/career?p=1&q=physics"
+      ],
+      "summary": "Web fallback remains inaccessible or has zero readable vacancy lines.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-e82fe1079737",
+      "checkedAt": "2026-11-02T10:11:15.473934+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/650517"
+      ],
+      "summary": "Employer FE05020 computational astrophysics ad repeats December 1, 2026 application deadline and explicit open-until-filled status, August 1, 2027 start. Existing follow-up resolution already preserves the required AJO hard deadline; no factual revision proposed.",
+      "coverage": "One linked advertisement; no broader directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:11:16.184592+00:00"
+    },
+    {
+      "sourceId": "source-de60cbacd041",
+      "checkedAt": "2026-11-02T10:11:15.474020+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/32960"
+      ],
+      "summary": "JMU employer-authored AJO advertisement retains November 20, 2026 review start, open until filled, August 10, 2027 start; no material change found.",
+      "coverage": "One linked advertisement; no broader directory completion.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "request-time",
+      "sourceReadAt": "2026-11-02T10:11:16.204821+00:00"
+    },
+    {
+      "sourceId": "source-0f7f30566d2f",
+      "checkedAt": "2026-11-02T10:11:49+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Open-Rank-Tenure-Track-Faculty-Position-in-Experimental-Nuclear-or-High-Energy-Physics_R161214-1"
+      ],
+      "summary": "Web fallback returns the Workday page with zero readable lines; no vacancy facts changed.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-3a195e767849",
+      "checkedAt": "2026-11-02T10:11:49+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://lsu.wd1.myworkdayjobs.com/en-US/LSU/job/Open-Rank--Tenure-track-Assistant-Professor--Tenure-track-Associate-Professor-or-Professor--Theoretical-Gravity-Physics-_R00121003"
+      ],
+      "summary": "Web fallback returns the Workday page with zero readable lines; no vacancy facts changed.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-7c18bfa63a51",
+      "checkedAt": "2026-11-02T10:11:49+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://williammary.wd12.myworkdayjobs.com/en-US/WM/details/Assistant-Professor-of-Physics_JR102162-1"
+      ],
+      "summary": "Web fallback returns the Workday page with zero readable lines; no vacancy facts changed.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-f06894f7be37",
+      "checkedAt": "2026-11-02T10:11:49+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Open-Rank-Tenure-Track-Faculty-Position-in-Theoretical-High-Energy-Physics_R160038-1"
+      ],
+      "summary": "Web fallback returns the Workday page with zero readable lines; no vacancy facts changed.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-54bb3190809b",
+      "checkedAt": "2026-11-02T10:11:49+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Assistant-Associate-Professor-in-Astronomy_R159581-1"
+      ],
+      "summary": "Web fallback returns the Workday page with zero readable lines; no vacancy facts changed.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-019793a6a784",
+      "checkedAt": "2026-11-02T10:11:59+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29599&jobTitle=Assistant+%2F+Associate+Professor+in+Particle+Physics"
+      ],
+      "summary": "Web fallback remains inaccessible or returns only the unrendered recruitment shell.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-2685a30776be",
+      "checkedAt": "2026-11-02T10:11:59+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/192963"
+      ],
+      "summary": "Web fallback remains inaccessible or returns only the unrendered recruitment shell.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-6cef3912a8a5",
+      "checkedAt": "2026-11-02T10:11:59+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/192707"
+      ],
+      "summary": "Web fallback remains inaccessible or returns only the unrendered recruitment shell.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-bbe8d8c3a373",
+      "checkedAt": "2026-11-02T10:11:59+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/192713"
+      ],
+      "summary": "Web fallback remains inaccessible or returns only the unrendered recruitment shell.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-5ae0521ebfb6",
+      "checkedAt": "2026-11-02T10:11:59+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-024/Default.aspx?lang=EN"
+      ],
+      "summary": "Web fallback says requested offer is no longer available. This is missing advertisement content, not proof the underlying vacancy closed.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-ebfd5336f40f",
+      "checkedAt": "2026-11-02T10:11:59+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://careers.jlu.edu.cn/"
+      ],
+      "summary": "Web fallback remains inaccessible or returns only the unrendered recruitment shell.",
+      "coverage": "Web fallback attempted exact URL; requested vacancy content not retrieved; no vacancy conclusions.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "Actual web-tool request time in UTC; tool may return indexed/cached text, not an asserted fresh origin HTTP response.",
+      "retrievalMethod": "web-tool"
+    },
+    {
+      "sourceId": "source-55231d7006aa",
+      "checkedAt": "2026-11-02T10:12:08+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.ifae.es/careers/jobs/2026/09/call-for-expressions-of-interest-ramon-y-cajal-fellowship-programme-2026/"
+      ],
+      "summary": "IFAE general RyC 2026 EOI retains October 16 host date and November 10–December 10 national application window. No reopening inferred from later national deadline.",
+      "coverage": "One fellowship-hosting EOI advertisement; distinct host and national stages retained.",
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual web-tool request time in UTC; indexed/cached text may be returned."
+    },
+    {
+      "sourceId": "source-4b910fd737a5",
+      "checkedAt": "2026-11-02T10:12:08+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.ifae.es/careers/jobs/",
+        "https://www.ifae.es/careers/jobs/page/2/"
+      ],
+      "summary": "Both IFAE current jobs pages reviewed: eighteen rows including general and GW-specific RyC routes. No new distinct faculty call established.",
+      "coverage": "All nine rows on page 1 (read 10:11:18Z) and all nine on page 2 (read 10:12:08Z); page 2 has Previous but no Next. Scope current open jobs archive only.",
+      "scopeType": "vacancy-list",
+      "paginationComplete": true,
+      "timestampBasis": "Actual final pagination-request time in UTC; indexed/cached text may be returned."
+    },
+    {
+      "sourceId": "inspire-jobs",
+      "checkedAt": "2026-11-02T10:12:41.265658+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs?sort=mostrecent&size=100&page=1"
+      ],
+      "summary": "Inspected latest 100 INSPIRE records for all jobs; faculty-relevant results compared by title/institution/application URL with catalog. Known searches and supplemental mirrors dominate; remaining scope/duplicate leads retained separately.",
+      "coverage": "API sort=mostrecent, page 1, size 100, query all jobs;100 of 31983 records. paginationComplete:false. Continue with https://inspirehep.net/api/jobs/?sort=mostrecent&q=&size=100&page=2",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:12:41.265658+00:00",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-172cc15b03df",
+      "checkedAt": "2026-11-02T10:12:41.797828+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs?q=ranks%3AJUNIOR%20OR%20ranks%3ASENIOR&sort=mostrecent&size=100&page=1"
+      ],
+      "summary": "Inspected latest 100 INSPIRE records for ranks:JUNIOR OR ranks:SENIOR; faculty-relevant results compared by title/institution/application URL with catalog. Known searches and supplemental mirrors dominate; remaining scope/duplicate leads retained separately.",
+      "coverage": "API sort=mostrecent, page 1, size 100, query ranks:JUNIOR OR ranks:SENIOR;100 of 5161 records. paginationComplete:false. Continue with https://inspirehep.net/api/jobs/?sort=mostrecent&q=ranks%3AJUNIOR%20OR%20ranks%3ASENIOR&size=100&page=2",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:12:41.797828+00:00",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "aas-job-register",
+      "checkedAt": "2026-11-02T10:13:36+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister"
+      ],
+      "summary": "Recovered readable AAS job register with web retrieval. New AIP cosmology director and UW Milwaukee gravitation/cosmology calls followed; UT Austin cosmology deadline semantics clarified.",
+      "coverage": "Readable web retrieval of one page; no exhaustive directory claim.",
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-03792ffadbf4",
+      "checkedAt": "2026-11-02T10:13:36+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.physics.nus.edu.sg/presidential-young-professorship/"
+      ],
+      "summary": "Recovered readable NUS PYP page. Applications accepted year-round; no explicit 2026–2027 round established.",
+      "coverage": "Readable web retrieval of one page; no exhaustive directory claim.",
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7fb26d1c42a0",
+      "checkedAt": "2026-11-02T10:13:36+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/a13d3a6d"
+      ],
+      "summary": "Recovered employer PITT PACC ad. October 31 is review start; applications continue for duration of search. Existing facts unchanged.",
+      "coverage": "Readable web retrieval of one page; no exhaustive directory claim.",
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-dff991a4cf7e",
+      "checkedAt": "2026-11-02T10:14:56+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/ICRR2026-08_jp.pdf"
+      ],
+      "summary": "Repeated web request could not retrieve PDF; previous content retained without a new successful date.",
+      "scopeType": "advertisement",
+      "coverage": "One current employer advertisement; not a complete institution scan."
+    },
+    {
+      "sourceId": "source-b2f146ffa109",
+      "checkedAt": "2026-11-02T10:14:56+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260914.pdf"
+      ],
+      "summary": "Repeated web request could not retrieve PDF; previous content retained without a new successful date.",
+      "scopeType": "advertisement",
+      "coverage": "One current employer advertisement; not a complete institution scan."
+    },
+    {
+      "sourceId": "source-c8ff19d82591",
+      "checkedAt": "2026-11-02T10:16:38.194393+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://ukjobs.uky.edu/postings/search?query=physics&988%5B%5D=2&commit=Search"
+      ],
+      "summary": "Re-read directory after linked relevant advertisement review: Physics faculty search returned 15 records, including existing computational-astrophysics and quantum-materials searches; no additional targeted HEP listing among remaining clinical-physics results.",
+      "coverage": "Keyword physics with faculty filter 988[]=2: all 15 returned records on one page; reviewed two Physics&Astronomy results and read computational-astrophysics detail 650517. No next page in returned results.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:16:38.194393+00:00",
+      "paginationComplete": true
+    },
+    {
+      "sourceId": "source-7bb80ee0b71f",
+      "checkedAt": "2026-11-02T10:16:42.055684+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/William%20%26%20Mary/Physics"
+      ],
+      "summary": "Re-read directory after linked relevant advertisement review: Read entire William & Mary AJO department list: one position 33132. Linked advert confirms astroparticle/cosmology faculty full consideration 2 December 2026; later applications considered if needed.",
+      "coverage": "William&Mary Physics AJO department listing explicitly states 1 position listed; read sole linked ad 33132. No pagination.",
+      "scopeType": "vacancy-list",
+      "timestampBasis": "actual-request-start",
+      "sourceReadAt": "2026-11-02T10:16:42.055684+00:00",
+      "paginationComplete": true
+    }
+  ],
+  "summary": "November 2 weekly refresh: chronological source-attempt pass 2. This bounded partial sweep covers all planned weekly sources, a country-interleaved rotation, retries and experimental/international follow-up; it does not establish exhaustive global coverage."
+}

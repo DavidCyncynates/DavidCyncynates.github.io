@@ -1592,5 +1592,108 @@
     "notes": [
       "Campus-level institution location matched by UNITID. Not a verified department office or building entrance."
     ]
+  },
+  "aip-potsdam": {
+    "verification": "verified",
+    "checkedOn": "2026-11-02",
+    "latitude": 52.39886,
+    "longitude": 13.06566,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2852458,
+    "matchedLocality": "Potsdam",
+    "institutionSourceUrl": "https://www.uni-potsdam.de/fileadmin/projects/verwaltung/docs/Dezernat3/Ausschreibungen/1_Professuren/W3_Kosmologie_AIP_eng.pdf",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact Potsdam/DE match in freshly retrieved GeoNames cities15000. This approximate city marker does not identify a campus building or work-site entrance.",
+      "Locality corroborated by the employer advertisement and official institutional contact/access page: https://www.aip.de/de/institute/contact/",
+      "Institution profile is descriptive; no US Carnegie-equivalent classification is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.aip.de/en/career/jobs/?set_language=en",
+    "sourceCheckedAt": "2026-11-02T10:14:08.110598+00:00",
+    "localityEvidenceUrls": [
+      "https://www.uni-potsdam.de/fileadmin/projects/verwaltung/docs/Dezernat3/Ausschreibungen/1_Professuren/W3_Kosmologie_AIP_eng.pdf",
+      "https://www.aip.de/de/institute/contact/"
+    ]
+  },
+  "icrr-kashiwa": {
+    "verification": "verified",
+    "checkedOn": "2026-11-02",
+    "latitude": 35.86224,
+    "longitude": 139.97732,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1859924,
+    "matchedLocality": "Kashiwa",
+    "institutionSourceUrl": "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/ICRR2026-08_jp.pdf",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact Kashiwa/JP match in freshly retrieved GeoNames cities15000. This approximate city marker does not identify a campus building or work-site entrance.",
+      "Locality corroborated by the employer advertisement and official institutional contact/access page: https://www.icrr.u-tokyo.ac.jp/en/access-2/",
+      "Institution profile is descriptive; no US Carnegie-equivalent classification is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.icrr.u-tokyo.ac.jp/en/careers/",
+    "sourceCheckedAt": "2026-11-02T10:14:08.110598+00:00",
+    "localityEvidenceUrls": [
+      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/ICRR2026-08_jp.pdf",
+      "https://www.icrr.u-tokyo.ac.jp/en/access-2/"
+    ]
+  },
+  "kyoto-university": {
+    "verification": "verified",
+    "checkedOn": "2026-11-02",
+    "latitude": 35.02107,
+    "longitude": 135.75385,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1857910,
+    "matchedLocality": "Kyoto",
+    "institutionSourceUrl": "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260914.pdf",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact Kyoto/JP match in freshly retrieved GeoNames cities15000. This approximate city marker does not identify a campus building or work-site entrance.",
+      "Locality corroborated by the employer advertisement and official institutional contact/access page: https://www.kyoto-u.ac.jp/en/contact",
+      "Institution profile is descriptive; no US Carnegie-equivalent classification is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260914.pdf",
+    "sourceCheckedAt": "2026-11-02T10:14:08.110598+00:00",
+    "localityEvidenceUrls": [
+      "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260914.pdf",
+      "https://www.kyoto-u.ac.jp/en/contact"
+    ]
+  },
+  "uw-milwaukee": {
+    "verification": "verified",
+    "checkedOn": "2026-11-02",
+    "latitude": 43.076848,
+    "longitude": -87.880488,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      240453
+    ],
+    "matchedOfficialNames": [
+      "University of Wisconsin-Milwaukee"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location matched by UNITID 240453 and official name. Not a verified department office or building entrance.",
+      "University of Wisconsin-Milwaukee Flex (UNITID 491288) is a separate IPEDS entity and was not used."
+    ],
+    "sourceCheckedAt": "2026-11-02T10:14:08.110926+00:00"
   }
 }

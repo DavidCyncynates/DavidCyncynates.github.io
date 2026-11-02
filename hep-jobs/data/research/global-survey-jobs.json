@@ -486,7 +486,7 @@
     "kind": "formal-vacancy",
     "cycle": "2026-2027",
     "cycleEvidence": "Employer advertisement requires all materials by November 3, 2026.",
-    "startDate": "March 2027",
+    "startDate": "2027-03-08",
     "deadlines": [
       {
         "date": "2026-11-03",
@@ -499,14 +499,16 @@
     ],
     "openUntilFilled": false,
     "verification": "verified",
-    "checkedOn": "2026-10-28",
+    "checkedOn": "2026-11-02",
     "sourceUrls": [
       "https://inspirehep.net/api/jobs/3198780",
-      "https://inspirehep.net/jobs/3198780"
+      "https://inspirehep.net/jobs/3198780",
+      "https://www.ubiobio.cl/concursos/2027-1/02_Depto_Cs_Basicas_Fisica.pdf"
     ],
     "summary": "Faculty appointment in the Department of Elementary Sciences at the Chillán campus.",
     "notes": [
-      "Spanish proficiency is required for teaching and administrative duties."
+      "Spanish proficiency is required for teaching and administrative duties.",
+      "Official competition PDF specifies a full-time contrata appointment, with performance commitments evaluated after two years for renewal; the employer INSPIRE listing calls the route tenure-track. Permanent tenure is not guaranteed."
     ],
     "discovery": "global-primary-source-expansion",
     "institutionSources": [
@@ -1478,15 +1480,15 @@
   {
     "cycle": "2026-2027",
     "kind": "formal-vacancy",
-    "verification": "needs-review",
-    "checkedOn": "2026-10-28",
+    "verification": "verified",
+    "checkedOn": "2026-11-02",
     "discovery": "targeted-primary-source-expansion",
     "id": "rwth-aachen-precision-particle-professor-2026",
     "institutionId": "rwth-aachen",
     "institutionName": "RWTH Aachen University",
     "countryCode": "DE",
     "city": "Aachen",
-    "title": "Experimental Physics",
+    "title": "Full Professor (W3) in Experimental Particle Physics",
     "rank": [
       "Full Professor"
     ],
@@ -1502,9 +1504,9 @@
         "date": "2026-09-09",
         "time": null,
         "timezone": null,
-        "kind": "listed",
-        "sourceUrl": "https://inspirehep.net/api/jobs/3185307",
-        "description": "Date listed in INSPIRE metadata; employer deadline wording and closure semantics could not be confirmed."
+        "kind": "hard",
+        "sourceUrl": "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaadlpctxh",
+        "description": "Official PDF requires applications by September 9, 2026; no time or timezone stated."
       }
     ],
     "openUntilFilled": null,
@@ -1515,11 +1517,10 @@
     ],
     "summary": "Full professorship in experimental particle physics at the precision frontier and leadership of the I. Physics Institute B.",
     "notes": [
-      "The advertised start is March 1, 2028, but the application round opened and closed in 2026.",
-      "Official linked PDF returned 404; employer-submitted INSPIRE advertisement remains available.",
-      "Held outside the default map: the date is present in INSPIRE metadata but not in the retrieved employer description, and the official deadline page was inaccessible. Do not infer a hard cutoff or ongoing availability."
+      "The advertised appointment begins March 1, 2028, but this application round has a September 9, 2026 hard deadline.",
+      "The official PDF was recovered during the November 2 sweep. The expired record is retained; no extension or reopening is claimed."
     ],
-    "verificationBasis": "Employer-submitted listing read; deadline meaning needs primary-source confirmation.",
+    "verificationBasis": "Recovered two-page official employer PDF confirms role and hard application deadline.",
     "institutionSources": []
   },
   {
@@ -1843,7 +1844,7 @@
     "cycle": "2026-2027",
     "kind": "formal-vacancy",
     "verification": "needs-review",
-    "checkedOn": "2026-10-28",
+    "checkedOn": "2026-11-02",
     "discovery": "targeted-primary-source-expansion",
     "id": "igfae-director-2027",
     "institutionId": "igfae",
@@ -1883,10 +1884,13 @@
     "notes": [
       "Expected start in the first half of 2027; no exact date is asserted.",
       "Senior research leadership appointment rather than a standard junior faculty search.",
-      "Faculty-scope review required: the advertisement offers an initial four-year directorship, possibly through secondment or an employment contract with different entities. It does not guarantee a faculty or permanent scientific appointment."
+      "Faculty-scope review required: the advertisement offers an initial four-year directorship, possibly through secondment or an employment contract with different entities. It does not guarantee a faculty or permanent scientific appointment.",
+      "Employer call page explicitly marks the offer closed (Oferta pechada), checked November 2, 2026. Faculty-equivalent appointment scope remains unresolved."
     ],
     "verificationBasis": "Fresh public INSPIRE record containing employer-submitted advertisement; official source corroboration and retrieval gaps are recorded separately.",
-    "institutionSources": []
+    "institutionSources": [],
+    "explicitClosed": true,
+    "closureSourceUrl": "https://igfae.usc.es/igfae/en/oferta/director-call/"
   },
   {
     "cycle": "2026-2027",
