@@ -6738,5 +6738,257 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7
+  },
+  {
+    "id": "source-7dd39c4da749",
+    "url": "https://www.uni-potsdam.de/fileadmin/projects/verwaltung/docs/Dezernat3/Ausschreibungen/1_Professuren/W3_Kosmologie_AIP_eng.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "aip-potsdam"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-7b7be7e8adb7",
+    "url": "https://aas.org/jobregister/ad/a04bc2f9",
+    "kind": "advertisement",
+    "institutionIds": [
+      "aip-potsdam"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-a9271858649f",
+    "url": "https://www.aip.de/en/career/jobs/?set_language=en",
+    "kind": "recruitment",
+    "institutionIds": [
+      "aip-potsdam"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-e62ac87e5143",
+    "url": "https://aas.org/jobregister/ad/2702ed17",
+    "kind": "advertisement",
+    "institutionIds": [
+      "uw-milwaukee"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-dff991a4cf7e",
+    "url": "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/ICRR2026-08_jp.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "icrr-kashiwa"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-434e629eb76f",
+    "url": "https://www.icrr.u-tokyo.ac.jp/en/careers/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "icrr-kashiwa"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-b2f146ffa109",
+    "url": "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260914.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kyoto-university"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-dd7f587bf08b",
+    "url": "https://www.scphys.kyoto-u.ac.jp/news/public.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "kyoto-university"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "recruitment"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-097e30cbc26f",
+    "url": "https://aas.org/jobregister/ad/6b5e3745",
+    "kind": "advertisement",
+    "institutionIds": [
+      "ut-austin"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-2cc06bf8ca54",
+    "url": "https://www.physicsandastronomy.pitt.edu/sites/default/files/image-gallery/RAP_Newman_MWV_2026.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-of-pittsburgh"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-c2e4e87d437d",
+    "url": "https://drive.google.com/file/d/1m7vtYFYA4fI8eUTRANX6_2LstQj7lNX2/view?usp=sharing",
+    "kind": "advertisement",
+    "institutionIds": [
+      "national-cheng-kung"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-059ce1be5409",
+    "url": "https://www.phys.ntu.edu.tw/enphysics/News_Content_n_46543_s_264091.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "national-taiwan-university"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-301440401ed3",
+    "url": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_recruitment_id=189340&p_form_profile_detail=&p_company=10&p_display_in_irish=N&p_refresh_search=Y&p_internal_external=E&p_display_apply_ind=Y&p_applicant_no=&p_process_type=",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-oxford"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
+  },
+  {
+    "id": "source-ea16f0bcea00",
+    "url": "https://www.ubiobio.cl/concursos/2027-1/02_Depto_Cs_Basicas_Fisica.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-biobio"
+    ],
+    "discoveredOn": "2026-11-02",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "notes": [
+      "Discovered during the November 2, 2026 weekly public-source sweep."
+    ]
   }
 ]

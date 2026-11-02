@@ -187,11 +187,11 @@
     "startDate": "2027",
     "openUntilFilled": null,
     "verification": "needs-review",
-    "checkedOn": "2026-10-28",
+    "checkedOn": "2026-11-02",
     "notes": [
-      "Indexed official advertisement gives October 15, 2026 application deadline and 2027 start. This date has passed.",
-      "Fresh direct checks on October 28 did not recover the ad: official detail page returns 404; application portal shows a general login rather than the position.",
-      "Retain as an archived unconfirmed lead; no claim of an extended or reopened application window."
+      "Indexed official advertisement gives October 15, 2026 application deadline and 2027 start.",
+      "On November 2 the official application portal explicitly states applications are closed and evaluation has begun.",
+      "Retained as an unconfirmed historical lead; closure does not resolve the full-advertisement verification gap."
     ],
     "id": "epfl-experimental-particle-2026",
     "institutionId": "epfl",
@@ -232,7 +232,9 @@
         "verified": false
       }
     ],
-    "verificationBasis": "Indexed official advertisement remains readable; current detail URL returns HTTP 404 and the old application link redirects to the general faculty-recruiting login."
+    "verificationBasis": "Application portal now explicitly says online applications are closed and committee evaluation has begun; full advertisement/cycle details remain incompletely recovered.",
+    "explicitClosed": true,
+    "closureSourceUrl": "https://facultyrecruiting.epfl.ch/position/65044488"
   },
   {
     "cycle": "2026-2027",

@@ -439,5 +439,20 @@
     "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
     "sourceLicense": "CC BY-NC-SA 4.0",
     "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "University of Wisconsin-Milwaukee",
+    "matchedOfficialName": "University of Wisconsin-Milwaukee",
+    "unitId": 240453,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-11-02",
+    "notes": [
+      "Matched UNITID 240453. Official research2025=1; research2025name is Research 1: Very High Spending and Doctorate Production."
+    ],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
   }
 ]
