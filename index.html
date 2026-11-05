@@ -835,11 +835,10 @@
           event.preventDefault();
         }
       });
-      menu.addEventListener('focusout', (event) => {
-        if (!menu.contains(event.relatedTarget)) menu.open = false;
-      });
-      menu.querySelectorAll('a').forEach((link) => {
-        link.addEventListener('click', () => { menu.open = false; });
+      // Close only when focus arrives elsewhere. Some browsers blur the
+      // summary before a pointer-activated link receives its click.
+      document.addEventListener('focusin', (event) => {
+        if (!menu.contains(event.target)) menu.open = false;
       });
     })();
 
