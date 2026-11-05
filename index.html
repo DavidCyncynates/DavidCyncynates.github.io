@@ -6,6 +6,8 @@
   <meta name="description" content="David Cyncynates — theoretical physicist at ICTP. Publications, talks, research software, and the LZ Paper Map.">
   <meta name="theme-color" content="#f4f0e7" id="theme-color">
   <link rel="canonical" href="https://davidcyncynates.github.io/">
+  <link rel="preload" href="assets/nixiv/logo-light-transparent.webp" as="image">
+  <link rel="preload" href="assets/nixiv/logo-dark.webp" as="image">
   <title>David Cyncynates · Theoretical Physics</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2222%22 fill=%22%230f727b%22/><text x=%2250%22 y=%2265%22 text-anchor=%22middle%22 font-size=%2252%22 font-family=%22Georgia,serif%22 fill=%22white%22>DC</text></svg>">
 
@@ -244,10 +246,14 @@
     .nixiv-link { padding-block: .2rem; background: var(--surface); }
     .nixiv-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
     .nixiv-logo {
-      width: 120px; height: 40px; background: var(--surface) url('assets/nixiv/logo-light.webp') center / contain no-repeat;
-      background-blend-mode: multiply;
+      width: 120px; height: 40px; background: url('assets/nixiv/logo-light-transparent.webp') center / contain no-repeat;
     }
-    :root.dark .nixiv-logo { background-image: url('assets/nixiv/logo-dark.webp'); background-blend-mode: screen; }
+    /* Reuse the clean transparent outline while retaining the supplied dark colours. */
+    :root.dark .nixiv-logo {
+      background-image: url('assets/nixiv/logo-dark.webp');
+      -webkit-mask: url('assets/nixiv/logo-light-transparent.webp') center / contain no-repeat;
+      mask: url('assets/nixiv/logo-light-transparent.webp') center / contain no-repeat;
+    }
     .nixiv-wordmark { display: none; }
     .profile-links { display: flex; flex-wrap: wrap; gap: .65rem 1.15rem; }
     .profile-links a { color: var(--muted); text-underline-offset: .2em; }
