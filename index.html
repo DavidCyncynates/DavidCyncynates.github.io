@@ -178,6 +178,27 @@
     nav a { color: var(--muted); text-decoration: none; font-size: .92rem; font-weight: 700; }
     nav a:hover, nav a:focus-visible { color: var(--accent); }
 
+    .visualization-menu { position: relative; }
+    .visualization-menu summary {
+      display: flex; align-items: center; gap: .5rem; min-height: 44px; padding: .5rem .65rem;
+      color: var(--muted); font-size: .92rem; font-weight: 700; line-height: 1.2;
+      list-style: none; cursor: pointer; border-radius: 8px;
+    }
+    .visualization-menu summary::-webkit-details-marker { display: none; }
+    .visualization-menu summary:hover, .visualization-menu[open] summary { color: var(--accent); }
+    .visualization-menu summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+    .visualization-menu summary svg { flex: none; width: 12px; height: 12px; transition: transform .18s ease; }
+    .visualization-menu[open] summary svg { transform: rotate(180deg); }
+    .visualization-links {
+      position: absolute; top: calc(100% + .5rem); right: 0; width: 210px; padding: .4rem;
+      border: 1px solid var(--line-strong); border-radius: 12px; background: var(--surface); box-shadow: var(--shadow);
+    }
+    .visualization-links a {
+      display: block; min-height: 44px; padding: .65rem .75rem; border-radius: 7px;
+      color: var(--text); font-size: .9rem; font-weight: 650; text-decoration: none;
+    }
+    .visualization-links a:hover, .visualization-links a:focus-visible { background: var(--accent-soft); color: var(--accent-dark); }
+
     .cv-button, .button {
       display: inline-flex; align-items: center; justify-content: center; gap: .45rem;
       min-height: 44px; padding: .62rem .95rem; border: 1px solid var(--line-strong);
@@ -220,6 +241,14 @@
       line-height: .98; letter-spacing: -.035em; font-weight: 700;
     }
     .hero-actions { display: flex; flex-wrap: wrap; gap: .7rem; margin: 1.25rem 0 1.2rem; }
+    .nixiv-link { padding-block: .2rem; background: var(--surface); }
+    .nixiv-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+    .nixiv-logo {
+      width: 120px; height: 40px; background: var(--surface) url('assets/nixiv/logo-light.webp') center / contain no-repeat;
+      background-blend-mode: multiply;
+    }
+    :root.dark .nixiv-logo { background-image: url('assets/nixiv/logo-dark.webp'); background-blend-mode: screen; }
+    .nixiv-wordmark { display: none; }
     .profile-links { display: flex; flex-wrap: wrap; gap: .65rem 1.15rem; }
     .profile-links a { color: var(--muted); text-underline-offset: .2em; }
     .profile-links a:hover { color: var(--accent); }
@@ -380,10 +409,14 @@
       body { font-size: 16px; }
       .shell { width: min(calc(100% - 28px), var(--max)); }
       .header-inner { min-height: 68px; }
+      .header-inner, .header-actions { gap: .45rem; }
+      .visualization-menu summary { padding-inline: .4rem; font-size: .82rem; }
+      .visualization-menu summary span { max-width: 5rem; }
+      .visualization-links { left: 0; right: auto; }
       .brand > span:last-child { display: none; }
       .brand-mark { width: 39px; height: 39px; border-radius: 12px; }
       .theme-toggle { width: 44px; height: 44px; }
-      .cv-button { min-height: 44px; padding: .62rem .85rem; }
+      .cv-button { min-height: 44px; padding: .62rem .75rem; font-size: .85rem; white-space: nowrap; }
       .hero-inner { padding: 3.5rem 0 3.75rem; }
       h1 { font-size: clamp(2.1rem, 10vw, 2.35rem); line-height: .98; }
       .section { padding: 3.5rem 0; }
@@ -403,6 +436,11 @@
     @media (prefers-reduced-motion: reduce) {
       html { scroll-behavior: auto; }
       *, *::before, *::after { transition: none !important; }
+    }
+
+    @media (forced-colors: active) {
+      .nixiv-logo { display: none; }
+      .nixiv-wordmark { display: inline; }
     }
   </style>
 
@@ -439,10 +477,15 @@
           <a href="#publications">Publications</a>
           <a href="#talks">Talks</a>
           <a href="#software">Code</a>
-          <a href="/lz-paper-map/">LZ Map</a>
-          <a href="/hep-jobs/">HEP Jobs</a>
         </nav>
         <div class="header-actions">
+          <details class="visualization-menu">
+            <summary><span>Data visualization</span><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="m4 6 4 4 4-4"/></svg></summary>
+            <div class="visualization-links">
+              <a href="/lz-paper-map/">LZ paper map</a>
+              <a href="/hep-jobs/">HEP faculty jobs</a>
+            </div>
+          </details>
           <button class="theme-toggle" type="button" aria-label="Dark mode">
             <svg class="theme-icon theme-icon--moon" viewBox="0 0 24 24" aria-hidden="true">
               <path d="M20.99 12.49A9 9 0 1 1 11.51 3a6 6 0 0 0 8.67 8.67c.35-.22.83 0 .81.82Z"></path>
@@ -465,9 +508,11 @@
           <div class="eyebrow">Theoretical physics · ICTP, Trieste</div>
           <h1 id="hero-title">David Cyncynates</h1>
           <div class="hero-actions">
-            <a class="button primary" href="#publications">Selected work ↓</a>
-            <a class="button" href="/lz-paper-map/">LZ paper map →</a>
-            <a class="button" href="/hep-jobs/">HEP faculty jobs →</a>
+            <a class="button nixiv-link" href="https://nixiv.org/" target="_blank" rel="noopener noreferrer" aria-label="niXiv.org (opens in a new tab)">
+              <span class="nixiv-logo" aria-hidden="true"></span>
+              <span class="nixiv-wordmark" aria-hidden="true">niXiv.org</span>
+              <span aria-hidden="true">↗</span>
+            </a>
           </div>
           <div class="profile-links" aria-label="Research profiles">
             <a href="https://inspirehep.net/authors/1503335" target="_blank" rel="noopener noreferrer">INSPIRE</a>
@@ -769,6 +814,27 @@
       });
 
       synchronizeTheme();
+    })();
+
+    (() => {
+      const menu = document.querySelector('.visualization-menu');
+      if (!menu) return;
+      document.addEventListener('pointerdown', (event) => {
+        if (!menu.contains(event.target)) menu.open = false;
+      });
+      menu.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape' && menu.open) {
+          menu.open = false;
+          menu.querySelector('summary').focus();
+          event.preventDefault();
+        }
+      });
+      menu.addEventListener('focusout', (event) => {
+        if (!menu.contains(event.relatedTarget)) menu.open = false;
+      });
+      menu.querySelectorAll('a').forEach((link) => {
+        link.addEventListener('click', () => { menu.open = false; });
+      });
     })();
 
     (() => {
