@@ -1,0 +1,78 @@
+{
+  "runDate": "2026-11-09",
+  "cycle": "2026-2027",
+  "scope": "Completed partial source sweep; not exhaustive global coverage.",
+  "checkedSourceAttempts": 357,
+  "uniqueSources": 332,
+  "attemptOutcomes": {
+    "partial": 253,
+    "failed": 101,
+    "complete": 3
+  },
+  "weeklyRequired": 163,
+  "weeklyRequiredAttempted": 163,
+  "rotationPlanned": 140,
+  "rotationAttempted": 140,
+  "additionalRetrySources": 12,
+  "newJobs": [
+    "kyoto-nuclear-theory-associate-2027",
+    "kyoto-theoretical-astrophysics-associate-2026",
+    "masaryk-string-theory-assistant-2027",
+    "melbourne-experimental-hep-lecturer-2026",
+    "shinshu-particle-theory-tt-2027",
+    "texas-tech-bucy-chair-2027"
+  ],
+  "revisedJobs": [
+    "kentucky-computational-astrophysics-2027",
+    "nycu-physics-faculty-2026"
+  ],
+  "preservedPriorJobCount": 115,
+  "catalogJobCount": 121,
+  "institutionReviews": 88,
+  "completedBoundedLists": [
+    {
+      "institutionId": "kavli-ipmu",
+      "coverage": "Complete current Scientific Staff openings list on the single, non-paginated IPMU Jobs page; both linked current role descriptions read. External JSPS schemes and other University of Tokyo units excluded."
+    },
+    {
+      "institutionId": "mcgill",
+      "coverage": "Complete current Faculty Positions list for McGill Physics on its single, non-paginated page; both linked English faculty advertisements read. Other units and staff/course-lecturer lists excluded."
+    },
+    {
+      "institutionId": "shinshu-university",
+      "coverage": "Complete current Shinshu Faculty of Science recruitment page, single page without pagination; both physics entries assessed and new theory call read in Japanese and English. Other university units excluded."
+    }
+  ],
+  "rumorDirectory": {
+    "checkedOn": "2026-11-09",
+    "updated": "Experiment directory explicit source update is October 30. Germanic/Nordic source still times out and remains unverified. Asia retains explicit ceased/archive status. No individual rumors copied."
+  },
+  "coverageGaps": [
+    "INSPIRE pages 1–2 screened for both all-job and junior/senior feeds; page 3 continuations retained. AJO all-list link fell back to landing page; EURAXESS first page plus focused searches only.",
+    "No rumor candidates, shortlists, offers or individual rumor identities persisted.",
+    "140 rotating source URLs assessed chiefly through bounded heading/remit/date excerpts; this does not clear full-scan backlog.",
+    "Blocked portals, JavaScript-only responses and unavailable documents remain recorded without changing verified job facts.",
+    "Unresolved leads are retained in weekly-20261109-followup-leads.json; they are not promoted to the default map.",
+    "SLAC staff-appointment scope and Stony Brook employer-page/date conflict remain unresolved; Texas Tech is verified and included."
+  ],
+  "continuations": [
+    {
+      "sourceId": "inspire-jobs",
+      "coverage": "Public jobs API, sort=mostrecent, size=100, pages 1–2, query all jobs; 200 records screened out of 32053. Remaining pages not traversed.",
+      "continuationUrl": "https://inspirehep.net/api/jobs/?sort=mostrecent&q=&size=100&page=3"
+    },
+    {
+      "sourceId": "source-172cc15b03df",
+      "coverage": "Public jobs API, sort=mostrecent, size=100, pages 1–2, query ranks:JUNIOR OR ranks:SENIOR; 200 records screened out of 5171. Remaining pages not traversed.",
+      "continuationUrl": "https://inspirehep.net/api/jobs/?sort=mostrecent&q=ranks%3AJUNIOR%20OR%20ranks%3ASENIOR&size=100&page=3"
+    }
+  ],
+  "validation": {
+    "catalog": "Passed --require-map-ready",
+    "pythonTests": 45,
+    "javascriptTests": 39,
+    "history": "All115 prior job records retained; prior ledger runs preserved byte-for-byte as JSON values.",
+    "mapData": "All six new verified jobs have verified coordinates and are eligible for the default map. Python and JavaScript display-state parity passed for all121records.",
+    "visualPreview": "Not completed: no browser surface was available to the agent. No UI code changed. Safari was not used."
+  }
+}

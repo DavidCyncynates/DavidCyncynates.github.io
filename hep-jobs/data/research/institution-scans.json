@@ -8087,5 +8087,3154 @@
         "checkedAt": "2026-11-02T10:10:25.158Z"
       }
     ]
+  },
+  {
+    "institutionId": "academia-sinica-iop",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-149cf53edc12",
+      "source-437d3811a20b",
+      "source-8ca843b22c19",
+      "source-f390cfda612a"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-149cf53edc12",
+        "checkedAt": "2026-11-09T10:07:37.913870+00:00"
+      },
+      {
+        "sourceId": "source-437d3811a20b",
+        "checkedAt": "2026-11-09T10:07:20.351684+00:00"
+      },
+      {
+        "sourceId": "source-f390cfda612a",
+        "checkedAt": "2026-11-09T10:07:36.432359+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "binghamton",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-b27bf6c77cc4",
+      "source-ca1372f393d9"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-b27bf6c77cc4",
+        "checkedAt": "2026-11-09T10:07:25.892503+00:00"
+      },
+      {
+        "sourceId": "source-ca1372f393d9",
+        "checkedAt": "2026-11-09T10:07:26.753658+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "cern",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-0179aea01f0c"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-0179aea01f0c",
+        "checkedAt": "2026-11-09T10:07:38.799653+00:00"
+      },
+      {
+        "sourceId": "source-da1b6e0e084c",
+        "checkedAt": "2026-11-09T10:07:35.348030+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "cnrs-multihost",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "8 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "6 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-2817a357826a",
+      "source-38768b3a5b5c",
+      "source-aa52c0e01c58"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-03c0a39fd0ac",
+        "checkedAt": "2026-11-09T10:07:45.056884+00:00"
+      },
+      {
+        "sourceId": "source-14eb251a168e",
+        "checkedAt": "2026-11-09T10:07:40.901316+00:00"
+      },
+      {
+        "sourceId": "source-2817a357826a",
+        "checkedAt": "2026-11-09T10:07:42.971897+00:00"
+      },
+      {
+        "sourceId": "source-38768b3a5b5c",
+        "checkedAt": "2026-11-09T10:07:46.557949+00:00"
+      },
+      {
+        "sourceId": "source-528b76bb3d6d",
+        "checkedAt": "2026-11-09T10:07:35.106096+00:00"
+      },
+      {
+        "sourceId": "source-923128b21310",
+        "checkedAt": "2026-11-09T10:07:32.459882+00:00"
+      },
+      {
+        "sourceId": "source-aa52c0e01c58",
+        "checkedAt": "2026-11-09T10:07:30.662950+00:00"
+      },
+      {
+        "sourceId": "source-db47a61c8aa4",
+        "checkedAt": "2026-11-09T10:07:36.775018+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "caltech",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-3e4dc1230661",
+      "source-fd1cfe6a551b"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-fd1cfe6a551b",
+        "checkedAt": "2026-11-09T10:07:30.345611+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "carnegie-mellon",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-488991baa7d1",
+      "source-702548789c63",
+      "source-7817c7cc3bf7",
+      "source-b006131a9ea0",
+      "source-f8bdcdc4d0d3"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-1f81a82e3778",
+        "checkedAt": "2026-11-09T10:12:53+00:00"
+      },
+      {
+        "sourceId": "source-488991baa7d1",
+        "checkedAt": "2026-11-09T10:07:20.289605+00:00"
+      },
+      {
+        "sourceId": "source-702548789c63",
+        "checkedAt": "2026-11-09T10:10:55+00:00"
+      },
+      {
+        "sourceId": "source-b006131a9ea0",
+        "checkedAt": "2026-11-09T10:07:26.532912+00:00"
+      },
+      {
+        "sourceId": "source-f8bdcdc4d0d3",
+        "checkedAt": "2026-11-09T10:07:29.277766+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "cornell-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "8 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-1c71a7326096",
+      "source-4aaaf536ea0c",
+      "source-521ef59034d1",
+      "source-627a39eb7455",
+      "source-9fa09d5669a0",
+      "source-a59d4a5d82d2",
+      "source-aaf583b2c135",
+      "source-e1e02a466f35",
+      "source-f59221c06ef0"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-4aaaf536ea0c",
+        "checkedAt": "2026-11-09T10:07:20.886409+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "desy",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-4bd35945176e",
+      "source-775e5bf850f7",
+      "source-a9982f7e56c2"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-4bd35945176e",
+        "checkedAt": "2026-11-09T10:07:40.769327+00:00"
+      },
+      {
+        "sourceId": "source-a9982f7e56c2",
+        "checkedAt": "2026-11-09T10:07:44.106120+00:00"
+      },
+      {
+        "sourceId": "source-e5ba42c53948",
+        "checkedAt": "2026-11-09T10:07:31.100678+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "durham-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "2 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-19cbdb644a34",
+      "source-554c38c80000",
+      "source-b6cb1230f9ac"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-19cbdb644a34",
+        "checkedAt": "2026-11-09T10:07:46.317444+00:00"
+      },
+      {
+        "sourceId": "source-604fd949d311",
+        "checkedAt": "2026-11-09T10:07:38.975285+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "elte",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-5272d43aac0e"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-24d7b92a63b0",
+        "checkedAt": "2026-11-09T10:07:18.916625+00:00"
+      },
+      {
+        "sourceId": "source-5272d43aac0e",
+        "checkedAt": "2026-11-09T10:07:21.293360+00:00"
+      },
+      {
+        "sourceId": "source-5c214c3196fc",
+        "checkedAt": "2026-11-09T10:07:34.534671+00:00"
+      },
+      {
+        "sourceId": "source-96b2a1fc3254",
+        "checkedAt": "2026-11-09T10:07:31.719947+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "igfae",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "5 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "4 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-2adf0c3441b2",
+      "source-6b5fcece38d9",
+      "source-9b95b752b436",
+      "source-9dece7c05f96",
+      "source-a91778bf9009"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-1e3f22612344",
+        "checkedAt": "2026-11-09T10:07:39.376276+00:00"
+      },
+      {
+        "sourceId": "source-5f76f5293cad",
+        "checkedAt": "2026-11-09T10:07:35.873218+00:00"
+      },
+      {
+        "sourceId": "source-9f8292ac2811",
+        "checkedAt": "2026-11-09T10:07:33.125526+00:00"
+      },
+      {
+        "sourceId": "source-a91778bf9009",
+        "checkedAt": "2026-11-09T10:07:31.184622+00:00"
+      },
+      {
+        "sourceId": "source-d82d2ac97159",
+        "checkedAt": "2026-11-09T10:07:37.618133+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "georgia-tech",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "2 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-27f3be074a12",
+      "source-2a9f96ccebf3",
+      "source-2da2fc47b426",
+      "source-f70fc5b4d2fe"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2a9f96ccebf3",
+        "checkedAt": "2026-11-09T10:07:19.047997+00:00"
+      },
+      {
+        "sourceId": "source-2da2fc47b426",
+        "checkedAt": "2026-11-09T10:07:21.416993+00:00"
+      },
+      {
+        "sourceId": "source-bd42d5bb275e",
+        "checkedAt": "2026-11-09T10:07:26.431628+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "helsinki-institute-physics",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-027c0a8cb93e",
+      "source-102778ff1f84",
+      "source-6a29a67ead4d",
+      "source-f303bd2d57f0"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-027c0a8cb93e",
+        "checkedAt": "2026-11-09T10:07:31.495066+00:00"
+      },
+      {
+        "sourceId": "source-102778ff1f84",
+        "checkedAt": "2026-11-09T10:07:35.049505+00:00"
+      },
+      {
+        "sourceId": "source-6a29a67ead4d",
+        "checkedAt": "2026-11-09T10:07:36.525014+00:00"
+      },
+      {
+        "sourceId": "source-f303bd2d57f0",
+        "checkedAt": "2026-11-09T10:07:38.478658+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "hkust",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "4 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-02b3e5972587",
+      "source-0a4852140122",
+      "source-565607abe2f3",
+      "source-b49e390adb23"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-02b3e5972587",
+        "checkedAt": "2026-11-09T10:07:18.109457+00:00"
+      },
+      {
+        "sourceId": "source-0a4852140122",
+        "checkedAt": "2026-11-09T10:07:18.635927+00:00"
+      },
+      {
+        "sourceId": "source-565607abe2f3",
+        "checkedAt": "2026-11-09T10:07:33.769959+00:00"
+      },
+      {
+        "sourceId": "source-b49e390adb23",
+        "checkedAt": "2026-11-09T10:07:26.417413+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "ictp-saifr",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-2a0497a7a4c4",
+      "source-a3071aae25d7",
+      "source-aeaee72997fa"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2a0497a7a4c4",
+        "checkedAt": "2026-11-09T10:07:21.122754+00:00"
+      },
+      {
+        "sourceId": "source-61747b79380e",
+        "checkedAt": "2026-11-09T10:07:22.044621+00:00"
+      },
+      {
+        "sourceId": "source-aeaee72997fa",
+        "checkedAt": "2026-11-09T10:07:40.619876+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "imperial-college-london",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "6 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "4 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "5 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-019793a6a784",
+      "source-1ea8777c3ef3",
+      "source-2e73a33989ed",
+      "source-4abfc7034cdc",
+      "source-71fe417d1501",
+      "source-7368325cdc63",
+      "source-871cca6e5500",
+      "source-922cdac5a1e4",
+      "source-e73c40f72b53",
+      "source-e94d0521847e",
+      "source-fad02182d75d"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-019793a6a784",
+        "checkedAt": "2026-11-09T10:07:17.723572+00:00"
+      },
+      {
+        "sourceId": "source-1ea8777c3ef3",
+        "checkedAt": "2026-11-09T10:07:46.447747+00:00"
+      },
+      {
+        "sourceId": "source-871cca6e5500",
+        "checkedAt": "2026-11-09T10:07:23.695237+00:00"
+      },
+      {
+        "sourceId": "source-922cdac5a1e4",
+        "checkedAt": "2026-11-09T10:07:40.501685+00:00"
+      },
+      {
+        "sourceId": "source-e73c40f72b53",
+        "checkedAt": "2026-11-09T10:07:29.853688+00:00"
+      },
+      {
+        "sourceId": "source-e94d0521847e",
+        "checkedAt": "2026-11-09T10:07:28.599823+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "iit-madras",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "4 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "3 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-198898899ed7",
+      "source-2049783e7a38",
+      "source-6b95102e3231",
+      "source-6fc7710e5cad",
+      "source-9ba1ec81e1c4",
+      "source-b844a9ba1236",
+      "source-c1a5488a47c1"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-198898899ed7",
+        "checkedAt": "2026-11-09T10:07:38.344770+00:00"
+      },
+      {
+        "sourceId": "source-2049783e7a38",
+        "checkedAt": "2026-11-09T10:07:44.276363+00:00"
+      },
+      {
+        "sourceId": "source-6fc7710e5cad",
+        "checkedAt": "2026-11-09T10:07:39.655888+00:00"
+      },
+      {
+        "sourceId": "source-b844a9ba1236",
+        "checkedAt": "2026-11-09T10:07:31.590091+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "ifae",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "4 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-3d0ed61561ac",
+      "source-4b910fd737a5",
+      "source-55231d7006aa",
+      "source-cfaef6d207a0"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "aei-ryc",
+        "checkedAt": "2026-11-09T10:18:20+00:00"
+      },
+      {
+        "sourceId": "source-e0992a517b3b",
+        "checkedAt": "2026-11-09T10:07:40.951865+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "ihep-cas",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "10 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "8 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "11 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-08922ee3c1ba",
+      "source-22faf5aa715c",
+      "source-36b19483d408",
+      "source-3d9c9a305a95",
+      "source-40ed279b1902",
+      "source-546ee32f4af1",
+      "source-5503ea4a813c",
+      "source-7aa55634f621",
+      "source-91cad0559e95",
+      "source-a4e176f8af0e",
+      "source-b36141b5cd17",
+      "source-bfc57f35426c",
+      "source-d0064285e7b3",
+      "source-d2dfc4cfe02f",
+      "source-e001da596b39",
+      "source-e00b41715349",
+      "source-f31fb8133e84"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-4d42cdc1ff11",
+        "checkedAt": "2026-11-09T10:07:20.986414+00:00"
+      },
+      {
+        "sourceId": "source-a4e176f8af0e",
+        "checkedAt": "2026-11-09T10:07:34.830195+00:00"
+      },
+      {
+        "sourceId": "source-b36141b5cd17",
+        "checkedAt": "2026-11-09T10:07:37.183801+00:00"
+      },
+      {
+        "sourceId": "source-cf8acf1c8536",
+        "checkedAt": "2026-11-09T10:07:26.881439+00:00"
+      },
+      {
+        "sourceId": "source-d2dfc4cfe02f",
+        "checkedAt": "2026-11-09T10:07:39.367322+00:00"
+      },
+      {
+        "sourceId": "source-e001da596b39",
+        "checkedAt": "2026-11-09T10:07:40.598091+00:00"
+      },
+      {
+        "sourceId": "source-e00b41715349",
+        "checkedAt": "2026-11-09T10:07:42.852339+00:00"
+      },
+      {
+        "sourceId": "source-ea9df1e1ab1e",
+        "checkedAt": "2026-11-09T10:07:28.722316+00:00"
+      },
+      {
+        "sourceId": "source-ec0bcbaad2fe",
+        "checkedAt": "2026-11-09T10:07:29.034819+00:00"
+      },
+      {
+        "sourceId": "source-f31fb8133e84",
+        "checkedAt": "2026-11-09T10:07:45.351138+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "iop-bhubaneswar",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-35f6965f0963",
+      "source-871d432d25ec"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-35f6965f0963",
+        "checkedAt": "2026-11-09T10:07:21.109549+00:00"
+      },
+      {
+        "sourceId": "source-871d432d25ec",
+        "checkedAt": "2026-11-09T10:07:25.264248+00:00"
+      },
+      {
+        "sourceId": "source-a406a694e409",
+        "checkedAt": "2026-11-09T10:07:27.116444+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "james-madison",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "6 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-20b204f422a2",
+      "source-59abf896e8f8",
+      "source-70769475c860",
+      "source-7351354ac384",
+      "source-77c98a46829b",
+      "source-c20571552e35",
+      "source-de60cbacd041"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-1dc2afc552d4",
+        "checkedAt": "2026-11-09T10:07:18.937388+00:00"
+      },
+      {
+        "sourceId": "source-de60cbacd041",
+        "checkedAt": "2026-11-09T10:07:29.188738+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "jilin-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "4 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-1504cbd84660",
+      "source-24e5e4faae16",
+      "source-3bee74ff9505",
+      "source-40c4dc00ea0d",
+      "source-d4c16030a61a",
+      "source-ebfd5336f40f"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-1504cbd84660",
+        "checkedAt": "2026-11-09T10:07:18.214020+00:00"
+      },
+      {
+        "sourceId": "source-24e5e4faae16",
+        "checkedAt": "2026-11-09T10:07:18.788705+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "kek-tokai",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-162be672afd7",
+      "source-553802c0f38d",
+      "source-c4ac888fa0a5"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-162be672afd7",
+        "checkedAt": "2026-11-09T10:07:39.488574+00:00"
+      },
+      {
+        "sourceId": "source-553802c0f38d",
+        "checkedAt": "2026-11-09T10:07:31.264431+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "kek-tsukuba",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "4 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-083231bec761",
+      "source-0e5037a7d40b",
+      "source-162be672afd7",
+      "source-1cf295615ed6",
+      "source-eca436765c3c"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-083231bec761",
+        "checkedAt": "2026-11-09T10:07:19.404033+00:00"
+      },
+      {
+        "sourceId": "source-162be672afd7",
+        "checkedAt": "2026-11-09T10:07:39.488574+00:00"
+      },
+      {
+        "sourceId": "source-636e70feba32",
+        "checkedAt": "2026-11-09T10:07:46.954059+00:00"
+      },
+      {
+        "sourceId": "source-eca436765c3c",
+        "checkedAt": "2026-11-09T10:07:30.078190+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "kek-multicampus",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-162be672afd7",
+      "source-c94dbc10d72c"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-162be672afd7",
+        "checkedAt": "2026-11-09T10:07:39.488574+00:00"
+      },
+      {
+        "sourceId": "source-c94dbc10d72c",
+        "checkedAt": "2026-11-09T10:07:27.889428+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "kavli-ipmu",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "complete",
+    "coverage": "Complete current Scientific Staff openings list on the single, non-paginated IPMU Jobs page; both linked current role descriptions read. External JSPS schemes and other University of Tokyo units excluded.",
+    "summary": "The only two current scientific openings are explicitly postdoctoral fellowships and AI-enhanced theoretical-physics project postdocs. No faculty vacancy in this bounded list; prior archived jobs retained.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search."
+    ],
+    "directorySourceIds": [
+      "source-4f3e96e77a34"
+    ],
+    "requiredSourceIds": [
+      "source-4f3e96e77a34"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-4f3e96e77a34",
+        "checkedAt": "2026-11-09T10:18:20+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "kyoto-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-dd7f587bf08b"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-1e7a12c7e00d",
+        "checkedAt": "2026-11-09T10:12:01.909452+00:00"
+      },
+      {
+        "sourceId": "source-72d4ab7868bf",
+        "checkedAt": "2026-11-09T10:12:01.914002+00:00"
+      },
+      {
+        "sourceId": "source-b2f146ffa109",
+        "checkedAt": "2026-11-09T10:07:28.999038+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "cnrs-l2it",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-0efa84149b59",
+      "source-5ae0521ebfb6",
+      "source-d732b60e293e",
+      "source-f0cfe82487f5"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-5ae0521ebfb6",
+        "checkedAt": "2026-11-09T10:07:46.735400+00:00"
+      },
+      {
+        "sourceId": "source-d732b60e293e",
+        "checkedAt": "2026-11-09T10:07:38.923764+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "lehigh",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "2 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-0bbb01cd7e99",
+      "source-8afad470e8a7",
+      "source-ac76661b07d9"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-7b46f2fbc0b7",
+        "checkedAt": "2026-11-09T10:07:23.201600+00:00"
+      },
+      {
+        "sourceId": "source-8afad470e8a7",
+        "checkedAt": "2026-11-09T10:07:23.857805+00:00"
+      },
+      {
+        "sourceId": "source-fbcc287218eb",
+        "checkedAt": "2026-11-09T10:07:29.333657+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "aip-potsdam",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-a9271858649f"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-7b7be7e8adb7",
+        "checkedAt": "2026-11-09T10:10:55+00:00"
+      },
+      {
+        "sourceId": "source-7dd39c4da749",
+        "checkedAt": "2026-11-09T10:07:23.813893+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "louisiana-state-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "blocked",
+    "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "0 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "3 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-2e8b4d085694",
+      "source-3a195e767849",
+      "source-8c5c64b731c6",
+      "source-be8a49d2a900"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-3a195e767849",
+        "checkedAt": "2026-11-09T10:07:20.000945+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "masaryk-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-67a4a5792f2c"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-67a4a5792f2c",
+        "checkedAt": "2026-11-09T10:12:00.199835+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "mit",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-bd4e952202e6",
+      "source-d06c4534a738",
+      "source-fbd0cce5ef6d"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-d04046d76973",
+        "checkedAt": "2026-11-09T10:07:27.989610+00:00"
+      },
+      {
+        "sourceId": "source-d06c4534a738",
+        "checkedAt": "2026-11-09T10:07:36.651092+00:00"
+      },
+      {
+        "sourceId": "source-fbd0cce5ef6d",
+        "checkedAt": "2026-11-09T10:10:55+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "mcgill",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "complete",
+    "coverage": "Complete current Faculty Positions list for McGill Physics on its single, non-paginated page; both linked English faculty advertisements read. Other units and staff/course-lecturer lists excluded.",
+    "summary": "Two searches: astrophysics (existing map entry, November15 review start and open until filled confirmed) and theoretical biophysics (outside map scope). No new HEP faculty search in this bounded list.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure."
+    ],
+    "directorySourceIds": [
+      "source-76b9168ae78b",
+      "source-98d3ce503398"
+    ],
+    "requiredSourceIds": [
+      "source-76b9168ae78b"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-76b9168ae78b",
+        "checkedAt": "2026-11-09T10:18:20+00:00"
+      },
+      {
+        "sourceId": "source-8f4fafacd05d",
+        "checkedAt": "2026-11-09T10:07:24.216664+00:00"
+      },
+      {
+        "sourceId": "source-98d3ce503398",
+        "checkedAt": "2026-11-09T10:07:25.413708+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "national-cheng-kung",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-746beb9c0b1b",
+      "source-87b1907006c6"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-746beb9c0b1b",
+        "checkedAt": "2026-11-09T10:07:22.983497+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "national-taiwan-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-23b8ab2e6730",
+      "source-a8224d875a1d",
+      "source-f149cb86e5f4"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-23b8ab2e6730",
+        "checkedAt": "2026-11-09T10:07:22.264449+00:00"
+      },
+      {
+        "sourceId": "source-50d7f6e05785",
+        "checkedAt": "2026-11-09T10:07:21.503699+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "national-tsing-hua-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "blocked",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "0 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "9 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-1b0c5db932c5",
+      "source-291b9b42ca9d",
+      "source-30e387666a6b",
+      "source-60a0ea6e1b87",
+      "source-6d883cea149d",
+      "source-904b9ca6a039",
+      "source-9c5f6a06f1ca",
+      "source-cc2d95d60065",
+      "source-cce3876f7389",
+      "source-d35eaad3806e",
+      "source-e8135e220bb7"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-1b0c5db932c5",
+        "checkedAt": "2026-11-09T10:07:44.919463+00:00"
+      },
+      {
+        "sourceId": "source-e8135e220bb7",
+        "checkedAt": "2026-11-09T10:07:33.679876+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "national-yang-ming-chiao-tung",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "5 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-236c3105e6fe",
+      "source-3b98e68ca141",
+      "source-406226a10ed4",
+      "source-7c1ef0720090",
+      "source-7dc541b104d7"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-236c3105e6fe",
+        "checkedAt": "2026-11-09T10:07:44.114027+00:00"
+      },
+      {
+        "sourceId": "source-3b98e68ca141",
+        "checkedAt": "2026-11-09T10:07:23.334167+00:00"
+      },
+      {
+        "sourceId": "source-7c1ef0720090",
+        "checkedAt": "2026-11-09T10:07:40.066196+00:00"
+      },
+      {
+        "sourceId": "source-7dc541b104d7",
+        "checkedAt": "2026-11-09T10:07:43.206767+00:00"
+      },
+      {
+        "sourceId": "source-daade525bb22",
+        "checkedAt": "2026-11-09T10:07:28.935496+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "nuclear-physics-institute-cas",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-5b24ba53b5ef",
+      "source-8daf45e62f08",
+      "source-a2e86e11ec37"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-5b24ba53b5ef",
+        "checkedAt": "2026-11-09T10:07:21.410772+00:00"
+      },
+      {
+        "sourceId": "source-8daf45e62f08",
+        "checkedAt": "2026-11-09T10:07:25.120761+00:00"
+      },
+      {
+        "sourceId": "source-a2e86e11ec37",
+        "checkedAt": "2026-11-09T10:07:25.129809+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "penn-state-university-park",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-92298534f83f",
+      "source-cf0a13e01f21",
+      "source-de00024c8380"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2c8a7152bad0",
+        "checkedAt": "2026-11-09T10:07:19.545029+00:00"
+      },
+      {
+        "sourceId": "source-92298534f83f",
+        "checkedAt": "2026-11-09T10:07:35.071733+00:00"
+      },
+      {
+        "sourceId": "source-cf0a13e01f21",
+        "checkedAt": "2026-11-09T10:07:27.436496+00:00"
+      },
+      {
+        "sourceId": "source-de00024c8380",
+        "checkedAt": "2026-11-09T10:07:28.400511+00:00"
+      },
+      {
+        "sourceId": "source-e5679ac7bc07",
+        "checkedAt": "2026-11-09T10:07:28.903409+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "scripps-pitzer-natural-sciences",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-e048112ebd89",
+      "source-f55836612e80"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-14809006faca",
+        "checkedAt": "2026-11-09T10:07:18.170557+00:00"
+      },
+      {
+        "sourceId": "source-b8fde9437aaf",
+        "checkedAt": "2026-11-09T10:12:53+00:00"
+      },
+      {
+        "sourceId": "source-f55836612e80",
+        "checkedAt": "2026-11-09T10:07:38.662676+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "purdue",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-72ddb0dd1611",
+      "source-748b937d1a45",
+      "source-e53fdad2cca6"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-635ef7b4362f",
+        "checkedAt": "2026-11-09T10:07:23.471931+00:00"
+      },
+      {
+        "sourceId": "source-72ddb0dd1611",
+        "checkedAt": "2026-11-09T10:07:32.488178+00:00"
+      },
+      {
+        "sourceId": "source-748b937d1a45",
+        "checkedAt": "2026-11-09T10:07:23.027052+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "rwth-aachen",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-2426aa49dd3f",
+      "source-7a82a261843f",
+      "source-7b59da0047d3",
+      "source-a42ddf0e6cd1"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2426aa49dd3f",
+        "checkedAt": "2026-11-09T10:07:38.112367+00:00"
+      },
+      {
+        "sourceId": "source-7a82a261843f",
+        "checkedAt": "2026-11-09T10:07:41.315328+00:00"
+      },
+      {
+        "sourceId": "source-7b59da0047d3",
+        "checkedAt": "2026-11-09T10:07:35.998239+00:00"
+      },
+      {
+        "sourceId": "source-a42ddf0e6cd1",
+        "checkedAt": "2026-11-09T10:07:33.740120+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "rice-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "2 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-03cb0a76e99e",
+      "source-4888263dabf6",
+      "source-6acec7cd59f6",
+      "source-8f18190062fd"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-6acec7cd59f6",
+        "checkedAt": "2026-11-09T10:07:30.790110+00:00"
+      },
+      {
+        "sourceId": "source-8f18190062fd",
+        "checkedAt": "2026-11-09T10:07:24.378644+00:00"
+      },
+      {
+        "sourceId": "source-a88a59ead1f3",
+        "checkedAt": "2026-11-09T10:07:25.499740+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "sgt-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-28440de2153b",
+      "source-73757e2bbd64",
+      "source-fd9c424c9779"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-28440de2153b",
+        "checkedAt": "2026-11-09T10:07:18.883020+00:00"
+      },
+      {
+        "sourceId": "source-73757e2bbd64",
+        "checkedAt": "2026-11-09T10:07:22.503234+00:00"
+      },
+      {
+        "sourceId": "source-fd9c424c9779",
+        "checkedAt": "2026-11-09T10:07:35.845904+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "srm-university-ap",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "blocked",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "0 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-f66d39ba00db"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-3aebf646f920",
+        "checkedAt": "2026-11-09T10:07:46.566584+00:00"
+      },
+      {
+        "sourceId": "source-72415b80ecb6",
+        "checkedAt": "2026-11-09T10:07:41.943537+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "shinshu-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "complete",
+    "coverage": "Complete current Shinshu Faculty of Science recruitment page, single page without pagination; both physics entries assessed and new theory call read in Japanese and English. Other university units excluded.",
+    "summary": "New particle-theory TT search closes February4,2027 at close of business per English PDF. Existing experimental cosmic-ray/HEP search explicitly marked ended; its August6,2026 deadline remains. Lake/highland and biology roles are outside map scope.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 other registered directory sources were not freshly checked this week."
+    ],
+    "directorySourceIds": [
+      "source-09f03ecc5112",
+      "source-0b2176be27a0",
+      "source-1d920f643fd8",
+      "source-425f34ac7a47",
+      "source-a758a17514fb",
+      "source-f34080163a2c"
+    ],
+    "requiredSourceIds": [
+      "source-09f03ecc5112"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-09f03ecc5112",
+        "checkedAt": "2026-11-09T10:18:20+00:00"
+      },
+      {
+        "sourceId": "source-0b2176be27a0",
+        "checkedAt": "2026-11-09T10:07:44.563889+00:00"
+      },
+      {
+        "sourceId": "source-5823640765db",
+        "checkedAt": "2026-11-09T10:12:01.454628+00:00"
+      },
+      {
+        "sourceId": "source-a758a17514fb",
+        "checkedAt": "2026-11-09T10:07:34.774224+00:00"
+      },
+      {
+        "sourceId": "source-f34080163a2c",
+        "checkedAt": "2026-11-09T10:07:41.728256+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "simon-fraser",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-91eca797df6e"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-91eca797df6e",
+        "checkedAt": "2026-11-09T10:07:27.124950+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "southern-methodist",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-24d351b75b24",
+      "source-70288d2f51b1",
+      "source-dcd62b1d3882"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-24d351b75b24",
+        "checkedAt": "2026-11-09T10:07:48.190274+00:00"
+      },
+      {
+        "sourceId": "source-819a33aaec41",
+        "checkedAt": "2026-11-09T10:07:23.585422+00:00"
+      },
+      {
+        "sourceId": "source-dcd62b1d3882",
+        "checkedAt": "2026-11-09T10:07:28.645405+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "tifr-mumbai",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "6 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "5 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-3ba051a37ffe",
+      "source-70fdadc86184",
+      "source-87c516b49d2a",
+      "source-909384e028d2",
+      "source-e54e87259020",
+      "source-f6f752d12e95"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-3ba051a37ffe",
+        "checkedAt": "2026-11-09T10:07:46.203315+00:00"
+      },
+      {
+        "sourceId": "source-6247f6822e3e",
+        "checkedAt": "2026-11-09T10:11:55.802415+00:00"
+      },
+      {
+        "sourceId": "source-87c516b49d2a",
+        "checkedAt": "2026-11-09T10:07:24.464880+00:00"
+      },
+      {
+        "sourceId": "source-909384e028d2",
+        "checkedAt": "2026-11-09T10:07:25.547013+00:00"
+      },
+      {
+        "sourceId": "source-e54e87259020",
+        "checkedAt": "2026-11-09T10:07:46.486621+00:00"
+      },
+      {
+        "sourceId": "source-f6f752d12e95",
+        "checkedAt": "2026-11-09T10:07:33.936526+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "tennessee-tech",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-69745461e3ff",
+      "source-ac612f46fb18"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-a0684fd9e695",
+        "checkedAt": "2026-11-09T10:07:25.571025+00:00"
+      },
+      {
+        "sourceId": "source-ac612f46fb18",
+        "checkedAt": "2026-11-09T10:07:29.396401+00:00"
+      },
+      {
+        "sourceId": "source-c344b1bc01f9",
+        "checkedAt": "2026-11-09T10:12:53+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "texas-tech-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-4f3a94845958"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-38df584fe5ea",
+        "checkedAt": "2026-11-09T10:14:59.554627+00:00"
+      },
+      {
+        "sourceId": "source-4f3a94845958",
+        "checkedAt": "2026-11-09T10:15:26+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "ohio-state",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 3 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "3 related source checks failed; no closure inferred from access failure.",
+      "8 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-030e4d153662",
+      "source-36b7365a3a1d",
+      "source-54bb3190809b",
+      "source-54c01505a8b5",
+      "source-7428befd0371",
+      "source-c4848dddba3c",
+      "source-da3f7d1a5ab3",
+      "source-e47c08c8b197",
+      "source-e988b7682394",
+      "source-f8065ee40210"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-030e4d153662",
+        "checkedAt": "2026-11-09T10:07:40.857722+00:00"
+      },
+      {
+        "sourceId": "source-0f7f30566d2f",
+        "checkedAt": "2026-11-09T10:07:18.369212+00:00"
+      },
+      {
+        "sourceId": "source-da3f7d1a5ab3",
+        "checkedAt": "2026-11-09T10:12:53+00:00"
+      },
+      {
+        "sourceId": "source-f06894f7be37",
+        "checkedAt": "2026-11-09T10:07:46.263189+00:00"
+      },
+      {
+        "sourceId": "source-fd6e1a12fcb6",
+        "checkedAt": "2026-11-09T10:07:30.891614+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "tdli-sjtu",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "4 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-109ec5023450",
+      "source-655be499317c",
+      "source-780cd7eefb80",
+      "source-8c272d2abb01",
+      "source-ade102d95da8"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-109ec5023450",
+        "checkedAt": "2026-11-09T10:07:47.531971+00:00"
+      },
+      {
+        "sourceId": "source-655be499317c",
+        "checkedAt": "2026-11-09T10:07:22.481020+00:00"
+      },
+      {
+        "sourceId": "source-780cd7eefb80",
+        "checkedAt": "2026-11-09T10:07:23.505001+00:00"
+      },
+      {
+        "sourceId": "source-8c272d2abb01",
+        "checkedAt": "2026-11-09T10:07:26.238931+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "universidad-andres-bello",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-32abccb7d126",
+      "source-f3c91565265f"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2e487b1290bc",
+        "checkedAt": "2026-11-09T10:07:37.823124+00:00"
+      },
+      {
+        "sourceId": "source-32abccb7d126",
+        "checkedAt": "2026-11-09T10:07:34.805903+00:00"
+      },
+      {
+        "sourceId": "source-f3c91565265f",
+        "checkedAt": "2026-11-09T10:07:31.042065+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-biobio",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-8ec348b8de09",
+      "source-9bd8d381afe7",
+      "source-e05aa6cc6af2"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-879715393ec6",
+        "checkedAt": "2026-11-09T10:07:41.839859+00:00"
+      },
+      {
+        "sourceId": "source-8ec348b8de09",
+        "checkedAt": "2026-11-09T10:07:41.766515+00:00"
+      },
+      {
+        "sourceId": "source-9bd8d381afe7",
+        "checkedAt": "2026-11-09T10:07:36.137574+00:00"
+      },
+      {
+        "sourceId": "source-ea16f0bcea00",
+        "checkedAt": "2026-11-09T10:07:47.414959+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-sao-paulo",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "10 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "9 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "4 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-10cf3e15d283",
+      "source-259194fcc9bf",
+      "source-39a5633d4e9e",
+      "source-3ae745ca5e16",
+      "source-3c7eb8767682",
+      "source-42954feea8ce",
+      "source-477fae1a8145",
+      "source-493153e601d3",
+      "source-7eb77c7b3c38",
+      "source-8c7595772e35",
+      "source-8c8795b0b835",
+      "source-ca65d4da1c48",
+      "source-d001bba37d5a"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-259194fcc9bf",
+        "checkedAt": "2026-11-09T10:07:38.179292+00:00"
+      },
+      {
+        "sourceId": "source-3c7eb8767682",
+        "checkedAt": "2026-11-09T10:07:45.712489+00:00"
+      },
+      {
+        "sourceId": "source-42954feea8ce",
+        "checkedAt": "2026-11-09T10:07:31.362824+00:00"
+      },
+      {
+        "sourceId": "source-477fae1a8145",
+        "checkedAt": "2026-11-09T10:07:46.160442+00:00"
+      },
+      {
+        "sourceId": "source-493153e601d3",
+        "checkedAt": "2026-11-09T10:07:33.431886+00:00"
+      },
+      {
+        "sourceId": "source-578ff42dc80c",
+        "checkedAt": "2026-11-09T10:07:23.821569+00:00"
+      },
+      {
+        "sourceId": "source-7eb77c7b3c38",
+        "checkedAt": "2026-11-09T10:07:26.863754+00:00"
+      },
+      {
+        "sourceId": "source-8c7595772e35",
+        "checkedAt": "2026-11-09T10:07:36.427702+00:00"
+      },
+      {
+        "sourceId": "source-8c8795b0b835",
+        "checkedAt": "2026-11-09T10:07:45.311790+00:00"
+      },
+      {
+        "sourceId": "source-d001bba37d5a",
+        "checkedAt": "2026-11-09T10:07:28.477375+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-barcelona",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-23f38efb4235",
+      "source-5cbc7c4c19fd",
+      "source-99b0fe30d16f",
+      "source-c132bbe00c29"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-23f38efb4235",
+        "checkedAt": "2026-11-09T10:07:18.649280+00:00"
+      },
+      {
+        "sourceId": "source-5cbc7c4c19fd",
+        "checkedAt": "2026-11-09T10:07:21.765927+00:00"
+      },
+      {
+        "sourceId": "source-99b0fe30d16f",
+        "checkedAt": "2026-11-09T10:07:24.591575+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-of-cagliari",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "6 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "6 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-5f2763bec065",
+      "source-6f8979049a5a",
+      "source-96d71ffedaed",
+      "source-a87b4b592edb"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-40995a62934a",
+        "checkedAt": "2026-11-09T10:07:41.202697+00:00"
+      },
+      {
+        "sourceId": "source-4d83cb160b57",
+        "checkedAt": "2026-11-09T10:07:33.490805+00:00"
+      },
+      {
+        "sourceId": "source-6f8979049a5a",
+        "checkedAt": "2026-11-09T10:07:39.640372+00:00"
+      },
+      {
+        "sourceId": "source-a87b4b592edb",
+        "checkedAt": "2026-11-09T10:07:37.714660+00:00"
+      },
+      {
+        "sourceId": "source-d1718530446a",
+        "checkedAt": "2026-11-09T10:07:43.776462+00:00"
+      },
+      {
+        "sourceId": "source-f37725911fe4",
+        "checkedAt": "2026-11-09T10:07:30.933097+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "uc-berkeley",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "3 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-304cdbc6fe71",
+      "source-5ebc68afc5f1",
+      "source-8a0873b46cb1",
+      "source-8bd901e802da",
+      "source-b28ccc1834da"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-61e94cfd9b5d",
+        "checkedAt": "2026-11-09T10:07:23.283072+00:00"
+      },
+      {
+        "sourceId": "source-8bd901e802da",
+        "checkedAt": "2026-11-09T10:07:25.101337+00:00"
+      },
+      {
+        "sourceId": "source-b28ccc1834da",
+        "checkedAt": "2026-11-09T10:07:26.060003+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-cape-town",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-34132fb1d163",
+      "source-71efdfb858a2",
+      "source-819437de9adb"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-34132fb1d163",
+        "checkedAt": "2026-11-09T10:07:33.237435+00:00"
+      },
+      {
+        "sourceId": "source-71efdfb858a2",
+        "checkedAt": "2026-11-09T10:07:36.532331+00:00"
+      },
+      {
+        "sourceId": "source-819437de9adb",
+        "checkedAt": "2026-11-09T10:07:36.998059+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "chicago",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "9 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "5 sources supplied readable evidence; 4 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "4 related source checks failed; no closure inferred from access failure.",
+      "5 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-11f2528e107c",
+      "source-2685a30776be",
+      "source-77ee45d40683",
+      "source-89dd08352d1f",
+      "source-a756d912f3f6",
+      "source-d523655dabc8",
+      "source-d9818668a6ec",
+      "source-e8812febb2d0",
+      "source-eaba48dae837",
+      "source-eb424c0dd23f",
+      "source-f3f2af2d0966",
+      "source-f8c2803b1978"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-11f2528e107c",
+        "checkedAt": "2026-11-09T10:07:18.650266+00:00"
+      },
+      {
+        "sourceId": "source-2685a30776be",
+        "checkedAt": "2026-11-09T10:07:18.798357+00:00"
+      },
+      {
+        "sourceId": "source-6cef3912a8a5",
+        "checkedAt": "2026-11-09T10:07:22.379110+00:00"
+      },
+      {
+        "sourceId": "source-77ee45d40683",
+        "checkedAt": "2026-11-09T10:07:22.670820+00:00"
+      },
+      {
+        "sourceId": "source-a756d912f3f6",
+        "checkedAt": "2026-11-09T10:07:25.825795+00:00"
+      },
+      {
+        "sourceId": "source-bbe8d8c3a373",
+        "checkedAt": "2026-11-09T10:07:26.396019+00:00"
+      },
+      {
+        "sourceId": "source-d9818668a6ec",
+        "checkedAt": "2026-11-09T10:07:27.645567+00:00"
+      },
+      {
+        "sourceId": "source-eaba48dae837",
+        "checkedAt": "2026-11-09T10:07:30.556558+00:00"
+      },
+      {
+        "sourceId": "source-f3f2af2d0966",
+        "checkedAt": "2026-11-09T10:11:07+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-copenhagen",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "8 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "4 sources supplied readable evidence; 4 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "4 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-20ba0b4f263a",
+      "source-560f07e8dbca",
+      "source-65f494a662b1",
+      "source-7e8fd4f50f65",
+      "source-ad10676e71e3",
+      "source-c126bd8cca0f",
+      "source-e53d348a56af",
+      "source-f3071427e999"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-20ba0b4f263a",
+        "checkedAt": "2026-11-09T10:07:34.350895+00:00"
+      },
+      {
+        "sourceId": "source-560f07e8dbca",
+        "checkedAt": "2026-11-09T10:07:21.932841+00:00"
+      },
+      {
+        "sourceId": "source-65f494a662b1",
+        "checkedAt": "2026-11-09T10:08:06.398170+00:00"
+      },
+      {
+        "sourceId": "source-7e8fd4f50f65",
+        "checkedAt": "2026-11-09T10:07:36.569968+00:00"
+      },
+      {
+        "sourceId": "source-ad10676e71e3",
+        "checkedAt": "2026-11-09T10:07:40.105374+00:00"
+      },
+      {
+        "sourceId": "source-c126bd8cca0f",
+        "checkedAt": "2026-11-09T10:07:42.354265+00:00"
+      },
+      {
+        "sourceId": "source-e53d348a56af",
+        "checkedAt": "2026-11-09T10:07:59.926970+00:00"
+      },
+      {
+        "sourceId": "source-f3071427e999",
+        "checkedAt": "2026-11-09T10:07:31.375440+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-of-florida",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "4 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-0fad04cf603a",
+      "source-181b4fcf0f3c",
+      "source-1ef98d66d22a",
+      "source-1f41292cf72b",
+      "source-67914975f6c3",
+      "source-bb2aaffab877",
+      "source-d095cca96d1a"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-181b4fcf0f3c",
+        "checkedAt": "2026-11-09T10:07:19.547207+00:00"
+      },
+      {
+        "sourceId": "source-1ef98d66d22a",
+        "checkedAt": "2026-11-09T10:11:07+00:00"
+      },
+      {
+        "sourceId": "source-67914975f6c3",
+        "checkedAt": "2026-11-09T10:07:22.462318+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-geneva",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 3 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "3 related source checks failed; no closure inferred from access failure.",
+      "2 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-28c97bf380a1",
+      "source-482d6595f95e",
+      "source-4f461de8cbad",
+      "source-79ac17e5ee0d",
+      "source-a0ab1a577282",
+      "source-e2ce2f6e02fa"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-28c97bf380a1",
+        "checkedAt": "2026-11-09T10:07:19.035386+00:00"
+      },
+      {
+        "sourceId": "source-79ac17e5ee0d",
+        "checkedAt": "2026-11-09T10:07:23.081059+00:00"
+      },
+      {
+        "sourceId": "source-a0ab1a577282",
+        "checkedAt": "2026-11-09T10:07:25.029010+00:00"
+      },
+      {
+        "sourceId": "source-a3c2f20ad7b1",
+        "checkedAt": "2026-11-09T10:07:40.732839+00:00"
+      },
+      {
+        "sourceId": "source-e2ce2f6e02fa",
+        "checkedAt": "2026-11-09T10:07:45.445267+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-haifa",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-12f6a3f844fe",
+      "source-1586983c8187",
+      "source-4f0e6e41aa51"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-12f6a3f844fe",
+        "checkedAt": "2026-11-09T10:07:38.609020+00:00"
+      },
+      {
+        "sourceId": "source-1586983c8187",
+        "checkedAt": "2026-11-09T10:07:36.293311+00:00"
+      },
+      {
+        "sourceId": "source-4f0e6e41aa51",
+        "checkedAt": "2026-11-09T10:07:34.436144+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-of-houston",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "3 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-10ab972596ca",
+      "source-5bc4995ee4b7",
+      "source-9521cfe88683",
+      "source-e485ec3ebefc"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-10ab972596ca",
+        "checkedAt": "2026-11-09T10:07:18.417130+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-of-kentucky",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "4 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "7 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-209c7e441f91",
+      "source-3468f8d8c61c",
+      "source-36f796be2e22",
+      "source-37b33c2de390",
+      "source-579e32ceb35d",
+      "source-a4a6b32423df",
+      "source-aab1d139d6db",
+      "source-ad3687e3339a",
+      "source-c8ff19d82591",
+      "source-e628677692c2",
+      "source-e82fe1079737"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-209c7e441f91",
+        "checkedAt": "2026-11-09T10:07:19.451604+00:00"
+      },
+      {
+        "sourceId": "source-37b33c2de390",
+        "checkedAt": "2026-11-09T10:07:19.951076+00:00"
+      },
+      {
+        "sourceId": "source-ad3687e3339a",
+        "checkedAt": "2026-11-09T10:07:42.931760+00:00"
+      },
+      {
+        "sourceId": "source-e628677692c2",
+        "checkedAt": "2026-11-09T10:07:45.184166+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-melbourne",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 3 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "3 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-39d73d0166b6",
+      "source-6dc8aa51268d",
+      "source-e1c911449308"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-39d73d0166b6",
+        "checkedAt": "2026-11-09T10:07:32.530034+00:00"
+      },
+      {
+        "sourceId": "source-6dc8aa51268d",
+        "checkedAt": "2026-11-09T10:07:35.001226+00:00"
+      },
+      {
+        "sourceId": "source-e1c911449308",
+        "checkedAt": "2026-11-09T10:07:37.542787+00:00"
+      },
+      {
+        "sourceId": "source-e1f527cee680",
+        "checkedAt": "2026-11-09T10:11:20.011764+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "michigan-ann-arbor",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "3 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-0de3fae08739",
+      "source-1abc8ad038f1",
+      "source-6c006fa5dd23"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-c09d962a1c87",
+        "checkedAt": "2026-11-09T10:07:26.543586+00:00"
+      },
+      {
+        "sourceId": "source-dd2ee6a5575f",
+        "checkedAt": "2026-11-09T10:07:28.451579+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-naples-federico-ii",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "9 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-511ed0f051df",
+      "source-73d3f9f128c8",
+      "source-7bf52b9703d7",
+      "source-8134c947a191",
+      "source-89a12b9d835d",
+      "source-9df9323cffaf",
+      "source-c0e1208cba8b",
+      "source-da6ed0d0c8b1",
+      "source-e3b300a3a1de",
+      "source-f3f7bf018f58"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-89a12b9d835d",
+        "checkedAt": "2026-11-09T10:07:36.398265+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "oklahoma",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-7d5f722047fe"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-7d5f722047fe",
+        "checkedAt": "2026-11-09T10:07:24.073475+00:00"
+      },
+      {
+        "sourceId": "source-c98e47e8a2f0",
+        "checkedAt": "2026-11-09T10:07:27.092817+00:00"
+      },
+      {
+        "sourceId": "source-e16f435343ed",
+        "checkedAt": "2026-11-09T10:07:28.180050+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-oxford",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "4 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "4 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-0861afe9c823",
+      "source-7c9d5657b176",
+      "source-81459c9f4c89",
+      "source-a5c235978264",
+      "source-bf0a004d510f",
+      "source-d17020f07949",
+      "source-dad30c150d92",
+      "source-e20c0258f84c",
+      "source-ee3e60faaf8a"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-0861afe9c823",
+        "checkedAt": "2026-11-09T10:07:45.371946+00:00"
+      },
+      {
+        "sourceId": "source-a5c235978264",
+        "checkedAt": "2026-11-09T10:07:31.889939+00:00"
+      },
+      {
+        "sourceId": "source-d17020f07949",
+        "checkedAt": "2026-11-09T10:07:35.259253+00:00"
+      },
+      {
+        "sourceId": "source-dad30c150d92",
+        "checkedAt": "2026-11-09T10:07:36.941108+00:00"
+      },
+      {
+        "sourceId": "source-ee3e60faaf8a",
+        "checkedAt": "2026-11-09T10:07:42.860615+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-of-pittsburgh",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "6 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 3 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "3 related source checks failed; no closure inferred from access failure.",
+      "3 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-441a9face2b8",
+      "source-469f3bdb717f",
+      "source-7aef042c3788",
+      "source-d96821079d00",
+      "source-ebe3339fbcaa"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-130b8fa6d4f9",
+        "checkedAt": "2026-11-09T10:07:19.237346+00:00"
+      },
+      {
+        "sourceId": "source-441a9face2b8",
+        "checkedAt": "2026-11-09T10:07:20.069067+00:00"
+      },
+      {
+        "sourceId": "source-469f3bdb717f",
+        "checkedAt": "2026-11-09T10:07:20.873377+00:00"
+      },
+      {
+        "sourceId": "source-4ea9ca63e1af",
+        "checkedAt": "2026-11-09T10:07:21.003974+00:00"
+      },
+      {
+        "sourceId": "source-8fa790b8392b",
+        "checkedAt": "2026-11-09T10:12:53+00:00"
+      },
+      {
+        "sourceId": "source-ea60a2b57601",
+        "checkedAt": "2026-11-09T10:07:29.737427+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "ut-austin",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "8 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "5 sources supplied readable evidence; 3 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "3 related source checks failed; no closure inferred from access failure.",
+      "7 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-0ce93ff7d632",
+      "source-4d47c0e1d054",
+      "source-5cfd36028bdc",
+      "source-5ed7eddddc25",
+      "source-6a89b4bce9a8",
+      "source-91d892746dd7",
+      "source-96474dc3f22f",
+      "source-bb64ee2ea52f",
+      "source-e5060b9e0326",
+      "source-f3922c55ae38"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-097e30cbc26f",
+        "checkedAt": "2026-11-09T10:10:55+00:00"
+      },
+      {
+        "sourceId": "source-0ce93ff7d632",
+        "checkedAt": "2026-11-09T10:07:18.495002+00:00"
+      },
+      {
+        "sourceId": "source-5cfd36028bdc",
+        "checkedAt": "2026-11-09T10:12:53+00:00"
+      },
+      {
+        "sourceId": "source-79c7dec84d5c",
+        "checkedAt": "2026-11-09T10:07:23.557778+00:00"
+      },
+      {
+        "sourceId": "source-915355a557a4",
+        "checkedAt": "2026-11-09T10:07:24.366144+00:00"
+      },
+      {
+        "sourceId": "source-96474dc3f22f",
+        "checkedAt": "2026-11-09T10:12:53+00:00"
+      },
+      {
+        "sourceId": "source-ddc92035ca2e",
+        "checkedAt": "2026-11-09T10:07:28.035583+00:00"
+      },
+      {
+        "sourceId": "source-fdac0eda3958",
+        "checkedAt": "2026-11-09T10:07:30.266608+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "icrr-kashiwa",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-434e629eb76f"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-434e629eb76f",
+        "checkedAt": "2026-11-09T10:07:23.639942+00:00"
+      },
+      {
+        "sourceId": "source-dff991a4cf7e",
+        "checkedAt": "2026-11-09T10:12:52+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "victoria",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-85254c1f991f",
+      "source-de37bf41e003"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-85254c1f991f",
+        "checkedAt": "2026-11-09T10:07:24.895375+00:00"
+      },
+      {
+        "sourceId": "source-de37bf41e003",
+        "checkedAt": "2026-11-09T10:07:32.225843+00:00"
+      },
+      {
+        "sourceId": "source-eb6330222098",
+        "checkedAt": "2026-11-09T10:07:29.743403+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "university-warsaw",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "10 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "9 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "4 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-0f194786ad6f",
+      "source-1632b9ad7c40",
+      "source-3e33db7223bb",
+      "source-786ae6bab197",
+      "source-a1eee8c8d78f",
+      "source-a4f9a327d06f",
+      "source-e22455fcbaea"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-0f194786ad6f",
+        "checkedAt": "2026-11-09T10:07:17.903665+00:00"
+      },
+      {
+        "sourceId": "source-1632b9ad7c40",
+        "checkedAt": "2026-11-09T10:07:18.271629+00:00"
+      },
+      {
+        "sourceId": "source-49460f6bf775",
+        "checkedAt": "2026-11-09T10:07:31.774022+00:00"
+      },
+      {
+        "sourceId": "source-61705b68f2ca",
+        "checkedAt": "2026-11-09T10:07:44.808875+00:00"
+      },
+      {
+        "sourceId": "source-6b0884947a56",
+        "checkedAt": "2026-11-09T10:07:38.438305+00:00"
+      },
+      {
+        "sourceId": "source-823ff09eacfc",
+        "checkedAt": "2026-11-09T10:07:40.191703+00:00"
+      },
+      {
+        "sourceId": "source-8a506e889dce",
+        "checkedAt": "2026-11-09T10:07:41.900374+00:00"
+      },
+      {
+        "sourceId": "source-95db03b73420",
+        "checkedAt": "2026-11-09T10:07:34.460881+00:00"
+      },
+      {
+        "sourceId": "source-a4f9a327d06f",
+        "checkedAt": "2026-11-09T10:07:25.620250+00:00"
+      },
+      {
+        "sourceId": "source-d6cdefbb9191",
+        "checkedAt": "2026-11-09T10:07:36.670665+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "uw-bothell",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "1 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-9630338036da",
+      "source-a69fd7446a5e"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-8878aba24048",
+        "checkedAt": "2026-11-09T10:07:23.765245+00:00"
+      },
+      {
+        "sourceId": "source-a69fd7446a5e",
+        "checkedAt": "2026-11-09T10:07:26.679312+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "uw-milwaukee",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-e62ac87e5143",
+        "checkedAt": "2026-11-09T10:10:55+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "uib",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "4 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "9 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-079301940f76",
+      "source-0ce0dfc75113",
+      "source-10800726e37d",
+      "source-1c0c64698454",
+      "source-23f5d90044ea",
+      "source-46b1e783a2d4",
+      "source-7fd1071baf33",
+      "source-a9c90677a3a6",
+      "source-aa384d63a25d",
+      "source-ab72c72fbc91",
+      "source-fe1ebdbcaf1d"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "aei-ryc",
+        "checkedAt": "2026-11-09T10:18:20+00:00"
+      },
+      {
+        "sourceId": "lisa-jobs",
+        "checkedAt": "2026-11-09T10:18:20+00:00"
+      },
+      {
+        "sourceId": "source-079301940f76",
+        "checkedAt": "2026-11-09T10:07:43.508255+00:00"
+      },
+      {
+        "sourceId": "source-7fd1071baf33",
+        "checkedAt": "2026-11-09T10:07:46.189471+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "universite-laval",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-78ebcc015d13",
+      "source-c751a5b2c81e"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-78ebcc015d13",
+        "checkedAt": "2026-11-09T10:07:23.745350+00:00"
+      },
+      {
+        "sourceId": "source-a46de1f149ca",
+        "checkedAt": "2026-11-09T10:10:55+00:00"
+      },
+      {
+        "sourceId": "source-c751a5b2c81e",
+        "checkedAt": "2026-11-09T10:07:37.308083+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "vanderbilt",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "5 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-0ac2af8dbf23",
+      "source-1f5a44daae91",
+      "source-341497733aff",
+      "source-4909419cea97",
+      "source-4b3b4bc7495f",
+      "source-84d900fb89a3",
+      "source-afc6d7a9f201",
+      "source-f90ed5afaf23"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-0ff3b4d7bf37",
+        "checkedAt": "2026-11-09T10:07:18.081715+00:00"
+      },
+      {
+        "sourceId": "source-341497733aff",
+        "checkedAt": "2026-11-09T10:07:19.698418+00:00"
+      },
+      {
+        "sourceId": "source-4909419cea97",
+        "checkedAt": "2026-11-09T10:07:20.835938+00:00"
+      },
+      {
+        "sourceId": "source-4b3b4bc7495f",
+        "checkedAt": "2026-11-09T10:07:21.376684+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "villanova",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "5 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-1bb3b34b7872",
+      "source-3d2993ad1d2c",
+      "source-5f48455ab933",
+      "source-606cd3631958",
+      "source-8c1d953c7855",
+      "source-cbfe48ced7b0",
+      "source-f34e6544d485"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-5f48455ab933",
+        "checkedAt": "2026-11-09T10:07:22.327014+00:00"
+      },
+      {
+        "sourceId": "source-cbfe48ced7b0",
+        "checkedAt": "2026-11-09T10:07:27.257954+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "virginia-tech",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-41aa5e1068f7",
+      "source-4578744f4933",
+      "source-f48a04c8ec55"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-f48a04c8ec55",
+        "checkedAt": "2026-11-09T10:07:29.916339+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "william-and-mary",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "1 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "6 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-7a4c1547290b",
+      "source-7b517efd0c59",
+      "source-7bb80ee0b71f",
+      "source-88275453dab0",
+      "source-d09903e02575",
+      "source-e204f82ac576",
+      "source-f8e1657b9b86"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-7c18bfa63a51",
+        "checkedAt": "2026-11-09T10:07:23.942212+00:00"
+      },
+      {
+        "sourceId": "source-e204f82ac576",
+        "checkedAt": "2026-11-09T10:07:29.717516+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "yantai-university",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "1 related source checks failed; no closure inferred from access failure.",
+      "8 other registered directory sources were not freshly checked this week.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-111b967692ad",
+      "source-2230db148b7e",
+      "source-2c519fd9e6b5",
+      "source-2ed4d1c5d8be",
+      "source-36aba8743bc2",
+      "source-4715586fb91c",
+      "source-7c6caec232f8",
+      "source-8422205415cb",
+      "source-86d7504ea09f",
+      "source-a0164923be2d",
+      "source-f88ceedaa55a"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-2ed4d1c5d8be",
+        "checkedAt": "2026-11-09T10:07:19.165744+00:00"
+      },
+      {
+        "sourceId": "source-4715586fb91c",
+        "checkedAt": "2026-11-09T10:07:20.194003+00:00"
+      },
+      {
+        "sourceId": "source-7c6caec232f8",
+        "checkedAt": "2026-11-09T10:07:33.440343+00:00"
+      }
+    ]
+  },
+  {
+    "institutionId": "epfl",
+    "checkedAt": "2026-11-09T10:22:31.410247+00:00",
+    "outcome": "partial",
+    "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
+    "summary": "3 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+    "limitations": [
+      "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
+      "2 related source checks failed; no closure inferred from access failure.",
+      "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+    ],
+    "directorySourceIds": [
+      "source-45d0aa1f7c14",
+      "source-6de62612a816",
+      "source-d6bcda16a105"
+    ],
+    "requiredSourceIds": [],
+    "evidence": [
+      {
+        "sourceId": "source-45d0aa1f7c14",
+        "checkedAt": "2026-11-09T10:07:37.378654+00:00"
+      },
+      {
+        "sourceId": "source-6027019f7ea0",
+        "checkedAt": "2026-11-09T10:07:33.114081+00:00"
+      },
+      {
+        "sourceId": "source-6de62612a816",
+        "checkedAt": "2026-11-09T10:18:20+00:00"
+      },
+      {
+        "sourceId": "source-d6bcda16a105",
+        "checkedAt": "2026-11-09T10:07:43.142092+00:00"
+      },
+      {
+        "sourceId": "source-fde39c45365f",
+        "checkedAt": "2026-11-09T10:07:46.476729+00:00"
+      }
+    ]
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "runId": "hep-jobs-weekly-20261109-pass-4",
+  "startedAt": "2026-11-09T10:25:13.576678+00:00",
+  "finishedAt": "2026-11-09T10:25:52.066135+00:00",
+  "checks": [
+    {
+      "sourceId": "source-285d11a1654b",
+      "checkedAt": "2026-11-09T10:25:13.576678+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_english3.pdf"
+      ],
+      "summary": "Downloaded and read all English advertisement text: tenure-track theory assistant professor, October1 2027 start, receipt by close of business February4 2027. No numeric time or timezone stated; no time inferred.",
+      "coverage": "One employer PDF, all extracted text read. No additional institution-wide scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    }
+  ],
+  "summary": "English deadline-source evidence check, including failed web route and successful direct retrieval."
+}

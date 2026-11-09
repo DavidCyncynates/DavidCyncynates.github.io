@@ -454,5 +454,18 @@
     "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
     "sourceLicense": "CC BY-NC-SA 4.0",
     "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
+  },
+  {
+    "institutionName": "Texas Tech University",
+    "matchedOfficialName": "Texas Tech University",
+    "unitId": 229115,
+    "designation": "R1",
+    "year": 2025,
+    "sourceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "checkedOn": "2026-11-09",
+    "notes": [],
+    "sourceAttribution": "American Council on Education and Carnegie Foundation, 2025 Carnegie Classifications Public Data File; research2025 field.",
+    "sourceLicense": "CC BY-NC-SA 4.0",
+    "sourceLicenseUrl": "https://carnegieclassifications.acenet.edu/data-center/"
   }
 ]

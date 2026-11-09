@@ -1,0 +1,185 @@
+[
+  {
+    "title": "USTC ICTS tenure-track theoretical physics faculty",
+    "url": "https://inspirehep.net/jobs/3221914",
+    "employerUrl": "https://icts.ustc.edu.cn/english/2021/0329/c25434a478033/page.htm",
+    "reason": "New November 3 employer-style INSPIRE announcement describes review April 1, 2027 and October 2027 start, but current official faculty page links an older April 1, 2026 call. Preserve as lead pending cycle corroboration or explicit acceptance of employer-submitted INSPIRE as sufficient.",
+    "checkedOn": "2026-11-09",
+    "verification": "needs-review"
+  },
+  {
+    "title": "UNLV Assistant Professor of Astronomy",
+    "url": "https://nshe.wd1.myworkdayjobs.com/en-US/UNLV-External/job/Assistant-Professor-of-Astronomy--Department-of-Physics-and-Astronomy--R0153783-_R0153783",
+    "discoveryUrl": "https://www.einstein-teleskop.de/stellenangebote/",
+    "reason": "ET board November 3 announcement describes tenure track and December 1, 2026 review start, open until filled. Employer advertisement not yet verified; adjacent astronomy scope.",
+    "checkedOn": "2026-11-09",
+    "verification": "needs-review"
+  },
+  {
+    "title": "UAM Full Professor in Computational Cosmology A1124CU",
+    "url": "https://euraxess.ec.europa.eu/jobs/475462",
+    "employerUrl": "https://www.uam.es/uam/uam2026-a1113cu-a1151cu",
+    "reason": "Employer-authored EURAXESS record names full professor despite erroneous PhD metadata; cites November 30, 2026 deadline but STATUS EXPIRED and internal-promotion eligibility. Need employer call and eligibility/status reconciliation before promotion.",
+    "checkedOn": "2026-11-09",
+    "verification": "needs-review"
+  },
+  {
+    "title": "Central Michigan tenure-track assistant professor astronomy/astrophysics",
+    "url": "https://inspirehep.net/jobs/3222029",
+    "employerUrl": "https://www.jobs.cmich.edu/postings/45656",
+    "reason": "New November 3 INSPIRE/AAS listing, review/deadline January 4, 2027; adjacent astrophysics scope and employer exact deadline semantics pending.",
+    "checkedOn": "2026-11-09",
+    "verification": "needs-review"
+  },
+  {
+    "title": "IGFAE Ramón y Cajal host opportunities",
+    "url": "https://inspirehep.net/jobs/3222651",
+    "employerUrl": "https://igfae.usc.es/igfae/",
+    "reason": "November 4 employer-style INSPIRE ad advertises host support for two or more national RYC winners. National application deadline verified December 10, 2026 14:00 CET, but separate host deadline not stated. Keep distinct from formal vacancies and existing IGFAE director record; employer confirmation pending.",
+    "checkedOn": "2026-11-09",
+    "verification": "needs-review"
+  },
+  {
+    "title": "TDLI faculty search in particle, nuclear and astroparticle physics",
+    "url": "https://inspirehep.net/jobs/3180296",
+    "employerUrl": "https://academicjobsonline.org/ajo/jobs/32304",
+    "reason": "Long-running July2026 board ad with December31,2026 header date; employer application-cycle and exact deadline semantics still need checking.",
+    "checkedOn": "2026-11-09",
+    "verification": "needs-review"
+  },
+  {
+    "title": "IHEP Young Talent Faculty Position in AMS",
+    "url": "https://inspirehep.net/jobs/3143302",
+    "employerUrl": null,
+    "reason": "April2026 board announcement has April11,2027 header date; potential rolling-hire/expiry rather than hard deadline. Employer and application-cycle confirmation pending.",
+    "checkedOn": "2026-11-09",
+    "verification": "needs-review"
+  },
+  {
+    "title": "HUST faculty in theoretical and experimental fundamental physics",
+    "url": "https://inspirehep.net/jobs/3139129",
+    "employerUrl": null,
+    "reason": "April2026 board ad has April5,2027 header date; potential rolling-hire/expiry rather than hard deadline. Employer-cycle confirmation pending.",
+    "checkedOn": "2026-11-09",
+    "verification": "needs-review"
+  },
+  {
+    "title": "SGT Assistant Professor at CCSP (Indian candidates)",
+    "url": "https://inspirehep.net/jobs/3154967",
+    "employerUrl": null,
+    "reason": "May2026 board advertisement has November30,2026 header date. Verify employer-cycle and deadline meaning; distinct from foreign-faculty ad.",
+    "checkedOn": "2026-11-09",
+    "verification": "needs-review"
+  },
+  {
+    "id": "slac-ai-fundamental-physics-33299",
+    "institutionName": "SLAC National Accelerator Laboratory / Stanford University",
+    "city": "Menlo Park, California",
+    "countryCode": "US",
+    "title": "Associate Scientist — AI and Fundamental Physics",
+    "rank": [
+      "Associate Scientist (Tier 2)"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer AJO posting October 30, 2026; deadline December 18, 2026.",
+    "fields": [
+      "high-energy theory",
+      "high-energy experiment",
+      "astrophysics",
+      "cosmology",
+      "AI methods"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-12-18",
+        "kind": "listed",
+        "time": null,
+        "timezone": null,
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33299",
+        "description": "AJO application deadline; no body-specific timezone or exact-time instruction."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "needs-review",
+    "summary": "Independent AI/fundamental-physics research position; three-to-five-year staff appointment with review for possible Staff Scientist appointment.",
+    "notes": [
+      "Faculty-scope review recommended: employer compares research to assistant professor but expressly calls it fixed-term research staff, not faculty/tenure track. Keep out of default map unless project scope intentionally includes this staff-scientist path.",
+      "Employer ad specifies onsite Menlo Park work."
+    ],
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33299",
+      "https://inspirehep.net/api/jobs/3220838"
+    ],
+    "checkedOn": "2026-11-09",
+    "reason": "Faculty-scope review remains unresolved."
+  },
+  {
+    "id": "stony-brook-yitp-theory-196029",
+    "institutionName": "Stony Brook University",
+    "city": "Stony Brook, New York",
+    "countryCode": "US",
+    "title": "Assistant Professor — tenure track in theoretical physics (YITP)",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer-advertiser body states open date October26 2026, review December15 2026, deadline March1 2027.",
+    "startDate": "2027-09-01",
+    "fields": [
+      "high-energy theory",
+      "quantum field theory",
+      "quantum gravity"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-12-15",
+        "kind": "review-start",
+        "time": null,
+        "timezone": null,
+        "sourceUrl": "https://inspirehep.net/api/jobs/3221538",
+        "description": "Explicit body review-start date."
+      },
+      {
+        "date": "2027-03-01",
+        "kind": "hard",
+        "time": "23:59",
+        "timezone": "America/New_York",
+        "sourceUrl": "https://inspirehep.net/api/jobs/3221538",
+        "description": "Explicit employer-advertiser body deadline at 11:59PM Eastern Time."
+      }
+    ],
+    "openUntilFilled": null,
+    "verificationRecommendation": "Employer-advertiser INSPIRE body can support verified vacancy under maintenance policy, but retain conflicting generic December2 header visibly. Direct Interfolio dynamic body unavailable. Root to choose needs-review if requiring employer-hosted confirmation of date conflict.",
+    "summary": "YITP tenure-track theory search emphasizing formal quantum field theory, quantum gravity and related areas.",
+    "notes": [
+      "INSPIRE metadata deadline_date=2026-12-02 conflicts with employer-advertiser body; do not convert header into closure.",
+      "Public apptrkr redirect identifies canonical application URL https://apply.interfolio.com/196029; final dynamic application body inaccessible."
+    ],
+    "sourceUrls": [
+      "https://inspirehep.net/api/jobs/3221538",
+      "https://apptrkr.com/9923623",
+      "https://apply.interfolio.com/196029"
+    ],
+    "checkedOn": "2026-11-09",
+    "verification": "needs-review",
+    "reason": "Employer application page could not be read and a generic header date conflicts with the submitted body. Preserve the detailed body dates as a lead pending direct employer confirmation."
+  },
+  {
+    "title": "IGFAE competition 2026/24 and project-support calls",
+    "sourceUrl": "https://igfae.usc.es/igfae/en/jobs/",
+    "checkedOn": "2026-11-09",
+    "verification": "needs-review",
+    "reason": "Current index names a new 2026/24 competition. Full annex and faculty-equivalent appointment eligibility not yet assessed; do not promote research-support contracts automatically."
+  },
+  {
+    "title": "IIT Madras merit-based selection IITM/MBS/2/2026",
+    "sourceUrl": "https://mbsfacapp.iitm.ac.in/",
+    "checkedOn": "2026-11-09",
+    "verification": "needs-review",
+    "reason": "Portal states November 10, 2026 at 17:00 IST, but candidate eligibility and relationship to existing experimental-HEP recruitment remain unresolved. Do not replace the existing call deadline."
+  }
+]

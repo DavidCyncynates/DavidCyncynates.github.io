@@ -6990,5 +6990,199 @@
     "notes": [
       "Discovered during the November 2, 2026 weekly public-source sweep."
     ]
+  },
+  {
+    "id": "source-7f12fe1c030e",
+    "name": "ALICE current Job Announcements",
+    "url": "https://alice-collaboration.web.cern.ch/jobsinfo",
+    "kind": "collaboration-board",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "HEP experiment",
+      "nuclear physics"
+    ],
+    "notes": "Live job-announcement index linked by the previously registered October16 newsletter. Discovery only; verify employer adverts. A displayed expired tag is not a substitute for precise employer deadline meaning.",
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5823640765db",
+    "url": "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_japanese.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "shinshu-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1e7a12c7e00d",
+    "url": "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20261019.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kyoto-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-72d4ab7868bf",
+    "url": "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260928-1.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kyoto-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-67a4a5792f2c",
+    "url": "https://www.muni.cz/en/about-us/careers/vacancies/81894",
+    "kind": "advertisement",
+    "institutionIds": [
+      "masaryk-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-57240779d566",
+    "url": "https://icts.ustc.edu.cn/english/2021/0329/c25434a478033/page.htm",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e1f527cee680",
+    "url": "https://unimelb.wd105.myworkdayjobs.com/broadbean_external/job/Parkville-Victoria/Lecturer-in-Experimental-High-Energy-Physics_JR-019011-2",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-melbourne"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-91924d1270ef",
+    "url": "https://inspirehep.net/api/jobs/3220838",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5cb00f0fa405",
+    "url": "https://academicjobsonline.org/ajo/jobs/33299",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-140c081397cc",
+    "url": "https://inspirehep.net/api/jobs/3221538",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5a5fa3a1e80f",
+    "url": "https://apptrkr.com/9923623",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5c9cd621f858",
+    "url": "https://apply.interfolio.com/196029",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-38df584fe5ea",
+    "url": "https://inspirehep.net/api/jobs/3220935",
+    "kind": "advertisement",
+    "institutionIds": [
+      "texas-tech-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4f3a94845958",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=926981&partnerid=25898&siteid=5637",
+    "kind": "advertisement",
+    "institutionIds": [
+      "texas-tech-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7b8a524d28a0",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "kind": "classification",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 28
+  },
+  {
+    "id": "source-e50584d99f94",
+    "url": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "kind": "classification",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 28
+  },
+  {
+    "id": "source-285d11a1654b",
+    "url": "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_english3.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "shinshu-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
   }
 ]

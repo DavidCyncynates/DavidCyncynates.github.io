@@ -1,0 +1,313 @@
+[
+  {
+    "id": "shinshu-particle-theory-tt-2027",
+    "institutionId": "shinshu-university",
+    "institutionName": "Shinshu University",
+    "countryCode": "JP",
+    "city": "Matsumoto",
+    "title": "Tenure-track Assistant Professor in Particle Theory",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "particle theory",
+      "quantum field theory",
+      "string theory",
+      "quantum gravity"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Official current call requires receipt by February 4, 2027 (Reiwa 9), with October 1, 2027 appointment; listed in JPS February 2027 recruitment section.",
+    "startDate": "2027-10-01",
+    "deadlines": [
+      {
+        "date": "2027-02-04",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_english3.pdf",
+        "description": "Japanese call requires receipt by February 4, 2027; English call specifies close of business, without a numeric clock time or timezone."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-09",
+    "sourceUrls": [
+      "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_japanese.pdf",
+      "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_english3.pdf"
+    ],
+    "summary": "Five-year tenure-track faculty search covering particle phenomenology, field theory, string theory and quantum gravity.",
+    "notes": [
+      "Five-year tenure track, with review during the first half of year 5; successful candidates receive an indefinite appointment from year 6.",
+      "Japanese ability sufficient for teaching and university administration is required.",
+      "This is a distinct theory search from the archived Shinshu experimental cosmic-ray/HEP call."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Read the Japanese and English employer advertisements; retained the English close-of-business deadline without inventing a numeric time or timezone."
+  },
+  {
+    "id": "kyoto-nuclear-theory-associate-2027",
+    "institutionId": "kyoto-university",
+    "institutionName": "Kyoto University",
+    "countryCode": "JP",
+    "city": "Kyoto",
+    "title": "Associate Professor in Nuclear Theory",
+    "rank": [
+      "Associate Professor"
+    ],
+    "fields": [
+      "nuclear theory"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer call dated October 19, 2026 (Reiwa 8) explicitly closes January 14, 2027 (Reiwa 9).",
+    "startDate": "As soon as possible after appointment decision",
+    "deadlines": [
+      {
+        "date": "2027-01-14",
+        "time": "23:59",
+        "timezone": "Asia/Tokyo",
+        "kind": "hard",
+        "sourceUrl": "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20261019.pdf",
+        "description": "Applications must arrive by January 14, 2027 at 23:59 JST, as explicitly stated."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-09",
+    "sourceUrls": [
+      "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20261019.pdf"
+    ],
+    "summary": "Permanent associate professorship in theoretical nuclear physics, with undergraduate and graduate teaching.",
+    "notes": [
+      "Permanent appointment (no fixed term).",
+      "Adjacent nuclear-theory search; the call does not specifically restrict the research to high-energy nuclear physics."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Read the current employer advertisement and verified the appointment type, application-cycle evidence and stated deadline."
+  },
+  {
+    "id": "kyoto-theoretical-astrophysics-associate-2026",
+    "institutionId": "kyoto-university",
+    "institutionName": "Kyoto University",
+    "countryCode": "JP",
+    "city": "Kyoto",
+    "title": "Associate Professor in Theoretical Astrophysics",
+    "rank": [
+      "Associate Professor"
+    ],
+    "fields": [
+      "theoretical astrophysics"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer call dated September 24, 2026 (Reiwa 8) explicitly closes December 14, 2026.",
+    "startDate": "As soon as possible after appointment decision",
+    "deadlines": [
+      {
+        "date": "2026-12-14",
+        "time": "23:59",
+        "timezone": "Asia/Tokyo",
+        "kind": "hard",
+        "sourceUrl": "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260928-1.pdf",
+        "description": "Applications must arrive by December 14, 2026 at 23:59 JST, as explicitly stated."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-09",
+    "sourceUrls": [
+      "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260928-1.pdf"
+    ],
+    "summary": "Permanent associate professorship in theoretical astrophysics, with research and teaching duties.",
+    "notes": [
+      "Permanent appointment (no fixed term) in the Theoretical Astrophysics group."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Read the current employer advertisement and verified the appointment type, application-cycle evidence and stated deadline."
+  },
+  {
+    "id": "masaryk-string-theory-assistant-2027",
+    "institutionId": "masaryk-university",
+    "institutionName": "Masaryk University",
+    "countryCode": "CZ",
+    "city": "Brno",
+    "title": "Assistant Professor in String Theory (tenure track)",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "string theory",
+      "quantum field theory",
+      "supersymmetry",
+      "supergravity"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Official university vacancy 81894 gives application deadline December 6, 2026 and expected start September 1, 2027.",
+    "startDate": "2027-09-01 or negotiable",
+    "deadlines": [
+      {
+        "date": "2026-12-06",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://www.muni.cz/en/about-us/careers/vacancies/81894",
+        "description": "The official ad requires online submission by December 6, 2026; no clock time or timezone is stated."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-09",
+    "sourceUrls": [
+      "https://www.muni.cz/en/about-us/careers/vacancies/81894"
+    ],
+    "summary": "Tenure-track string-theory faculty search with an initial three-year contract, teaching and student-supervision duties.",
+    "notes": [
+      "The employer calls this tenure track but specifies an initial temporary three-year academic contract with possible extension.",
+      "String scattering-amplitude experience is particularly encouraged; duties include research, teaching and supervision."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Read the current employer advertisement and verified the appointment type, application-cycle evidence and stated deadline.",
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-11-09",
+      "latitude": 49.19522,
+      "longitude": 16.60796,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 3078610,
+      "matchedLocality": "Brno",
+      "institutionSourceUrl": "https://www.muni.cz/en/about-us/careers/vacancies/81894",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "Exact Brno/CZ match in freshly retrieved GeoNames cities15000. This approximate city marker does not identify a campus building or work-site entrance.",
+        "Brno locality and university profile corroborated by the official employer advertisement.",
+        "Institution profile is descriptive; no US Carnegie-equivalent classification is assigned."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://www.muni.cz/en/about-us/careers/vacancies/81894",
+      "sourceCheckedAt": "2026-11-09T10:16:25.451648+00:00",
+      "localityEvidenceUrls": [
+        "https://www.muni.cz/en/about-us/careers/vacancies/81894"
+      ]
+    },
+    "institutionSources": [
+      {
+        "url": "https://www.muni.cz/en/about-us/careers/vacancies/81894",
+        "kind": "advertisement",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "melbourne-experimental-hep-lecturer-2026",
+    "institutionId": "university-melbourne",
+    "institutionName": "University of Melbourne",
+    "countryCode": "AU",
+    "city": "Melbourne",
+    "title": "Lecturer in Experimental High Energy Physics",
+    "rank": [
+      "Lecturer"
+    ],
+    "fields": [
+      "experimental particle physics",
+      "flavour physics",
+      "neutrino physics",
+      "detector instrumentation"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Official Workday record JR-019011 was posted October 30, 2026 and explicitly closes November 30, 2026. No appointment start date stated.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-11-30",
+        "time": "23:55",
+        "timezone": "Australia/Melbourne",
+        "kind": "hard",
+        "sourceUrl": "https://unimelb.wd105.myworkdayjobs.com/broadbean_external/job/Parkville-Victoria/Lecturer-in-Experimental-High-Energy-Physics_JR-019011-2",
+        "description": "Advertisement body explicitly says November 30, 2026 at 11:55 PM, Melbourne time; generic Workday end-date header December 1 is not used."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-09",
+    "sourceUrls": [
+      "https://unimelb.wd105.myworkdayjobs.com/broadbean_external/job/Parkville-Victoria/Lecturer-in-Experimental-High-Energy-Physics_JR-019011-2"
+    ],
+    "summary": "Continuing teaching-and-research appointment in experimental particle physics, ideally flavour or neutrino physics.",
+    "notes": [
+      "Full-time continuing appointment, Level B.",
+      "Preference for flavour or neutrino physics; strong candidates in other experimental particle-physics areas also considered.",
+      "Employer explicitly offers visa sponsorship for suitable international applicants."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Read the current employer advertisement and verified the appointment type, application-cycle evidence and stated deadline."
+  },
+  {
+    "institutionId": "texas-tech-university",
+    "institutionName": "Texas Tech University",
+    "city": "Lubbock",
+    "countryCode": "US",
+    "title": "J. Fred Bucy and Odetta Greer Bucy Endowed Chair in High Energy Physics",
+    "rank": [
+      "Associate Professor",
+      "Professor"
+    ],
+    "kind": "formal-vacancy",
+    "scope": "core",
+    "fields": [
+      "experimental high energy physics",
+      "experimental nuclear physics",
+      "neutrino experiments",
+      "dark matter",
+      "future colliders",
+      "instrumentation"
+    ],
+    "cycle": "2026-2027",
+    "startDate": "2027-09-01",
+    "cycleEvidence": "Employer-submitted INSPIRE announcement posted 2026-11-01 and employer BrassRing ad 46641BR both specify a tentative September 1, 2027 start.",
+    "verification": "verified",
+    "checkedOn": "2026-11-09",
+    "openUntilFilled": null,
+    "deadlines": [
+      {
+        "date": "2027-01-15",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=926981&partnerid=25898&siteid=5637",
+        "description": "Employer portal says applications must be received by January 15. The employer-submitted INSPIRE announcement calls the same date full consideration; the map follows the portal cutoff pending clarification."
+      }
+    ],
+    "sourceUrls": [
+      "https://inspirehep.net/api/jobs/3220935",
+      "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=926981&partnerid=25898&siteid=5637"
+    ],
+    "summary": "Tenured associate or full professor appointment to lead an experimental high-energy or nuclear physics research programme, including neutrino and dark matter experiments, future colliders, AI and quantum information science.",
+    "notes": [
+      "Employer position 46641BR; tentative start date September 1, 2027.",
+      "Employer portal labels January 15, 2027 as applications must be received by; employer-submitted INSPIRE prose calls it full consideration. Retain that semantic discrepancy and do not assume availability after the date.",
+      "Employer portal contains generic error/expired templates alongside the complete populated ad. These templates alone are not evidence that the vacancy has closed."
+    ],
+    "id": "texas-tech-bucy-chair-2027",
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Read the employer portal and employer-submitted INSPIRE announcement; retain the difference in deadline wording.",
+    "institutionSources": [
+      {
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=926981&partnerid=25898&siteid=5637",
+        "kind": "advertisement",
+        "verified": true
+      }
+    ]
+  }
+]

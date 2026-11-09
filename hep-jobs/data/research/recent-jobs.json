@@ -84,20 +84,22 @@
         "date": "2026-12-01",
         "time": null,
         "timezone": null,
-        "kind": "hard",
-        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32607",
-        "description": "The advertisement explicitly states an application deadline."
+        "kind": "listed",
+        "sourceUrl": "https://ukjobs.uky.edu/postings/648332",
+        "description": "Employer portal gives December 1 as the application deadline and explicitly says the position remains open until filled; recorded as a listed milestone, not confirmed final closure."
       }
     ],
-    "openUntilFilled": null,
+    "openUntilFilled": true,
     "verification": "verified",
-    "checkedOn": "2026-10-28",
+    "checkedOn": "2026-11-09",
     "sourceUrls": [
       "https://academicjobsonline.org/ajo/jobs/32607",
       "https://ukjobs.uky.edu/postings/648332"
     ],
     "summary": "Tenure-eligible computational astrophysics appointment emphasizing data-driven methods, large astronomical datasets, and AI or machine learning. The advertisement permits theoretical or observational research.",
-    "notes": [],
+    "notes": [
+      "The employer portal explicitly says open until filled, while both it and AJO label December 1 an application deadline. Submit by that date; later consideration is not guaranteed."
+    ],
     "discovery": "daily-search-chat",
     "institutionSources": [
       {
@@ -116,7 +118,7 @@
         "verified": true
       }
     ],
-    "verificationBasis": "Employer-posted AJO advertisement."
+    "verificationBasis": "Read the employer portal and AJO advertisement; retained their deadline wording and the explicit open-until-filled statement."
   },
   {
     "id": "william-mary-astroparticle-2027",

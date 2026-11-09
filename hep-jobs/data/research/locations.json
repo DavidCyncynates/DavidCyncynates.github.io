@@ -1695,5 +1695,52 @@
       "University of Wisconsin-Milwaukee Flex (UNITID 491288) is a separate IPEDS entity and was not used."
     ],
     "sourceCheckedAt": "2026-11-02T10:14:08.110926+00:00"
+  },
+  "masaryk-university": {
+    "verification": "verified",
+    "checkedOn": "2026-11-09",
+    "latitude": 49.19522,
+    "longitude": 16.60796,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3078610,
+    "matchedLocality": "Brno",
+    "institutionSourceUrl": "https://www.muni.cz/en/about-us/careers/vacancies/81894",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Exact Brno/CZ match in freshly retrieved GeoNames cities15000. This approximate city marker does not identify a campus building or work-site entrance.",
+      "Brno locality and university profile corroborated by the official employer advertisement.",
+      "Institution profile is descriptive; no US Carnegie-equivalent classification is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.muni.cz/en/about-us/careers/vacancies/81894",
+    "sourceCheckedAt": "2026-11-09T10:16:25.451648+00:00",
+    "localityEvidenceUrls": [
+      "https://www.muni.cz/en/about-us/careers/vacancies/81894"
+    ]
+  },
+  "texas-tech-university": {
+    "verification": "verified",
+    "checkedOn": "2026-11-09",
+    "latitude": 33.583448,
+    "longitude": -101.874783,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      229115
+    ],
+    "matchedOfficialNames": [
+      "Texas Tech University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance.",
+      "Matched Texas Tech University at Lubbock, not Texas Tech University System Administration or the separate Health Sciences Center."
+    ]
   }
 }
