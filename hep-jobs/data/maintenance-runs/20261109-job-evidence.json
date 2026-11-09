@@ -1,0 +1,69 @@
+[
+  {
+    "jobId": "kyoto-nuclear-theory-associate-2027",
+    "checkedOn": "2026-11-09",
+    "sourceIds": [
+      "source-1e7a12c7e00d"
+    ],
+    "summary": "New verified faculty vacancy: Associate Professor in Nuclear Theory. Employer appointment type, cycle and deadline assessed; no exact time inferred where absent."
+  },
+  {
+    "jobId": "kyoto-theoretical-astrophysics-associate-2026",
+    "checkedOn": "2026-11-09",
+    "sourceIds": [
+      "source-72d4ab7868bf"
+    ],
+    "summary": "New verified faculty vacancy: Associate Professor in Theoretical Astrophysics. Employer appointment type, cycle and deadline assessed; no exact time inferred where absent."
+  },
+  {
+    "jobId": "masaryk-string-theory-assistant-2027",
+    "checkedOn": "2026-11-09",
+    "sourceIds": [
+      "source-67a4a5792f2c"
+    ],
+    "summary": "New verified faculty vacancy: Assistant Professor in String Theory (tenure track). Employer appointment type, cycle and deadline assessed; no exact time inferred where absent."
+  },
+  {
+    "jobId": "nycu-physics-faculty-2026",
+    "checkedOn": "2026-11-09",
+    "sourceIds": [
+      "source-3b98e68ca141",
+      "source-daade525bb22"
+    ],
+    "summary": "AJO channel no longer accepts submissions; employer still advertises email submission and open-until-filled search. Added application-channel note without closing vacancy."
+  },
+  {
+    "jobId": "shinshu-particle-theory-tt-2027",
+    "checkedOn": "2026-11-09",
+    "sourceIds": [
+      "source-285d11a1654b"
+    ],
+    "summary": "Full English employer PDF re-read directly after web retrieval failed. Confirmed February4,2027 close-of-business receipt deadline; numerical time and timezone remain unset. Japanese source evidence remains preserved in the initial version."
+  },
+  {
+    "jobId": "texas-tech-bucy-chair-2027",
+    "checkedOn": "2026-11-09",
+    "sourceIds": [
+      "source-38df584fe5ea",
+      "source-4f3a94845958"
+    ],
+    "summary": "New verified faculty vacancy: J. Fred Bucy and Odetta Greer Bucy Endowed Chair in High Energy Physics. Employer appointment type, cycle and deadline assessed; no exact time inferred where absent. January 15 follows the employer portal must-receive date; INSPIRE full-consideration wording is retained as a caveat."
+  },
+  {
+    "jobId": "kentucky-computational-astrophysics-2027",
+    "checkedOn": "2026-11-09",
+    "sourceIds": [
+      "source-37b33c2de390",
+      "source-209c7e441f91"
+    ],
+    "summary": "Employer explicitly says open until filled despite labeling December 1 an application deadline; preserve it as a listed milestone rather than confirmed final closure."
+  },
+  {
+    "jobId": "melbourne-experimental-hep-lecturer-2026",
+    "checkedOn": "2026-11-09",
+    "sourceIds": [
+      "source-e1f527cee680"
+    ],
+    "summary": "New verified faculty vacancy: Lecturer in Experimental High Energy Physics. Employer appointment type, cycle and deadline assessed; no exact time inferred where absent."
+  }
+]

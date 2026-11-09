@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-11-02",
+  "checkedOn": "2026-11-09",
   "sources": [
     {
       "id": "north-america-hep-theory",
@@ -11,7 +11,7 @@
       "cycle": "2027",
       "description": "Faculty searches in theoretical particle physics in the United States and Canada.",
       "note": "",
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-09",
       "sourceUpdatedOn": "2026-10-27",
       "evidenceUrls": [
         "https://particle.physics.ucdavis.edu/rumor/doku.php?id=current",
@@ -28,7 +28,7 @@
       "cycle": "2026–2027",
       "description": "Theoretical particle physics faculty searches, linked as the UK and Ireland rumor mill.",
       "note": "",
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-09",
       "sourceUpdatedOn": "2026-09-28",
       "evidenceUrls": [
         "https://particle.physics.ucdavis.edu/rumor/doku.php?id=currentuk",
@@ -45,8 +45,8 @@
       "cycle": "2026–2027",
       "description": "US and international tenure-track and permanent searches in collider physics, dark matter, neutrinos and related experimental fields.",
       "note": "",
-      "checkedOn": "2026-11-02",
-      "sourceUpdatedOn": "2026-10-05",
+      "checkedOn": "2026-11-09",
+      "sourceUpdatedOn": "2026-10-30",
       "evidenceUrls": [
         "https://sites.google.com/site/hepexrumor/"
       ]
@@ -60,8 +60,8 @@
       "status": "unverified",
       "cycle": null,
       "description": "A regional theory faculty rumor mill linked by the HEP community directories.",
-      "note": "The source timed out on two checks on November 2, 2026. Current activity could not be established; no closure is inferred.",
-      "checkedOn": "2026-11-02",
+      "note": "The source timed out again on November 9, 2026. Current activity could not be established; no closure is inferred.",
+      "checkedOn": "2026-11-09",
       "sourceUpdatedOn": null,
       "evidenceUrls": [
         "https://sites.google.com/site/postdocrumor/",
@@ -79,7 +79,7 @@
       "cycle": null,
       "description": "An archive of Asian HEP faculty job announcements and hiring reports.",
       "note": "The site announced on 4 July 2024 that it would no longer publish new job announcements or rumors.",
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-09",
       "sourceUpdatedOn": null,
       "evidenceUrls": [
         "https://sites.google.com/site/heprumorsasia/"

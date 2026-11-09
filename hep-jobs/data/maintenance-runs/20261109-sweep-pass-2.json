@@ -1,0 +1,359 @@
+{
+  "runId": "hep-jobs-weekly-20261109-pass-2",
+  "startedAt": "2026-11-09T10:10:55+00:00",
+  "finishedAt": "2026-11-09T10:21:22.271554+00:00",
+  "summary": "Completed partial public-source sweep for 2026–2027 HEP faculty opportunities. Bounded list scans are named individually; no exhaustive global or institution-wide coverage claim.",
+  "checks": [
+    {
+      "sourceId": "source-097e30cbc26f",
+      "checkedAt": "2026-11-09T10:10:55+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/6b5e3745"
+      ],
+      "summary": "AAS employer ad successfully read after direct HTTP403: UT Austin cosmology full consideration December 2, 2026 at 23:59 CST; unchanged.",
+      "coverage": "One advertisement or visible department page read; not a complete institution or board scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual read/assessment time following successful web retry or PDF extraction; earlier failed retrieval preserved."
+    },
+    {
+      "sourceId": "source-702548789c63",
+      "checkedAt": "2026-11-09T10:10:55+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/a5ed92fc"
+      ],
+      "summary": "AAS employer ad successfully read after direct HTTP403: CMU McWilliams director rolling review begins November 8, 2026; no hard deadline inferred from header.",
+      "coverage": "One advertisement or visible department page read; not a complete institution or board scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual read/assessment time following successful web retry or PDF extraction; earlier failed retrieval preserved."
+    },
+    {
+      "sourceId": "source-7b7be7e8adb7",
+      "checkedAt": "2026-11-09T10:10:55+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/a04bc2f9"
+      ],
+      "summary": "AAS employer ad successfully read after direct HTTP403: AIP/Potsdam W3 cosmology director, November 30, 2026 deadline and expected 2028 start; application-cycle eligibility unchanged.",
+      "coverage": "One advertisement or visible department page read; not a complete institution or board scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual read/assessment time following successful web retry or PDF extraction; earlier failed retrieval preserved."
+    },
+    {
+      "sourceId": "source-a46de1f149ca",
+      "checkedAt": "2026-11-09T10:10:55+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/d5c0665c"
+      ],
+      "summary": "AAS employer ad successfully read after direct HTTP403: Laval astrophysics December 31, 2026 deadline; unchanged.",
+      "coverage": "One advertisement or visible department page read; not a complete institution or board scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual read/assessment time following successful web retry or PDF extraction; earlier failed retrieval preserved."
+    },
+    {
+      "sourceId": "source-e62ac87e5143",
+      "checkedAt": "2026-11-09T10:10:55+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/2702ed17"
+      ],
+      "summary": "AAS employer ad successfully read after direct HTTP403: UWM continuous recruitment, November 29 full consideration and November 30, 2026 review; unchanged.",
+      "coverage": "One advertisement or visible department page read; not a complete institution or board scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual read/assessment time following successful web retry or PDF extraction; earlier failed retrieval preserved."
+    },
+    {
+      "sourceId": "source-fbd0cce5ef6d",
+      "checkedAt": "2026-11-09T10:10:55+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://physics.mit.edu/about-physics/employment-opportunities/"
+      ],
+      "summary": "MIT employer page successfully read after direct HTTP403: theoretical physics and experimental quantum science faculty searches, December 1, 2026 deadline, July 2027-or-later start.",
+      "coverage": "One advertisement or visible department page read; not a complete institution or board scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual read/assessment time following successful web retry or PDF extraction; earlier failed retrieval preserved."
+    },
+    {
+      "sourceId": "source-1ef98d66d22a",
+      "checkedAt": "2026-11-09T10:11:07+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/4b7a9ca7"
+      ],
+      "summary": "AAS employer ad successfully read after direct HTTP403: UF astronomical instrumentation review begins December 11, 2026 and remains open until filled; unchanged.",
+      "coverage": "One advertisement or visible department page read; not a complete institution or board scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual read/assessment time following successful web retry or PDF extraction; earlier failed retrieval preserved."
+    },
+    {
+      "sourceId": "source-f3f2af2d0966",
+      "checkedAt": "2026-11-09T10:11:07+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/8852332e"
+      ],
+      "summary": "AAS employer ad successfully read after direct HTTP403: Chicago Extreme Universe assistant/associate search, November 16, 2026 review and applications until filled; unchanged.",
+      "coverage": "One advertisement or visible department page read; not a complete institution or board scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual read/assessment time following successful web retry or PDF extraction; earlier failed retrieval preserved."
+    },
+    {
+      "sourceId": "source-6247f6822e3e",
+      "checkedAt": "2026-11-09T10:11:55.802415+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://main.tifr.res.in/maincampus/viewNoticeFile.php?f=T2VJdndNNzVhbGtHUEEzbXVxam9aQT09&s=WFdXaTkwL1ZDTGdxaHp6eHA1bkh1QT09"
+      ],
+      "summary": "Recovered raw PDF bytes after a malformed-content-type response. Both pages read: ADVT 2026/16 covers faculty evaluation from July 1 to December 31, 2026. Applications may be submitted before the evaluation period ends; review begins on receipt. Current record unchanged.",
+      "coverage": "Both pages of the registered employer advertisement; no exhaustive institute scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-dff991a4cf7e",
+      "checkedAt": "2026-11-09T10:12:52+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/ICRR2026-08_jp.pdf"
+      ],
+      "summary": "Downloaded Japanese ICRR2026-08 PDF read using bundled pypdf after initial extraction/web failures: assistant professors in CTAO/LST at Kashiwa, five-year term renewable once, November 25, 2026 noon deadline. Corroborates existing English-ad facts.",
+      "coverage": "One advertisement or visible department page read; not a complete institution or board scan.",
+      "paginationComplete": false,
+      "scopeType": "advertisement",
+      "timestampBasis": "Actual read/assessment time following successful web retry or PDF extraction; earlier failed retrieval preserved."
+    },
+    {
+      "sourceId": "source-1f81a82e3778",
+      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/ebe9db3c"
+      ],
+      "summary": "Web retrieval recovered the readable employer advertisement after direct HTTP 403. CMU astrophysics, statistics and machine learning faculty: rolling review from 2026-11-08; no hard closure.",
+      "coverage": "One employer AAS advertisement read; no exhaustive board coverage.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5cfd36028bdc",
+      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/2d1b76f2"
+      ],
+      "summary": "Web retrieval recovered the readable employer advertisement after direct HTTP 403. UT Austin instrumentation faculty: review from 2026-11-16 until filled; target August 2027 start.",
+      "coverage": "One employer AAS advertisement read; no exhaustive board coverage.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8fa790b8392b",
+      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/33a81251"
+      ],
+      "summary": "Web retrieval recovered the readable employer advertisement after direct HTTP 403. Pittsburgh astrophysics faculty: August 2027 start; full consideration by 2026-12-01 and continued applications for the duration of the search.",
+      "coverage": "One employer AAS advertisement read; no exhaustive board coverage.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-96474dc3f22f",
+      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/210c5bdf"
+      ],
+      "summary": "Web retrieval recovered the readable employer advertisement after direct HTTP 403. UT Austin astronomy faculty: August 2027 start and full consideration by 2026-11-10.",
+      "coverage": "One employer AAS advertisement read; no exhaustive board coverage.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b8fde9437aaf",
+      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/0017344c"
+      ],
+      "summary": "Web retrieval recovered the readable employer advertisement after direct HTTP 403. Scripps/Pitzer astrophysics faculty: July 2027 start; review from 2026-10-01 until filled.",
+      "coverage": "One employer AAS advertisement read; no exhaustive board coverage.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c344b1bc01f9",
+      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/5b64bbe4"
+      ],
+      "summary": "Web retrieval recovered the readable employer advertisement after direct HTTP 403. Tennessee Tech physics faculty with astrophysics interest: full consideration by 2026-12-15; open until filled.",
+      "coverage": "One employer AAS advertisement read; no exhaustive board coverage.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-da3f7d1a5ab3",
+      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/57dd4cbb"
+      ],
+      "summary": "Web retry also returned HTTP403. OhioState astronomy ad could not be reverified in this attempt; existing facts retained.",
+      "coverage": "Individual advertisement retrieval retry.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "aas-job-register",
+      "checkedAt": "2026-11-09T10:18:20+00:00",
+      "reviewedAt": "2026-11-09T10:18:20+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister"
+      ],
+      "summary": "Initial direct request returned HTTP 403; web retrieval succeeded. Screened current faculty-section rows including new November entries and compared relevant cosmology/HEP entries. Astronomy-wide adjacent candidates still need employer follow-up.",
+      "coverage": "Current tenure/tenure-track faculty section of visible job register; no claim to every category or historical archive.",
+      "paginationComplete": false,
+      "rawAttempt": {
+        "status": 403,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "initialAttemptAt": "2026-11-09T10:07:17.493024+00:00"
+    },
+    {
+      "sourceId": "inspire-jobs",
+      "checkedAt": "2026-11-09T10:18:20+00:00",
+      "reviewedAt": "2026-11-09T10:18:20+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs",
+        "https://inspirehep.net/api/jobs?sort=mostrecent&size=100&page=1",
+        "https://inspirehep.net/api/jobs/?sort=mostrecent&q=&size=100&page=2"
+      ],
+      "summary": "HTML was a JavaScript shell; public INSPIRE feed used to screen title, rank, deadline and employer metadata for pages 1 and 2, with selected faculty descriptions and employer advertisements followed. Newly identified current-cycle vacancies and unresolved leads are recorded separately. Initial retrieval failures retained. No complete-board claim.",
+      "coverage": "Public jobs API, sort=mostrecent, size=100, pages 1–2, query all jobs; 200 records screened out of 32053. Remaining pages not traversed.",
+      "paginationComplete": false,
+      "rawAttempt": {
+        "status": 200,
+        "error": null
+      },
+      "initialAttemptAt": "2026-11-09T10:07:17.312816+00:00",
+      "continuationUrl": "https://inspirehep.net/api/jobs/?sort=mostrecent&q=&size=100&page=3",
+      "recordsInspected": 200,
+      "query": "all jobs",
+      "pageSize": 100,
+      "pages": [
+        1,
+        2
+      ],
+      "totalRecords": 32053,
+      "feedRetrievedAt": "2026-11-09T10:17:38.974920+00:00"
+    },
+    {
+      "sourceId": "source-09f03ecc5112",
+      "institutionId": "shinshu-university",
+      "checkedAt": "2026-11-09T10:18:20+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.shinshu-u.ac.jp/faculty/science/others/recruitment.html",
+        "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_japanese.pdf",
+        "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_english3.pdf"
+      ],
+      "summary": "New particle-theory TT search closes February4,2027 at close of business per English PDF. Existing experimental cosmic-ray/HEP search explicitly marked ended; its August6,2026 deadline remains. Lake/highland and biology roles are outside map scope.",
+      "coverage": "Complete current Shinshu Faculty of Science recruitment page, single page without pagination; both physics entries assessed and new theory call read in Japanese and English. Other university units excluded.",
+      "paginationComplete": true,
+      "scopeComplete": true,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-172cc15b03df",
+      "checkedAt": "2026-11-09T10:18:20+00:00",
+      "reviewedAt": "2026-11-09T10:18:20+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/jobs?sort=mostrecent",
+        "https://inspirehep.net/api/jobs?sort=mostrecent&size=100&page=1",
+        "https://inspirehep.net/api/jobs/?sort=mostrecent&q=ranks%3AJUNIOR%20OR%20ranks%3ASENIOR&size=100&page=1",
+        "https://inspirehep.net/api/jobs/?sort=mostrecent&q=ranks%3AJUNIOR%20OR%20ranks%3ASENIOR&size=100&page=2"
+      ],
+      "summary": "HTML was a JavaScript shell; public INSPIRE feed used to screen title, rank, deadline and employer metadata for pages 1 and 2, with selected faculty descriptions and employer advertisements followed. Newly identified current-cycle vacancies and unresolved leads are recorded separately. Initial retrieval failures retained. No complete-board claim.",
+      "coverage": "Public jobs API, sort=mostrecent, size=100, pages 1–2, query ranks:JUNIOR OR ranks:SENIOR; 200 records screened out of 5171. Remaining pages not traversed.",
+      "paginationComplete": false,
+      "rawAttempt": {
+        "status": 200,
+        "error": null
+      },
+      "initialAttemptAt": "2026-11-09T10:07:18.332158+00:00",
+      "continuationUrl": "https://inspirehep.net/api/jobs/?sort=mostrecent&q=ranks%3AJUNIOR%20OR%20ranks%3ASENIOR&size=100&page=3",
+      "recordsInspected": 200,
+      "query": "ranks:JUNIOR OR ranks:SENIOR",
+      "pageSize": 100,
+      "pages": [
+        1,
+        2
+      ],
+      "totalRecords": 5171,
+      "feedRetrievedAt": "2026-11-09T10:17:38.961862+00:00"
+    },
+    {
+      "sourceId": "source-4f3e96e77a34",
+      "institutionId": "kavli-ipmu",
+      "checkedAt": "2026-11-09T10:18:20+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.ipmu.jp/en/job-opportunities",
+        "https://www.ipmu.jp/en/job-opportunities/PD2026",
+        "https://www.ipmu.jp/en/job-opportunities/AIETP2027"
+      ],
+      "summary": "The only two current scientific openings are explicitly postdoctoral fellowships and AI-enhanced theoretical-physics project postdocs. No faculty vacancy in this bounded list; prior archived jobs retained.",
+      "coverage": "Complete current Scientific Staff openings list on the single, non-paginated IPMU Jobs page; both linked current role descriptions read. External JSPS schemes and other University of Tokyo units excluded.",
+      "paginationComplete": true,
+      "scopeComplete": true,
+      "scopeType": "vacancy-list"
+    },
+    {
+      "sourceId": "source-6de62612a816",
+      "institutionId": "epfl",
+      "checkedAt": "2026-11-09T10:18:20+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://www.epfl.ch/schools/sb/research/iphys/open-positions/",
+        "https://www.epfl.ch/about/working/faculty-position-in-experimantal-particle-physics/"
+      ],
+      "summary": "List remains readable and names Experimental Particle Physics; advertisement link404 retained as failure. Prior verified facts unchanged and no closure inferred.",
+      "coverage": "Current IPHYS Faculty Positions list has one experimental-particle entry; its linked employer advertisement returned404. Not a completed vacancy-evidence scan or institution-wide scan.",
+      "paginationComplete": false,
+      "scopeComplete": false
+    },
+    {
+      "sourceId": "source-76b9168ae78b",
+      "institutionId": "mcgill",
+      "checkedAt": "2026-11-09T10:18:20+00:00",
+      "outcome": "complete",
+      "evidenceUrls": [
+        "https://www.physics.mcgill.ca/pos/",
+        "https://www.physics.mcgill.ca/pos/astro-06-en.html",
+        "https://www.physics.mcgill.ca/pos/tbiop-00-en.html"
+      ],
+      "summary": "Two searches: astrophysics (existing map entry, November15 review start and open until filled confirmed) and theoretical biophysics (outside map scope). No new HEP faculty search in this bounded list.",
+      "coverage": "Complete current Faculty Positions list for McGill Physics on its single, non-paginated page; both linked English faculty advertisements read. Other units and staff/course-lecturer lists excluded.",
+      "paginationComplete": true,
+      "scopeComplete": true,
+      "scopeType": "vacancy-list"
+    }
+  ]
+}

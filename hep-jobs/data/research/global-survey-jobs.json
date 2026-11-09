@@ -2024,14 +2024,15 @@
     ],
     "openUntilFilled": true,
     "verification": "verified",
-    "checkedOn": "2026-10-28",
+    "checkedOn": "2026-11-09",
     "sourceUrls": [
       "https://phys.nycu.edu.tw/faculty-position-iop-nycu/",
       "https://academicjobsonline.org/ajo/jobs/32260"
     ],
     "summary": "All-ranks physics search, explicitly welcoming particle and nuclear physics, observational cosmology and multimessenger astronomy.",
     "notes": [
-      "The call also covers condensed matter and semiconductor physics."
+      "The call also covers condensed matter and semiconductor physics.",
+      "As checked November 9, AJO no longer accepts submissions through its listing. The employer advertisement still offers email submission and describes the search as open until filled; use the employer page for application instructions."
     ],
     "discovery": "institution-board",
     "verificationBasis": "Current employer advertisement read directly or via employer-submitted INSPIRE record; deadline semantics checked against advertisement text.",

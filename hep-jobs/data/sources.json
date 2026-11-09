@@ -17,8 +17,8 @@
     "lastFullScan": null,
     "checkState": "partial",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-11-02T10:13:36+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:13:36+00:00",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
     "lastFullScanAt": null
   },
   {
@@ -38,8 +38,8 @@
     "lastFullScan": null,
     "checkState": "partial",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-11-02T10:10:56.869135+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:10:56.869135+00:00",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
     "lastFullScanAt": null
   },
   {
@@ -66,8 +66,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:12.843872+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:12.843872+00:00",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
     "lastFullScanAt": null
   },
   {
@@ -86,8 +86,8 @@
     "lastFullScan": null,
     "checkState": "partial",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-11-02T10:10:56.869242+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:10:56.869242+00:00",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
     "lastFullScanAt": null
   },
   {
@@ -124,8 +124,8 @@
     "lastFullScan": null,
     "checkState": "partial",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-11-02T10:10:56.869354+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:10:56.869354+00:00",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
     "lastFullScanAt": null
   },
   {
@@ -145,8 +145,8 @@
     "lastFullScan": null,
     "checkState": "partial",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-11-02T10:10:56.962282+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:10:56.962282+00:00",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
     "lastFullScanAt": null
   },
   {
@@ -166,8 +166,8 @@
     "lastFullScan": null,
     "checkState": "partial",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-11-02T10:12:41.265658+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:12:41.265658+00:00",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
     "lastFullScanAt": null
   },
   {
@@ -186,8 +186,8 @@
     "lastFullScan": null,
     "checkState": "partial",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-11-02T10:10:57.352823+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:10:57.352823+00:00",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
     "lastFullScanAt": null
   },
   {
@@ -213,8 +213,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:20.789354+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:20.789354+00:00",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
     "lastFullScanAt": null
   },
   {
@@ -234,10 +234,10 @@
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:37.725169+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:37.725169+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:38.799653+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:38.799653+00:00",
     "lastFullScanAt": "2026-11-02T10:08:37.725169+00:00",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-019793a6a784",
@@ -259,7 +259,7 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:11:59+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:17.723572+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T19:13:34.837243+00:00",
     "lastFullScanAt": null
   },
@@ -283,8 +283,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:30.491240+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:30.491240+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:31.495066+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:31.495066+00:00",
     "lastFullScanAt": null
   },
   {
@@ -303,8 +303,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": false,
-    "lastAttemptAt": "2026-11-02T10:08:12.844190+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:12.844190+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.109457+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:18.109457+00:00",
     "lastFullScanAt": null
   },
   {
@@ -339,8 +339,8 @@
       "department"
     ],
     "linkVerified": true,
-    "lastAttemptAt": "2026-10-28T19:13:33+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:33+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:40.857722+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:40.857722+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -384,8 +384,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:25.161994+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:25.161994+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:45.056884+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:45.056884+00:00",
     "lastFullScanAt": null
   },
   {
@@ -445,8 +445,8 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-10-28T19:21:20.147731+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:20.147731+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:43.508255+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:43.508255+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -482,8 +482,8 @@
     "notes": [
       "Full employer advertisement read; supports newly verified job."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:20.789511+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:20.789511+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:19.404033+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:19.404033+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -503,11 +503,11 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-10-28T19:21:18.819494+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:18.819494+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:45.371946+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:45.371946+00:00",
     "lastFullScanAt": "2026-10-28T19:21:18.819494+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-08922ee3c1ba",
@@ -548,8 +548,8 @@
       "Discovered during the November 2, 2026 weekly public-source sweep."
     ],
     "lastEvidenceCheck": "2026-11-02",
-    "lastAttemptAt": "2026-11-02T10:14:56+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:14:56+00:00",
+    "lastAttemptAt": "2026-11-09T10:10:55+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:10:55+00:00",
     "lastFullScanAt": null
   },
   {
@@ -567,10 +567,10 @@
     "notes": [
       "Complete Japanese Faculty of Science recruitment page; all displayed calls, no pagination."
     ],
-    "lastAttemptAt": "2026-10-28T19:24:18+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:24:18+00:00",
-    "lastFullScanAt": "2026-10-28T19:24:18+00:00",
-    "lastFullScan": "2026-10-28",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
+    "lastFullScanAt": "2026-11-09T10:18:20+00:00",
+    "lastFullScan": "2026-11-09",
     "checkState": "complete"
   },
   {
@@ -589,8 +589,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": false,
-    "lastAttemptAt": "2026-11-02T10:08:26.360820+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:26.360820+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.635927+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:18.635927+00:00",
     "lastFullScanAt": null
   },
   {
@@ -659,8 +659,8 @@
     "notes": [
       "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:28.498595+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:28.498595+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:44.563889+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:44.563889+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -722,7 +722,7 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:12.844284+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.495002+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T14:41:26.130287+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -842,8 +842,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:20.789631+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:20.789631+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:17.903665+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:17.903665+00:00",
     "lastFullScanAt": null
   },
   {
@@ -861,7 +861,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:11:49+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.369212+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -901,7 +901,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:12.844380+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.081715+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -920,8 +920,8 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:33.838769+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:33.838769+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:35.049505+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:35.049505+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -962,11 +962,11 @@
     "notes": [
       "Full current Scientists category, six entries, no next page."
     ],
-    "lastAttemptAt": "2026-10-28T19:24:18+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:24:18+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:47.531971+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:47.531971+00:00",
     "lastFullScanAt": "2026-10-28T19:24:18+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "url": "https://careers.uh.edu/jobs/assistant-professor-nuclear-theorist-houston-texas-united-states",
@@ -989,8 +989,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:20.789703+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:20.789703+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.417130+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:18.417130+00:00",
     "lastFullScanAt": null
   },
   {
@@ -1100,8 +1100,8 @@
     "notes": [
       "Discovered during second-pass bounded institution review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:26.361006+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:26.361006+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.650266+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:18.650266+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -1136,8 +1136,8 @@
     "notes": [
       "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:39.048555+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:39.048555+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:38.609020+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:38.609020+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -1157,7 +1157,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:13.007393+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:19.237346+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -1170,8 +1170,21 @@
     "lastFullScan": null,
     "cadenceDays": 7,
     "checkState": "partial",
-    "lastAttemptAt": "2026-10-28T15:17:55+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T15:17:55+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:43.224387+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:43.224387+00:00",
+    "lastFullScanAt": null
+  },
+  {
+    "id": "source-140c081397cc",
+    "url": "https://inspirehep.net/api/jobs/3221538",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "lastAttemptAt": "2026-11-09T10:13:13.905006+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:13:13.905006+00:00",
     "lastFullScanAt": null
   },
   {
@@ -1189,7 +1202,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:11.944000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.170557+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -1208,11 +1221,11 @@
     "notes": [
       "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
     ],
-    "lastAttemptAt": "2026-10-28T19:39:58+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:39:58+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:37.913870+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:37.913870+00:00",
     "lastFullScanAt": "2026-10-28T19:39:58+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-14eb251a168e",
@@ -1224,7 +1237,7 @@
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
-    "checkState": "failed",
+    "checkState": "partial",
     "notes": [
       "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
     ],
@@ -1232,8 +1245,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:21.503253+00:00",
-    "lastSuccessfulCheckAt": null,
+    "lastAttemptAt": "2026-11-09T10:07:40.901316+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:40.901316+00:00",
     "lastFullScanAt": null
   },
   {
@@ -1252,7 +1265,7 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": false,
-    "lastAttemptAt": "2026-11-02T10:08:26.694770+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.214020+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T15:18:57.562361+00:00",
     "lastFullScanAt": null
   },
@@ -1271,8 +1284,8 @@
     "notes": [
       "Full department News archive as served, six entries, no pagination; both 2027 and prior 2026 faculty notices inspected."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:33.514427+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:33.514427+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.293311+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:36.293311+00:00",
     "lastFullScanAt": "2026-10-28T19:24:18+00:00",
     "lastFullScan": "2026-10-28",
     "checkState": "partial"
@@ -1309,11 +1322,11 @@
     "notes": [
       "Current researcher openings section, seven records on one page; current faculty advertisements followed. Ended archive not comprehensively reprocessed."
     ],
-    "lastAttemptAt": "2026-10-28T19:24:18+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:24:18+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:39.488574+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:39.488574+00:00",
     "lastFullScanAt": "2026-10-28T19:24:18+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-1632b9ad7c40",
@@ -1334,7 +1347,7 @@
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:13.433099+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.271629+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "checkState": "failed"
@@ -1420,8 +1433,8 @@
     "notes": [
       "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
     ],
-    "lastAttemptAt": "2026-11-02T10:12:41.797828+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:12:41.797828+00:00",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
     "lastFullScanAt": null
   },
   {
@@ -1441,8 +1454,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:21.128902+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:21.128902+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:19.547207+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:19.547207+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -1462,8 +1475,8 @@
     "notes": [
       "Public recruitment landing page only; detailed eligibility/application scope unresolved."
     ],
-    "lastAttemptAt": "2026-10-28T19:36:55+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:36:55+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:38.344770+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:38.344770+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -1502,7 +1515,7 @@
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:37.535156+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:46.317444+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "checkState": "failed"
@@ -1571,11 +1584,11 @@
     "notes": [
       "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
     ],
-    "lastAttemptAt": "2026-10-28T19:41:59+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:44.919463+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T19:41:59+00:00",
     "lastFullScanAt": "2026-10-28T19:41:59+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "failed"
   },
   {
     "id": "source-1b86a3b50509",
@@ -1746,8 +1759,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:26.863545+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:26.863545+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.937388+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:18.937388+00:00",
     "lastFullScanAt": null
   },
   {
@@ -1759,11 +1772,30 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:21:16.800725+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16.800725+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:39.376276+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:39.376276+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
+  },
+  {
+    "id": "source-1e7a12c7e00d",
+    "url": "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20261019.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kyoto-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-11-09",
+    "lastAttemptAt": "2026-11-09T10:12:01.909452+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:01.909452+00:00",
+    "lastFullScanAt": null
   },
   {
     "id": "source-1ea8777c3ef3",
@@ -1784,10 +1816,10 @@
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:28.975618+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:35.024049+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:46.447747+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:46.447747+00:00",
     "lastFullScanAt": null,
-    "checkState": "failed"
+    "checkState": "partial"
   },
   {
     "id": "source-1ef98d66d22a",
@@ -1806,8 +1838,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:09:40+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:09:40+00:00",
+    "lastAttemptAt": "2026-11-09T10:11:07+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:11:07+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -1869,8 +1901,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:11.944000+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:09:11.944000+00:00",
+    "lastAttemptAt": "2026-11-09T10:12:53+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:53+00:00",
     "lastFullScanAt": null
   },
   {
@@ -1903,8 +1935,8 @@
     "notes": [
       "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
     ],
-    "lastAttemptAt": "2026-10-28T19:40:29+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:40:29+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:44.276363+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:44.276363+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -1937,10 +1969,10 @@
       "advertisement",
       "recruitment"
     ],
-    "lastEvidenceCheck": "2026-10-28",
+    "lastEvidenceCheck": "2026-11-09",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:26.930047+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:26.930047+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:19.451604+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:19.451604+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -1981,11 +2013,11 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:31.319633+00:00",
-    "lastSuccessfulCheckAt": null,
+    "lastAttemptAt": "2026-11-09T10:07:34.350895+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:34.350895+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
-    "checkState": "failed"
+    "checkState": "partial"
   },
   {
     "id": "source-21b824203eb2",
@@ -2119,11 +2151,11 @@
     "notes": [
       "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
     ],
-    "lastAttemptAt": "2026-10-28T19:40:38+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:40:38+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:44.114027+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:44.114027+00:00",
     "lastFullScanAt": "2026-10-28T19:40:38+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-23b8ab2e6730",
@@ -2140,8 +2172,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:13.625525+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:13.625525+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:22.264449+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:22.264449+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -2166,8 +2198,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:21.305969+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:21.305969+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.649280+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:18.649280+00:00",
     "lastFullScanAt": null
   },
   {
@@ -2213,8 +2245,8 @@
     ],
     "lastEvidenceCheck": "2026-11-02",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:26.966446+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:26.966446+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:38.112367+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:38.112367+00:00",
     "lastFullScanAt": null
   },
   {
@@ -2234,7 +2266,7 @@
     "notes": [
       "Link discovered in employer material; not separately read."
     ],
-    "lastAttemptAt": "2026-11-02T10:11:08+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:48.190274+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "checkState": "failed"
@@ -2252,8 +2284,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:13.724982+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:13.724982+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.916625+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:18.916625+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -2275,8 +2307,8 @@
     "notes": [
       "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:21.499974+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:21.499974+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.788705+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:18.788705+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -2343,8 +2375,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-10-28T19:21:29+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:29+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:38.179292+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:38.179292+00:00",
     "lastFullScanAt": null
   },
   {
@@ -2362,7 +2394,7 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:11:59+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.798357+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -2424,7 +2456,7 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": false,
-    "lastAttemptAt": "2026-11-02T10:08:24.999321+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:42.971897+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -2442,7 +2474,7 @@
     "notes": [
       "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
     ],
-    "lastAttemptAt": "2026-11-02T10:10:59.330229+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:46.981833+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -2467,8 +2499,27 @@
     "notes": [
       "Specific employer call verified; full institution recruitment survey is incomplete."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:13.769800+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:18.883020+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T19:37:43+00:00",
+    "lastFullScanAt": null
+  },
+  {
+    "id": "source-285d11a1654b",
+    "url": "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_english3.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "shinshu-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-11-09",
+    "lastAttemptAt": "2026-11-09T10:25:13.576678+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:25:13.576678+00:00",
     "lastFullScanAt": null
   },
   {
@@ -2491,8 +2542,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:21.690357+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:21.690357+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:19.035386+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:19.035386+00:00",
     "lastFullScanAt": null
   },
   {
@@ -2540,8 +2591,8 @@
     "lastFullScan": null,
     "cadenceDays": 7,
     "checkState": "partial",
-    "lastAttemptAt": "2026-10-28T15:14:46+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T15:14:46+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:44.387746+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:44.387746+00:00",
     "lastFullScanAt": null
   },
   {
@@ -2586,8 +2637,8 @@
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:27.238660+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:27.238660+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:21.122754+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:21.122754+00:00",
     "lastFullScanAt": null,
     "checkState": "partial"
   },
@@ -2653,8 +2704,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:19.207247+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:19.207247+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:19.047997+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:19.047997+00:00",
     "lastFullScanAt": null
   },
   {
@@ -2730,7 +2781,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:11.944000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:19.545029+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -2789,10 +2840,10 @@
     "notes": [
       "Link discovered in employer material; not separately read."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:27.514132+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:21.416993+00:00",
     "lastSuccessfulCheckAt": "2026-11-02T10:08:27.514132+00:00",
     "lastFullScanAt": null,
-    "checkState": "partial"
+    "checkState": "failed"
   },
   {
     "id": "source-2e16662ca885",
@@ -2824,7 +2875,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:36.397031+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:37.823124+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -2887,7 +2938,7 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": false,
-    "lastAttemptAt": "2026-11-02T10:08:14.010135+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:19.165744+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T15:18:57.926878+00:00",
     "lastFullScanAt": null
   },
@@ -2984,8 +3035,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:29.571896+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:29.571896+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:34.805903+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:34.805903+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -3007,10 +3058,10 @@
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:23.839422+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:23.839422+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:33.237435+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:33.237435+00:00",
     "lastFullScanAt": "2026-11-02T10:08:23.839422+00:00",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-34138346a5d7",
@@ -3048,8 +3099,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:27.825152+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:27.825152+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:19.698418+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:19.698418+00:00",
     "lastFullScanAt": null
   },
   {
@@ -3131,8 +3182,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:14.100979+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:14.100979+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:21.109549+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:21.109549+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -3232,12 +3283,12 @@
       "advertisement",
       "recruitment"
     ],
-    "lastEvidenceCheck": "2026-10-28",
+    "lastEvidenceCheck": "2026-11-09",
     "notes": [
       "Discovered during second-pass bounded institution review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:21.952403+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:21.952403+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:19.951076+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:19.951076+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -3256,11 +3307,30 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": false,
-    "lastAttemptAt": "2026-11-02T10:08:41.636543+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:46.557949+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "failed"
+  },
+  {
+    "id": "source-38df584fe5ea",
+    "url": "https://inspirehep.net/api/jobs/3220935",
+    "kind": "advertisement",
+    "institutionIds": [
+      "texas-tech-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-11-09",
+    "lastAttemptAt": "2026-11-09T10:14:59.554627+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:14:59.554627+00:00",
+    "lastFullScanAt": null
   },
   {
     "id": "source-39a5633d4e9e",
@@ -3301,7 +3371,7 @@
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
       "Official university careers page links to this portal. The fetched portal returned no readable listing text; use browser inspection for a full scan."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:25.998445+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:32.530034+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T19:24:18+00:00",
     "lastFullScanAt": "2026-10-28T19:24:18+00:00",
     "checkState": "failed"
@@ -3323,7 +3393,7 @@
     "notes": [
       "Discovered during second-pass bounded institution review."
     ],
-    "lastAttemptAt": "2026-11-02T10:11:49+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:20.000945+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -3380,7 +3450,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:28.166825+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:46.566584+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T15:18:57.668469+00:00",
     "lastFullScanAt": null
   },
@@ -3399,14 +3469,14 @@
       "advertisement",
       "recruitment"
     ],
-    "lastEvidenceCheck": "2026-10-28",
+    "lastEvidenceCheck": "2026-11-09",
     "verified": true,
     "discoveryMethod": "direct-advertisement",
     "notes": [
       "Specific employer call verified; full institution recruitment survey is incomplete."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:14.136052+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:14.136052+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.334167+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:23.334167+00:00",
     "lastFullScanAt": null
   },
   {
@@ -3427,7 +3497,7 @@
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
       "Departmental faculty recruitment page was available in the search index, but the subsequent direct fetch timed out."
     ],
-    "lastAttemptAt": "2026-11-02T10:09:49+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:46.203315+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "checkState": "failed"
@@ -3471,8 +3541,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:26.406525+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:26.406525+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:45.712489+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:45.712489+00:00",
     "lastFullScanAt": "2026-10-28T19:19:08+00:00"
   },
   {
@@ -3622,8 +3692,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:38:29.313692+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:38:29.313692+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:41.202697+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:41.202697+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -3743,8 +3813,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-10-28T19:21:16+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:31.362824+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:31.362824+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -3769,8 +3839,8 @@
     ],
     "lastEvidenceCheck": "2026-11-02",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:16:05+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:16:05+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.639942+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:23.639942+00:00",
     "lastFullScanAt": null
   },
   {
@@ -3794,8 +3864,8 @@
     "notes": [
       "Specific employer call verified; full institution recruitment survey is incomplete."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:22.428439+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:22.428439+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:20.351684+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:20.351684+00:00",
     "lastFullScanAt": null
   },
   {
@@ -3834,8 +3904,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:28.410989+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:28.410989+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:20.069067+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:20.069067+00:00",
     "lastFullScanAt": null
   },
   {
@@ -3923,11 +3993,11 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:34.922077+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:34.922077+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:37.378654+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:37.378654+00:00",
     "lastFullScanAt": "2026-11-02T10:08:34.922077+00:00",
     "lastFullScan": "2026-11-02",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "url": "https://www.saip.org.za/job-ads/",
@@ -3976,11 +4046,11 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:22.531631+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:22.531631+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:20.873377+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:20.873377+00:00",
     "lastFullScanAt": "2026-11-02T10:08:22.531631+00:00",
     "lastFullScan": "2026-11-02",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-46a212e176a9",
@@ -4063,8 +4133,8 @@
     "notes": [
       "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:28.637902+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:28.637902+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:20.194003+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:20.194003+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -4084,8 +4154,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:32.246344+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:32.246344+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:46.160442+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:46.160442+00:00",
     "lastFullScanAt": "2026-10-28T19:18:31+00:00",
     "lastFullScan": "2026-10-28",
     "checkState": "partial"
@@ -4149,7 +4219,7 @@
     "notes": [
       "Linked detail could not be read during institutional vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:14.981597+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:20.289605+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -4172,8 +4242,8 @@
     "notes": [
       "Discovered during second-pass bounded institution review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:22.605409+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:22.605409+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:20.835938+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:20.835938+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -4193,8 +4263,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-10-28T19:21:16+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:33.431886+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:33.431886+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -4208,8 +4278,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:45:02.348991+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:45:02.348991+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:31.774022+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:31.774022+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -4246,8 +4316,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:28.714507+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:28.714507+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:20.886409+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:20.886409+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -4308,8 +4378,8 @@
     "notes": [
       "Discovered during second-pass bounded institution review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:15.066758+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:15.066758+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:21.376684+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:21.376684+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -4367,8 +4437,8 @@
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:30.214928+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:30.214928+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:40.769327+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:40.769327+00:00",
     "lastFullScanAt": null,
     "checkState": "partial"
   },
@@ -4397,12 +4467,12 @@
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
-    "checkState": "partial",
+    "checkState": "failed",
     "roles": [
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:28.308831+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:20.986414+00:00",
     "lastSuccessfulCheckAt": "2026-11-02T10:09:28.308831+00:00",
     "lastFullScanAt": null
   },
@@ -4436,8 +4506,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:37:41.219708+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:37:41.219708+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:33.490805+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:33.490805+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -4457,7 +4527,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:28.799904+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:21.003974+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -4482,8 +4552,28 @@
     "notes": [
       "Specific employer call verified; full institution recruitment survey is incomplete."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:30.104207+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:30.104207+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:34.436144+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:34.436144+00:00",
+    "lastFullScanAt": null
+  },
+  {
+    "id": "source-4f3a94845958",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=926981&partnerid=25898&siteid=5637",
+    "kind": "advertisement",
+    "institutionIds": [
+      "texas-tech-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-11-09",
+    "linkVerified": true,
+    "lastAttemptAt": "2026-11-09T10:15:26+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:15:26+00:00",
     "lastFullScanAt": null
   },
   {
@@ -4499,13 +4589,13 @@
       "recruitment"
     ],
     "discoveryMethod": "direct-page",
-    "lastFullScan": "2026-10-28",
+    "lastFullScan": "2026-11-09",
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
     ],
-    "lastAttemptAt": "2026-10-28T19:24:18+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:24:18+00:00",
-    "lastFullScanAt": "2026-10-28T19:24:18+00:00",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
+    "lastFullScanAt": "2026-11-09T10:18:20+00:00",
     "checkState": "complete"
   },
   {
@@ -4544,8 +4634,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:15.268586+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:15.268586+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:21.503699+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:21.503699+00:00",
     "lastFullScanAt": null
   },
   {
@@ -4609,8 +4699,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:23.117829+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:23.117829+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:21.293360+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:21.293360+00:00",
     "lastFullScanAt": "2026-10-28T19:13:34.332297+00:00",
     "lastFullScan": "2026-10-28",
     "checkState": "partial"
@@ -4624,8 +4714,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:21:16.153641+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16.153641+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:35.106096+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:35.106096+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -4764,8 +4854,8 @@
     "notes": [
       "Full advertisement body read; supports screening only, not directory completion."
     ],
-    "lastAttemptAt": "2026-10-28T19:23:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:23:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:31.264431+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:31.264431+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -4814,8 +4904,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:28.970720+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:28.970720+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:21.932841+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:21.932841+00:00",
     "lastFullScanAt": null
   },
   {
@@ -4833,11 +4923,11 @@
     "notes": [
       "Department Jobs page, all six calls and linked HEP AJO ads 29808/29809/29810; no pagination."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:30.685299+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:30.685299+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:33.769959+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:33.769959+00:00",
     "lastFullScanAt": "2026-11-02T10:08:30.685299+00:00",
     "lastFullScan": "2026-11-02",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-56f598858e09",
@@ -4853,6 +4943,19 @@
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
+  },
+  {
+    "id": "source-57240779d566",
+    "url": "https://icts.ustc.edu.cn/english/2021/0329/c25434a478033/page.htm",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "lastAttemptAt": "2026-11-09T10:12:01.908140+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:01.908140+00:00",
+    "lastFullScanAt": null
   },
   {
     "id": "source-5737c273b71c",
@@ -4884,7 +4987,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:15.626877+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.821569+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -4908,6 +5011,25 @@
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
+  },
+  {
+    "id": "source-5823640765db",
+    "url": "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_japanese.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "shinshu-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-11-09",
+    "lastAttemptAt": "2026-11-09T10:12:01.454628+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:01.454628+00:00",
+    "lastFullScanAt": null
   },
   {
     "id": "source-5967af5c9326",
@@ -4961,6 +5083,19 @@
     "checkState": "partial"
   },
   {
+    "id": "source-5a5fa3a1e80f",
+    "url": "https://apptrkr.com/9923623",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "failed",
+    "cadenceDays": 7,
+    "lastAttemptAt": "2026-11-09T10:14:05.232465+00:00",
+    "lastSuccessfulCheckAt": null,
+    "lastFullScanAt": null
+  },
+  {
     "id": "source-5a9e5a2b2c1f",
     "name": "IBS Directors and Chief Investigators",
     "url": "https://www.ibs.re.kr/eng/sub04_02.do",
@@ -4991,7 +5126,7 @@
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
-    "checkState": "failed",
+    "checkState": "partial",
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
@@ -5001,8 +5136,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:11:59+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:35.880830+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:46.735400+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:46.735400+00:00",
     "lastFullScanAt": null
   },
   {
@@ -5025,8 +5160,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:23.153161+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:23.153161+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:21.410772+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:21.410772+00:00",
     "lastFullScanAt": null
   },
   {
@@ -5038,7 +5173,7 @@
     "lastFullScan": null,
     "cadenceDays": 7,
     "checkState": "failed",
-    "lastAttemptAt": "2026-11-02T10:11:00.575827+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:47.888076+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -5072,14 +5207,40 @@
     ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
-    "checkState": "partial",
+    "checkState": "failed",
     "cadenceDays": 7,
     "roles": [
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:11:03.300562+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:34.534671+00:00",
     "lastSuccessfulCheckAt": "2026-11-02T10:11:03.300562+00:00",
+    "lastFullScanAt": null
+  },
+  {
+    "id": "source-5c9cd621f858",
+    "url": "https://apply.interfolio.com/196029",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "failed",
+    "cadenceDays": 7,
+    "lastAttemptAt": "2026-11-09T10:14:05.232465+00:00",
+    "lastSuccessfulCheckAt": null,
+    "lastFullScanAt": null
+  },
+  {
+    "id": "source-5cb00f0fa405",
+    "url": "https://academicjobsonline.org/ajo/jobs/33299",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "lastAttemptAt": "2026-11-09T10:13:41.814063+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:13:41.814063+00:00",
     "lastFullScanAt": null
   },
   {
@@ -5092,7 +5253,7 @@
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
-    "checkState": "failed",
+    "checkState": "partial",
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
@@ -5102,8 +5263,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:09:02+00:00",
-    "lastSuccessfulCheckAt": null,
+    "lastAttemptAt": "2026-11-09T10:07:21.765927+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:21.765927+00:00",
     "lastFullScanAt": null
   },
   {
@@ -5123,8 +5284,8 @@
     "notes": [
       "Discovered during second-pass bounded institution review."
     ],
-    "lastAttemptAt": "2026-11-02T10:09:40+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:09:40+00:00",
+    "lastAttemptAt": "2026-11-09T10:12:53+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:53+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -5243,8 +5404,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:23.159401+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:23.159401+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:22.327014+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:22.327014+00:00",
     "lastFullScanAt": null
   },
   {
@@ -5256,8 +5417,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:21:16.539136+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16.539136+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:35.873218+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:35.873218+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -5271,13 +5432,13 @@
     ],
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
-    "checkState": "partial",
+    "checkState": "failed",
     "cadenceDays": 7,
     "roles": [
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-11-02",
-    "lastAttemptAt": "2026-11-02T10:08:29.693797+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:33.114081+00:00",
     "lastSuccessfulCheckAt": "2026-11-02T10:08:29.693797+00:00",
     "lastFullScanAt": null
   },
@@ -5290,8 +5451,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:21:16.420221+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16.420221+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:38.975285+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:38.975285+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -5347,8 +5508,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:45:02.910459+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:45:02.910459+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:44.808875+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:44.808875+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -5368,8 +5529,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:29.522586+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:29.522586+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:22.044621+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:22.044621+00:00",
     "lastFullScanAt": null
   },
   {
@@ -5387,8 +5548,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:15.966140+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:15.966140+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.283072+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:23.283072+00:00",
     "lastFullScanAt": null
   },
   {
@@ -5406,8 +5567,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:23.262550+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:23.262550+00:00",
+    "lastAttemptAt": "2026-11-09T10:11:55.802415+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:11:55.802415+00:00",
     "lastFullScanAt": null
   },
   {
@@ -5491,8 +5652,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:29.869418+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:29.869418+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.471931+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:23.471931+00:00",
     "lastFullScanAt": null
   },
   {
@@ -5510,8 +5671,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:29.987953+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:29.987953+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:46.954059+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:46.954059+00:00",
     "lastFullScanAt": null
   },
   {
@@ -5634,8 +5795,8 @@
     "notes": [
       "Specific employer call verified; full institution recruitment survey is incomplete."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:16.061971+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:16.061971+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:22.481020+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:22.481020+00:00",
     "lastFullScanAt": null
   },
   {
@@ -5696,11 +5857,11 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-11-02T10:10:26+00:00",
+    "lastAttemptAt": "2026-11-09T10:08:06.398170+00:00",
     "lastSuccessfulCheckAt": "2026-11-02T10:10:26+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
-    "checkState": "partial"
+    "checkState": "failed"
   },
   {
     "id": "source-67914975f6c3",
@@ -5719,11 +5880,31 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:23.372729+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:23.372729+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:22.462318+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:22.462318+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
+  },
+  {
+    "id": "source-67a4a5792f2c",
+    "url": "https://www.muni.cz/en/about-us/careers/vacancies/81894",
+    "kind": "advertisement",
+    "institutionIds": [
+      "masaryk-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-11-09",
+    "linkVerified": true,
+    "lastAttemptAt": "2026-11-09T10:12:00.199835+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:00.199835+00:00",
+    "lastFullScanAt": null
   },
   {
     "id": "source-67d3b085c1de",
@@ -5796,7 +5977,7 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:39.985621+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.525014+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -5809,8 +5990,8 @@
     "lastFullScan": null,
     "cadenceDays": 7,
     "checkState": "partial",
-    "lastAttemptAt": "2026-10-28T15:13:44+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T15:13:44+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:30.241169+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:30.241169+00:00",
     "lastFullScanAt": null
   },
   {
@@ -5847,8 +6028,8 @@
       "department"
     ],
     "linkVerified": true,
-    "lastAttemptAt": "2026-10-28T19:13:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:30.790110+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:30.790110+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -5862,8 +6043,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:45:02.349457+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:45:02.349457+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:38.438305+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:38.438305+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -5966,7 +6147,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:11:59+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:22.379110+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -6025,7 +6206,7 @@
     "notes": [
       "Full advertisement body read; supports screening only, not directory completion."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:31.880887+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:35.001226+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T19:23:11+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -6046,11 +6227,11 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-10-28T19:21:20.652400+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:20.652400+00:00",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
     "lastFullScanAt": "2026-10-28T19:21:20.652400+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-6f8979049a5a",
@@ -6067,11 +6248,11 @@
     "notes": [
       "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
     ],
-    "lastAttemptAt": "2026-10-28T19:38:29.063330+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:38:29.063330+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:39.640372+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:39.640372+00:00",
     "lastFullScanAt": "2026-10-28T19:38:29.063330+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-6f8cfa9ad3ae",
@@ -6103,8 +6284,8 @@
     "notes": [
       "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
     ],
-    "lastAttemptAt": "2026-10-28T19:37:30+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:37:30+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:39.655888+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:39.655888+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -6126,8 +6307,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:09:49+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:09:49+00:00",
+    "lastAttemptAt": "2026-11-09T10:10:55+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:10:55+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -6228,8 +6409,8 @@
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:37.031835+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:37.031835+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.532331+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:36.532331+00:00",
     "lastFullScanAt": null,
     "checkState": "partial"
   },
@@ -6281,11 +6462,11 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:38:39.736000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:41.943537+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T19:38:39.736000+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
-    "checkState": "partial"
+    "checkState": "failed"
   },
   {
     "id": "source-726c02b77e1a",
@@ -6318,6 +6499,25 @@
     "checkState": "partial"
   },
   {
+    "id": "source-72d4ab7868bf",
+    "url": "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260928-1.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kyoto-university"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-11-09",
+    "lastAttemptAt": "2026-11-09T10:12:01.914002+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:01.914002+00:00",
+    "lastFullScanAt": null
+  },
+  {
     "id": "source-72ddb0dd1611",
     "url": "https://www.physics.purdue.edu/",
     "kind": "department",
@@ -6334,8 +6534,8 @@
     "notes": [
       "Link discovered in employer material; not separately read."
     ],
-    "lastAttemptAt": "2026-10-28T19:13:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:32.488178+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:32.488178+00:00",
     "lastFullScanAt": null,
     "checkState": "partial"
   },
@@ -6402,8 +6602,8 @@
     "notes": [
       "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:16.618593+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:16.618593+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:22.503234+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:22.503234+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -6466,8 +6666,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": false,
-    "lastAttemptAt": "2026-11-02T10:08:23.449351+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:23.449351+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:22.983497+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:22.983497+00:00",
     "lastFullScanAt": null
   },
   {
@@ -6491,8 +6691,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:30.189760+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:30.189760+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.027052+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:23.027052+00:00",
     "lastFullScanAt": null
   },
   {
@@ -6539,10 +6739,10 @@
       "department"
     ],
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:37.007083+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:37.007083+00:00",
-    "lastFullScanAt": "2026-11-02T10:08:37.007083+00:00",
-    "lastFullScan": "2026-11-02",
+    "lastAttemptAt": "2026-11-09T10:18:20+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:20+00:00",
+    "lastFullScanAt": "2026-11-09T10:18:20+00:00",
+    "lastFullScan": "2026-11-09",
     "checkState": "complete"
   },
   {
@@ -6604,7 +6804,7 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:16.783118+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:22.670820+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -6626,8 +6826,8 @@
     "notes": [
       "Full employer advertisement read; supports newly verified job."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:23.711233+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:23.711233+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.505001+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:23.505001+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -6708,8 +6908,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:30.773371+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:30.773371+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.745350+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:23.745350+00:00",
     "lastFullScanAt": null
   },
   {
@@ -6731,7 +6931,7 @@
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:16.872549+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.081059+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "checkState": "failed"
@@ -6766,8 +6966,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-11-02",
-    "lastAttemptAt": "2026-11-02T10:08:23.942400+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:23.942400+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.557778+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:23.557778+00:00",
     "lastFullScanAt": null
   },
   {
@@ -6810,7 +7010,7 @@
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:31.214833+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:41.315328+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "checkState": "failed"
@@ -6872,7 +7072,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:17.010712+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.201600+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -6917,8 +7117,8 @@
     ],
     "lastEvidenceCheck": "2026-11-02",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:24.043628+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:24.043628+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:35.998239+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:35.998239+00:00",
     "lastFullScanAt": null
   },
   {
@@ -6939,8 +7139,21 @@
       "Discovered during the November 2, 2026 weekly public-source sweep."
     ],
     "lastEvidenceCheck": "2026-11-02",
-    "lastAttemptAt": "2026-11-02T10:14:56+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:14:56+00:00",
+    "lastAttemptAt": "2026-11-09T10:10:55+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:10:55+00:00",
+    "lastFullScanAt": null
+  },
+  {
+    "id": "source-7b8a524d28a0",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "kind": "classification",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 28,
+    "lastAttemptAt": "2026-11-09T10:18:26.522741+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:26.522741+00:00",
     "lastFullScanAt": null
   },
   {
@@ -7018,7 +7231,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:11:49+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.942212+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -7037,11 +7250,11 @@
     "notes": [
       "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
     ],
-    "lastAttemptAt": "2026-10-28T19:37:30+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:37:30+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:40.066196+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:40.066196+00:00",
     "lastFullScanAt": "2026-10-28T19:37:30+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-7c6caec232f8",
@@ -7058,8 +7271,8 @@
     "notes": [
       "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim."
     ],
-    "lastAttemptAt": "2026-10-28T19:23:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:23:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:33.440343+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:33.440343+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -7118,11 +7331,11 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:17.207708+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:17.207708+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:24.073475+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:24.073475+00:00",
     "lastFullScanAt": "2026-11-02T10:08:17.207708+00:00",
     "lastFullScan": "2026-11-02",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-7dc541b104d7",
@@ -7139,11 +7352,11 @@
     "notes": [
       "Public source inspected in the October 28 follow-up; see source-check ledger for exact scope."
     ],
-    "lastAttemptAt": "2026-10-28T19:40:29+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:40:29+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:43.206767+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:43.206767+00:00",
     "lastFullScanAt": "2026-10-28T19:40:29+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-7dd39c4da749",
@@ -7163,8 +7376,8 @@
       "Discovered during the November 2, 2026 weekly public-source sweep."
     ],
     "lastEvidenceCheck": "2026-11-02",
-    "lastAttemptAt": "2026-11-02T10:14:56+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:14:56+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.813893+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:23.813893+00:00",
     "lastFullScanAt": null
   },
   {
@@ -7187,8 +7400,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:37.680418+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:37.680418+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.569968+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:36.569968+00:00",
     "lastFullScanAt": null
   },
   {
@@ -7225,8 +7438,29 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:24.231762+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:24.231762+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:26.863754+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:26.863754+00:00",
+    "lastFullScanAt": null
+  },
+  {
+    "id": "source-7f12fe1c030e",
+    "name": "ALICE current Job Announcements",
+    "url": "https://alice-collaboration.web.cern.ch/jobsinfo",
+    "kind": "collaboration-board",
+    "coverage": [
+      "global"
+    ],
+    "fields": [
+      "HEP experiment",
+      "nuclear physics"
+    ],
+    "notes": "Live job-announcement index linked by the previously registered October16 newsletter. Discovery only; verify employer adverts. A displayed expired tag is not a substitute for precise employer deadline meaning.",
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "lastAttemptAt": "2026-11-09T10:12:00.639746+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:00.639746+00:00",
     "lastFullScanAt": null
   },
   {
@@ -7270,8 +7504,8 @@
       "recruitment"
     ],
     "linkVerified": true,
-    "lastAttemptAt": "2026-10-28T19:37:41.487630+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:37:41.487630+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:46.189471+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:46.189471+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -7367,10 +7601,10 @@
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:40.710863+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:40.710863+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.998059+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:36.998059+00:00",
     "lastFullScanAt": "2026-11-02T10:08:40.710863+00:00",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-819a33aaec41",
@@ -7387,7 +7621,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:17.270217+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.585422+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -7413,8 +7647,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:45:02.874386+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:45:02.874386+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:40.191703+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:40.191703+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -7452,8 +7686,8 @@
     "notes": [
       "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
     ],
-    "lastAttemptAt": "2026-10-28T15:14:32+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T15:14:32+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:37.454146+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:37.454146+00:00",
     "lastFullScanAt": null
   },
   {
@@ -7495,8 +7729,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:11:03.300954+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:11:03.300954+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:24.895375+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:24.895375+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -7510,8 +7744,8 @@
     "lastFullScan": null,
     "cadenceDays": 7,
     "checkState": "partial",
-    "lastAttemptAt": "2026-10-28T15:13:44+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T15:13:44+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:32.130908+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:32.130908+00:00",
     "lastFullScanAt": null
   },
   {
@@ -7568,8 +7802,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:32.211582+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:32.211582+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.695237+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:23.695237+00:00",
     "lastFullScanAt": null
   },
   {
@@ -7592,10 +7826,10 @@
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:17.340365+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:17.340365+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:25.264248+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:25.264248+00:00",
     "lastFullScanAt": "2026-11-02T10:08:17.340365+00:00",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "url": "https://inspirehep.net/jobs/3198780",
@@ -7607,12 +7841,12 @@
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
-    "checkState": "partial",
+    "checkState": "failed",
     "roles": [
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-11-02",
-    "lastAttemptAt": "2026-11-02T10:09:28.308957+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:41.839859+00:00",
     "lastSuccessfulCheckAt": "2026-11-02T10:09:28.308957+00:00",
     "lastFullScanAt": null
   },
@@ -7652,8 +7886,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:32.442048+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:32.442048+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:24.464880+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:24.464880+00:00",
     "lastFullScanAt": "2026-10-28T19:24:18+00:00",
     "lastFullScan": "2026-10-28",
     "checkState": "partial"
@@ -7692,7 +7926,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:17.355942+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.765245+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -7711,11 +7945,11 @@
     "notes": [
       "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
     ],
-    "lastAttemptAt": "2026-10-28T19:37:41.219837+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:37:41.219837+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.398265+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:36.398265+00:00",
     "lastFullScanAt": "2026-10-28T19:37:41.219837+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-89dd08352d1f",
@@ -7766,8 +8000,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:45:02.901170+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:45:02.901170+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:41.900374+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:41.900374+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -7793,8 +8027,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:24.638514+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:24.638514+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:23.857805+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:23.857805+00:00",
     "lastFullScanAt": null
   },
   {
@@ -7814,8 +8048,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:32.581079+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:32.581079+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:25.101337+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:25.101337+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -7872,8 +8106,8 @@
     "notes": [
       "Entire faculty and research-divisions announcement read in browser."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:17.455410+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:17.455410+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:26.238931+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:26.238931+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -7914,8 +8148,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-10-28T19:21:16+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.427702+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:36.427702+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -7941,8 +8175,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:21.888910+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:21.888910+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:45.311790+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:45.311790+00:00",
     "lastFullScanAt": null
   },
   {
@@ -7976,7 +8210,7 @@
     "discoveredOn": "2026-10-28",
     "lastFullScan": "2026-11-02",
     "cadenceDays": 7,
-    "checkState": "complete",
+    "checkState": "partial",
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
@@ -7986,8 +8220,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:24.829432+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:24.829432+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:25.120761+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:25.120761+00:00",
     "lastFullScanAt": "2026-11-02T10:08:24.829432+00:00"
   },
   {
@@ -8005,11 +8239,11 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:41.619664+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:41.619664+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:41.766515+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:41.766515+00:00",
     "lastFullScanAt": "2026-11-02T10:08:41.619664+00:00",
     "lastFullScan": "2026-11-02",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-8f18190062fd",
@@ -8028,8 +8262,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:32.595447+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:32.595447+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:24.378644+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:24.378644+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -8049,7 +8283,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:17.455933+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:24.216664+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -8083,8 +8317,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:11.944000+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:09:11.944000+00:00",
+    "lastAttemptAt": "2026-11-09T10:12:53+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:53+00:00",
     "lastFullScanAt": null
   },
   {
@@ -8123,8 +8357,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:32.985729+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:32.985729+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:25.547013+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:25.547013+00:00",
     "lastFullScanAt": "2026-10-28T19:24:18+00:00",
     "lastFullScan": "2026-10-28",
     "checkState": "partial"
@@ -8144,8 +8378,21 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:17.865471+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:24.366144+00:00",
     "lastSuccessfulCheckAt": null,
+    "lastFullScanAt": null
+  },
+  {
+    "id": "source-91924d1270ef",
+    "url": "https://inspirehep.net/api/jobs/3220838",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "lastAttemptAt": "2026-11-09T10:13:13.797869+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:13:13.797869+00:00",
     "lastFullScanAt": null
   },
   {
@@ -8231,7 +8478,7 @@
     "discoveredOn": "2026-10-28",
     "lastFullScan": "2026-11-02",
     "cadenceDays": 7,
-    "checkState": "complete",
+    "checkState": "partial",
     "roles": [
       "advertisement",
       "recruitment"
@@ -8242,8 +8489,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:24.927229+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:24.927229+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:27.124950+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:27.124950+00:00",
     "lastFullScanAt": "2026-11-02T10:08:24.927229+00:00"
   },
   {
@@ -8259,11 +8506,11 @@
       "recruitment"
     ],
     "linkVerified": true,
-    "lastAttemptAt": "2026-10-28T19:13:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:35.071733+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:35.071733+00:00",
     "lastFullScanAt": "2026-10-28T19:13:11+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-922cdac5a1e4",
@@ -8280,8 +8527,8 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-10-28T19:21:17.479386+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:17.479386+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:40.501685+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:40.501685+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -8295,8 +8542,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:21:16.153478+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16.153478+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:32.459882+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:32.459882+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -8391,8 +8638,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:45:02.349163+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:45:02.349163+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:34.460881+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:34.460881+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -8433,8 +8680,8 @@
     "notes": [
       "Discovered during second-pass bounded institution review."
     ],
-    "lastAttemptAt": "2026-11-02T10:09:02+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:09:02+00:00",
+    "lastAttemptAt": "2026-11-09T10:12:53+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:53+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -8454,8 +8701,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:31.041366+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:31.041366+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:31.719947+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:31.719947+00:00",
     "lastFullScanAt": null
   },
   {
@@ -8496,8 +8743,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:17.952797+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:17.952797+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:25.413708+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:25.413708+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -8551,10 +8798,10 @@
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
-    "lastAttemptAt": "2026-11-02T10:09:28.309055+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:24.591575+00:00",
     "lastSuccessfulCheckAt": "2026-11-02T10:09:28.309055+00:00",
     "lastFullScanAt": null,
-    "checkState": "partial"
+    "checkState": "failed"
   },
   {
     "id": "source-99c0587d5a62",
@@ -8637,8 +8884,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:33.233841+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:33.233841+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.137574+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:36.137574+00:00",
     "lastFullScanAt": null
   },
   {
@@ -8780,8 +9027,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:21:16.495721+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16.495721+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:33.125526+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:33.125526+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -8856,7 +9103,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:11.944000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:25.571025+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -8880,8 +9127,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:33.431421+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:33.431421+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:25.029010+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:25.029010+00:00",
     "lastFullScanAt": null
   },
   {
@@ -8924,7 +9171,7 @@
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:18.375801+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:25.129809+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "checkState": "failed"
@@ -8959,7 +9206,7 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-11-02T10:08:39.562594+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:40.732839+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -8980,8 +9227,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:35.070000+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:09:35.070000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:27.116444+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:27.116444+00:00",
     "lastFullScanAt": null
   },
   {
@@ -8999,11 +9246,11 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-10-28T19:44:49.206000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:33.740120+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T19:44:49.206000+00:00",
     "lastFullScanAt": "2026-10-28T19:44:49.206000+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "failed"
   },
   {
     "url": "https://aas.org/jobregister/ad/d5c0665c",
@@ -9020,8 +9267,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:16+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:09:16+00:00",
+    "lastAttemptAt": "2026-11-09T10:10:55+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:10:55+00:00",
     "lastFullScanAt": null
   },
   {
@@ -9075,8 +9322,8 @@
     "notes": [
       "Full advertisement body read; supports screening only, not directory completion."
     ],
-    "lastAttemptAt": "2026-10-28T19:23:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:23:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:34.830195+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:34.830195+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -9101,8 +9348,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:08:18.376164+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:18.376164+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:25.620250+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:25.620250+00:00",
     "lastFullScanAt": null
   },
   {
@@ -9165,8 +9412,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-10-28T19:13:39.076208+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:39.076208+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:31.889939+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:31.889939+00:00",
     "lastFullScanAt": null
   },
   {
@@ -9201,8 +9448,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:25.925512+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:25.925512+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:26.679312+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:26.679312+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -9228,8 +9475,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:33.712177+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:33.712177+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:25.825795+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:25.825795+00:00",
     "lastFullScanAt": null
   },
   {
@@ -9247,8 +9494,8 @@
     "notes": [
       "Relevant navigation and public department/recruitment content inspected; not a separate directory-completion claim."
     ],
-    "lastAttemptAt": "2026-10-28T19:23:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:23:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:34.774224+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:34.774224+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -9289,11 +9536,11 @@
     "notes": [
       "Official institutional vacancy source; follow-up scope and access limitations are recorded in the scan ledger."
     ],
-    "lastAttemptAt": "2026-10-28T19:38:29.063187+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:38:29.063187+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:37.714660+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:37.714660+00:00",
     "lastFullScanAt": "2026-10-28T19:38:29.063187+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-a88a59ead1f3",
@@ -9310,7 +9557,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:18.742001+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:25.499740+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -9359,8 +9606,8 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-10-28T19:21:16.478625+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16.478625+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:31.184622+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:31.184622+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -9402,8 +9649,8 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:38.143865+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:38.143865+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:44.106120+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:44.106120+00:00",
     "lastFullScanAt": "2026-10-28T19:37:41.219053+00:00",
     "lastFullScan": "2026-10-28",
     "checkState": "partial"
@@ -9465,11 +9712,11 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-10-28T19:21:16.153259+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16.153259+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:30.662950+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:30.662950+00:00",
     "lastFullScanAt": "2026-10-28T19:21:16.153259+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-aab1d139d6db",
@@ -9609,7 +9856,7 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:09:35.070000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:29.396401+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -9666,11 +9913,11 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-11-02T10:09:35.070000+00:00",
-    "lastSuccessfulCheckAt": null,
+    "lastAttemptAt": "2026-11-09T10:07:40.105374+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:40.105374+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
-    "checkState": "failed"
+    "checkState": "partial"
   },
   {
     "id": "source-ad3687e3339a",
@@ -9685,8 +9932,8 @@
       "group"
     ],
     "linkVerified": true,
-    "lastAttemptAt": "2026-10-28T19:13:42+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:42+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:42.931760+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:42.931760+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -9700,8 +9947,8 @@
     "lastFullScan": null,
     "cadenceDays": 7,
     "checkState": "partial",
-    "lastAttemptAt": "2026-10-28T15:13:44+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T15:13:44+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:34.993864+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:34.993864+00:00",
     "lastFullScanAt": null
   },
   {
@@ -9773,10 +10020,10 @@
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed.",
       "The home-page Jobs menu links current research-professor calls."
     ],
-    "lastAttemptAt": "2026-10-28T19:47:06+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:47:06+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:40.619876+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:40.619876+00:00",
     "lastFullScanAt": "2026-10-28T19:47:06+00:00",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-af3a5472e59d",
@@ -9859,11 +10106,11 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:33.712923+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:33.712923+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:26.532912+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:26.532912+00:00",
     "lastFullScanAt": "2026-11-02T10:08:33.712923+00:00",
     "lastFullScan": "2026-11-02",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-b0c12091089e",
@@ -9910,8 +10157,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:18.851414+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:18.851414+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:25.892503+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:25.892503+00:00",
     "lastFullScanAt": "2026-10-28T19:12:30+00:00",
     "lastFullScan": "2026-10-28",
     "checkState": "partial"
@@ -9946,11 +10193,11 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:26.375829+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:26.375829+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:26.060003+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:26.060003+00:00",
     "lastFullScanAt": "2026-11-02T10:08:26.375829+00:00",
     "lastFullScan": "2026-11-02",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-b2f146ffa109",
@@ -9970,8 +10217,8 @@
       "Discovered during the November 2, 2026 weekly public-source sweep."
     ],
     "lastEvidenceCheck": "2026-11-02",
-    "lastAttemptAt": "2026-11-02T10:15:10.393370+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:15:10.393370+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:28.999038+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:28.999038+00:00",
     "lastFullScanAt": null
   },
   {
@@ -10004,8 +10251,8 @@
     "notes": [
       "Full advertisement body read; supports screening only, not directory completion."
     ],
-    "lastAttemptAt": "2026-10-28T19:23:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:23:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:37.183801+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:37.183801+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -10026,8 +10273,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": false,
-    "lastAttemptAt": "2026-11-02T10:08:33.750659+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:33.750659+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:26.417413+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:26.417413+00:00",
     "lastFullScanAt": null
   },
   {
@@ -10129,11 +10376,11 @@
     "notes": [
       "Full departmental recruitment page; one identified call."
     ],
-    "lastAttemptAt": "2026-10-28T19:24:18+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:24:18+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:31.590091+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:31.590091+00:00",
     "lastFullScanAt": "2026-10-28T19:24:18+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-b8fde9437aaf",
@@ -10150,8 +10397,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:49+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:09:49+00:00",
+    "lastAttemptAt": "2026-11-09T10:12:53+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:53+00:00",
     "lastFullScanAt": null
   },
   {
@@ -10290,7 +10537,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:11:59+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:26.396019+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -10324,7 +10571,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:19.067696+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:26.431628+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -10428,7 +10675,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:11.944000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:26.543586+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -10473,7 +10720,7 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:09:40+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:42.354265+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -10595,8 +10842,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:16+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:09:16+00:00",
+    "lastAttemptAt": "2026-11-09T10:12:53+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:53+00:00",
     "lastFullScanAt": null
   },
   {
@@ -10707,10 +10954,10 @@
     "notes": [
       "Link discovered in employer material; not separately read."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:40.710140+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:40.710140+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:37.308083+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:37.308083+00:00",
     "lastFullScanAt": "2026-11-02T10:08:40.710140+00:00",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-c8ff19d82591",
@@ -10764,8 +11011,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": false,
-    "lastAttemptAt": "2026-11-02T10:08:19.097865+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:19.097865+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:27.889428+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:27.889428+00:00",
     "lastFullScanAt": null
   },
   {
@@ -10798,8 +11045,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:27.101900+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:27.101900+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:27.092817+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:27.092817+00:00",
     "lastFullScanAt": null
   },
   {
@@ -10819,7 +11066,7 @@
     "notes": [
       "Linked detail could not be read during institutional vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:11:04.102792+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:26.753658+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -10893,8 +11140,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:19.253526+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:19.253526+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:27.257954+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:27.257954+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -10958,8 +11205,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:27.144151+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:27.144151+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:27.436496+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:27.436496+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -10979,8 +11226,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:34.439896+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:34.439896+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:26.881439+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:26.881439+00:00",
     "lastFullScanAt": null
   },
   {
@@ -11025,8 +11272,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:19.422595+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:19.422595+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:28.477375+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:28.477375+00:00",
     "lastFullScanAt": null
   },
   {
@@ -11065,8 +11312,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:27.399336+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:27.399336+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:27.989610+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:27.989610+00:00",
     "lastFullScanAt": null
   },
   {
@@ -11082,11 +11329,11 @@
       "group"
     ],
     "linkVerified": true,
-    "lastAttemptAt": "2026-10-28T19:13:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.651092+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T19:13:11+00:00",
     "lastFullScanAt": "2026-10-28T19:13:11+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "failed"
   },
   {
     "id": "source-d095cca96d1a",
@@ -11149,8 +11396,8 @@
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
-    "lastAttemptAt": "2026-10-28T19:13:39.307165+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:39.307165+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:35.259253+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:35.259253+00:00",
     "lastFullScanAt": null,
     "checkState": "partial"
   },
@@ -11163,8 +11410,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:38:29.353628+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:38:29.353628+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:43.776462+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:43.776462+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -11184,8 +11431,8 @@
     "notes": [
       "Full advertisement body read; supports screening only, not directory completion."
     ],
-    "lastAttemptAt": "2026-10-28T19:23:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:23:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:39.367322+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:39.367322+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -11318,11 +11565,11 @@
       "recruitment"
     ],
     "linkVerified": false,
-    "lastAttemptAt": "2026-11-02T10:08:40.183635+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:40.742805+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:43.142092+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:43.142092+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
-    "checkState": "failed"
+    "checkState": "partial"
   },
   {
     "id": "source-d6cdefbb9191",
@@ -11333,8 +11580,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:45:02.349323+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:45:02.349323+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.670665+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:36.670665+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -11356,11 +11603,11 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-10-28T19:21:17.746535+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:17.746535+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:38.923764+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:38.923764+00:00",
     "lastFullScanAt": "2026-10-28T19:21:17.746535+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "url": "https://science.uct.ac.za/department-astronomy/vacancies",
@@ -11399,8 +11646,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:21:16.541649+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16.541649+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:37.618133+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:37.618133+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -11417,8 +11664,8 @@
     "notes": [
       "Research-check registry entry. Observed outcomes and bounded coverage are in europe-source-checks.json."
     ],
-    "lastAttemptAt": "2026-10-28T15:14:45+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T15:14:45+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:38.362073+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:38.362073+00:00",
     "lastFullScanAt": null
   },
   {
@@ -11457,8 +11704,8 @@
     "notes": [
       "Discovered during second-pass bounded institution review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:34.440590+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:34.440590+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:27.645567+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:27.645567+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -11487,8 +11734,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-11-02T10:08:34.626758+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:34.626758+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:35.348030+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:35.348030+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -11510,11 +11757,11 @@
     "notes": [
       "Discovered during second-pass bounded institution review."
     ],
-    "lastAttemptAt": "2026-11-02T10:09:40+00:00",
+    "lastAttemptAt": "2026-11-09T10:12:53+00:00",
     "lastSuccessfulCheckAt": "2026-11-02T10:09:40+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
-    "checkState": "partial"
+    "checkState": "failed"
   },
   {
     "id": "source-da6ed0d0c8b1",
@@ -11554,9 +11801,9 @@
     "roles": [
       "advertisement"
     ],
-    "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:27.702261+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:27.702261+00:00",
+    "lastEvidenceCheck": "2026-11-09",
+    "lastAttemptAt": "2026-11-09T10:07:28.935496+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:28.935496+00:00",
     "lastFullScanAt": null
   },
   {
@@ -11569,7 +11816,7 @@
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
-    "checkState": "partial",
+    "checkState": "failed",
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
@@ -11579,7 +11826,7 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-10-28T19:13:39.388809+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.941108+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T19:13:39.388809+00:00",
     "lastFullScanAt": null
   },
@@ -11616,8 +11863,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-10-28T19:21:16.154018+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:16.154018+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.775018+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:36.775018+00:00",
     "lastFullScanAt": null
   },
   {
@@ -11671,8 +11918,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:34.629162+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:34.629162+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:28.645405+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:28.645405+00:00",
     "lastFullScanAt": null
   },
   {
@@ -11703,8 +11950,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:20.350726+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:20.350726+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:28.451579+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:28.451579+00:00",
     "lastFullScanAt": null
   },
   {
@@ -11759,7 +12006,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-11-02",
-    "lastAttemptAt": "2026-11-02T10:09:35.070000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:28.035583+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -11780,8 +12027,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:34.643687+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:34.643687+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:28.400511+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:28.400511+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -11799,8 +12046,8 @@
       "recruitment"
     ],
     "linkVerified": false,
-    "lastAttemptAt": "2026-11-02T10:08:23.725984+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:23.725984+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:32.225843+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:32.225843+00:00",
     "lastFullScanAt": "2026-10-28T19:13:49+00:00",
     "lastFullScan": "2026-10-28",
     "checkState": "partial"
@@ -11845,8 +12092,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:11:15.474020+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:11:15.474020+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:29.188738+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:29.188738+00:00",
     "lastFullScanAt": null
   },
   {
@@ -11867,8 +12114,8 @@
       "Discovered during the November 2, 2026 weekly public-source sweep."
     ],
     "lastEvidenceCheck": "2026-11-02",
-    "lastAttemptAt": "2026-11-02T10:15:10.392910+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:15:10.392910+00:00",
+    "lastAttemptAt": "2026-11-09T10:12:52+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:12:52+00:00",
     "lastFullScanAt": null
   },
   {
@@ -11886,8 +12133,8 @@
     "notes": [
       "Full advertisement body read; supports screening only, not directory completion."
     ],
-    "lastAttemptAt": "2026-10-28T19:23:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:23:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:40.598091+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:40.598091+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -11907,8 +12154,8 @@
     "notes": [
       "Full advertisement body read; supports screening only, not directory completion."
     ],
-    "lastAttemptAt": "2026-10-28T19:23:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:23:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:42.852339+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:42.852339+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -11979,8 +12226,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:21:17.581382+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:17.581382+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:40.951865+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:40.951865+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -12030,7 +12277,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:35.070000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:28.180050+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -12051,10 +12298,10 @@
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
     ],
-    "lastAttemptAt": "2026-11-02T10:09:49+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:37.542787+00:00",
     "lastSuccessfulCheckAt": "2026-11-02T10:09:49+00:00",
     "lastFullScanAt": null,
-    "checkState": "partial"
+    "checkState": "failed"
   },
   {
     "id": "source-e1e02a466f35",
@@ -12076,6 +12323,25 @@
     "checkState": "partial"
   },
   {
+    "id": "source-e1f527cee680",
+    "url": "https://unimelb.wd105.myworkdayjobs.com/broadbean_external/job/Parkville-Victoria/Lecturer-in-Experimental-High-Energy-Physics_JR-019011-2",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-melbourne"
+    ],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 7,
+    "roles": [
+      "advertisement"
+    ],
+    "lastEvidenceCheck": "2026-11-09",
+    "lastAttemptAt": "2026-11-09T10:11:20.011764+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:11:20.011764+00:00",
+    "lastFullScanAt": null
+  },
+  {
     "id": "source-e204f82ac576",
     "url": "https://academicjobsonline.org/ajo/jobs/33132",
     "kind": "recruitment",
@@ -12092,8 +12358,8 @@
     "notes": [
       "Discovered during second-pass bounded institution review."
     ],
-    "lastAttemptAt": "2026-11-02T10:11:03.711898+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:11:03.711898+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:29.717516+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:29.717516+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -12158,7 +12424,7 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-11-02T10:10:25.158000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:45.445267+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -12228,6 +12494,19 @@
     "checkState": "partial"
   },
   {
+    "id": "source-e50584d99f94",
+    "url": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+    "kind": "classification",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-09",
+    "lastFullScan": null,
+    "checkState": "partial",
+    "cadenceDays": 28,
+    "lastAttemptAt": "2026-11-09T10:18:22.445527+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:18:22.445527+00:00",
+    "lastFullScanAt": null
+  },
+  {
     "id": "source-e5060b9e0326",
     "url": "https://physics.utexas.edu/",
     "kind": "recruitment",
@@ -12261,7 +12540,7 @@
       "group"
     ],
     "linkVerified": false,
-    "lastAttemptAt": "2026-11-02T10:09:16+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:59.926970+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -12301,11 +12580,11 @@
       "recruitment"
     ],
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:09:49+00:00",
-    "lastSuccessfulCheckAt": null,
+    "lastAttemptAt": "2026-11-09T10:07:46.486621+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:46.486621+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
-    "checkState": "failed"
+    "checkState": "partial"
   },
   {
     "id": "source-e5679ac7bc07",
@@ -12322,7 +12601,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:20.981401+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:28.903409+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -12354,11 +12633,11 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:38:29.062741+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:31.100678+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T19:38:29.062741+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
-    "checkState": "partial"
+    "checkState": "failed"
   },
   {
     "id": "source-e5e007e3a361",
@@ -12388,8 +12667,8 @@
       "department"
     ],
     "linkVerified": true,
-    "lastAttemptAt": "2026-10-28T19:13:42+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:42+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:45.184166+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:45.184166+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -12412,8 +12691,8 @@
       "Discovered during the November 2, 2026 weekly public-source sweep."
     ],
     "lastEvidenceCheck": "2026-11-02",
-    "lastAttemptAt": "2026-11-02T10:14:56+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:14:56+00:00",
+    "lastAttemptAt": "2026-11-09T10:10:55+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:10:55+00:00",
     "lastFullScanAt": null
   },
   {
@@ -12424,8 +12703,8 @@
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
-    "checkState": "partial",
-    "lastAttemptAt": "2026-10-28T15:17:55+00:00",
+    "checkState": "failed",
+    "lastAttemptAt": "2026-11-09T10:07:44.769195+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T15:17:55+00:00",
     "lastFullScanAt": null
   },
@@ -12449,8 +12728,8 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-10-28T19:13:35.535883+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:35.535883+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:29.853688+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:29.853688+00:00",
     "lastFullScanAt": null
   },
   {
@@ -12468,11 +12747,11 @@
     "notes": [
       "Department navigation and announcements only; no adequate current faculty list located."
     ],
-    "lastAttemptAt": "2026-10-28T19:24:18+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:33.679876+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T19:24:18+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
-    "checkState": "partial"
+    "checkState": "failed"
   },
   {
     "id": "source-e82fe1079737",
@@ -12526,7 +12805,7 @@
     "discoveredOn": "2026-10-28",
     "lastFullScan": null,
     "cadenceDays": 7,
-    "checkState": "partial",
+    "checkState": "failed",
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
@@ -12536,7 +12815,7 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "discoveryMethod": "employer-advertisement",
-    "lastAttemptAt": "2026-11-02T10:09:28.309185+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:28.599823+00:00",
     "lastSuccessfulCheckAt": "2026-11-02T10:09:28.309185+00:00",
     "lastFullScanAt": null
   },
@@ -12579,8 +12858,8 @@
       "Discovered during the November 2, 2026 weekly public-source sweep."
     ],
     "lastEvidenceCheck": "2026-11-02",
-    "lastAttemptAt": "2026-11-02T10:11:03.301032+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:11:03.301032+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:47.414959+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:47.414959+00:00",
     "lastFullScanAt": null
   },
   {
@@ -12613,7 +12892,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:35.360031+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:29.737427+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -12632,7 +12911,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:21.015658+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:28.722316+00:00",
     "lastSuccessfulCheckAt": "2026-10-28T15:18:57.801618+00:00",
     "lastFullScanAt": null
   },
@@ -12651,11 +12930,11 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:08:28.253879+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:28.253879+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:30.556558+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:30.556558+00:00",
     "lastFullScanAt": "2026-11-02T10:08:28.253879+00:00",
     "lastFullScan": "2026-11-02",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-eb424c0dd23f",
@@ -12693,8 +12972,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:35.498660+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:35.498660+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:29.743403+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:29.743403+00:00",
     "lastFullScanAt": null
   },
   {
@@ -12754,8 +13033,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:21.083916+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:21.083916+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:29.034819+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:29.034819+00:00",
     "lastFullScanAt": null
   },
   {
@@ -12779,8 +13058,8 @@
     "notes": [
       "Specific employer call verified; full institution recruitment survey is incomplete."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:28.266853+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:28.266853+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:30.078190+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:30.078190+00:00",
     "lastFullScanAt": null
   },
   {
@@ -12798,11 +13077,11 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-10-28T19:21:18.487709+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:21:18.487709+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:42.860615+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:42.860615+00:00",
     "lastFullScanAt": "2026-10-28T19:21:18.487709+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-f06894f7be37",
@@ -12819,7 +13098,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:11:49+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:46.263189+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -12881,11 +13160,11 @@
     "notes": [
       "Institutional vacancy source found during bounded Europe directory review; see source check for scope and access limitations."
     ],
-    "lastAttemptAt": "2026-11-02T10:10:26+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:38:26.473000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:38.478658+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:38.478658+00:00",
     "lastFullScanAt": "2026-10-28T19:38:26.473000+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "failed"
+    "checkState": "partial"
   },
   {
     "id": "source-f3071427e999",
@@ -12906,7 +13185,7 @@
     "notes": [
       "Specific employer advertisement source; not evidence of a complete institution-wide vacancy scan."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:29.192190+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:31.375440+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "checkState": "failed"
@@ -12926,8 +13205,8 @@
     "notes": [
       "Full advertisement body read; supports screening only, not directory completion."
     ],
-    "lastAttemptAt": "2026-10-28T19:23:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:23:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:45.351138+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:45.351138+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -12947,11 +13226,11 @@
     "notes": [
       "Entire English recruitment page; one call."
     ],
-    "lastAttemptAt": "2026-10-28T19:24:18+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:24:18+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:41.728256+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:41.728256+00:00",
     "lastFullScanAt": "2026-10-28T19:24:18+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-f34e6544d485",
@@ -13002,8 +13281,8 @@
     ],
     "discoveredOn": "2026-10-28",
     "cadenceDays": 7,
-    "lastAttemptAt": "2026-10-28T19:37:41.219588+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:37:41.219588+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:30.933097+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:30.933097+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -13023,11 +13302,11 @@
     "notes": [
       "IOP job-opening page, six visible records, one page, no next-page control. Existing AJO32236 also read."
     ],
-    "lastAttemptAt": "2026-10-28T19:27:37+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:27:37+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:36.432359+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:36.432359+00:00",
     "lastFullScanAt": "2026-10-28T19:27:37+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-f3922c55ae38",
@@ -13071,8 +13350,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:22.988925+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:22.988925+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:31.042065+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:31.042065+00:00",
     "lastFullScanAt": null
   },
   {
@@ -13092,11 +13371,11 @@
     "notes": [
       "Discovered during second-pass bounded institution review."
     ],
-    "lastAttemptAt": "2026-11-02T10:09:40+00:00",
-    "lastSuccessfulCheckAt": null,
+    "lastAttemptAt": "2026-11-09T10:11:07+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:11:07+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
-    "checkState": "failed"
+    "checkState": "partial"
   },
   {
     "id": "source-f3f7bf018f58",
@@ -13140,8 +13419,8 @@
     "notes": [
       "Partial source check recorded separately."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:28.571163+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:28.571163+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:29.916339+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:29.916339+00:00",
     "lastFullScanAt": null
   },
   {
@@ -13187,11 +13466,11 @@
       "recruitment"
     ],
     "linkVerified": true,
-    "lastAttemptAt": "2026-10-28T19:13:11+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:13:11+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:38.662676+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:38.662676+00:00",
     "lastFullScanAt": "2026-10-28T19:13:11+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-f59221c06ef0",
@@ -13271,10 +13550,10 @@
     "notes": [
       "Source discovered; a complete 2026–2027 vacancy scan has not been performed."
     ],
-    "lastAttemptAt": "2026-10-28T19:24:18+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:24:18+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:33.936526+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:33.936526+00:00",
     "lastFullScanAt": "2026-10-28T19:24:18+00:00",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-f70fc5b4d2fe",
@@ -13357,7 +13636,7 @@
     "notes": [
       "Linked detail could not be read during institutional vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:36.326916+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:29.277766+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
@@ -13508,7 +13787,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:09:02+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:29.333657+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null
   },
@@ -13527,11 +13806,11 @@
     ],
     "lastEvidenceCheck": "2026-10-28",
     "linkVerified": true,
-    "lastAttemptAt": "2026-11-02T10:09:49+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:09:49+00:00",
+    "lastAttemptAt": "2026-11-09T10:10:55+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:10:55+00:00",
     "lastFullScanAt": "2026-11-02T10:09:49+00:00",
     "lastFullScan": "2026-11-02",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-fc4c467a3362",
@@ -13604,8 +13883,8 @@
     "notes": [
       "Added during bounded institution vacancy review."
     ],
-    "lastAttemptAt": "2026-11-02T10:08:29.309447+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:29.309447+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:30.345611+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:30.345611+00:00",
     "lastFullScanAt": null,
     "lastFullScan": null,
     "checkState": "partial"
@@ -13625,8 +13904,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:36.321806+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:36.321806+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:30.891614+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:30.891614+00:00",
     "lastFullScanAt": null
   },
   {
@@ -13644,11 +13923,11 @@
     "notes": [
       "Entire current Jobs Openings table, three teaching entries, no pagination."
     ],
-    "lastAttemptAt": "2026-10-28T19:24:18+00:00",
-    "lastSuccessfulCheckAt": "2026-10-28T19:24:18+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:35.845904+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:35.845904+00:00",
     "lastFullScanAt": "2026-10-28T19:24:18+00:00",
     "lastFullScan": "2026-10-28",
-    "checkState": "complete"
+    "checkState": "partial"
   },
   {
     "id": "source-fdac0eda3958",
@@ -13665,8 +13944,8 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-10-28",
-    "lastAttemptAt": "2026-11-02T10:08:21.397203+00:00",
-    "lastSuccessfulCheckAt": "2026-11-02T10:08:21.397203+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:30.266608+00:00",
+    "lastSuccessfulCheckAt": "2026-11-09T10:07:30.266608+00:00",
     "lastFullScanAt": null
   },
   {
@@ -13682,7 +13961,7 @@
       "advertisement"
     ],
     "lastEvidenceCheck": "2026-11-02",
-    "lastAttemptAt": "2026-11-02T10:10:25.158000+00:00",
+    "lastAttemptAt": "2026-11-09T10:07:46.476729+00:00",
     "lastSuccessfulCheckAt": null,
     "lastFullScanAt": null,
     "lastFullScan": null,
