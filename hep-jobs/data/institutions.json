@@ -106,21 +106,18 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:37.913870+00:00",
+      "checkedAt": "2026-11-16T10:45:04.888470+00:00",
       "lastFullScanAt": "2026-10-28T19:39:58Z",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://academicjobsonline.org/ajo/AS/IoP",
-        "https://academicjobsonline.org/ajo/jobs/32236",
-        "https://www.phys.sinica.edu.tw/news_en.php?eng=T&id=job"
+        "https://academicjobsonline.org/ajo/jobs/32236"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -177,20 +174,19 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:26.753658+00:00",
+      "checkedAt": "2026-11-16T10:47:39+00:00",
       "lastFullScanAt": null,
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.binghamton.edu/academics/provost/faculty-resources/employment.html",
         "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=204910"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -234,19 +230,19 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:38.799653+00:00",
+      "checkedAt": "2026-11-16T10:46:14.008348+00:00",
       "lastFullScanAt": "2026-11-02T10:08:37.725169+00:00",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://careers.cern/jobs/",
         "https://careers.cern/jobs/th-sp-2026-68-ld/"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -274,26 +270,24 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:46.557949+00:00",
+      "checkedAt": "2026-11-16T10:46:19.459047+00:00",
       "lastFullScanAt": "2026-10-28T19:21:16.153259+00:00",
-      "coverage": "8 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "6 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://inspirehep.net/api/jobs/3181705",
-        "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-037/Default.aspx?lang=EN",
         "https://inspirehep.net/jobs/3181705",
         "https://inspirehep.net/jobs/3183112",
         "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-001/Default.aspx",
         "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-032/Default.aspx",
         "https://carrieres.cnrs.fr/en/chair-recruitment/",
+        "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-003/Default.aspx?lang=EN",
         "https://inspirehep.net/api/jobs/3183112"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -349,19 +343,18 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:30.345611+00:00",
+      "checkedAt": "2026-11-16T10:45:10.827121+00:00",
       "lastFullScanAt": "2026-11-02T10:08:36.646075+00:00",
-      "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://applications.caltech.edu/jobs/physics"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -420,15 +413,13 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "checkedAt": "2026-11-16T10:49:07.966902+00:00",
       "lastFullScanAt": "2026-11-02T10:08:33.712923+00:00",
-      "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://aas.org/jobregister/ad/ebe9db3c",
@@ -437,7 +428,7 @@
         "https://www.cmu.edu/faculty-office/prospective/faculty-careers/",
         "https://apply.interfolio.com/195638"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -500,19 +491,18 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:20.886409+00:00",
+      "checkedAt": "2026-11-16T10:45:05.160306+00:00",
       "lastFullScanAt": "2026-10-28T19:56:41.730Z",
-      "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "8 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://academicjobsonline.org/ajo/jobs/32678"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -566,22 +556,19 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:44.106120+00:00",
+      "checkedAt": "2026-11-16T10:46:16.508717+00:00",
       "lastFullScanAt": "2026-10-28T19:37:41.219053+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://www.desy.de/career",
-        "https://v22.desy.de/index_eng.html",
+        "https://www.desy.de/career/job_offers/index_eng.html",
         "https://v22.desy.de/e67416/records321660/index_eng.html"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -635,21 +622,22 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:46.317444+00:00",
+      "checkedAt": "2026-11-16T10:49:34.957511+00:00",
       "lastFullScanAt": "2026-10-28T19:48:06.060Z",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "2 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/jobs/3185361",
-        "https://dur.ac.uk/departments/academic/physics/about-us/job-opportunities/"
+        "https://durham.taleo.net/careersection/du_ext/jobsearch.ftl",
+        "https://inspirehep.net/api/jobs/3185361",
+        "https://orca.dur.ac.uk/joinus.html",
+        "https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=26000998&tz=GMT%2B01%3A00&tzname=Europe%2FLondon"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -692,14 +680,13 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:34.534671+00:00",
+      "checkedAt": "2026-11-16T10:46:06.562958+00:00",
       "lastFullScanAt": "2026-10-28T19:13:34.332297+00:00",
-      "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54161",
@@ -707,7 +694,7 @@
         "https://inspirehep.net/jobs?field_of_interest=physics&page=1&size=25&sort=mostrecent",
         "https://physics.elte.hu/en/content/tenure-track-assistant-professorship.t.54165"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -761,26 +748,23 @@
     },
     "profileCategory": "research-institute",
     "scan": {
-      "state": "partial",
-      "checkedAt": "2026-11-09T10:07:39.376276+00:00",
+      "state": "blocked",
+      "checkedAt": "2026-11-16T10:46:21.751204+00:00",
       "lastFullScanAt": null,
-      "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "5 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Checked sources remain inaccessible; previous verified job facts preserved.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "4 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-19/",
-        "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-21/",
-        "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-22/",
-        "https://igfae.usc.es/igfae/en/jobs/",
-        "https://igfae.usc.es/igfae/en/oferta/public-competition-igfae-2026-20/"
+        "https://sede.usc.es/sede/publica/taboleiro/verAnuncioPublicable/148405/carga.htm",
+        "https://sede.usc.es/sede/publica/taboleiro/verAnuncioPublicable/148404/carga.htm",
+        "https://sede.usc.es/sede/publica/taboleiro/verAnuncioPublicable/148452/carga.htm"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
-    "coverageState": "partial",
+    "coverageState": "blocked",
     "lastFullScan": null
   },
   {
@@ -842,22 +826,20 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:26.431628+00:00",
+      "checkedAt": "2026-11-16T10:45:20.158666+00:00",
       "lastFullScanAt": null,
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "2 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/api/jobs/3198864",
         "https://hr.gatech.edu/careers",
         "https://inspirehep.net/jobs/3198864"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -910,14 +892,13 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:38.478658+00:00",
+      "checkedAt": "2026-11-16T10:46:11.378633+00:00",
       "lastFullScanAt": "2026-10-28T19:38:26.473Z",
-      "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/api/jobs/3200481",
@@ -925,7 +906,7 @@
         "https://inspirehep.net/jobs/3200481",
         "https://www.helsinki.fi/en/about-us/careers/open-positions"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -954,13 +935,13 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:33.769959+00:00",
+      "checkedAt": "2026-11-16T10:46:03.532884+00:00",
       "lastFullScanAt": "2026-11-02T10:08:30.685299+00:00",
-      "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "4 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://academicjobsonline.org/ajo/jobs/29810",
@@ -968,7 +949,7 @@
         "https://physics.hkust.edu.hk/jobs",
         "https://academicjobsonline.org/ajo/jobs/29809"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -1022,21 +1003,20 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:40.619876+00:00",
+      "checkedAt": "2026-11-16T10:46:12.224213+00:00",
       "lastFullScanAt": "2026-10-28T19:47:06+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.ictp-saifr.org/simonsfapesp2026/",
         "https://academicjobsonline.org/ajo/jobs/33141",
-        "https://www.ictp-saifr.org/"
+        "https://www.ictp-saifr.org/scientific-visit/"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -1098,25 +1078,24 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:46.447747+00:00",
+      "checkedAt": "2026-11-16T10:47:01.417521+00:00",
       "lastFullScanAt": "2026-10-28T19:44:05.516Z",
-      "coverage": "6 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "4 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "5 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29599&jobTitle=Assistant+%2F+Associate+Professor+in+Particle+Physics",
-        "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=28831&jobTitle=Assistant+%2F+Associate+Professor+in+Gravitational+Wave+Physics",
+        "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29040&jobTitle=Assistant+%2F+Associate+Professor+in+Data-Intensive+Physics+and+AI",
+        "https://inspirehep.net/api/jobs/3186998",
+        "https://inspirehep.net/jobs/3195961",
         "https://inspirehep.net/api/jobs/3215354",
-        "https://www.imperial.ac.uk/physics/opportunities/",
-        "https://inspirehep.net/api/jobs/3195961",
-        "https://inspirehep.net/jobs/3215354"
+        "https://inspirehep.net/jobs/3215354",
+        "https://www.imperial.ac.uk/jobs/search-jobs/"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -1170,22 +1149,22 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:44.276363+00:00",
+      "checkedAt": "2026-11-16T10:46:17.726924+00:00",
       "lastFullScanAt": null,
-      "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "4 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "3 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://mbsfacapp.iitm.ac.in/",
-        "https://web.iitm.ac.in/admin/opportunities.html",
-        "https://mbsfacapp.iitm.ac.in/mbs26/",
-        "https://physics.iitm.ac.in/facultyrecruitment.html"
+        "https://inspirehep.net/api/jobs/3127451",
+        "https://facapp.iitm.ac.in/",
+        "https://www.iitm.ac.in/sites/default/files/Others/Faculty-Recruitment-handbook.pdf",
+        "https://facapp.iitm.ac.in/2026ra/",
+        "https://inspirehep.net/jobs/3127451"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -1224,20 +1203,18 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:18:20+00:00",
+      "checkedAt": "2026-11-16T10:45:08+00:00",
       "lastFullScanAt": "2026-11-02T10:12:08+00:00",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "4 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-ramon-cajal-ryc-2026/convocatoria",
-        "https://www.ifae.es/careers/jobs/2026/07/ramon-y-cajal-fellowship-programme-2026-tenure-track-position-in-gravitational-wave-physics-at-ifae/"
+        "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-ramon-cajal-ryc-2026/convocatoria"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -1309,29 +1286,23 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:45.351138+00:00",
+      "checkedAt": "2026-11-16T10:47:01.425284+00:00",
       "lastFullScanAt": "2026-10-28T19:42:57Z",
-      "coverage": "10 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "8 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "11 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
+        "https://ihep.cas.cn/zszp/zpxx/fzbzp/",
         "https://inspirehep.net/jobs/3208715",
-        "https://english.ihep.cas.cn/ju/jo/202510/t20251011_1089295.html",
-        "https://ihep.cas.cn/zszp/zpxx/fzbzp/202610/t20261027_8298865.html",
+        "https://ihep.cas.cn/zszp/zpxx/zbzp/202603/P020260319371298377441.pdf",
         "https://inspirehep.net/api/jobs/3143299",
-        "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260403_8181071.html",
-        "https://ihep.cas.cn/zszp/zpxx/fzbzp/202610/t20261023_8296929.html",
-        "https://english.ihep.cas.cn/ju/jo/202603/t20260324_1153693.html",
         "https://inspirehep.net/jobs/3143299",
-        "https://inspirehep.net/api/jobs/3208715",
-        "https://ihep.cas.cn/zszp/zpxx/zbzp/202604/t20260403_8181080.html"
+        "https://inspirehep.net/api/jobs/3208715"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -1402,6 +1373,57 @@
     "lastFullScan": "2026-11-02"
   },
   {
+    "id": "itp-chinese-academy-sciences",
+    "name": "Institute of Theoretical Physics, Chinese Academy of Sciences",
+    "countryCode": "CN",
+    "city": "Beijing",
+    "aliases": [],
+    "profile": "Research institute / laboratory",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3227300",
+    "officialClassifications": [],
+    "sourceIds": [],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-11-16",
+      "latitude": 39.9075,
+      "longitude": 116.39723,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 1816670,
+      "matchedLocality": "Beijing",
+      "institutionSourceUrl": "https://inspirehep.net/api/institutions/903895",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "City-level location, not a campus building; locality confirmed by employer advertisement or institution record. Exact city-name and country-code match in GeoNames."
+      ],
+      "profile": "research-institute",
+      "profileSourceUrl": "https://inspirehep.net/api/jobs/3227300"
+    },
+    "profileCategory": "research-institute",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-11-16T10:47:13.284408+00:00",
+      "lastFullScanAt": null,
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
+      "limitations": [
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3227300"
+      ],
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
+    },
+    "coverageState": "partial",
+    "lastFullScan": null
+  },
+  {
     "id": "james-madison",
     "name": "James Madison University",
     "countryCode": "US",
@@ -1463,20 +1485,20 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:29.188738+00:00",
+      "checkedAt": "2026-11-16T10:46:21.120672+00:00",
       "lastFullScanAt": "2026-11-02T10:08:41.964287+00:00",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "6 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://jobs.jmu.edu/jobs/assistant-professor-of-physics-and-astronomy-tenure-track-harrisonburg-virginia-united-states",
+        "https://jobs.jmu.edu/jobs/search?query=physics",
         "https://academicjobsonline.org/ajo/jobs/32960"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -1507,21 +1529,23 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:18.788705+00:00",
+      "checkedAt": "2026-11-16T10:47:01.307001+00:00",
       "lastFullScanAt": null,
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "4 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/jobs/3181469",
-        "https://inspirehep.net/api/jobs/3181469"
+        "https://inspirehep.net/api/jobs/3181469",
+        "https://www.jlu.edu.cn/info/1095/57563.m.htm",
+        "https://www.jlu.edu.cn/system/_content/download.jsp?owner=1180385364&urltype=news.DownloadAttachUrl&wbfileid=1341778",
+        "https://zprcb.jlu.edu.cn/talent-sys/public/home",
+        "https://careers.jlu.edu.cn/"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -1572,20 +1596,19 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:39.488574+00:00",
+      "checkedAt": "2026-11-16T10:46:18.076788+00:00",
       "lastFullScanAt": "2026-10-28T19:24:18Z",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://www.kek.jp/en/career/classification/researcher",
-        "https://www.kek.jp/en/career/imss26-2e"
+        "https://www.kek.jp/en/career/imss26-2e",
+        "https://www.kek.jp/en/career/ipns26-1e"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -1637,22 +1660,21 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:46.954059+00:00",
+      "checkedAt": "2026-11-16T10:46:07.970986+00:00",
       "lastFullScanAt": "2026-10-28T19:24:18Z",
-      "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "4 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.kek.jp/en/career/accl26-2e",
-        "https://www.kek.jp/en/career/classification/researcher",
-        "https://www.kek.jp/en/career/ipns26-2e-2",
+        "https://www.kek.jp/en/guide/guide07",
+        "https://www.kek.jp/en/career/imss26-3e",
         "https://www.kek.jp/en/career/accl-26-5e"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -1679,19 +1701,18 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:39.488574+00:00",
+      "checkedAt": "2026-11-16T10:45:08.783204+00:00",
       "lastFullScanAt": "2026-10-28T19:24:18Z",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://www.kek.jp/en/career/classification/researcher",
         "https://www.kek.jp/en/career/accl26-4e"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -1804,21 +1825,21 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:12:01.914002+00:00",
+      "checkedAt": "2026-11-16T10:46:16.394620+00:00",
       "lastFullScanAt": null,
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20261019.pdf",
         "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260928-1.pdf",
-        "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260914.pdf"
+        "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260914.pdf",
+        "https://www.scphys.kyoto-u.ac.jp/news/public.html"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -1871,20 +1892,20 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:46.735400+00:00",
+      "checkedAt": "2026-11-16T10:46:17.923677+00:00",
       "lastFullScanAt": "2026-10-28T19:21:17.746535+00:00",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-024/Default.aspx?lang=EN",
-        "https://www.l2it.in2p3.fr/en/emplois-et-stages/"
+        "https://inspirehep.net/api/jobs/3183025",
+        "https://www.l2it.in2p3.fr/en/emplois-et-stages/",
+        "https://inspirehep.net/jobs/3183025"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -1947,22 +1968,22 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:29.333657+00:00",
+      "checkedAt": "2026-11-16T10:46:30+00:00",
       "lastFullScanAt": "2026-10-28T19:15:09+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "2 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
+        "https://facultyjobs.lehigh.edu/faculty",
         "https://inspirehep.net/jobs/3215688",
         "https://inspirehep.net/api/jobs/3215688",
+        "https://facultyjobs.lehigh.edu/node/1338",
         "https://apply.interfolio.com/193844"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -2011,20 +2032,20 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:10:55+00:00",
+      "checkedAt": "2026-11-16T10:46:13.974780+00:00",
       "lastFullScanAt": null,
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://aas.org/jobregister/ad/a04bc2f9",
-        "https://www.uni-potsdam.de/fileadmin/projects/verwaltung/docs/Dezernat3/Ausschreibungen/1_Professuren/W3_Kosmologie_AIP_eng.pdf"
+        "https://www.uni-potsdam.de/fileadmin/projects/verwaltung/docs/Dezernat3/Ausschreibungen/1_Professuren/W3_Kosmologie_AIP_eng.pdf",
+        "https://www.aip.de/en/career/jobs/?set_language=en"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -2084,20 +2105,18 @@
     },
     "scan": {
       "state": "blocked",
-      "checkedAt": "2026-11-09T10:07:20.000945+00:00",
+      "checkedAt": "2026-11-16T10:45:15.634347+00:00",
       "lastFullScanAt": "2026-11-02T10:08:42.455946+00:00",
-      "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "0 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Checked sources remain inaccessible; previous verified job facts preserved.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "3 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://lsu.wd1.myworkdayjobs.com/en-US/LSU/job/Open-Rank--Tenure-track-Assistant-Professor--Tenure-track-Associate-Professor-or-Professor--Theoretical-Gravity-Physics-_R00121003"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "blocked",
     "lastFullScan": "2026-11-02"
@@ -2145,18 +2164,18 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:12:00.199835+00:00",
+      "checkedAt": "2026-11-16T10:45:17.560324+00:00",
       "lastFullScanAt": null,
-      "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.muni.cz/en/about-us/careers/vacancies/81894"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -2213,22 +2232,21 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:10:55+00:00",
+      "checkedAt": "2026-11-16T10:50:19+00:00",
       "lastFullScanAt": "2026-11-02T10:09:49+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs/33086",
         "https://academicjobsonline.org/ajo/jobs/33025",
         "https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/job-opportunities/",
         "https://physics.mit.edu/about-physics/employment-opportunities/"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -2271,23 +2289,23 @@
     },
     "profileCategory": "international-university",
     "scan": {
-      "state": "complete",
-      "checkedAt": "2026-11-09T10:18:20+00:00",
+      "state": "partial",
+      "checkedAt": "2026-11-16T10:46:09.125960+00:00",
       "lastFullScanAt": "2026-11-09T10:18:20+00:00",
-      "coverage": "Complete current Faculty Positions list for McGill Physics on its single, non-paginated page; both linked English faculty advertisements read. Other units and staff/course-lecturer lists excluded.",
-      "summary": "Two searches: astrophysics (existing map entry, November15 review start and open until filled confirmed) and theoretical biophysics (outside map scope). No new HEP faculty search in this bounded list.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.physics.mcgill.ca/pos/",
         "https://mcgill.wd3.myworkdayjobs.com/en-US/McGill_Careers/job/Rutherford-Physics/Assistant-Professor-in-Astrophysics_JR0000080354",
         "https://www.physics.mcgill.ca/pos/astro-06-en.html"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
-    "coverageState": "complete",
+    "coverageState": "partial",
     "lastFullScan": "2026-11-09"
   },
   {
@@ -2312,19 +2330,19 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:22.983497+00:00",
+      "checkedAt": "2026-11-16T10:46:23.298451+00:00",
       "lastFullScanAt": "2026-11-02T10:08:36.275961+00:00",
-      "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://academicjobsonline.org/ajo/jobs/32429"
+        "https://academicjobsonline.org/ajo/jobs/32429",
+        "https://drive.google.com/file/d/1m7vtYFYA4fI8eUTRANX6_2LstQj7lNX2/view?usp=sharing"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -2370,20 +2388,19 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:22.264449+00:00",
+      "checkedAt": "2026-11-16T10:45:16.658524+00:00",
       "lastFullScanAt": "2026-10-28T19:24:18Z",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://phys.ntu.edu.tw/News_Content_n_39670_s_264091.html",
         "https://academicjobsonline.org/ajo/jobs/32269"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -2436,24 +2453,29 @@
     },
     "profileCategory": "international-university",
     "scan": {
-      "state": "blocked",
-      "checkedAt": "2026-11-09T10:07:44.919463+00:00",
+      "state": "partial",
+      "checkedAt": "2026-11-16T10:46:22.027383+00:00",
       "lastFullScanAt": "2026-10-28T19:41:59Z",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "0 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "9 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://phys.site.nthu.edu.tw/p/403-1335-3568-6.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/p/450-1335-267435,c0.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-5.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-2.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-4.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/p/406-1335-309567,r3568.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-1.php?Lang=zh-tw",
+        "https://phys.site.nthu.edu.tw/p/403-1335-3568-3.php?Lang=zh-tw",
         "https://phys.site.nthu.edu.tw/index.php?Lang=en"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
-    "coverageState": "blocked",
+    "coverageState": "partial",
     "lastFullScan": "2026-10-28"
   },
   {
@@ -2503,23 +2525,20 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:44.114027+00:00",
+      "checkedAt": "2026-11-16T10:46:17.755306+00:00",
       "lastFullScanAt": "2026-10-28T19:37:30Z",
-      "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "5 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/page/3/",
         "https://phys.nycu.edu.tw/faculty-position-iop-nycu/",
-        "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/",
-        "https://phys.nycu.edu.tw/category/%E7%B3%BB%E6%89%80%E5%85%AC%E5%91%8A/%E6%B1%82%E8%81%B7%E5%BE%B5%E6%89%8D/page/2/",
+        "https://phys.nycu.edu.tw/",
         "https://academicjobsonline.org/ajo/jobs/32260"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -2553,21 +2572,20 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:25.129809+00:00",
+      "checkedAt": "2026-11-16T10:45:19.414626+00:00",
       "lastFullScanAt": "2026-11-02T10:08:24.829432+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/api/jobs/3219186",
         "https://www.ujf.cas.cz/en/about-institute/Career/job-offers/",
         "https://inspirehep.net/jobs/3219186"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -2627,23 +2645,21 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:35.071733+00:00",
+      "checkedAt": "2026-11-16T10:46:47+00:00",
       "lastFullScanAt": "2026-10-28T19:13:11+00:00",
-      "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-Associate-Professor-of-Physics--Tenure-Tenure-Track-_REQ_0000082843-1",
-        "https://academicjobsonline.org/ajo/PennState",
         "https://academicjobsonline.org/ajo/jobs/32892",
         "https://academicjobsonline.org/ajo/jobs/32889",
         "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Academic/job/Assistant-Associate-Professor-of-Physics--Tenure-Tenure-Track-_REQ_0000082843-1"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -2721,22 +2737,19 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "checkedAt": "2026-11-16T10:49:07.966902+00:00",
       "lastFullScanAt": "2026-10-28T19:13:11+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://apply.interfolio.com/189792",
-        "https://aas.org/jobregister/ad/0017344c",
-        "https://www.scrippscollege.edu/hr/faculty"
+        "https://aas.org/jobregister/ad/0017344c"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -2799,21 +2812,19 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:32.488178+00:00",
+      "checkedAt": "2026-11-16T10:45:17.816251+00:00",
       "lastFullScanAt": "2026-10-28T19:26:56+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://careers.purdue.edu/job/AssistantAssociate-Professor-of-Experimental-Relativistic-Heavy-Ion-Physics/43899-en_US/",
-        "https://www.physics.purdue.edu/",
         "https://academicjobsonline.org/ajo/jobs/32648"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -2866,22 +2877,19 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:41.315328+00:00",
+      "checkedAt": "2026-11-16T10:46:19.810383+00:00",
       "lastFullScanAt": "2026-10-28T19:44:49.206Z",
-      "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaadlpctxh",
         "https://inspirehep.net/jobs/3185307",
-        "https://inspirehep.net/api/jobs/3185307",
         "https://www.berufungsportal.rwth-aachen.de/"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -2939,22 +2947,19 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:30.790110+00:00",
+      "checkedAt": "2026-11-16T10:46:30+00:00",
       "lastFullScanAt": "2026-10-28T19:19:52+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "2 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://physics.rice.edu",
         "https://academicjobsonline.org/ajo/jobs/33162",
         "https://apply.interfolio.com/195430"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -3004,21 +3009,19 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:35.845904+00:00",
+      "checkedAt": "2026-11-16T10:47:01.307276+00:00",
       "lastFullScanAt": "2026-10-28T19:24:18Z",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/jobs/3190489",
-        "https://inspirehep.net/api/jobs/3190489",
-        "https://sgtuniversity.ac.in/careers"
+        "https://inspirehep.net/api/jobs/3190489"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -3066,24 +3069,24 @@
     },
     "profileCategory": "international-university",
     "scan": {
-      "state": "blocked",
-      "checkedAt": "2026-11-09T10:07:46.566584+00:00",
+      "state": "partial",
+      "checkedAt": "2026-11-16T10:46:22.815221+00:00",
       "lastFullScanAt": "2026-10-28T19:43:12Z",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "0 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/jobs/3212760",
-        "https://www.srmap.edu.in/wp-content/uploads/2026/01/recruitment-ad-srmap.jpeg"
+        "https://www.srmap.edu.in/wp-content/uploads/2026/01/recruitment-ad-srmap.jpeg",
+        "https://inspirehep.net/api/jobs/3212760",
+        "https://www.srmap.edu.in/careers/"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
-    "coverageState": "blocked",
+    "coverageState": "partial",
     "lastFullScan": "2026-10-28"
   },
   {
@@ -3133,25 +3136,24 @@
     },
     "profileCategory": "international-university",
     "scan": {
-      "state": "complete",
-      "checkedAt": "2026-11-09T10:18:20+00:00",
+      "state": "partial",
+      "checkedAt": "2026-11-16T10:46:12.086939+00:00",
       "lastFullScanAt": "2026-11-09T10:18:20+00:00",
-      "coverage": "Complete current Shinshu Faculty of Science recruitment page, single page without pagination; both physics entries assessed and new theory call read in Japanese and English. Other university units excluded.",
-      "summary": "New particle-theory TT search closes February4,2027 at close of business per English PDF. Existing experimental cosmic-ray/HEP search explicitly marked ended; its August6,2026 deadline remains. Lake/highland and biology roles are outside map scope.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 other registered directory sources were not freshly checked this week."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://www.shinshu-u.ac.jp/faculty/science/others/recruitment.html",
-        "https://www.shinshu-u.ac.jp/faculty/science/",
-        "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_japanese.pdf",
-        "https://www.shinshu-u.ac.jp/guidance/office-worker/",
-        "https://www.shinshu-u.ac.jp/faculty/science/en/others/recruitment.html"
+        "https://www.shinshu-u.ac.jp/faculty/science/others/assets/92832d2b77bb4a17439347ad5bddff93.pdf",
+        "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_english3.pdf",
+        "https://www.shinshu-u.ac.jp/faculty/science/faculty/index.html",
+        "https://www.shinshu-u.ac.jp/faculty/science/others/docs/physics_recruit_japanese.pdf"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
-    "coverageState": "complete",
+    "coverageState": "partial",
     "lastFullScan": "2026-11-09"
   },
   {
@@ -3202,18 +3204,18 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:27.124950+00:00",
+      "checkedAt": "2026-11-16T10:45:19.050012+00:00",
       "lastFullScanAt": "2026-11-02T10:08:24.927229+00:00",
-      "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.sfu.ca/physics/about-us/employment/"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -3276,22 +3278,20 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:48.190274+00:00",
+      "checkedAt": "2026-11-16T10:46:19.203103+00:00",
       "lastFullScanAt": "2026-10-28T19:19:18+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.physics.smu.edu/",
         "https://apply.interfolio.com/193708",
         "https://academicjobsonline.org/ajo/jobs/32733"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -3349,25 +3349,22 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:11:55.802415+00:00",
+      "checkedAt": "2026-11-16T10:49:34.597159+00:00",
       "lastFullScanAt": "2026-10-28T19:24:18Z",
-      "coverage": "6 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "5 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.theory.tifr.res.in/jobs.html",
         "https://main.tifr.res.in/maincampus/viewNoticeFile.php?f=T2VJdndNNzVhbGtHUEEzbXVxam9aQT09&s=WFdXaTkwL1ZDTGdxaHp6eHA1bkh1QT09",
+        "https://main.tifr.res.in/portal/work_at_tifr.php",
         "https://www.tifr.res.in/dhep/facultyPositions.php",
-        "https://theory.tifr.res.in/jobs.html",
-        "https://www.tifr.res.in/positions",
-        "https://main.tifr.res.in/maincampus/careers.php"
+        "https://theory.tifr.res.in/jobs.html"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -3423,22 +3420,20 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "checkedAt": "2026-11-16T10:49:07.966902+00:00",
       "lastFullScanAt": "2026-10-28T19:53:37.158Z",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
         "https://jobs.tntech.edu/",
         "https://aas.org/jobregister/ad/5b64bbe4"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -3494,19 +3489,19 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:15:26+00:00",
+      "checkedAt": "2026-11-16T10:45:05.325808+00:00",
       "lastFullScanAt": null,
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/api/jobs/3220935",
         "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=926981&partnerid=25898&siteid=5637"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -3574,24 +3569,23 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "checkedAt": "2026-11-16T10:49:07.966902+00:00",
       "lastFullScanAt": "2026-10-28T19:55:14.768Z",
-      "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 3 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "3 related source checks failed; no closure inferred from access failure.",
-        "8 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://physics.osu.edu/",
         "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Open-Rank-Tenure-Track-Faculty-Position-in-Experimental-Nuclear-or-High-Energy-Physics_R161214-1",
+        "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Assistant-Associate-Professor-in-Astronomy_R159581-1",
+        "https://physics.osu.edu/about-us/faculty-search-information",
         "https://aas.org/jobregister/ad/57dd4cbb",
         "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Open-Rank-Tenure-Track-Faculty-Position-in-Theoretical-High-Energy-Physics_R160038-1",
         "https://academicjobsonline.org/ajo/jobs/33202"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -3643,22 +3637,21 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:47.531971+00:00",
+      "checkedAt": "2026-11-16T10:46:09.701815+00:00",
       "lastFullScanAt": "2026-10-28T19:24:18Z",
-      "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "4 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://tdli.sjtu.edu.cn/en/join-us/scientists",
         "https://academicjobsonline.org/ajo/jobs/32304",
         "https://academicjobsonline.org/ajo/jobs/32595",
-        "https://tdli.sjtu.edu.cn/en/post/16371"
+        "https://tdli.sjtu.edu.cn/en/post/16371",
+        "https://tdli.sjtu.edu.cn/en/join-us/tenure-track-fellows"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -3710,21 +3703,71 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:37.823124+00:00",
+      "checkedAt": "2026-11-16T10:46:12.666866+00:00",
       "lastFullScanAt": null,
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/jobs/3188903",
         "https://fisica.unab.cl/",
         "https://inspirehep.net/api/jobs/3188903"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
+    },
+    "coverageState": "partial",
+    "lastFullScan": null
+  },
+  {
+    "id": "universidad-san-sebastian",
+    "name": "Universidad San Sebastián",
+    "countryCode": "CL",
+    "city": "Santiago",
+    "aliases": [],
+    "profile": "University",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3227339",
+    "officialClassifications": [],
+    "sourceIds": [],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-11-16",
+      "latitude": -33.45694,
+      "longitude": -70.64827,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 3871336,
+      "matchedLocality": "Santiago",
+      "institutionSourceUrl": "https://inspirehep.net/api/jobs/3227339",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "City-level location, not a campus building; locality confirmed by employer advertisement or institution record. Exact city-name and country-code match in GeoNames."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://inspirehep.net/api/jobs/3227339"
+    },
+    "profileCategory": "international-university",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-11-16T10:47:13.284028+00:00",
+      "lastFullScanAt": null,
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
+      "limitations": [
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3227339"
+      ],
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -3778,23 +3821,21 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:47.414959+00:00",
+      "checkedAt": "2026-11-16T10:49:33.728535+00:00",
       "lastFullScanAt": "2026-11-02T10:08:41.619664+00:00",
-      "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/jobs/3198780",
         "https://www.ubiobio.cl/concursos/?trk=public_post_reshare-text",
         "https://inspirehep.net/api/jobs/3198780",
-        "https://www.ubiobio.cl/concursos/2027-1/02_Depto_Cs_Basicas_Fisica.pdf"
+        "https://www.ubiobio.cl/concursos/"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -3858,29 +3899,27 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:46.160442+00:00",
+      "checkedAt": "2026-11-16T10:46:18.385185+00:00",
       "lastFullScanAt": null,
-      "coverage": "10 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "9 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "4 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://portal.if.usp.br/ataac/pt-br/node/8165",
-        "https://iag.usp.br/concursos/concursos-para-docentes",
+        "https://portal.if.usp.br/ataac/pt-br/concursos_andamento",
+        "https://portal.if.usp.br/ataac/pt-br/node/8145",
+        "https://portal.if.usp.br/ataac/pt-br/node/8096",
         "https://portal.if.usp.br/ataac/pt-br/node/8122",
-        "https://portal.if.usp.br/ataac/pt-br/concursos_andamento?page=1",
         "https://portal.if.usp.br/ataac/pt-br/node/8100",
         "https://uspdigital.usp.br/gr/admissao",
         "https://portal.if.usp.br/ataac/pt-br/node/8208",
         "https://portal.if.usp.br/ataac/pt-br/node/8086",
-        "https://www.iag.usp.br/concursos-para-docentes/professor-doutor-aga-026-2026",
+        "https://iag.usp.br/concursos-para-docentes/professor-doutor-aga-013-2026",
         "https://portal.if.usp.br/ataac/pt-br/node/8209"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -3934,22 +3973,21 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:24.591575+00:00",
+      "checkedAt": "2026-11-16T10:47:01.307557+00:00",
       "lastFullScanAt": null,
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/api/jobs/3210713",
         "https://icc.ub.edu/node/1715527",
-        "https://inspirehep.net/jobs/3210713"
+        "https://inspirehep.net/jobs/3210713",
+        "https://icc.ub.edu/job-offers"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -4001,14 +4039,14 @@
     },
     "profileCategory": "international-university",
     "scan": {
-      "state": "complete",
-      "checkedAt": "2026-11-02T10:08:44.109197+00:00",
+      "state": "partial",
+      "checkedAt": "2026-11-16T10:46:12.296641+00:00",
       "lastFullScanAt": "2026-11-02T10:08:44.109197+00:00",
-      "coverage": "All eight displayed professorship rows on unfiltered Bonn single current list; no pagination.",
-      "summary": "Bonn current single professorship list displays eight rows in Sinology, church history, trauma studies, linguistics, finance, econometrics and discrete mathematics. No physics professorship listed; prior ads retained.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "This assessment is bounded to the stated sources and filters; it does not establish all possible, unadvertised or future vacancies.",
-        "1 related source URLs remained inaccessible or unreadable in this sweep; prior verified job facts were retained."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/jobs/3172216",
@@ -4016,10 +4054,62 @@
         "https://inspirehep.net/api/jobs/3172216",
         "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/w3-professur-fuer-beschleunigerphysik?set_language=en"
       ],
-      "reviewedAt": "2026-11-02T10:22:00.687010+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
-    "coverageState": "complete",
+    "coverageState": "partial",
     "lastFullScan": "2026-11-02"
+  },
+  {
+    "id": "university-british-columbia",
+    "name": "University of British Columbia",
+    "countryCode": "CA",
+    "city": "Vancouver",
+    "aliases": [],
+    "profile": "University",
+    "profileSourceUrl": "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225",
+    "officialClassifications": [],
+    "sourceIds": [],
+    "localSearchTerms": [],
+    "notes": [],
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-11-16",
+      "latitude": 49.24966,
+      "longitude": -123.11934,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 6173331,
+      "matchedLocality": "Vancouver",
+      "institutionSourceUrl": "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "City-level location, not a campus building; locality confirmed by employer advertisement or institution record. Exact city-name and country-code match in GeoNames."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225"
+    },
+    "profileCategory": "international-university",
+    "scan": {
+      "state": "partial",
+      "checkedAt": "2026-11-16T10:47:13.284562+00:00",
+      "lastFullScanAt": null,
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
+      "limitations": [
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
+      ],
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/3226174",
+        "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225"
+      ],
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
+    },
+    "coverageState": "partial",
+    "lastFullScan": null
   },
   {
     "id": "university-of-cagliari",
@@ -4063,24 +4153,25 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:43.776462+00:00",
+      "checkedAt": "2026-11-16T10:46:17.696198+00:00",
       "lastFullScanAt": "2026-10-28T19:37:41.219445+00:00",
-      "coverage": "6 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "6 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtte-55d-1026-06/meds-16",
-        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati",
-        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-associate/associati/anno-2026",
-        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari/anno-2026",
-        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtte-47d-0926",
-        "https://personale.unica.it/docric/public/concorsi-docenti/professoresse/professori-ordinarie/ordinari"
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttap-29d-0726",
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttl-45d-0926",
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtta-18d-0426",
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtta-46d-0926",
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttar-30d-0726",
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtte-19d-0426",
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rttlr-44d-0926-09/iind-03",
+        "https://personale.unica.it/docric/public/concorsi-ricercatori/ricercatrici/ricercatori-tenure-track/anno-2026/rtta-24d-0426-05/bios-15"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -4208,20 +4299,20 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:36.998059+00:00",
+      "checkedAt": "2026-11-16T10:49:32.886462+00:00",
       "lastFullScanAt": "2026-11-02T10:08:23.839422+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.uct.ac.za/staff/general-vacancies",
         "https://science.uct.ac.za/department-physics",
         "https://jobs.uct.ac.za/search"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -4291,15 +4382,13 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:11:07+00:00",
+      "checkedAt": "2026-11-16T10:49:07.966902+00:00",
       "lastFullScanAt": "2026-11-02T10:08:28.253879+00:00",
-      "coverage": "9 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "5 sources supplied readable evidence; 4 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "4 related source checks failed; no closure inferred from access failure.",
-        "5 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://academicjobsonline.org/ajo/jobs/32603",
@@ -4309,10 +4398,12 @@
         "https://academicjobsonline.org/ajo/jobs/32608",
         "https://apply.interfolio.com/192713",
         "https://academicjobsonline.org/ajo/jobs/32618",
+        "https://apply.interfolio.com/192968",
         "https://physics.uchicago.edu/about/job-opportunities/",
+        "https://apply.interfolio.com/192971",
         "https://aas.org/jobregister/ad/8852332e"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -4370,14 +4461,13 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:08:06.398170+00:00",
+      "checkedAt": "2026-11-16T10:46:16.919860+00:00",
       "lastFullScanAt": null,
-      "coverage": "8 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "4 sources supplied readable evidence; 4 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "4 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://jobportal.ku.dk/videnskabelige-stillinger/",
@@ -4389,7 +4479,7 @@
         "https://nbia.nbi.ku.dk/",
         "https://inspirehep.net/jobs/3197131"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -4456,21 +4546,20 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:11:07+00:00",
+      "checkedAt": "2026-11-16T10:46:10+00:00",
       "lastFullScanAt": "2026-10-28T19:23:42+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "4 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://explore.jobs.ufl.edu/en-us/job/541567/assistant-scientist-instrument-science",
         "https://aas.org/jobregister/ad/4b7a9ca7",
         "https://explore.jobs.ufl.edu/en-us/job/541742/assistant-professor-for-astronomical-instrumentation"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -4525,24 +4614,24 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:45.445267+00:00",
+      "checkedAt": "2026-11-16T10:46:21.862680+00:00",
       "lastFullScanAt": null,
-      "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 3 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "3 related source checks failed; no closure inferred from access failure.",
-        "2 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://jobs.unige.ch/www/wd_portal.show_job?p_web_page_id=75916&p_web_site_id=1",
+        "https://www.unige.ch/sciences/physique/theorique/en/emplois/",
+        "https://www.unige.ch/sciences/physique/la-section/emplois",
         "https://inspirehep.net/jobs/3208143",
         "https://inspirehep.net/api/jobs/3208143",
         "https://jobs.unige.ch/www/wd_portal.show_page?p_web_page_id=5188",
         "https://www.unige.ch/dpnc/en/jobs/"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -4592,20 +4681,20 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:38.609020+00:00",
+      "checkedAt": "2026-11-16T10:46:09.400268+00:00",
       "lastFullScanAt": "2026-10-28T19:24:18Z",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://physics.haifa.ac.il/?lang=en",
         "https://physics.haifa.ac.il/news/?lang=en",
         "https://physics.haifa.ac.il/2026/07/19/tenure-track-position-in-physics-2027/?lang=en"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -4669,19 +4758,19 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:18.417130+00:00",
+      "checkedAt": "2026-11-16T10:46:21.145746+00:00",
       "lastFullScanAt": "2026-10-28T19:49:41.352Z",
-      "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "3 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://careers.uh.edu/jobs/assistant-professor-nuclear-theorist-houston-texas-united-states"
+        "https://careers.uh.edu/jobs/assistant-professor-nuclear-theorist-houston-texas-united-states",
+        "https://careers.uh.edu/jobs/search/uh-postings?query=physics"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -4746,22 +4835,19 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:45.184166+00:00",
+      "checkedAt": "2026-11-16T10:45:15.551432+00:00",
       "lastFullScanAt": "2026-11-02T10:08:42.552295+00:00",
-      "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "4 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "7 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://ukjobs.uky.edu/postings/648332",
-        "https://academicjobsonline.org/ajo/jobs/32607",
-        "https://pa.as.uky.edu/astro",
-        "https://pa.as.uky.edu"
+        "https://academicjobsonline.org/ajo/jobs/32607"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -4814,15 +4900,14 @@
     },
     "profileCategory": "international-university",
     "scan": {
-      "state": "partial",
-      "checkedAt": "2026-11-09T10:11:20.011764+00:00",
+      "state": "blocked",
+      "checkedAt": "2026-11-16T10:46:47+00:00",
       "lastFullScanAt": "2026-10-28T19:24:18Z",
-      "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 3 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Checked sources remain inaccessible; previous verified job facts preserved.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "3 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career",
@@ -4830,9 +4915,9 @@
         "https://about.unimelb.edu.au/careers",
         "https://unimelb.wd105.myworkdayjobs.com/broadbean_external/job/Parkville-Victoria/Lecturer-in-Experimental-High-Energy-Physics_JR-019011-2"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
-    "coverageState": "partial",
+    "coverageState": "blocked",
     "lastFullScan": "2026-10-28"
   },
   {
@@ -4890,21 +4975,21 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:28.451579+00:00",
+      "checkedAt": "2026-11-16T10:46:30+00:00",
       "lastFullScanAt": "2026-10-28T19:13:49+00:00",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "3 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
+        "https://lsa.umich.edu/litp/open-positions.html",
+        "https://lsa.umich.edu/physics/about-us/jobs.html",
         "https://apply.interfolio.com/188444",
         "https://prod.lsa.umich.edu/physics/news-events/all-news/search-news/assistant-professor-of-physics-open-position.html"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -4963,19 +5048,18 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:36.398265+00:00",
+      "checkedAt": "2026-11-16T10:46:20.327977+00:00",
       "lastFullScanAt": "2026-10-28T19:37:41.219837+00:00",
-      "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "9 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://www.unina.it/ateneo/concorsi/concorsi-docenti-e-ricercatori/reclutamento-ricercatori-a-tempo-determinato"
+        "https://inspirehep.net/jobs/3189627"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -5033,21 +5117,20 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:28.180050+00:00",
+      "checkedAt": "2026-11-16T10:45:20.662510+00:00",
       "lastFullScanAt": "2026-11-02T10:08:17.207708+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.ou.edu/cas/physics-astronomy/job-opportunities",
         "https://academicjobsonline.org/ajo/jobs/32898",
         "https://apply.interfolio.com/193146"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -5107,24 +5190,23 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:45.371946+00:00",
+      "checkedAt": "2026-11-16T10:46:23.298376+00:00",
       "lastFullScanAt": "2026-11-02T10:08:31.907132+00:00",
-      "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "4 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "4 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
-        "https://www.maths.ox.ac.uk/node/39835",
-        "https://inspirehep.net/api/jobs/3177368",
-        "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186058",
+        "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_recruitment_id=189340&p_form_profile_detail=&p_company=10&p_display_in_irish=N&p_refresh_search=Y&p_internal_external=E&p_display_apply_ind=Y&p_applicant_no=&p_process_type=",
+        "https://inspirehep.net/jobs/3189637",
+        "https://www.physics.ox.ac.uk/about-us/work-us",
+        "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186704",
         "https://www.maths.ox.ac.uk/node/81914",
-        "https://www.maths.ox.ac.uk/about-us/vacancies"
+        "https://inspirehep.net/jobs/3177368"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -5189,25 +5271,25 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "checkedAt": "2026-11-16T10:47:46.319992+00:00",
       "lastFullScanAt": "2026-11-02T10:08:22.531631+00:00",
-      "coverage": "6 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 3 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "3 related source checks failed; no closure inferred from access failure.",
-        "3 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://cfopitt.taleo.net/careersection/pitt_faculty_external/jobdetail.ftl?job=26005118",
+        "https://www.physicsandastronomy.pitt.edu/sites/default/files/image-gallery/RAP_Newman_MWV_2026.pdf",
         "https://inspirehep.net/api/jobs/3195090",
         "https://www.physicsandastronomy.pitt.edu/about/department-openings",
         "https://inspirehep.net/jobs/3195090",
         "https://aas.org/jobregister/ad/33a81251",
+        "https://www.join.pitt.edu/",
         "https://cfopitt.taleo.net/careersection/pitt_faculty_external/jobdetail.ftl?job=26006538&lang=en"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -5271,27 +5353,28 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:12:53+00:00",
+      "checkedAt": "2026-11-16T10:49:35.000450+00:00",
       "lastFullScanAt": null,
-      "coverage": "8 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "5 sources supplied readable evidence; 3 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "3 related source checks failed; no closure inferred from access failure.",
-        "7 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://aas.org/jobregister/ad/6b5e3745",
         "https://faculty.utexas.edu/career?p=1&q=&units=College+of+Natural+Sciences",
+        "https://astronomy.utexas.edu/info-faculty-staff",
         "https://aas.org/jobregister/ad/2d1b76f2",
+        "https://faculty.utexas.edu/",
         "https://academicjobsonline.org/ajo/jobs/33167",
         "https://apply.interfolio.com/194655",
         "https://aas.org/jobregister/ad/210c5bdf",
+        "https://faculty.utexas.edu/career?p=1&q=physics",
         "https://faculty.utexas.edu/career/193143",
         "https://academicjobsonline.org/ajo/jobs/33062"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -5340,19 +5423,19 @@
     "profileCategory": "research-institute",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:12:52+00:00",
+      "checkedAt": "2026-11-16T10:45:15.953184+00:00",
       "lastFullScanAt": null,
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.icrr.u-tokyo.ac.jp/en/careers/",
         "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/ICRR2026-08_jp.pdf"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -5397,20 +5480,20 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:32.225843+00:00",
+      "checkedAt": "2026-11-16T10:46:03.022091+00:00",
       "lastFullScanAt": "2026-10-28T19:13:49+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/current/phys_270_163.php",
         "https://www.uvic.ca/faculty-staff/careers/faculty-and-librarian-postings/",
         "https://academicjobsonline.org/ajo/jobs/33243"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -5466,29 +5549,31 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:44.808875+00:00",
+      "checkedAt": "2026-11-16T10:46:23.006626+00:00",
       "lastFullScanAt": "2026-10-28T19:44:11.307852+00:00",
-      "coverage": "10 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "9 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "4 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://inspirehep.net/api/jobs/3208120",
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3750/datafile/pdf",
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3821/datafile/pdf",
         "https://inspirehep.net/jobs/3208120",
-        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3647/datafile/pdf",
-        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3679/datafile/pdf",
-        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3655/datafile/pdf",
-        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3656/datafile/pdf",
-        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3660/datafile/pdf",
-        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3651/datafile/pdf",
+        "https://www.fuw.edu.pl/praca.html",
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3700/datafile/pdf",
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3791/datafile/pdf",
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3836/datafile/pdf",
+        "https://www.fuw.edu.pl/job-offers.html",
         "https://www.fuw.edu.pl/tl_files/praca/2026/2026-09-01_adiunkt_badawczo_dydaktyczny_IFT_WF-1210-16-2026_ENG_do_30-11-2026.pdf",
-        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3654/datafile/pdf"
+        "https://konkursydlanauczycieli.uw.edu.pl/podglad2/open/",
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3806/datafile/pdf",
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3731/datafile/pdf",
+        "https://konkursydlanauczycieli.uw.edu.pl/api/document/3843/datafile/pdf"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -5547,21 +5632,20 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:26.679312+00:00",
+      "checkedAt": "2026-11-16T10:46:30+00:00",
       "lastFullScanAt": "2026-10-28T19:13:49+00:00",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "1 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://apply.interfolio.com/191207",
+        "https://ap.washington.edu/ahr/academic-jobs/",
         "https://ap.washington.edu/ahr/position-details/?job_id=189352"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -5618,18 +5702,18 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:10:55+00:00",
+      "checkedAt": "2026-11-16T10:49:07.966902+00:00",
       "lastFullScanAt": null,
-      "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://aas.org/jobregister/ad/2702ed17"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -5683,22 +5767,27 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:18:20+00:00",
+      "checkedAt": "2026-11-16T10:49:34.324422+00:00",
       "lastFullScanAt": null,
-      "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "4 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "9 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-ramon-cajal-ryc-2026/convocatoria",
         "https://www.lisamission.org/fellowship-and-tenure-track-opportunities-in-gravitational-wave-physics-mallorca-spain/",
-        "https://investigacio.uib.es/Contractacio/Convocatories-vigents/",
-        "https://www.uib.es/taulers/ocupacio"
+        "https://rrhh.uib.cat/arees/pdi/convocatories/professorat-associat-estabilitzacio",
+        "https://rrhh.uib.cat/arees/pdi/convocatories/borses",
+        "https://rrhh.uib.cat/arees/pdi/convocatories/ajudant-doctor-2",
+        "https://rrhh.uib.cat/arees/pdi/convocatories/ppl",
+        "https://rrhh.uib.cat/arees/pdi/convocatories/professorat-associat",
+        "https://rrhh.uib.cat/arees/pdi/convocatories",
+        "https://rrhh.uib.cat/arees/pdi/convocatories/personal-docent-numerari",
+        "https://rrhh.uib.cat/arees/pdi/convocatories/ppl-estabilitzacio"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": null
@@ -5751,20 +5840,20 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:10:55+00:00",
+      "checkedAt": "2026-11-16T10:49:32.059600+00:00",
       "lastFullScanAt": "2026-11-02T10:08:40.710140+00:00",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs/HCM/11197",
         "https://aas.org/jobregister/ad/d5c0665c",
         "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -5832,23 +5921,22 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:21.376684+00:00",
+      "checkedAt": "2026-11-16T10:46:23.093814+00:00",
       "lastFullScanAt": "2026-10-28T19:49:26+00:00",
-      "coverage": "4 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "5 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://apply.interfolio.com/193598",
         "https://academicjobsonline.org/ajo/jobs/32858",
         "https://academicjobsonline.org/ajo/jobs/33110",
-        "https://academicjobsonline.org/ajo/jobs/33063"
+        "https://academicjobsonline.org/ajo/jobs/33063",
+        "https://academicjobsonline.org/ajo/Vanderbilt"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -5915,20 +6003,19 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:27.257954+00:00",
+      "checkedAt": "2026-11-16T10:45:20.251014+00:00",
       "lastFullScanAt": "2026-11-02T10:08:39.498192+00:00",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "5 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://jobs.villanova.edu/postings/36409",
         "https://jobs.villanova.edu/postings/36501"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -5991,19 +6078,19 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:29.916339+00:00",
+      "checkedAt": "2026-11-16T10:49:32.910154+00:00",
       "lastFullScanAt": "2026-10-28T19:18:31+00:00",
-      "coverage": "1 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 0 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
+        "http://www.phys.vt.edu",
         "https://jobs.apply.vt.edu/jobs/tenure-track-faculty-position-in-theoretical-neutrino-physics-blacksburg-virginia-united-states"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -6064,21 +6151,21 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:29.717516+00:00",
+      "checkedAt": "2026-11-16T10:46:22.901344+00:00",
       "lastFullScanAt": "2026-11-02T10:16:42.055684+00:00",
-      "coverage": "2 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "1 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "6 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/William%26Mary",
         "https://williammary.wd12.myworkdayjobs.com/en-US/WM/details/Assistant-Professor-of-Physics_JR102162-1",
-        "https://academicjobsonline.org/ajo/jobs/33132"
+        "https://academicjobsonline.org/ajo/jobs/33132",
+        "https://jobs.wm.edu/"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"
@@ -6114,22 +6201,22 @@
     },
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:07:33.440343+00:00",
+      "checkedAt": "2026-11-16T10:46:07.334764+00:00",
       "lastFullScanAt": "2026-10-28T19:53:18Z",
-      "coverage": "3 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "2 sources supplied readable evidence; 1 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "1 related source checks failed; no closure inferred from access failure.",
-        "8 other registered directory sources were not freshly checked this week.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
+        "https://rsc.ytu.edu.cn/info/1196/3157.htm",
         "https://inspirehep.net/jobs/3129038",
         "https://inspirehep.net/api/jobs/3129038",
-        "https://oei.ytu.edu.cn/"
+        "https://rsc.ytu.edu.cn/index/zpxx.htm",
+        "https://oei.ytu.edu.cn/xygk/cpyc.htm"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-10-28"
@@ -6167,23 +6254,20 @@
     "profileCategory": "international-university",
     "scan": {
       "state": "partial",
-      "checkedAt": "2026-11-09T10:18:20+00:00",
+      "checkedAt": "2026-11-16T10:46:19.082838+00:00",
       "lastFullScanAt": "2026-11-02T10:08:34.922077+00:00",
-      "coverage": "5 associated registered sources checked as individual advertisements, bounded landing-page excerpts or failed retrievals; no fully paginated institutional vacancy list established completion.",
-      "summary": "3 sources supplied readable evidence; 2 remain inaccessible or unreadable. Existing verified facts are retained unless an individual revision is recorded in the job evidence.",
+      "coverage": "Bounded weekly checks of registered advertisements, directory headings and physics-related excerpts; scope and any pagination limits are recorded per source in the November16 sweep reports.",
+      "summary": "Some relevant public sources were readable; complete vacancy-list coverage has not been established.",
       "limitations": [
-        "Coverage is limited to the named pages and stated scope; this is not an exhaustive institution-wide or global search.",
-        "2 related source checks failed; no closure inferred from access failure.",
-        "Advertisements and bounded keyword reviews do not establish a complete current vacancy-list scan."
+        "Partial source sweep, not an exhaustive institution or global survey.",
+        "Linked advertisements, attachments, pagination and inaccessible sources may remain unresolved."
       ],
       "evidenceUrls": [
         "https://www.epfl.ch/about/working/page-26457-en-html/",
         "https://facultyrecruiting.epfl.ch/position/65044488",
-        "https://www.epfl.ch/schools/sb/research/iphys/open-positions/",
-        "https://facultyrecruiting.epfl.ch/",
         "https://www.epfl.ch/about/working/faculty-position-in-experimantal-particle-physics/"
       ],
-      "reviewedAt": "2026-11-09T10:22:31.410247+00:00"
+      "reviewedAt": "2026-11-16T10:54:33.528566+00:00"
     },
     "coverageState": "partial",
     "lastFullScan": "2026-11-02"

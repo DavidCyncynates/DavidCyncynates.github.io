@@ -67,7 +67,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -141,7 +141,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -228,7 +228,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": null,
@@ -306,7 +306,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": null,
@@ -378,7 +378,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -461,23 +461,15 @@
       "ai-methods"
     ],
     "snapshotState": {
-      "status": "upcoming",
+      "status": "review-or-priority-date-passed",
       "reviewRequired": false,
       "defaultEligible": true,
-      "nextMilestone": {
-        "date": "2026-11-08",
-        "kind": "review-start",
-        "time": null,
-        "timezone": null,
-        "sourceUrl": "https://aas.org/jobregister/ad/a5ed92fc",
-        "description": "Applications reviewed on a rolling basis beginning this date; no final application cutoff stated.",
-        "cutoffAt": "2026-11-09T12:00:00+00:00"
-      },
-      "urgency": "red",
-      "hasPastPriorityOrReviewDate": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
+      "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -557,23 +549,15 @@
       "ai-methods"
     ],
     "snapshotState": {
-      "status": "upcoming",
+      "status": "review-or-priority-date-passed",
       "reviewRequired": false,
       "defaultEligible": true,
-      "nextMilestone": {
-        "date": "2026-11-08",
-        "time": null,
-        "timezone": null,
-        "kind": "review-start",
-        "sourceUrl": "https://aas.org/jobregister/ad/ebe9db3c",
-        "description": "Rolling review begins; this is not a confirmed hard closing date.",
-        "cutoffAt": "2026-11-09T12:00:00+00:00"
-      },
-      "urgency": "red",
-      "hasPastPriorityOrReviewDate": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
+      "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -680,7 +664,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -766,7 +750,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -864,7 +848,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -954,7 +938,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1047,7 +1031,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1147,7 +1131,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1233,7 +1217,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1306,7 +1290,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": null,
@@ -1363,7 +1347,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": null,
@@ -1421,7 +1405,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": null,
@@ -1497,7 +1481,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1588,7 +1572,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1678,7 +1662,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1777,7 +1761,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1869,7 +1853,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -1968,7 +1952,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2036,7 +2020,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2136,7 +2120,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2233,23 +2217,15 @@
       "nuclear"
     ],
     "snapshotState": {
-      "status": "upcoming",
+      "status": "deadline-passed",
       "reviewRequired": false,
-      "defaultEligible": true,
-      "nextMilestone": {
-        "date": "2026-11-14",
-        "time": null,
-        "timezone": null,
-        "kind": "hard",
-        "sourceUrl": "https://www.iopb.res.in/wp-content/uploads/2026/09/Advertisement-for-Faculty-Position-at-IOP.pdf.pdf",
-        "description": "Applications must reach the institute on or before this date.",
-        "cutoffAt": "2026-11-15T12:00:00+00:00"
-      },
-      "urgency": "red",
+      "defaultEligible": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2276,6 +2252,103 @@
       "source-871d432d25ec",
       "source-35f6965f0963",
       "source-a406a694e409"
+    ]
+  },
+  {
+    "id": "itp-cas-faculty-2027",
+    "institutionId": "itp-chinese-academy-sciences",
+    "institutionName": "Institute of Theoretical Physics, Chinese Academy of Sciences",
+    "countryCode": "CN",
+    "city": "Beijing",
+    "title": "Associate Professor faculty opportunities in theoretical physics",
+    "rank": [
+      "Associate Professor (tenure track or fixed term)"
+    ],
+    "fields": [
+      "high-energy theory",
+      "nuclear theory",
+      "quantum field theory",
+      "gravity",
+      "cosmology",
+      "broad theoretical physics"
+    ],
+    "scope": "broad-physics",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer-submitted November12,2026 call for faculty positions in2027 explicitly requires receipt by December31,2026.",
+    "startDate": "2027",
+    "deadlines": [
+      {
+        "date": "2026-12-31",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://inspirehep.net/api/jobs/3227300",
+        "description": "Explicit application closing/receipt date; no numeric time or timezone stated.",
+        "cutoffAt": "2027-01-01T12:00:00+00:00"
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-16",
+    "sourceUrls": [
+      "https://inspirehep.net/api/jobs/3227300"
+    ],
+    "summary": "Faculty recruitment includes talent-programme tenure-track and three-to-five-year fixed-term associate-professor routes across theoretical physics.",
+    "notes": [
+      "Tenure-track routes depend on specified national/CAS talent programmes and have distinct age/overseas-experience eligibility; consult the call.",
+      "The separate research-associate route in the advertisement is excluded from this faculty record.",
+      "Official matching November11 call was discovered, but direct retrieval failed certificate verification: https://english.itp.cas.cn/join/oppt/202611/t20261111_1213647.html"
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer-submitted advertisement or official employer page read; date semantics and application cycle checked.",
+    "fieldTags": [
+      "theory",
+      "cosmology",
+      "gravity",
+      "nuclear"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-12-31",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://inspirehep.net/api/jobs/3227300",
+        "description": "Explicit application closing/receipt date; no numeric time or timezone stated.",
+        "cutoffAt": "2027-01-01T12:00:00+00:00"
+      },
+      "urgency": "blue",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-11-16",
+      "latitude": 39.9075,
+      "longitude": 116.39723,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 1816670,
+      "matchedLocality": "Beijing",
+      "institutionSourceUrl": "https://inspirehep.net/api/institutions/903895",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "City-level location, not a campus building; locality confirmed by employer advertisement or institution record. Exact city-name and country-code match in GeoNames."
+      ],
+      "profile": "research-institute",
+      "profileSourceUrl": "https://inspirehep.net/api/jobs/3227300"
+    },
+    "sourceIds": [
+      "source-d47bc6536ea8"
     ]
   },
   {
@@ -2339,11 +2412,11 @@
         "timezone": null,
         "cutoffAt": "2026-11-21T12:00:00+00:00"
       },
-      "urgency": "amber",
+      "urgency": "red",
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2419,7 +2492,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": null,
@@ -2490,7 +2563,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2573,7 +2646,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2659,7 +2732,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2744,11 +2817,11 @@
         "description": "Official closing date, noon JST.",
         "cutoffAt": "2026-11-19T03:00:00+00:00"
       },
-      "urgency": "amber",
+      "urgency": "red",
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -2837,7 +2910,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": null,
@@ -2899,23 +2972,15 @@
       "instrumentation"
     ],
     "snapshotState": {
-      "status": "upcoming",
+      "status": "deadline-passed",
       "reviewRequired": false,
-      "defaultEligible": true,
-      "nextMilestone": {
-        "date": "2026-11-12",
-        "time": "23:59",
-        "timezone": "Asia/Tokyo",
-        "kind": "hard",
-        "sourceUrl": "https://www.scphys.kyoto-u.ac.jp/news/recruit/koubo_20260914.pdf",
-        "description": "Applications must arrive by 23:59 JST; dates converted from the explicitly stated Reiwa calendar.",
-        "cutoffAt": "2026-11-12T14:59:00+00:00"
-      },
-      "urgency": "red",
+      "defaultEligible": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3011,7 +3076,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3102,11 +3167,11 @@
         "description": "Applications must arrive by December 14, 2026 at 23:59 JST, as explicitly stated.",
         "cutoffAt": "2026-12-14T14:59:00+00:00"
       },
-      "urgency": "blue",
+      "urgency": "amber",
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3211,7 +3276,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3310,7 +3375,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3405,7 +3470,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3519,7 +3584,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3637,7 +3702,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "sourceIds": [
       "source-67a4a5792f2c"
@@ -3716,7 +3781,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3812,7 +3877,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -3893,7 +3958,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": null,
@@ -3979,7 +4044,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": 25.05306,
@@ -4073,7 +4138,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": 24.80361,
@@ -4168,7 +4233,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4262,7 +4327,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": null,
@@ -4359,7 +4424,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4457,11 +4522,11 @@
         "description": "Current employer Workday advertisement promises full consideration by this date; later applications may be considered until filled.",
         "cutoffAt": "2026-11-23T12:00:00+00:00"
       },
-      "urgency": "amber",
+      "urgency": "red",
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4551,7 +4616,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4648,7 +4713,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4732,7 +4797,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4840,7 +4905,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -4935,7 +5000,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5023,7 +5088,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5120,7 +5185,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5202,7 +5267,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5291,7 +5356,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5370,23 +5435,15 @@
       "instrumentation"
     ],
     "snapshotState": {
-      "status": "upcoming",
+      "status": "review-or-priority-date-passed",
       "reviewRequired": false,
       "defaultEligible": true,
-      "nextMilestone": {
-        "date": "2026-11-10",
-        "kind": "review-start",
-        "description": "Review begins; applications accepted until filled.",
-        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32733",
-        "time": null,
-        "timezone": null,
-        "cutoffAt": "2026-11-11T12:00:00+00:00"
-      },
-      "urgency": "red",
-      "hasPastPriorityOrReviewDate": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
+      "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5487,7 +5544,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5582,11 +5639,11 @@
         "description": "Full consideration by December 15; search remains open until filled.",
         "cutoffAt": "2026-12-16T12:00:00+00:00"
       },
-      "urgency": "blue",
+      "urgency": "amber",
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5686,7 +5743,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5783,7 +5840,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5877,7 +5934,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -5956,23 +6013,15 @@
       "astrophysics"
     ],
     "snapshotState": {
-      "status": "upcoming",
+      "status": "review-or-priority-date-passed",
       "reviewRequired": false,
       "defaultEligible": true,
-      "nextMilestone": {
-        "date": "2026-11-10",
-        "time": null,
-        "timezone": null,
-        "kind": "priority",
-        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/32595",
-        "description": "Full consideration; search remains open until filled.",
-        "cutoffAt": "2026-11-11T12:00:00+00:00"
-      },
-      "urgency": "red",
-      "hasPastPriorityOrReviewDate": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
+      "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6070,7 +6119,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6152,7 +6201,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6179,6 +6228,100 @@
     "sourceIds": [
       "source-f3c91565265f",
       "source-2e487b1290bc"
+    ]
+  },
+  {
+    "id": "uss-atlas-tenure-track-2027",
+    "institutionId": "universidad-san-sebastian",
+    "institutionName": "Universidad San Sebastián",
+    "countryCode": "CL",
+    "city": "Santiago",
+    "title": "Tenure-track Faculty in Experimental Particle Physics — ATLAS",
+    "rank": [
+      "Tenure-track faculty"
+    ],
+    "fields": [
+      "high-energy experiment",
+      "ATLAS",
+      "collider physics",
+      "dark sectors",
+      "instrumentation"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer-submitted call posted November12,2026 explicitly closes January15,2027 and expects March2027 appointment.",
+    "startDate": "2027-03",
+    "deadlines": [
+      {
+        "date": "2027-01-15",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://inspirehep.net/api/jobs/3227339",
+        "description": "Explicit application closing/receipt date; no numeric time or timezone stated.",
+        "cutoffAt": "2027-01-16T12:00:00+00:00"
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-16",
+    "sourceUrls": [
+      "https://inspirehep.net/api/jobs/3227339"
+    ],
+    "summary": "Tenure-track ATLAS search spanning collider analysis, reconstruction, triggers, instrumentation and machine learning.",
+    "notes": [
+      "Expected start March2027; exact day not stated.",
+      "Ability to teach in Spanish is required by the beginning of the second year; not required at application.",
+      "Location Santiago explicitly stated by employer; do not use another USS campus."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer-submitted advertisement or official employer page read; date semantics and application cycle checked.",
+    "fieldTags": [
+      "experiment",
+      "instrumentation"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2027-01-15",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://inspirehep.net/api/jobs/3227339",
+        "description": "Explicit application closing/receipt date; no numeric time or timezone stated.",
+        "cutoffAt": "2027-01-16T12:00:00+00:00"
+      },
+      "urgency": "blue",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-11-16",
+      "latitude": -33.45694,
+      "longitude": -70.64827,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 3871336,
+      "matchedLocality": "Santiago",
+      "institutionSourceUrl": "https://inspirehep.net/api/jobs/3227339",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "City-level location, not a campus building; locality confirmed by employer advertisement or institution record. Exact city-name and country-code match in GeoNames."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://inspirehep.net/api/jobs/3227339"
+    },
+    "sourceIds": [
+      "source-ed6bcd93d45f"
     ]
   },
   {
@@ -6240,7 +6383,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6328,7 +6471,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6420,7 +6563,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6513,7 +6656,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6605,7 +6748,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6692,7 +6835,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -6720,6 +6863,98 @@
       "source-1728ff33ac4d",
       "source-63e4890a96b0",
       "source-fc553af85e36"
+    ]
+  },
+  {
+    "id": "ubc-physics-teaching-assistant-2027",
+    "institutionId": "university-british-columbia",
+    "institutionName": "University of British Columbia",
+    "countryCode": "CA",
+    "city": "Vancouver",
+    "title": "Assistant Professor of Teaching in Physics and Engineering Physics",
+    "rank": [
+      "Assistant Professor of Teaching"
+    ],
+    "fields": [
+      "broad physics",
+      "engineering physics",
+      "physics education"
+    ],
+    "scope": "broad-physics",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Official department call closes December15,2026 and anticipates July1,2027 start.",
+    "startDate": "2027-07-01",
+    "deadlines": [
+      {
+        "date": "2026-12-15",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225",
+        "description": "Explicit application closing/receipt date; no numeric time or timezone stated.",
+        "cutoffAt": "2026-12-16T12:00:00+00:00"
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-16",
+    "sourceUrls": [
+      "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225",
+      "https://inspirehep.net/api/jobs/3226174"
+    ],
+    "summary": "Tenure-track Educational Leadership appointment focused on physics and engineering-physics teaching, laboratories and capstone projects.",
+    "notes": [
+      "Teaching-focused broad-physics opportunity, not a dedicated HEP research search.",
+      "Professional Engineer registration or eligibility for registration within five years of appointment is required."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer-submitted advertisement or official employer page read; date semantics and application cycle checked.",
+    "fieldTags": [
+      "broad-physics"
+    ],
+    "snapshotState": {
+      "status": "upcoming",
+      "reviewRequired": false,
+      "defaultEligible": true,
+      "nextMilestone": {
+        "date": "2026-12-15",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225",
+        "description": "Explicit application closing/receipt date; no numeric time or timezone stated.",
+        "cutoffAt": "2026-12-16T12:00:00+00:00"
+      },
+      "urgency": "amber",
+      "hasPastPriorityOrReviewDate": false,
+      "deadlineTimezoneUnconfirmed": true,
+      "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
+    },
+    "location": {
+      "verification": "verified",
+      "checkedOn": "2026-11-16",
+      "latitude": 49.24966,
+      "longitude": -123.11934,
+      "precision": "city",
+      "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+      "sourceDataset": "GeoNames cities15000",
+      "geonameId": 6173331,
+      "matchedLocality": "Vancouver",
+      "institutionSourceUrl": "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225",
+      "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+      "sourceLicense": "CC BY 4.0",
+      "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "notes": [
+        "City-level location, not a campus building; locality confirmed by employer advertisement or institution record. Exact city-name and country-code match in GeoNames."
+      ],
+      "profile": "university",
+      "profileSourceUrl": "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225"
+    },
+    "sourceIds": [
+      "source-b3d990634f45",
+      "source-3dada773adec"
     ]
   },
   {
@@ -6782,7 +7017,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": 39.25642,
@@ -6874,7 +7109,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": 39.25642,
@@ -6951,23 +7186,15 @@
       "theory"
     ],
     "snapshotState": {
-      "status": "upcoming",
+      "status": "deadline-passed",
       "reviewRequired": false,
-      "defaultEligible": true,
-      "nextMilestone": {
-        "date": "2026-11-15",
-        "time": "23:59",
-        "timezone": "America/Los_Angeles",
-        "kind": "hard",
-        "sourceUrl": "https://aprecruit.berkeley.edu/JPF05460",
-        "description": "Final application date and full-consideration review date are both November 15 at 11:59 p.m. Pacific.",
-        "cutoffAt": "2026-11-16T07:59:00+00:00"
-      },
-      "urgency": "red",
+      "defaultEligible": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7045,7 +7272,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7124,23 +7351,15 @@
       "nuclear"
     ],
     "snapshotState": {
-      "status": "upcoming",
+      "status": "deadline-passed",
       "reviewRequired": false,
-      "defaultEligible": true,
-      "nextMilestone": {
-        "date": "2026-11-15",
-        "time": "23:59",
-        "timezone": "America/Los_Angeles",
-        "kind": "hard",
-        "sourceUrl": "https://aprecruit.berkeley.edu/JPF05524",
-        "description": "Final application date; full-consideration review date is the same.",
-        "cutoffAt": "2026-11-16T07:59:00+00:00"
-      },
-      "urgency": "red",
+      "defaultEligible": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7227,7 +7446,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7324,7 +7543,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7413,7 +7632,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7508,7 +7727,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7598,7 +7817,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7689,11 +7908,11 @@
         "description": "Application review begins December 11, 2026 and continues until the position is filled.",
         "cutoffAt": "2026-12-12T12:00:00+00:00"
       },
-      "urgency": "blue",
+      "urgency": "amber",
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7777,7 +7996,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7873,11 +8092,11 @@
         "description": "Employer applications-close date; submission required by 11:55 p.m. Eastern.",
         "cutoffAt": "2026-11-20T04:55:00+00:00"
       },
-      "urgency": "amber",
+      "urgency": "red",
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -7974,7 +8193,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8064,7 +8283,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8154,7 +8373,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8247,7 +8466,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8341,7 +8560,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8426,7 +8645,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8514,7 +8733,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8594,23 +8813,15 @@
       "experiment"
     ],
     "snapshotState": {
-      "status": "upcoming",
+      "status": "review-or-priority-date-passed",
       "reviewRequired": false,
       "defaultEligible": true,
-      "nextMilestone": {
-        "date": "2026-11-14",
-        "time": null,
-        "timezone": null,
-        "kind": "review-start",
-        "sourceUrl": "https://www.ou.edu/cas/physics-astronomy/job-opportunities",
-        "description": "Complete applications are reviewed after November 14; review continues until filled.",
-        "cutoffAt": "2026-11-15T12:00:00+00:00"
-      },
-      "urgency": "red",
-      "hasPastPriorityOrReviewDate": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
+      "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8699,7 +8910,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8786,7 +8997,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8876,7 +9087,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -8973,7 +9184,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -9062,7 +9273,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -9157,7 +9368,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -9253,7 +9464,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -9330,23 +9541,15 @@
       "astrophysics"
     ],
     "snapshotState": {
-      "status": "upcoming",
+      "status": "review-or-priority-date-passed",
       "reviewRequired": false,
       "defaultEligible": true,
-      "nextMilestone": {
-        "date": "2026-11-10",
-        "time": null,
-        "timezone": null,
-        "kind": "priority",
-        "sourceUrl": "https://aas.org/jobregister/ad/210c5bdf",
-        "description": "Complete applications received by November 10, 2026 are assured full consideration; no hard closing date stated.",
-        "cutoffAt": "2026-11-11T12:00:00+00:00"
-      },
-      "urgency": "red",
-      "hasPastPriorityOrReviewDate": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
+      "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -9435,7 +9638,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -9531,7 +9734,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -9624,7 +9827,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -9720,7 +9923,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -9810,7 +10013,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -9915,7 +10118,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -10014,7 +10217,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -10103,7 +10306,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -10200,7 +10403,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -10293,7 +10496,7 @@
       "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -10381,7 +10584,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -10480,7 +10683,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -10581,7 +10784,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -10674,7 +10877,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -10748,23 +10951,15 @@
       "astroparticle"
     ],
     "snapshotState": {
-      "status": "upcoming",
+      "status": "review-or-priority-date-passed",
       "reviewRequired": false,
       "defaultEligible": true,
-      "nextMilestone": {
-        "date": "2026-11-09",
-        "kind": "priority",
-        "description": "Full consideration and review start; applications accepted until filled.",
-        "sourceUrl": "https://jobs.apply.vt.edu/jobs/tenure-track-faculty-position-in-theoretical-neutrino-physics-blacksburg-virginia-united-states",
-        "time": null,
-        "timezone": null,
-        "cutoffAt": "2026-11-10T12:00:00+00:00"
-      },
-      "urgency": "red",
-      "hasPastPriorityOrReviewDate": false,
+      "nextMilestone": null,
+      "urgency": "neutral",
+      "hasPastPriorityOrReviewDate": true,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -10857,7 +11052,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",
@@ -10931,7 +11126,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": false,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "latitude": null,
@@ -11005,7 +11200,7 @@
       "hasPastPriorityOrReviewDate": false,
       "deadlineTimezoneUnconfirmed": true,
       "dateOnlyExpiryPolicy": "End of stated date in the stated timezone; if unknown, end of date anywhere on Earth. Consult the advertisement for exact submission time.",
-      "evaluatedAt": "2026-11-09T10:25:52.359453+00:00"
+      "evaluatedAt": "2026-11-16T10:54:33.839243+00:00"
     },
     "location": {
       "verification": "verified",

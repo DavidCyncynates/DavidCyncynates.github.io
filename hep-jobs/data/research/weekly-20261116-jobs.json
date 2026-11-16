@@ -1,0 +1,142 @@
+[
+  {
+    "id": "uss-atlas-tenure-track-2027",
+    "institutionId": "universidad-san-sebastian",
+    "institutionName": "Universidad San Sebastián",
+    "countryCode": "CL",
+    "city": "Santiago",
+    "title": "Tenure-track Faculty in Experimental Particle Physics — ATLAS",
+    "rank": [
+      "Tenure-track faculty"
+    ],
+    "fields": [
+      "high-energy experiment",
+      "ATLAS",
+      "collider physics",
+      "dark sectors",
+      "instrumentation"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer-submitted call posted November12,2026 explicitly closes January15,2027 and expects March2027 appointment.",
+    "startDate": "2027-03",
+    "deadlines": [
+      {
+        "date": "2027-01-15",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://inspirehep.net/api/jobs/3227339",
+        "description": "Explicit application closing/receipt date; no numeric time or timezone stated."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-16",
+    "sourceUrls": [
+      "https://inspirehep.net/api/jobs/3227339"
+    ],
+    "summary": "Tenure-track ATLAS search spanning collider analysis, reconstruction, triggers, instrumentation and machine learning.",
+    "notes": [
+      "Expected start March2027; exact day not stated.",
+      "Ability to teach in Spanish is required by the beginning of the second year; not required at application.",
+      "Location Santiago explicitly stated by employer; do not use another USS campus."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer-submitted advertisement or official employer page read; date semantics and application cycle checked."
+  },
+  {
+    "id": "itp-cas-faculty-2027",
+    "institutionId": "itp-chinese-academy-sciences",
+    "institutionName": "Institute of Theoretical Physics, Chinese Academy of Sciences",
+    "countryCode": "CN",
+    "city": "Beijing",
+    "title": "Associate Professor faculty opportunities in theoretical physics",
+    "rank": [
+      "Associate Professor (tenure track or fixed term)"
+    ],
+    "fields": [
+      "high-energy theory",
+      "nuclear theory",
+      "quantum field theory",
+      "gravity",
+      "cosmology",
+      "broad theoretical physics"
+    ],
+    "scope": "broad-physics",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Employer-submitted November12,2026 call for faculty positions in2027 explicitly requires receipt by December31,2026.",
+    "startDate": "2027",
+    "deadlines": [
+      {
+        "date": "2026-12-31",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://inspirehep.net/api/jobs/3227300",
+        "description": "Explicit application closing/receipt date; no numeric time or timezone stated."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-16",
+    "sourceUrls": [
+      "https://inspirehep.net/api/jobs/3227300"
+    ],
+    "summary": "Faculty recruitment includes talent-programme tenure-track and three-to-five-year fixed-term associate-professor routes across theoretical physics.",
+    "notes": [
+      "Tenure-track routes depend on specified national/CAS talent programmes and have distinct age/overseas-experience eligibility; consult the call.",
+      "The separate research-associate route in the advertisement is excluded from this faculty record.",
+      "Official matching November11 call was discovered, but direct retrieval failed certificate verification: https://english.itp.cas.cn/join/oppt/202611/t20261111_1213647.html"
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer-submitted advertisement or official employer page read; date semantics and application cycle checked."
+  },
+  {
+    "id": "ubc-physics-teaching-assistant-2027",
+    "institutionId": "university-british-columbia",
+    "institutionName": "University of British Columbia",
+    "countryCode": "CA",
+    "city": "Vancouver",
+    "title": "Assistant Professor of Teaching in Physics and Engineering Physics",
+    "rank": [
+      "Assistant Professor of Teaching"
+    ],
+    "fields": [
+      "broad physics",
+      "engineering physics",
+      "physics education"
+    ],
+    "scope": "broad-physics",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Official department call closes December15,2026 and anticipates July1,2027 start.",
+    "startDate": "2027-07-01",
+    "deadlines": [
+      {
+        "date": "2026-12-15",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225",
+        "description": "Explicit application closing/receipt date; no numeric time or timezone stated."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-16",
+    "sourceUrls": [
+      "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225",
+      "https://inspirehep.net/api/jobs/3226174"
+    ],
+    "summary": "Tenure-track Educational Leadership appointment focused on physics and engineering-physics teaching, laboratories and capstone projects.",
+    "notes": [
+      "Teaching-focused broad-physics opportunity, not a dedicated HEP research search.",
+      "Professional Engineer registration or eligibility for registration within five years of appointment is required."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer-submitted advertisement or official employer page read; date semantics and application cycle checked."
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "runId": "hep-jobs-weekly-20261116-pass-3",
+  "startedAt": "2026-11-16T10:47:39+00:00",
+  "finishedAt": "2026-11-16T10:53:32.913639+00:00",
+  "checks": [
+    {
+      "sourceId": "source-ca1372f393d9",
+      "checkedAt": "2026-11-16T10:47:39+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=204910"
+      ],
+      "summary": "Followed the employer faculty-index link; web retrieval could not access the detailed advertisement. Existing needs-review retained.",
+      "coverage": "One linked advertisement; no accessible content.",
+      "paginationComplete": false,
+      "timestampBasis": "actual-request-start"
+    }
+  ]
+}

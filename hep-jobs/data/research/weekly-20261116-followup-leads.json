@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Trieste RTT experimental fundamental interactions PHYS-01/A",
+    "url": "https://euraxess.ec.europa.eu/jobs/480485",
+    "checkedOn": "2026-11-16",
+    "verification": "needs-review",
+    "reason": "November14 ministry ad gives December14 deadline but STATUS EXPIRED; reserved appointment eligibility and formal employer call not resolved (university directory403, PICA visible subset unrelated).",
+    "employerUrl": "https://amm.units.it/concorsi/ricerca/ricercatori-td"
+  },
+  {
+    "title": "Stony Brook YITP theory tenure track deadline revision",
+    "url": "https://inspirehep.net/api/jobs/3221538",
+    "employerUrl": "https://apply.interfolio.com/196029",
+    "checkedOn": "2026-11-16",
+    "verification": "needs-review",
+    "reason": "Nov13 updated body now says Dec15,2026 23:59Eastern deadline and priorityDec15, while metadata retains Dec2. Prior lead had March1,2027 hard deadline; retain history and do not promote until employer deadline resolved."
+  },
+  {
+    "title": "USTC ICTS theoretical physics faculty",
+    "url": "https://inspirehep.net/api/jobs/3221914",
+    "employerUrl": "https://icts.ustc.edu.cn/english/2021/0329/c25434a478033/page.htm",
+    "checkedOn": "2026-11-16",
+    "verification": "needs-review",
+    "reason": "2027 employer-submitted call rechecked, but linked official page still explicitly refers to Apr1,2026. Prior cycle corroboration gap remains."
+  },
+  {
+    "title": "Pittsburgh LINCC Project Scientist / Research Assistant Professor",
+    "url": "https://www.physicsandastronomy.pitt.edu/sites/default/files/image-gallery/RAP_Newman_MWV_2026.pdf",
+    "checkedOn": "2026-11-16",
+    "verification": "needs-review",
+    "reason": "Rechecked employer PDF: non-tenure-stream research faculty, December15 full consideration then rolling review. Previous scope decision remains unresolved because appointment duration/continuity is unspecified; not newly posted and not promoted."
+  },
+  {
+    "title": "MIT experimental quantum science",
+    "url": "https://academicjobsonline.org/ajo/jobs/33086",
+    "checkedOn": "2026-11-16",
+    "verification": "needs-review",
+    "reason": "Rechecked December1,2026 application deadline and precision-measurement remit. Prior scope-review lead retained: ad does not explicitly establish HEP relevance; not newly posted and not promoted."
+  }
+]

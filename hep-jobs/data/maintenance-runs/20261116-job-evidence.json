@@ -1,0 +1,27 @@
+[
+  {
+    "jobId": "itp-cas-faculty-2027",
+    "checkedOn": "2026-11-16",
+    "sourceIds": [
+      "source-d47bc6536ea8"
+    ],
+    "summary": "Associate Professor faculty opportunities in theoretical physics. Employer-submitted November12,2026 call for faculty positions in2027 explicitly requires receipt by December31,2026. Faculty recruitment includes talent-programme tenure-track and three-to-five-year fixed-term associate-professor routes across theoretical physics."
+  },
+  {
+    "jobId": "uss-atlas-tenure-track-2027",
+    "checkedOn": "2026-11-16",
+    "sourceIds": [
+      "source-ed6bcd93d45f"
+    ],
+    "summary": "Tenure-track Faculty in Experimental Particle Physics — ATLAS. Employer-submitted call posted November12,2026 explicitly closes January15,2027 and expects March2027 appointment. Tenure-track ATLAS search spanning collider analysis, reconstruction, triggers, instrumentation and machine learning."
+  },
+  {
+    "jobId": "ubc-physics-teaching-assistant-2027",
+    "checkedOn": "2026-11-16",
+    "sourceIds": [
+      "source-b3d990634f45",
+      "source-3dada773adec"
+    ],
+    "summary": "Assistant Professor of Teaching in Physics and Engineering Physics. Official department call closes December15,2026 and anticipates July1,2027 start. Tenure-track Educational Leadership appointment focused on physics and engineering-physics teaching, laboratories and capstone projects."
+  }
+]
