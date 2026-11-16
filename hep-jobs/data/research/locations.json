@@ -1742,5 +1742,65 @@
       "Campus-level institution location from the NCES IPEDS HD2024 directory, matched by UNITID. The point is not a verified department office or building entrance.",
       "Matched Texas Tech University at Lubbock, not Texas Tech University System Administration or the separate Health Sciences Center."
     ]
+  },
+  "universidad-san-sebastian": {
+    "verification": "verified",
+    "checkedOn": "2026-11-16",
+    "latitude": -33.45694,
+    "longitude": -70.64827,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3871336,
+    "matchedLocality": "Santiago",
+    "institutionSourceUrl": "https://inspirehep.net/api/jobs/3227339",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "City-level location, not a campus building; locality confirmed by employer advertisement or institution record. Exact city-name and country-code match in GeoNames."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3227339"
+  },
+  "itp-chinese-academy-sciences": {
+    "verification": "verified",
+    "checkedOn": "2026-11-16",
+    "latitude": 39.9075,
+    "longitude": 116.39723,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1816670,
+    "matchedLocality": "Beijing",
+    "institutionSourceUrl": "https://inspirehep.net/api/institutions/903895",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "City-level location, not a campus building; locality confirmed by employer advertisement or institution record. Exact city-name and country-code match in GeoNames."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://inspirehep.net/api/jobs/3227300"
+  },
+  "university-british-columbia": {
+    "verification": "verified",
+    "checkedOn": "2026-11-16",
+    "latitude": 49.24966,
+    "longitude": -123.11934,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 6173331,
+    "matchedLocality": "Vancouver",
+    "institutionSourceUrl": "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "City-level location, not a campus building; locality confirmed by employer advertisement or institution record. Exact city-name and country-code match in GeoNames."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225"
   }
 }

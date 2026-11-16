@@ -1,0 +1,49 @@
+{
+  "runDate": "2026-11-16",
+  "cycle": "2026-2027",
+  "scope": "Completed partial source sweep; not exhaustive global coverage.",
+  "checkedSourceAttempts": 436,
+  "uniqueSources": 377,
+  "attemptOutcomes": {
+    "partial": 275,
+    "failed": 158,
+    "complete": 2,
+    "skipped": 1
+  },
+  "latestSourceOutcomes": {
+    "partial": 275,
+    "failed": 100,
+    "complete": 2
+  },
+  "weeklyRequired": 165,
+  "weeklyRequiredAttempted": 165,
+  "rotationPlanned": 144,
+  "rotationAttempted": 144,
+  "newJobs": [
+    "itp-cas-faculty-2027",
+    "uss-atlas-tenure-track-2027",
+    "ubc-physics-teaching-assistant-2027"
+  ],
+  "revisedJobs": [],
+  "preservedPriorJobCount": 121,
+  "catalogJobCount": 124,
+  "institutionReviews": 89,
+  "coverageGaps": [
+    "All required sources attempted, but some portals remain blocked, application-only or unavailable. Access failures do not change prior job facts.",
+    "144 rotating sources selected; geolocation source initially skipped then checked for three new cities. Most directory checks are bounded excerpts, not fully paginated surveys.",
+    "INSPIRE newest and prior page3 continuation checked; overall feed and AJO pagination remain incomplete.",
+    "Stony Brook deadline conflict, USTC cycle mismatch and Trieste eligibility remain unresolved. MIT quantum and Pittsburgh LINCC retained as scope-review leads, not new public vacancies."
+  ],
+  "rumorDirectory": {
+    "checkedOn": "2026-11-16",
+    "limitations": "North American theory and Germanic/Nordic resources remain unverified after access failures; previous cycle/update dates preserved. No individual rumors or outcomes copied."
+  },
+  "validation": {
+    "catalog": "Passed --require-map-ready",
+    "pythonTests": 45,
+    "javascriptTests": 39,
+    "history": "All121 prior job facts and prior source attempts/runs preserved; only snapshot date-status recalculated.",
+    "mapData": "All three new verified jobs have verified city coordinates and are eligible for the default map; full catalog Python/JS status parity passed.",
+    "visualPreview": "Unavailable: no enabled browser surface. No UI code changed; Safari was not used."
+  }
+}

@@ -7184,5 +7184,145 @@
     "lastFullScan": null,
     "checkState": "source-discovered",
     "cadenceDays": 7
+  },
+  {
+    "id": "source-ed6bcd93d45f",
+    "url": "https://inspirehep.net/api/jobs/3227339",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d47bc6536ea8",
+    "url": "https://inspirehep.net/api/jobs/3227300",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-3dada773adec",
+    "url": "https://inspirehep.net/api/jobs/3226174",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-cf8cf2117c2a",
+    "url": "https://inspirehep.net/api/jobs/3221914",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b3d990634f45",
+    "url": "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a2c335b98561",
+    "url": "https://english.itp.cas.cn/join/oppt/202611/t20261111_1213647.html",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-57f07207377b",
+    "url": "https://www.kek.jp/ja/career/accl26-5j",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-4efee6f57559",
+    "url": "https://www.s.u-tokyo.ac.jp/ja/recruit/?id=2014",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-064be7b5287f",
+    "url": "https://euraxess.ec.europa.eu/jobs/480485",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-b8e719212a37",
+    "url": "https://amm.units.it/concorsi/ricerca/ricercatori-td",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-02382709ad73",
+    "url": "https://pica.cineca.it/units/",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-f583decf18c9",
+    "url": "https://www.tut.ac.za/vacancies/",
+    "kind": "recruitment",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ec300cf6d416",
+    "url": "https://inspirehep.net/api/institutions/903895",
+    "kind": "institution",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 28
+  },
+  {
+    "id": "source-95b38559dac2",
+    "url": "https://english.itp.cas.cn/about/contact/",
+    "kind": "institution",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-16",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 28
   }
 ]
