@@ -1,0 +1,85 @@
+{
+  "runDate": "2026-11-23",
+  "cycle": "2026-2027",
+  "scope": "Completed partial source sweep; not exhaustive global coverage.",
+  "checkedSourceAttempts": 458,
+  "uniqueSources": 408,
+  "attemptOutcomes": {
+    "partial": 301,
+    "failed": 157
+  },
+  "latestSourceOutcomes": {
+    "partial": 287,
+    "failed": 121
+  },
+  "weeklyRequired": 164,
+  "weeklyRequiredAttempted": 164,
+  "rotationPlanned": 148,
+  "rotationAttempted": 148,
+  "retryPlanned": 100,
+  "retryAttempted": 100,
+  "institutionReviews": 104,
+  "newJobs": [
+    "chicago-fermilab-experiment-2027",
+    "kcl-mathematics-theory-lecturer-2027",
+    "kth-experimental-astrophysics-2027",
+    "ccny-theoretical-physics-2027",
+    "tor-vergata-theory-rtt-2027",
+    "mines-quantum-sensing-2027",
+    "uwa-gw-instrumentation-2027",
+    "johns-hopkins-astronomy-astrophysics-2027",
+    "sapienza-gravitational-wave-hardware-associate-2026",
+    "jaxa-litebird-detectors-associate-2027",
+    "jaxa-litebird-data-assistant-2027",
+    "utsunomiya-theoretical-mathematical-physics-2027",
+    "tsinghua-physics-tenure-track-2027",
+    "tel-aviv-hep-ai-2027",
+    "stony-brook-yitp-theory-196029"
+  ],
+  "revisedJobs": [],
+  "preservedPriorJobs": 124,
+  "catalogCounts": {
+    "jobs": 139,
+    "verifiedJobs": 120,
+    "reviewJobs": 19,
+    "defaultEligibleAtSnapshot": 85,
+    "institutions": 106,
+    "sources": 777,
+    "jobCountries": 23,
+    "institutionCountries": 24,
+    "institutionScans": {
+      "complete": 1,
+      "partial": 97,
+      "blocked": 8
+    },
+    "jobsByScope": {
+      "broad-physics": 29,
+      "core": 69,
+      "adjacent": 41
+    }
+  },
+  "coverageLimits": [
+    "All 164 required sources, 148 rotating sources and 100 retry sources in the starting plan were attempted. Across all 408 sources checked, 121 remain inaccessible on their latest attempt. A failed read leaves prior job facts unchanged.",
+    "No full source scans were established in this run. The post-run plan has 651 sources without a full scan in 28 days and 429 remaining rotation sources after selecting the next 150; these are backlog disclosures, not completed coverage.",
+    "INSPIRE newest page 1 and prior page 4 continuation were read for unfiltered and faculty-filtered feeds (100 results per page). Continue at page 5 next week and revisit page 1. The full feeds were not exhausted.",
+    "AJO all-jobs listing was screened for physics and astronomy faculty headings and promising individual ads were followed; the board was not exhaustively reviewed. AAS blocked reads and targeted EURAXESS 403 responses are retained.",
+    "Newly added means newly included in this map, not necessarily newly posted. Three Japanese faculty calls were recovered through the JPS directory; JAXA calls were originally dated October 8.",
+    "Stony Brook employer-submitted full text explicitly gives December 15 at 23:59 Eastern as the deadline, and its AJO text corroborates December 15 review. Conflicting INSPIRE metadata and older deadline text remain documented. No open-until-filled assumption is made.",
+    "Temple, San Jose State and historical nucleon-structure leads remain unresolved. The expired Johannesburg nuclear call is retained as a lead pending scope/location verification; no ordinary postdoctoral or technical staff jobs were promoted."
+  ],
+  "rumorDirectory": {
+    "checkedOn": "2026-11-23",
+    "changes": "North American theory resource successfully rechecked and restored to current for its stated 2027 cycle. UK/Ireland and experiment resources remain current; explicit source modification dates preserved.",
+    "limitations": "Germanic/Nordic resource remains unverified after certificate failure and timeout; Asia archive retains its explicit July 2024 cessation. No individual rumors or hiring outcomes copied."
+  },
+  "validation": {
+    "catalog": "Passed --require-map-ready",
+    "pythonTests": 45,
+    "javascriptTests": 39,
+    "history": "All 124 prior job facts, all prior ledger job versions, and every prior source attempt/run are preserved. Only time-dependent snapshot status is recalculated.",
+    "mapData": "All 15 additions have verified coordinates and are eligible for the default map. Full catalog Python/JavaScript deadline-status parity passed.",
+    "visualPreview": "Desktop and 390px mobile preview checked in the in-app browser: world markers, JAXA two-job cluster, search, detail dialog, exact deadline/timezone, Escape and reset. No browser errors; no UI code changed; Safari was not used.",
+    "reproducibleBuild": "Passed byte-for-byte comparison of all generated JSON, SQLite and catalog HTML at the committed build timestamp.",
+    "independentReview": "All 15 additions independently reviewed against collected source evidence; no material inconsistencies found."
+  }
+}

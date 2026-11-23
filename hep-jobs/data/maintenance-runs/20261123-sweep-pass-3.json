@@ -1,0 +1,124 @@
+{
+  "runId": "hep-jobs-20261123-sweep-pass-3",
+  "startedAt": "2026-11-23T10:05:19+00:00",
+  "finishedAt": "2026-11-23T10:10:46+00:00",
+  "checks": [
+    {
+      "sourceId": "source-f3f2af2d0966",
+      "checkedAt": "2026-11-23T10:05:19+00:00",
+      "timestampBasis": "actual-web-request-start",
+      "outcome": "failed",
+      "scopeType": "advertisement",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/8852332e"
+      ],
+      "summary": "AAS Chicago extreme-universe ad remained HTTP 403 on web recovery; prior verified facts retained.",
+      "coverage": "Bounded recovery read of the linked advertisement or relevant faculty section; no full institutional sweep.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "academic-jobs-online",
+      "checkedAt": "2026-11-23T10:06:35+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo?joblst-0-0-0-0------="
+      ],
+      "summary": "Web all-jobs link unexpectedly returned landing page, not listings. No vacancy conclusion.",
+      "coverage": "Attempt to expand board pagination."
+    },
+    {
+      "sourceId": "source-bfda4ef37627",
+      "checkedAt": "2026-11-23T10:07:40.112014+00:00",
+      "sourceReadAt": "2026-11-23T10:07:40.112014+00:00",
+      "timestampBasis": "actual-request-start",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/e39262d4"
+      ],
+      "summary": "Initial network-restricted request could not resolve the host; no vacancy conclusion.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ae29f2cd630f",
+      "checkedAt": "2026-11-23T10:07:40.114418+00:00",
+      "sourceReadAt": "2026-11-23T10:07:40.114418+00:00",
+      "timestampBasis": "actual-request-start",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://web.uniroma1.it/trasparenza/sites/default/files/2026PAE010_PHYS-01A_WEB.pdf"
+      ],
+      "summary": "Initial network-restricted request could not resolve the host; no vacancy conclusion.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8e92f6ea73e6",
+      "checkedAt": "2026-11-23T10:07:40.114624+00:00",
+      "sourceReadAt": "2026-11-23T10:07:40.114624+00:00",
+      "timestampBasis": "actual-request-start",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://trasparenza.uniroma1.it/page/75/details/38748/2026pae010-procedura-selettiva-di-chiamata-per-n-1-posto-prof-di-ii-fascia-ai-sensi-dellart-18-comma-4-l-2402010-gsd-02phys-01-ssd-phys-01a-dipartimento-fisica-facolta-scienze-matematiche-fisiche-e-naturali.html"
+      ],
+      "summary": "Initial network-restricted request could not resolve the host; no vacancy conclusion.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "euraxess",
+      "checkedAt": "2026-11-23T10:07:52.537928+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://euraxess.ec.europa.eu/jobs/search?keywords=particle%20physics"
+      ],
+      "summary": "Direct physics-keyword retry returned403 robot restriction. No successful targeted result list.",
+      "coverage": "Targeted particle-physics result page only.",
+      "scopeType": "vacancy-list",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-8c68d269d3ba",
+      "checkedAt": "2026-11-23T10:07:53.448949+00:00",
+      "sourceReadAt": "2026-11-23T10:07:53.448949+00:00",
+      "timestampBasis": "actual-request-start",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/196283"
+      ],
+      "summary": "Interfolio returned only a JavaScript shell with no advertisement text.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e42854fb1d44",
+      "checkedAt": "2026-11-23T10:10:00+00:00",
+      "sourceReadAt": "2026-11-23T10:10:00+00:00",
+      "timestampBasis": "actual-web-tool-read-start",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://hispanicphysicists.org/jhu-astronomy-astrophysics-assistant-professor-2026/"
+      ],
+      "summary": "Web extraction reread of full employer-worded JHU astronomy/astrophysics advertisement on NSHP (crawl reported two days earlier) confirms December 16, 2026 review start and continuing until filled. Direct HTTP and Interfolio access remain limited, recorded separately.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-95c530ce4758",
+      "checkedAt": "2026-11-23T10:10:46+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://internal.jobs.uwa.edu.au/jobs/senior-lecturer-physics-gravitational-wave-instrumentation-crawley-wa-australia"
+      ],
+      "summary": "Direct normal-TLS retrieval returned200 and full employer body: tenurable Senior Lecturer524871, Crawley, closesDecember15,2026 23:55AWST; international applicants welcome. Restores readable evidence after web-reader failure.",
+      "coverage": "Individual advertisement or employer listing; no complete directory claim.",
+      "scopeType": "advertisement"
+    }
+  ],
+  "summary": "Completed bounded partial source sweep with retained access failures and follow-up attempts. No exhaustive coverage claim."
+}

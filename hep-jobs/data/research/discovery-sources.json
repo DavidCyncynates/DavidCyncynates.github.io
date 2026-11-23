@@ -7324,5 +7324,616 @@
     "lastFullScan": null,
     "checkState": "source-discovered",
     "cadenceDays": 28
+  },
+  {
+    "id": "source-bfda4ef37627",
+    "url": "https://aas.org/jobregister/ad/e39262d4",
+    "kind": "advertisement",
+    "institutionIds": [
+      "johns-hopkins"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8c68d269d3ba",
+    "url": "https://apply.interfolio.com/196283",
+    "kind": "advertisement",
+    "institutionIds": [
+      "johns-hopkins"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e42854fb1d44",
+    "url": "https://hispanicphysicists.org/jhu-astronomy-astrophysics-assistant-professor-2026/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "johns-hopkins"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8d233c86f021",
+    "url": "https://pha.jhu.edu/",
+    "kind": "department",
+    "institutionIds": [
+      "johns-hopkins"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-8e92f6ea73e6",
+    "url": "https://trasparenza.uniroma1.it/page/75/details/38748/2026pae010-procedura-selettiva-di-chiamata-per-n-1-posto-prof-di-ii-fascia-ai-sensi-dellart-18-comma-4-l-2402010-gsd-02phys-01-ssd-phys-01a-dipartimento-fisica-facolta-scienze-matematiche-fisiche-e-naturali.html",
+    "kind": "advertisement",
+    "institutionIds": [
+      "sapienza-university-rome"
+    ],
+    "countryCodes": [
+      "IT"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-ae29f2cd630f",
+    "url": "https://web.uniroma1.it/trasparenza/sites/default/files/2026PAE010_PHYS-01A_WEB.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "sapienza-university-rome"
+    ],
+    "countryCodes": [
+      "IT"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-25dbc62f56a9",
+    "url": "https://www.jaxa.jp/about/employ/educator_j.html",
+    "kind": "recruitment",
+    "institutionIds": [
+      "jaxa-isas-sagamihara"
+    ],
+    "countryCodes": [
+      "JP"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2a1a47618b1c",
+    "url": "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126100508",
+    "kind": "advertisement",
+    "institutionIds": [
+      "utsunomiya-university"
+    ],
+    "countryCodes": [
+      "JP"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-eb0bd371f4cc",
+    "url": "https://www.jaxa.jp/about/employ/pdf/edu_20261008_01.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "jaxa-isas-sagamihara"
+    ],
+    "countryCodes": [
+      "JP"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c2d9f6379a42",
+    "url": "https://www.jaxa.jp/about/employ/pdf/edu_20261008_02.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "jaxa-isas-sagamihara"
+    ],
+    "countryCodes": [
+      "JP"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c584b1c1ef61",
+    "url": "https://www.utsunomiya-u.ac.jp/outline/saiyojyoho.php",
+    "kind": "recruitment",
+    "institutionIds": [
+      "utsunomiya-university"
+    ],
+    "countryCodes": [
+      "JP"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7e4913ff3594",
+    "url": "https://www.isas.jaxa.jp/en/about/access/",
+    "kind": "geolocation",
+    "institutionIds": [
+      "jaxa-isas-sagamihara"
+    ],
+    "countryCodes": [
+      "JP"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 365
+  },
+  {
+    "id": "source-1a750e1437d9",
+    "url": "https://www.utsunomiya-u.ac.jp/docs/Engpost_261008.pdf",
+    "kind": "advertisement",
+    "institutionIds": [
+      "utsunomiya-university"
+    ],
+    "countryCodes": [
+      "JP"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c360c5780e40",
+    "url": "https://www.utsunomiya-u.ac.jp/outline/map/access.php",
+    "kind": "geolocation",
+    "institutionIds": [
+      "utsunomiya-university"
+    ],
+    "countryCodes": [
+      "JP"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 365
+  },
+  {
+    "id": "source-57c7d64a9800",
+    "url": "https://fanfun.jaxa.jp/visit/sagamihara/",
+    "kind": "geolocation",
+    "institutionIds": [
+      "jaxa-isas-sagamihara"
+    ],
+    "countryCodes": [
+      "JP"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 365
+  },
+  {
+    "id": "source-521321acd3ee",
+    "url": "https://fanfun.jaxa.jp/visit/sagamihara/access.html",
+    "kind": "geolocation",
+    "institutionIds": [
+      "jaxa-isas-sagamihara"
+    ],
+    "countryCodes": [
+      "JP"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 365
+  },
+  {
+    "id": "source-b5a0ad1077cf",
+    "url": "https://www.jaxa.jp/about/centers/sagamihara/index_j.html",
+    "kind": "classification",
+    "institutionIds": [
+      "jaxa-isas-sagamihara"
+    ],
+    "countryCodes": [
+      "JP"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 365
+  },
+  {
+    "id": "source-3b9aabf394b9",
+    "url": "https://inspirehep.net/api/jobs/3230927",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d71bb088d2ac",
+    "url": "https://apply.interfolio.com/197731",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-1e6b6eb05139",
+    "url": "https://inspirehep.net/api/jobs/3230928",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-5216e6f956c6",
+    "url": "https://apply.interfolio.com/197739",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-72cebdccf7a6",
+    "url": "https://www.kcl.ac.uk/jobs/163467-lecturer-in-theoretical-physics",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kings-college-london"
+    ],
+    "countryCodes": [
+      "GB"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-40b659999a0d",
+    "url": "https://inspirehep.net/api/jobs/3230595",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kings-college-london"
+    ],
+    "countryCodes": [
+      "GB"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fd7b9813c12a",
+    "url": "https://www.kth.se/lediga-jobb/969098?l=en",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kth-royal-institute-technology"
+    ],
+    "countryCodes": [
+      "SE"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-9a211adacd3c",
+    "url": "https://inspirehep.net/api/jobs/3229551",
+    "kind": "advertisement",
+    "institutionIds": [
+      "kth-royal-institute-technology"
+    ],
+    "countryCodes": [
+      "SE"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-e732424bdfa0",
+    "url": "https://inspirehep.net/api/jobs/3228590",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cuny-city-college"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-7b58d9811257",
+    "url": "https://cuny.jobs/new-york-ny/assistant-professor-physics-tenure-track/D3FCCE5AE47849AD9CC54725DAEA3985/job/",
+    "kind": "advertisement",
+    "institutionIds": [
+      "cuny-city-college"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-470ca28cc990",
+    "url": "https://web.uniroma2.it/it/contenuto/20262679",
+    "kind": "advertisement",
+    "institutionIds": [
+      "rome-tor-vergata"
+    ],
+    "countryCodes": [
+      "IT"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-21bb31731825",
+    "url": "https://inspirehep.net/api/jobs/3228576",
+    "kind": "advertisement",
+    "institutionIds": [
+      "rome-tor-vergata"
+    ],
+    "countryCodes": [
+      "IT"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-d41236da1b73",
+    "url": "https://inspirehep.net/api/jobs/3228566",
+    "kind": "advertisement",
+    "institutionIds": [
+      "colorado-school-mines"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-a9e974a0b4d7",
+    "url": "https://mines.wd1.myworkdayjobs.com/Mines_Careers/job/Colorado/Assistant-Professor--Experimental-Quantum--Department-of-Physics_JR110342",
+    "kind": "advertisement",
+    "institutionIds": [
+      "colorado-school-mines"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-95c530ce4758",
+    "url": "https://internal.jobs.uwa.edu.au/jobs/senior-lecturer-physics-gravitational-wave-instrumentation-crawley-wa-australia",
+    "kind": "advertisement",
+    "institutionIds": [
+      "university-western-australia"
+    ],
+    "countryCodes": [
+      "AU"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-343bdf8ae182",
+    "url": "https://inspirehep.net/api/jobs/3230570",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "countryCodes": [],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "checkState": "source-discovered",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-2efacfd444d6",
+    "url": "https://academicjobsonline.org/ajo/jobs/33475",
+    "kind": "advertisement",
+    "institutionIds": [
+      "chicago"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-0c5654de0fa7",
+    "url": "https://web.uniroma2.it/allegato/61395/contenuto/20262679",
+    "kind": "advertisement",
+    "institutionIds": [
+      "rome-tor-vergata"
+    ],
+    "discoveredOn": "2026-11-23",
+    "lastFullScan": null,
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c51e23c76cb0",
+    "name": "Tsinghua University — AJO 33485",
+    "url": "https://academicjobsonline.org/ajo/jobs/33485",
+    "kind": "advertisement",
+    "countryCodes": [
+      "CN"
+    ],
+    "institutionIds": [
+      "tsinghua-university"
+    ],
+    "discoveredOn": "2026-11-23",
+    "notes": "Employer-authored advertisement discovered through current AJO board screen.",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-485efd8b8f43",
+    "name": "Texas A&M University — AJO 33375",
+    "url": "https://academicjobsonline.org/ajo/jobs/33375",
+    "kind": "advertisement",
+    "countryCodes": [
+      "US"
+    ],
+    "institutionIds": [],
+    "discoveredOn": "2026-11-23",
+    "notes": "Employer-authored advertisement discovered through current AJO board screen.",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-c50757653b30",
+    "name": "Temple University — AJO 33370",
+    "url": "https://academicjobsonline.org/ajo/jobs/33370",
+    "kind": "advertisement",
+    "countryCodes": [
+      "US"
+    ],
+    "institutionIds": [],
+    "discoveredOn": "2026-11-23",
+    "notes": "Employer-authored advertisement discovered through current AJO board screen.",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-cd17862a9593",
+    "name": "Tel Aviv University — AJO 33199",
+    "url": "https://academicjobsonline.org/ajo/jobs/33199",
+    "kind": "advertisement",
+    "countryCodes": [
+      "IL"
+    ],
+    "institutionIds": [
+      "tel-aviv-university"
+    ],
+    "discoveredOn": "2026-11-23",
+    "notes": "Employer-authored advertisement discovered through current AJO board screen.",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-10cb24e9665f",
+    "name": "Stony Brook University — AJO 33269",
+    "url": "https://academicjobsonline.org/ajo/jobs/33269",
+    "kind": "advertisement",
+    "countryCodes": [
+      "US"
+    ],
+    "institutionIds": [
+      "stony-brook-university"
+    ],
+    "discoveredOn": "2026-11-23",
+    "notes": "Employer-authored advertisement discovered through current AJO board screen.",
+    "cadenceDays": 7
+  },
+  {
+    "id": "source-fb34fc8ebcc7",
+    "url": "https://www.ihep.cas.cn/zszp/zpxx/fzbzp/202611/t20261110_8307557.html",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-23",
+    "cadenceDays": 7,
+    "lastFullScan": null
+  },
+  {
+    "id": "source-5b44085f09e4",
+    "url": "https://if.ufg.br/n/205179-instituto-de-fisica-da-ufg-abre-concursos-publicos-para-professor-de-magisterio-superior?atr=pt-BR&locale=pt-BR",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-23",
+    "cadenceDays": 7,
+    "lastFullScan": null
+  },
+  {
+    "id": "source-5dbc530ef17e",
+    "url": "https://jobs.uj.ac.za/applicant/index.php?controller=Listings&listingid=f6bdfa74-e4b5-49a9-8430-854ddd3c711b&method=view",
+    "kind": "advertisement",
+    "institutionIds": [],
+    "discoveredOn": "2026-11-23",
+    "cadenceDays": 7,
+    "lastFullScan": null
   }
 ]

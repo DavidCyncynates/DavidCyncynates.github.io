@@ -1,0 +1,97 @@
+[
+  {
+    "title": "San José State tenure-track quantum information",
+    "url": "https://inspirehep.net/api/jobs/3230570",
+    "checkedOn": "2026-11-23",
+    "verification": "needs-review",
+    "reason": "Specific quantum-information faculty search lacks explicit HEP remit; retain for scope review. Body gives November22,2026 application date and applications until filled/closed, while board status is closed; no reopening or closure inferred beyond source statements."
+  },
+  {
+    "title": "Historical long-running nucleon-structure call",
+    "url": "https://inspirehep.net/api/jobs/2946705",
+    "checkedOn": "2026-11-23",
+    "verification": "needs-review",
+    "reason": "Discovered in rank-query page4: first postedJuly2025, metadata deadlineJuly2027. Current2026–27 application cycle and faculty appointment not independently verified; title/date screening only."
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "checkedOn": "2026-11-23",
+    "discovery": "weekly-primary-source-expansion",
+    "id": "temple-quantum-physics-2027-review",
+    "institutionId": "temple-university",
+    "institutionName": "Temple University",
+    "countryCode": "US",
+    "city": "Philadelphia",
+    "title": "Tenure-track Assistant Professor in quantum physics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "scope": "adjacent",
+    "fields": [
+      "quantum sensing",
+      "quantum information",
+      "quantum-enabled nuclear and particle physics"
+    ],
+    "verification": "needs-review",
+    "cycleEvidence": "Posted November 9, 2026 for fall/July 2027 appointment; AJO header deadline December 10, 2026.",
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33370"
+    ],
+    "summary": "Quantum physics search explicitly welcomes quantum information and quantum-enabled approaches in nuclear and particle physics.",
+    "reason": "AJO header December 10, 2026 conflicts with body January 1 review/preference date and until-filled language. Need clarify actual submission cutoff before default-map promotion.",
+    "reportedDates": [
+      {
+        "date": "2026-12-10",
+        "meaning": "AJO header application deadline; no timezone"
+      },
+      {
+        "text": "Review begins January 1st; candidates applying by then receive preference; continues until filled.",
+        "meaning": "Body priority/review milestone; year inferred from 2027 position, not explicitly printed next to January 1."
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "checkedOn": "2026-11-23",
+    "discovery": "weekly-primary-source-expansion",
+    "id": "johannesburg-nuclear-uj002486-review",
+    "institutionId": "university-of-johannesburg",
+    "institutionName": "University of Johannesburg",
+    "countryCode": "ZA",
+    "city": "Johannesburg",
+    "title": "Associate Professor/Senior Lecturer in Nuclear or Applied Nuclear Physics",
+    "rank": [
+      "Associate Professor",
+      "Senior Lecturer"
+    ],
+    "scope": "adjacent",
+    "verification": "needs-review",
+    "cycleEvidence": "Official advertisement explicitly labels Apply by: 13 September 2026.",
+    "sourceUrls": [
+      "https://jobs.uj.ac.za/applicant/index.php?controller=Listings&listingid=f6bdfa74-e4b5-49a9-8430-854ddd3c711b&method=view"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-09-13",
+        "kind": "hard",
+        "time": null,
+        "timezone": null,
+        "sourceUrl": "https://jobs.uj.ac.za/applicant/index.php?controller=Listings&listingid=f6bdfa74-e4b5-49a9-8430-854ddd3c711b&method=view",
+        "description": "Official raw HTML labels this date Apply by; no time or timezone stated."
+      }
+    ],
+    "summary": "Permanent Auckland Park Kingsway faculty post in nuclear/applied nuclear physics, including experimental programmes and computational nuclear research.",
+    "reason": "Archived adjacent-scope lead. Faculty role and deadline verified, but HEP relevance, campus coordinates and classification require review before any promotion.",
+    "evidenceNote": "Official ad body read through web tool at 2026-11-23T10:06:52+00:00, then raw HTML fetched to resolve date label; records individual hiring status only as generic advertisement state, no personal outcomes."
+  },
+  {
+    "title": "Stony Brook YITP lead resolved",
+    "url": "https://academicjobsonline.org/ajo/jobs/33269",
+    "checkedOn": "2026-11-23",
+    "verification": "resolved",
+    "resolvedJobId": "stony-brook-yitp-theory-196029",
+    "reason": "Employer AJO and revised INSPIRE body corroborate December15. Prior November9/16 lead files retained unchanged; conflict history appears on job record."
+  }
+]

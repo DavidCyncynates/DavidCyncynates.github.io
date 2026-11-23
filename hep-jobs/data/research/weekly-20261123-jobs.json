@@ -1,0 +1,928 @@
+[
+  {
+    "id": "chicago-fermilab-experiment-2027",
+    "institutionId": "chicago",
+    "institutionName": "University of Chicago",
+    "countryCode": "US",
+    "city": "Chicago",
+    "title": "UChicago–Fermilab Assistant / Tenured Associate Professor in Experimental Physics",
+    "rank": [
+      "Assistant Professor",
+      "Tenured Associate Professor"
+    ],
+    "fields": [
+      "high-energy experiment",
+      "collider physics",
+      "neutrinos",
+      "dark matter",
+      "astroparticle physics",
+      "quantum sensing",
+      "accelerator physics"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Current employer call explicitly gives an application milestone on 2026-12-18, in the2026–2027 application cycle; meaning retained separately.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-12-18",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33475",
+        "description": "Review begins; applications continue until filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33475",
+      "https://inspirehep.net/api/jobs/3230927",
+      "https://apply.interfolio.com/197731",
+      "https://inspirehep.net/api/jobs/3230928",
+      "https://apply.interfolio.com/197739"
+    ],
+    "summary": "Experimental physics search preferring research aligned with Fermilab, spanning colliders, neutrinos, dark matter, precision measurements and instrumentation.",
+    "notes": [
+      "One advertised search with separate assistant and tenured-associate application routes; number of appointments not specified.",
+      "Assistant applicants require at least two years of post-PhD research by appointment.",
+      "University employment would be followed by seeking a joint Fermilab Scientist (assistant route) or Associate Scientist (associate route) appointment."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer advertisement read; cycle, scope and deadline meaning checked. Location independently sourced.",
+    "institutionSources": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/33475",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3230927",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://apply.interfolio.com/197731",
+        "kind": "advertisement",
+        "verified": false
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3230928",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://apply.interfolio.com/197739",
+        "kind": "advertisement",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "id": "kcl-mathematics-theory-lecturer-2027",
+    "institutionId": "kings-college-london",
+    "institutionName": "King’s College London",
+    "countryCode": "GB",
+    "city": "London",
+    "title": "Lecturer in Theoretical Physics — Mathematics",
+    "rank": [
+      "Lecturer"
+    ],
+    "fields": [
+      "high-energy theory",
+      "string theory",
+      "gravity",
+      "quantum field theory"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Current employer call explicitly gives an application milestone on 2027-01-03, in the2026–2027 application cycle; meaning retained separately.",
+    "startDate": "2027-09-01",
+    "deadlines": [
+      {
+        "date": "2027-01-03",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://www.kcl.ac.uk/jobs/163467-lecturer-in-theoretical-physics",
+        "description": "Explicit application closing/receipt date."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "sourceUrls": [
+      "https://www.kcl.ac.uk/jobs/163467-lecturer-in-theoretical-physics",
+      "https://inspirehep.net/api/jobs/3230595"
+    ],
+    "summary": "Permanent lecturer in the Mathematics Department’s theoretical physics group, covering gravity, field theory, strings and related areas.",
+    "notes": [
+      "Full-time indefinite contract; Strand Campus.",
+      "Expected start September1,2027; no precise deadline time/timezone stated."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer advertisement read; cycle, scope and deadline meaning checked. Location independently sourced.",
+    "institutionSources": [
+      {
+        "url": "https://www.kcl.ac.uk/jobs/163467-lecturer-in-theoretical-physics",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3230595",
+        "kind": "advertisement",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "kth-experimental-astrophysics-2027",
+    "institutionId": "kth-royal-institute-technology",
+    "institutionName": "KTH Royal Institute of Technology",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "title": "Assistant Professor in Experimental Astrophysics",
+    "rank": [
+      "Tenure-track Assistant Professor"
+    ],
+    "fields": [
+      "experimental astrophysics",
+      "high-energy astrophysics",
+      "space instrumentation",
+      "radiation detectors"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Current employer call explicitly gives an application milestone on 2027-01-14, in the2026–2027 application cycle; meaning retained separately.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2027-01-14",
+        "time": "23:59:59",
+        "timezone": "Europe/Stockholm",
+        "kind": "hard",
+        "sourceUrl": "https://www.kth.se/lediga-jobb/969098?l=en",
+        "description": "Explicit application closing/receipt date."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "sourceUrls": [
+      "https://www.kth.se/lediga-jobb/969098?l=en",
+      "https://inspirehep.net/api/jobs/3229551"
+    ],
+    "summary": "Space-based instrumentation for high-energy radiation and analysis of observational data, including X-ray and gamma-ray measurements.",
+    "notes": [
+      "Six-year tenure track with application for promotion to tenured associate professor.",
+      "Swedish teaching expected within four years; applicants within seven years of doctorate prioritized, with stated exceptions.",
+      "Employer says midnight at the end of the last application day CET/CEST; represented as23:59:59 Europe/Stockholm."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer advertisement read; cycle, scope and deadline meaning checked. Location independently sourced.",
+    "institutionSources": [
+      {
+        "url": "https://www.kth.se/lediga-jobb/969098?l=en",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3229551",
+        "kind": "advertisement",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "ccny-theoretical-physics-2027",
+    "institutionId": "cuny-city-college",
+    "institutionName": "The City College of New York",
+    "countryCode": "US",
+    "city": "New York",
+    "title": "Assistant Professor in Theoretical Physics",
+    "rank": [
+      "Tenure-track Assistant Professor"
+    ],
+    "fields": [
+      "high-energy theory",
+      "quantum field theory",
+      "quantum information",
+      "condensed matter theory"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Current employer call explicitly gives an application milestone on 2027-01-12, in the2026–2027 application cycle; meaning retained separately.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2027-01-12",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://inspirehep.net/api/jobs/3228590",
+        "description": "Explicit application closing/receipt date."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "sourceUrls": [
+      "https://inspirehep.net/api/jobs/3228590",
+      "https://cuny.jobs/new-york-ny/assistant-professor-physics-tenure-track/D3FCCE5AE47849AD9CC54725DAEA3985/job/"
+    ],
+    "summary": "Theory faculty search encouraging connections between high-energy physics, condensed matter and quantum information through quantum field theory.",
+    "notes": [
+      "CUNY job33140; anticipated start Fall2027, exact date not stated.",
+      "No precise deadline time/timezone stated."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer advertisement read; cycle, scope and deadline meaning checked. Location independently sourced.",
+    "institutionSources": [
+      {
+        "url": "https://inspirehep.net/api/jobs/3228590",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://cuny.jobs/new-york-ny/assistant-professor-physics-tenure-track/D3FCCE5AE47849AD9CC54725DAEA3985/job/",
+        "kind": "advertisement",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "id": "tor-vergata-theory-rtt-2027",
+    "institutionId": "rome-tor-vergata",
+    "institutionName": "University of Rome Tor Vergata",
+    "countryCode": "IT",
+    "city": "Rome",
+    "title": "Tenure-track Researcher in Theoretical Fundamental Interactions",
+    "rank": [
+      "RTT (tenure-track researcher)"
+    ],
+    "fields": [
+      "high-energy theory",
+      "gravity",
+      "string theory",
+      "quantum field theory",
+      "cosmology"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Current employer call explicitly gives an application milestone on 2026-12-10, in the2026–2027 application cycle; meaning retained separately.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-12-10",
+        "time": "13:00",
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://web.uniroma2.it/it/contenuto/20262679",
+        "description": "Explicit application closing/receipt date."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "sourceUrls": [
+      "https://web.uniroma2.it/it/contenuto/20262679",
+      "https://inspirehep.net/api/jobs/3228576",
+      "https://web.uniroma2.it/allegato/61395/contenuto/20262679"
+    ],
+    "summary": "PHYS-02/A search in fundamental interactions, gravity and physics beyond the Standard Model, with theoretical and computational methods.",
+    "notes": [
+      "Call2679, decree3088/2026; PhD in Physics or Theoretical Physics required.",
+      "Employer states13:00; explicit timezone not provided.",
+      "Article2 requires adequate Italian for foreign applicants and recognition of foreign degrees; specified previous permanent academic appointments or at least three years as RTT can exclude eligibility. Consult the official call."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer advertisement read; cycle, scope and deadline meaning checked. Location independently sourced.",
+    "institutionSources": [
+      {
+        "url": "https://web.uniroma2.it/it/contenuto/20262679",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3228576",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://web.uniroma2.it/allegato/61395/contenuto/20262679",
+        "kind": "advertisement",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "mines-quantum-sensing-2027",
+    "institutionId": "colorado-school-mines",
+    "institutionName": "Colorado School of Mines",
+    "countryCode": "US",
+    "city": "Golden",
+    "title": "Assistant Professor in Experimental Quantum Sensing",
+    "rank": [
+      "Tenure-track Assistant Professor"
+    ],
+    "fields": [
+      "experimental quantum sensing",
+      "precision measurement",
+      "fundamental physics",
+      "instrumentation"
+    ],
+    "scope": "adjacent",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Current employer call explicitly gives an application milestone on 2027-01-04, in the2026–2027 application cycle; meaning retained separately.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2027-01-04",
+        "time": null,
+        "timezone": null,
+        "kind": "priority",
+        "sourceUrl": "https://inspirehep.net/api/jobs/3228566",
+        "description": "Priority consideration; applications continue until filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "sourceUrls": [
+      "https://inspirehep.net/api/jobs/3228566",
+      "https://mines.wd1.myworkdayjobs.com/Mines_Careers/job/Colorado/Assistant-Professor--Experimental-Quantum--Department-of-Physics_JR110342"
+    ],
+    "summary": "Experimental quantum sensing, including precision tests of fundamental physics; independent research and quantum-science teaching.",
+    "notes": [
+      "Priority January4; applications accepted until filled. Anticipated start Fall2027.",
+      "Platforms operating at4K and above, including clocks, atom interferometry, quantum-limited sensors and particle detection.",
+      "Adjacent quantum-sensing search, not exclusively HEP."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer advertisement read; cycle, scope and deadline meaning checked. Location independently sourced.",
+    "institutionSources": [
+      {
+        "url": "https://inspirehep.net/api/jobs/3228566",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://mines.wd1.myworkdayjobs.com/Mines_Careers/job/Colorado/Assistant-Professor--Experimental-Quantum--Department-of-Physics_JR110342",
+        "kind": "advertisement",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "id": "uwa-gw-instrumentation-2027",
+    "institutionId": "university-western-australia",
+    "institutionName": "University of Western Australia",
+    "countryCode": "AU",
+    "city": "Perth (Crawley)",
+    "title": "Senior Lecturer in Gravitational Wave Instrumentation",
+    "rank": [
+      "Senior Lecturer (Level C, tenurable)"
+    ],
+    "fields": [
+      "gravitational waves",
+      "experimental physics",
+      "instrumentation",
+      "quantum sensing"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Current employer call explicitly gives an application milestone on 2026-12-15, in the2026–2027 application cycle; meaning retained separately.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-12-15",
+        "time": "23:55",
+        "timezone": "Australia/Perth",
+        "kind": "hard",
+        "sourceUrl": "https://internal.jobs.uwa.edu.au/jobs/senior-lecturer-physics-gravitational-wave-instrumentation-crawley-wa-australia",
+        "description": "Explicit application closing/receipt date."
+      }
+    ],
+    "openUntilFilled": null,
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "sourceUrls": [
+      "https://internal.jobs.uwa.edu.au/jobs/senior-lecturer-physics-gravitational-wave-instrumentation-crawley-wa-australia"
+    ],
+    "summary": "Tenurable gravitational-wave instrumentation appointment connected to OzGrav, LIGO and precision measurement.",
+    "notes": [
+      "Job524871; full time, international applicants welcome.",
+      "Crawley base with instrumentation activity at Gingin; marker is city-level Perth.",
+      "Interviews mid-to-late January2027; no appointment date stated."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full employer advertisement read; cycle, scope and deadline meaning checked. Location independently sourced.",
+    "institutionSources": [
+      {
+        "url": "https://internal.jobs.uwa.edu.au/jobs/senior-lecturer-physics-gravitational-wave-instrumentation-crawley-wa-australia",
+        "kind": "advertisement",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "discovery": "weekly-public-source-sweep",
+    "id": "johns-hopkins-astronomy-astrophysics-2027",
+    "institutionId": "johns-hopkins",
+    "institutionName": "Johns Hopkins University",
+    "countryCode": "US",
+    "city": "Baltimore",
+    "title": "Assistant Professor in Astronomy and Astrophysics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "astrophysics",
+      "cosmology",
+      "astronomical instrumentation"
+    ],
+    "scope": "adjacent",
+    "cycleEvidence": "Current employer-worded faculty call explicitly begins application review on December 16, 2026; AAS listing is dated October 26, 2026.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-12-16",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://hispanicphysicists.org/jhu-astronomy-astrophysics-assistant-professor-2026/",
+        "description": "Review begins on this date and continues until filled."
+      }
+    ],
+    "openUntilFilled": true,
+    "sourceUrls": [
+      "https://hispanicphysicists.org/jhu-astronomy-astrophysics-assistant-professor-2026/",
+      "https://aas.org/jobregister/ad/e39262d4",
+      "https://apply.interfolio.com/196283"
+    ],
+    "summary": "Astronomy and astrophysics faculty search covering observations, theory, computation and instrumentation.",
+    "notes": [
+      "Applications go through Interfolio 196283. The full matching employer text was read on NSHP; direct AAS and application-portal reads remained blocked or unreadable.",
+      "AAS search-index metadata lists December 15, 2026; the advertisement body explicitly gives December 16 review until filled. No hard cutoff is inferred."
+    ],
+    "verificationBasis": "Full employer-worded advertisement read on the NSHP professional-society job board via web extraction; cycle and review semantics checked. Source crawl age and direct-access failures retained in the maintenance report.",
+    "institutionSources": [
+      {
+        "url": "https://hispanicphysicists.org/jhu-astronomy-astrophysics-assistant-professor-2026/",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://aas.org/jobregister/ad/e39262d4",
+        "kind": "advertisement",
+        "verified": false
+      },
+      {
+        "url": "https://apply.interfolio.com/196283",
+        "kind": "advertisement",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "discovery": "weekly-public-source-sweep",
+    "id": "sapienza-gravitational-wave-hardware-associate-2026",
+    "institutionId": "sapienza-university-rome",
+    "institutionName": "Sapienza University of Rome",
+    "countryCode": "IT",
+    "city": "Rome",
+    "title": "Associate Professor in Experimental Physics — gravitational-wave detector hardware",
+    "rank": [
+      "Associate Professor (II fascia)"
+    ],
+    "fields": [
+      "gravitational physics",
+      "gravitational waves",
+      "instrumentation",
+      "experimental physics"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Official 2026PAE010 faculty competition published November 17, 2026 with December 17, 2026 deadline.",
+    "startDate": null,
+    "deadlines": [
+      {
+        "date": "2026-12-17",
+        "time": "23:59",
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://trasparenza.uniroma1.it/page/75/details/38748/2026pae010-procedura-selettiva-di-chiamata-per-n-1-posto-prof-di-ii-fascia-ai-sensi-dellart-18-comma-4-l-2402010-gsd-02phys-01-ssd-phys-01a-dipartimento-fisica-facolta-scienze-matematiche-fisiche-e-naturali.html",
+        "description": "Official metadata gives December 17 at 23:59; Article 3 requires PICA submission by the peremptory cutoff. Timezone not stated."
+      }
+    ],
+    "openUntilFilled": false,
+    "sourceUrls": [
+      "https://trasparenza.uniroma1.it/page/75/details/38748/2026pae010-procedura-selettiva-di-chiamata-per-n-1-posto-prof-di-ii-fascia-ai-sensi-dellart-18-comma-4-l-2402010-gsd-02phys-01-ssd-phys-01a-dipartimento-fisica-facolta-scienze-matematiche-fisiche-e-naturali.html",
+      "https://web.uniroma1.it/trasparenza/sites/default/files/2026PAE010_PHYS-01A_WEB.pdf"
+    ],
+    "summary": "Permanent associate-professor position focused on operation and hardware development for ground-based gravitational-wave detectors.",
+    "notes": [
+      "Competition 2026PAE010, GSD 02/PHYS-01 and SSD PHYS-01/A; applications through the linked PICA competition.",
+      "Article 2 requires applicable ASN qualification or specified equivalent Italian/overseas academic rank. This external-candidate procedure excludes specified Sapienza employment, research grants and university-course enrollment during the preceding three years; consult the full call for eligibility.",
+      "No appointment date or deadline timezone is stated; none has been inferred."
+    ],
+    "verificationBasis": "Full official competition PDF read directly and official recruitment metadata page read via web extraction; research scope, permanent rank, eligibility restrictions, deadline and application cycle checked.",
+    "institutionSources": [
+      {
+        "url": "https://trasparenza.uniroma1.it/page/75/details/38748/2026pae010-procedura-selettiva-di-chiamata-per-n-1-posto-prof-di-ii-fascia-ai-sensi-dellart-18-comma-4-l-2402010-gsd-02phys-01-ssd-phys-01a-dipartimento-fisica-facolta-scienze-matematiche-fisiche-e-naturali.html",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://web.uniroma1.it/trasparenza/sites/default/files/2026PAE010_PHYS-01A_WEB.pdf",
+        "kind": "advertisement",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "jaxa-litebird-detectors-associate-2027",
+    "institutionId": "jaxa-isas-sagamihara",
+    "institutionName": "JAXA Institute of Space and Astronautical Science",
+    "countryCode": "JP",
+    "city": "Sagamihara",
+    "title": "Associate Professor — LiteBIRD focal-plane detectors",
+    "rank": [
+      "Associate Professor"
+    ],
+    "fields": [
+      "cosmology",
+      "CMB",
+      "detectors",
+      "instrumentation"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "FY2026 official call requires applications by December 9, 2026, and anticipates appointment from May 1, 2027.",
+    "startDate": "2027-05-01",
+    "deadlines": [
+      {
+        "date": "2026-12-09",
+        "time": "12:00",
+        "timezone": "Asia/Tokyo",
+        "kind": "hard",
+        "sourceUrl": "https://www.jaxa.jp/about/employ/pdf/edu_20261008_01.pdf",
+        "description": "Receipt of complete application by the stated date at noon Japan time."
+      }
+    ],
+    "openUntilFilled": false,
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "sourceUrls": [
+      "https://www.jaxa.jp/about/employ/pdf/edu_20261008_01.pdf",
+      "https://www.jaxa.jp/about/employ/educator_j.html"
+    ],
+    "summary": "Permanent faculty role in LiteBIRD CMB-polarization detector development, performance evaluation and mission integration.",
+    "notes": [
+      "Indefinite contract with a six-month probation period; retirement age 65.",
+      "May 1, 2027 or as soon thereafter; JAXA Sagamihara campus, Kanagawa.",
+      "Requires development experience with cryogenic millimetre/submillimetre detectors or millimetre telescopes."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full official call and employer listing read; remit, appointment terms, application cycle, deadline meaning and locality verified.",
+    "institutionSources": [
+      {
+        "url": "https://www.jaxa.jp/about/employ/pdf/edu_20261008_01.pdf",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://www.jaxa.jp/about/employ/educator_j.html",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "jaxa-litebird-data-assistant-2027",
+    "institutionId": "jaxa-isas-sagamihara",
+    "institutionName": "JAXA Institute of Space and Astronautical Science",
+    "countryCode": "JP",
+    "city": "Sagamihara",
+    "title": "Assistant Professor — LiteBIRD science data",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "cosmology",
+      "CMB",
+      "observational astrophysics",
+      "data analysis"
+    ],
+    "scope": "core",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "FY2026 official call requires applications by December 9, 2026, and anticipates appointment from May 1, 2027.",
+    "startDate": "2027-05-01",
+    "deadlines": [
+      {
+        "date": "2026-12-09",
+        "time": "12:00",
+        "timezone": "Asia/Tokyo",
+        "kind": "hard",
+        "sourceUrl": "https://www.jaxa.jp/about/employ/pdf/edu_20261008_02.pdf",
+        "description": "Receipt of complete application by the stated date at noon Japan time."
+      }
+    ],
+    "openUntilFilled": false,
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "sourceUrls": [
+      "https://www.jaxa.jp/about/employ/pdf/edu_20261008_02.pdf",
+      "https://www.jaxa.jp/about/employ/educator_j.html"
+    ],
+    "summary": "Permanent faculty role coordinating LiteBIRD science-ground-segment interfaces and developing mission data methods.",
+    "notes": [
+      "Indefinite contract with a six-month probation period; retirement age 65.",
+      "May 1, 2027 or as soon thereafter; JAXA Sagamihara campus, Kanagawa.",
+      "Experience with large precision astronomical datasets is required; not restricted to previous CMB work.",
+      "Five-year career discussion is described, but the employment contract has no fixed end date."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full official call and employer listing read; remit, appointment terms, application cycle, deadline meaning and locality verified.",
+    "institutionSources": [
+      {
+        "url": "https://www.jaxa.jp/about/employ/pdf/edu_20261008_02.pdf",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://www.jaxa.jp/about/employ/educator_j.html",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "utsunomiya-theoretical-mathematical-physics-2027",
+    "institutionId": "utsunomiya-university",
+    "institutionName": "Utsunomiya University",
+    "countryCode": "JP",
+    "city": "Utsunomiya",
+    "title": "Tenure-track Assistant Professor — mathematical and theoretical physics",
+    "rank": [
+      "Assistant Professor (tenure track)"
+    ],
+    "fields": [
+      "broad theoretical physics",
+      "particle theory",
+      "nuclear theory",
+      "astrophysics theory",
+      "mathematical physics"
+    ],
+    "scope": "broad-physics",
+    "kind": "formal-vacancy",
+    "cycle": "2026-2027",
+    "cycleEvidence": "Official October 8, 2026 call requires receipt by December 8, 2026, with April 1, 2027 or soon-after start.",
+    "startDate": "2027-04-01",
+    "deadlines": [
+      {
+        "date": "2026-12-08",
+        "time": null,
+        "timezone": null,
+        "kind": "hard",
+        "sourceUrl": "https://www.utsunomiya-u.ac.jp/docs/Engpost_261008.pdf",
+        "description": "Receipt of complete application by the stated date; no numeric time or timezone stated."
+      }
+    ],
+    "openUntilFilled": false,
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "sourceUrls": [
+      "https://www.utsunomiya-u.ac.jp/docs/Engpost_261008.pdf",
+      "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126100508",
+      "https://www.utsunomiya-u.ac.jp/outline/saiyojyoho.php"
+    ],
+    "summary": "Broad search spanning mathematical/theoretical physics, applied mathematics and information mathematics; HEP-related theory is explicitly eligible.",
+    "notes": [
+      "Five-year tenure track with interim and final tenure assessment.",
+      "Japanese ability sufficient for work duties is required.",
+      "Engineering Faculty at Yoto campus; substantial mathematics and information-science teaching."
+    ],
+    "discovery": "weekly-public-source-sweep",
+    "verificationBasis": "Full official call and employer listing read; remit, appointment terms, application cycle, deadline meaning and locality verified.",
+    "institutionSources": [
+      {
+        "url": "https://www.utsunomiya-u.ac.jp/docs/Engpost_261008.pdf",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126100508",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://www.utsunomiya-u.ac.jp/outline/saiyojyoho.php",
+        "kind": "recruitment",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "checkedOn": "2026-11-23",
+    "discovery": "weekly-primary-source-expansion",
+    "id": "tsinghua-physics-tenure-track-2027",
+    "institutionId": "tsinghua-university",
+    "institutionName": "Tsinghua University",
+    "countryCode": "CN",
+    "city": "Beijing",
+    "title": "Tenure-track faculty in physics",
+    "rank": [
+      "Assistant Professor",
+      "Associate Professor"
+    ],
+    "fields": [
+      "broad physics",
+      "particle physics",
+      "nuclear physics",
+      "AMO physics",
+      "condensed matter physics"
+    ],
+    "scope": "broad-physics",
+    "verification": "verified",
+    "cycleEvidence": "Employer AJO posted 18 November 2026, position ID THUPHYSTT27, with priority consideration for applications before 15 January 2027.",
+    "deadlines": [
+      {
+        "date": "2027-01-15",
+        "kind": "priority",
+        "time": null,
+        "timezone": null,
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33485",
+        "description": "Submissions received before January 15, 2027 receive priority consideration."
+      }
+    ],
+    "openUntilFilled": null,
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33485"
+    ],
+    "summary": "Broad physics tenure-track search including particle and nuclear physics; priorities include hadron structure, quantum materials and quantum precision measurement.",
+    "notes": [
+      "This is Tsinghua University in Beijing, distinct from National Tsing Hua University in Taiwan.",
+      "AJO header displays October 31, 2027 as an application/listing date; body gives January 15 priority. Do not silently convert the listing lifetime into a body-confirmed hard deadline.",
+      "Application materials are submitted by email according to the employer body."
+    ],
+    "verificationBasis": "Full employer-authored AJO call reviewed for rank, fields and 2026–27 priority milestone.",
+    "institutionSources": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/33485",
+        "kind": "advertisement",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "checkedOn": "2026-11-23",
+    "discovery": "weekly-primary-source-expansion",
+    "id": "tel-aviv-hep-ai-2027",
+    "institutionId": "tel-aviv-university",
+    "institutionName": "Tel Aviv University",
+    "countryCode": "IL",
+    "city": "Tel Aviv",
+    "title": "Assistant Professor in high-energy, nuclear and astroparticle physics",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "high-energy theory",
+      "experimental particle physics",
+      "nuclear physics",
+      "astroparticle physics",
+      "AI for physics"
+    ],
+    "scope": "core",
+    "verification": "verified",
+    "cycleEvidence": "Employer AJO posted 22 October 2026 with applications due December 1, 2026.",
+    "deadlines": [
+      {
+        "date": "2026-12-01",
+        "kind": "priority",
+        "time": null,
+        "timezone": null,
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33199",
+        "description": "Stated application deadline; employer says later applications may still be reviewed contingent on available positions, so not treated as hard closure."
+      }
+    ],
+    "openUntilFilled": null,
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33199"
+    ],
+    "summary": "Particle-physics tenure-track search emphasizing connections with artificial intelligence; strong candidates in traditional theory, experiment and instrumentation also encouraged.",
+    "notes": [
+      "Late applications may be reviewed contingent on remaining positions. No explicit body time or timezone provided."
+    ],
+    "verificationBasis": "Full employer-authored AJO vacancy explicitly states tenure-track rank, HEP scope and current application date.",
+    "institutionSources": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/33199",
+        "kind": "advertisement",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "stony-brook-yitp-theory-196029",
+    "institutionId": "stony-brook-university",
+    "institutionName": "Stony Brook University",
+    "countryCode": "US",
+    "city": "Stony Brook, New York",
+    "cycle": "2026-2027",
+    "kind": "formal-vacancy",
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "discovery": "resolved-primary-source-followup",
+    "title": "Tenure-track Assistant Professor in theoretical physics — YITP",
+    "rank": [
+      "Assistant Professor"
+    ],
+    "fields": [
+      "high-energy theory",
+      "quantum field theory",
+      "quantum gravity"
+    ],
+    "scope": "core",
+    "cycleEvidence": "Employer-submitted INSPIRE call opened October 26 2026, current body deadline December 15 2026; employer AJO confirms December 15 2026 review and September 1 2027 anticipated start.",
+    "startDate": "2027-09-01",
+    "deadlines": [
+      {
+        "date": "2026-12-15",
+        "time": "23:59",
+        "timezone": "America/New_York",
+        "kind": "hard",
+        "sourceUrl": "https://inspirehep.net/api/jobs/3221538",
+        "description": "Current employer-submitted advertisement explicitly says Deadline: December 15 2026 at 11:59 PM Eastern Time."
+      },
+      {
+        "date": "2026-12-15",
+        "time": null,
+        "timezone": null,
+        "kind": "review-start",
+        "sourceUrl": "https://academicjobsonline.org/ajo/jobs/33269",
+        "description": "Employer AJO body explicitly says review of applications begins December 15 2026."
+      }
+    ],
+    "openUntilFilled": null,
+    "sourceUrls": [
+      "https://academicjobsonline.org/ajo/jobs/33269",
+      "https://inspirehep.net/api/jobs/3221538",
+      "https://apply.interfolio.com/196029",
+      "https://apptrkr.com/9923623"
+    ],
+    "summary": "YITP tenure-track theory search emphasizing formal quantum field theory, quantum gravity and related applications, with research, teaching and mentorship duties.",
+    "notes": [
+      "AJO 33269 corroborates the employer-submitted INSPIRE body and identifies Interfolio 196029 as the application portal.",
+      "INSPIRE generic deadline_date metadata remains December 2, which conflicts with its own updated employer-submitted body; the body and employer AJO both support December 15. The generic metadata date is not used as the active cutoff.",
+      "The November 9 saved lead recorded a March 1 2027 hard deadline from the earlier submitted body. The current body revised November 13 instead explicitly gives December 15 2026 at 23:59 Eastern. Earlier lead evidence is retained in history.",
+      "December 15 is both the employer-submitted hard deadline and the separately stated review-start milestone. Neither current advertisement promises late applications or an open-until-filled window.",
+      "The direct Interfolio application body was inaccessible; AJO and employer-submitted INSPIRE content support these facts."
+    ],
+    "verificationBasis": "Current full employer AJO and employer-submitted INSPIRE body agree on vacancy, scope and December 15 milestone; canonical Interfolio identifier matches.",
+    "institutionSources": [
+      {
+        "url": "https://academicjobsonline.org/ajo/jobs/33269",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://inspirehep.net/api/jobs/3221538",
+        "kind": "advertisement",
+        "verified": true
+      },
+      {
+        "url": "https://apply.interfolio.com/196029",
+        "kind": "advertisement",
+        "verified": false
+      },
+      {
+        "url": "https://apptrkr.com/9923623",
+        "kind": "advertisement",
+        "verified": false
+      }
+    ]
+  }
+]

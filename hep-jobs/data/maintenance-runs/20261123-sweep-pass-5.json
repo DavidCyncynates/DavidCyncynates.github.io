@@ -1,0 +1,22 @@
+{
+  "runId": "hep-jobs-20261123-sweep-pass-5",
+  "startedAt": "2026-11-23T10:09:11+00:00",
+  "finishedAt": "2026-11-23T10:09:11+00:00",
+  "checks": [
+    {
+      "sourceId": "source-8e92f6ea73e6",
+      "checkedAt": "2026-11-23T10:09:11+00:00",
+      "sourceReadAt": "2026-11-23T10:09:11+00:00",
+      "timestampBasis": "actual-web-tool-read-start",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://trasparenza.uniroma1.it/page/75/details/38748/2026pae010-procedura-selettiva-di-chiamata-per-n-1-posto-prof-di-ii-fascia-ai-sensi-dellart-18-comma-4-l-2402010-gsd-02phys-01-ssd-phys-01a-dipartimento-fisica-facolta-scienze-matematiche-fisiche-e-naturali.html"
+      ],
+      "summary": "Web extraction reread of official Sapienza metadata (crawl reported five days earlier) confirms November 17 publication and December 17, 2026 at 23:59 deadline; no timezone stated. Direct HTTP access remains blocked, retained separately.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    }
+  ],
+  "summary": "Completed bounded partial source sweep with retained access failures and follow-up attempts. No exhaustive coverage claim."
+}
