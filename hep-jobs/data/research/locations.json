@@ -1802,5 +1802,273 @@
     ],
     "profile": "university",
     "profileSourceUrl": "https://phas.ubc.ca/Assistant-Professor-of-Teaching-Ref-33225"
+  },
+  "university-western-australia": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": -31.95224,
+    "longitude": 115.8614,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2063523,
+    "matchedLocality": "Perth",
+    "institutionSourceUrl": "https://internal.jobs.uwa.edu.au/jobs/senior-lecturer-physics-gravitational-wave-instrumentation-crawley-wa-australia",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified campus or building. Institution locality is corroborated by the employer advertisement."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://internal.jobs.uwa.edu.au/jobs/senior-lecturer-physics-gravitational-wave-instrumentation-crawley-wa-australia"
+  },
+  "kings-college-london": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": 51.50853,
+    "longitude": -0.12574,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2643743,
+    "matchedLocality": "London",
+    "institutionSourceUrl": "https://www.kcl.ac.uk/jobs/163467-lecturer-in-theoretical-physics",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified campus or building. Institution locality is corroborated by the employer advertisement."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.kcl.ac.uk/jobs/163467-lecturer-in-theoretical-physics"
+  },
+  "rome-tor-vergata": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": 41.89193,
+    "longitude": 12.51133,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3169070,
+    "matchedLocality": "Rome",
+    "institutionSourceUrl": "https://web.uniroma2.it/it/contenuto/20262679",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified campus or building. Institution locality is corroborated by the employer advertisement."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://web.uniroma2.it/it/contenuto/20262679"
+  },
+  "kth-royal-institute-technology": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": 59.32938,
+    "longitude": 18.06871,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 2673730,
+    "matchedLocality": "Stockholm",
+    "institutionSourceUrl": "https://www.kth.se/lediga-jobb/969098?l=en",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified campus or building. Institution locality is corroborated by the employer advertisement."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.kth.se/lediga-jobb/969098?l=en"
+  },
+  "sapienza-university-rome": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": 41.89193,
+    "longitude": 12.51133,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 3169070,
+    "matchedLocality": "Rome",
+    "institutionSourceUrl": "https://trasparenza.uniroma1.it/page/75/details/38748/2026pae010-procedura-selettiva-di-chiamata-per-n-1-posto-prof-di-ii-fascia-ai-sensi-dellart-18-comma-4-l-2402010-gsd-02phys-01-ssd-phys-01a-dipartimento-fisica-facolta-scienze-matematiche-fisiche-e-naturali.html",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker, not a verified campus or building. Institution locality is corroborated by the employer advertisement."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://trasparenza.uniroma1.it/page/75/details/38748/2026pae010-procedura-selettiva-di-chiamata-per-n-1-posto-prof-di-ii-fascia-ai-sensi-dellart-18-comma-4-l-2402010-gsd-02phys-01-ssd-phys-01a-dipartimento-fisica-facolta-scienze-matematiche-fisiche-e-naturali.html"
+  },
+  "cuny-city-college": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": 40.819846,
+    "longitude": -73.948542,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      190567
+    ],
+    "matchedOfficialNames": [
+      "CUNY City College"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution marker matched by UNITID; not a verified department office."
+    ]
+  },
+  "colorado-school-mines": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": 39.751443,
+    "longitude": -105.223364,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      126775
+    ],
+    "matchedOfficialNames": [
+      "Colorado School of Mines"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution marker matched by UNITID; not a verified department office."
+    ]
+  },
+  "johns-hopkins": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": 39.328977,
+    "longitude": -76.621595,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024 institution directory",
+    "sourceYear": 2024,
+    "unitIds": [
+      162928
+    ],
+    "matchedOfficialNames": [
+      "Johns Hopkins University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS",
+    "notes": [
+      "Campus-level institution marker matched by UNITID; not a verified department office."
+    ]
+  },
+  "jaxa-isas-sagamihara": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": 35.56707,
+    "longitude": 139.24167,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 11611609,
+    "matchedLocality": "Sagamihara",
+    "institutionSourceUrl": "https://www.jaxa.jp/about/employ/pdf/edu_20261008_01.pdf",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker; exact employer campus corroborated independently.",
+      "Institution type is descriptive; no US Carnegie equivalence is assigned."
+    ],
+    "profile": "research-institute",
+    "profileSourceUrl": "https://www.jaxa.jp/about/centers/sagamihara/index_j.html"
+  },
+  "utsunomiya-university": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": 36.56667,
+    "longitude": 139.88333,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1849053,
+    "matchedLocality": "Utsunomiya",
+    "institutionSourceUrl": "https://www.utsunomiya-u.ac.jp/docs/Engpost_261008.pdf",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Approximate city-level marker; exact employer campus corroborated independently.",
+      "Institution type is descriptive; no US Carnegie equivalence is assigned."
+    ],
+    "profile": "university",
+    "profileSourceUrl": "https://www.utsunomiya-u.ac.jp/outline/saiyojyoho.php"
+  },
+  "stony-brook-university": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": 40.91476,
+    "longitude": -73.12046,
+    "precision": "campus",
+    "sourceUrl": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sourceDataset": "NCES IPEDS HD2024",
+    "institutionSourceUrl": "https://academicjobsonline.org/ajo/jobs/33269",
+    "profile": "university",
+    "profileSourceUrl": "https://academicjobsonline.org/ajo/jobs/33269",
+    "notes": [
+      "Exact UNITID 196097, Stony Brook New York 11794-0701; NCES coordinates identify the campus, not a vacancy-specific office."
+    ],
+    "sourceYear": 2024,
+    "unitIds": [
+      196097
+    ],
+    "matchedOfficialNames": [
+      "Stony Brook University"
+    ],
+    "sourceAttribution": "U.S. Department of Education, National Center for Education Statistics, IPEDS"
+  },
+  "tsinghua-university": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": 39.9075,
+    "longitude": 116.39723,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 1816670,
+    "matchedLocality": "Beijing",
+    "institutionSourceUrl": "https://academicjobsonline.org/ajo/jobs/33485",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "profile": "university",
+    "profileSourceUrl": "https://academicjobsonline.org/ajo/jobs/33485",
+    "notes": [
+      "Approximate city-level marker, not a campus building. Exact locality and country match in current GeoNames dataset; locality corroborated by employer AJO advertisement.",
+      "Institution category is descriptive; no US Carnegie equivalent assigned.",
+      "Tsinghua University in Beijing, China, distinct from National Tsing Hua University in Hsinchu, Taiwan."
+    ]
+  },
+  "tel-aviv-university": {
+    "verification": "verified",
+    "checkedOn": "2026-11-23",
+    "latitude": 32.08088,
+    "longitude": 34.78057,
+    "precision": "city",
+    "sourceUrl": "https://download.geonames.org/export/dump/cities15000.zip",
+    "sourceDataset": "GeoNames cities15000",
+    "geonameId": 293397,
+    "matchedLocality": "Tel Aviv",
+    "institutionSourceUrl": "https://academicjobsonline.org/ajo/jobs/33199",
+    "sourceAttribution": "GeoNames geographical database, https://www.geonames.org/",
+    "sourceLicense": "CC BY 4.0",
+    "sourceLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "profile": "university",
+    "profileSourceUrl": "https://academicjobsonline.org/ajo/jobs/33199",
+    "notes": [
+      "Approximate city-level marker, not a campus building. Exact locality and country match in current GeoNames dataset; locality corroborated by employer AJO advertisement.",
+      "Institution category is descriptive; no US Carnegie equivalent assigned."
+    ]
   }
 }

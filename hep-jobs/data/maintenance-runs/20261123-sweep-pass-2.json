@@ -1,0 +1,486 @@
+{
+  "runId": "hep-jobs-20261123-sweep-pass-2",
+  "startedAt": "2026-11-23T10:04:39+00:00",
+  "finishedAt": "2026-11-23T10:09:24+00:00",
+  "checks": [
+    {
+      "sourceId": "source-1f81a82e3778",
+      "checkedAt": "2026-11-23T10:04:39+00:00",
+      "sourceReadAt": "2026-11-23T10:04:39+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/ebe9db3c"
+      ],
+      "summary": "Web retry returned HTTP 403. Prior facts preserved.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-5cfd36028bdc",
+      "checkedAt": "2026-11-23T10:04:39+00:00",
+      "sourceReadAt": "2026-11-23T10:04:39+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/2d1b76f2"
+      ],
+      "summary": "Web retry returned HTTP 403. Prior facts preserved.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-7b7be7e8adb7",
+      "checkedAt": "2026-11-23T10:04:39+00:00",
+      "sourceReadAt": "2026-11-23T10:04:39+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/a04bc2f9"
+      ],
+      "summary": "Web extraction (source crawl two days earlier) recovered Potsdam W3 astrophysical-cosmology/director call: November 30, 2026 deadline and expected 2028 start, unchanged.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8fa790b8392b",
+      "checkedAt": "2026-11-23T10:04:39+00:00",
+      "sourceReadAt": "2026-11-23T10:04:39+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/33a81251"
+      ],
+      "summary": "Web retry returned HTTP 403. Prior facts preserved.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-96474dc3f22f",
+      "checkedAt": "2026-11-23T10:04:47+00:00",
+      "sourceReadAt": "2026-11-23T10:04:47+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/210c5bdf"
+      ],
+      "summary": "Web extraction (source crawl one day earlier) recovered UT Austin astronomy call: November 10, 2026 full consideration, assistant professor with exceptional senior candidates considered, unchanged.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-a46de1f149ca",
+      "checkedAt": "2026-11-23T10:04:47+00:00",
+      "sourceReadAt": "2026-11-23T10:04:47+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/d5c0665c"
+      ],
+      "summary": "Web retry returned HTTP 403. Prior facts preserved.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-b8fde9437aaf",
+      "checkedAt": "2026-11-23T10:04:47+00:00",
+      "sourceReadAt": "2026-11-23T10:04:47+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/0017344c"
+      ],
+      "summary": "Web extraction (source crawl four days earlier) recovered Scripps/Pitzer astrophysics call: review from October 1, 2026 until filled, July 2027 start, unchanged.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-c344b1bc01f9",
+      "checkedAt": "2026-11-23T10:04:47+00:00",
+      "sourceReadAt": "2026-11-23T10:04:47+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/5b64bbe4"
+      ],
+      "summary": "Web retry returned HTTP 403. Prior facts preserved.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e62ac87e5143",
+      "checkedAt": "2026-11-23T10:04:47+00:00",
+      "sourceReadAt": "2026-11-23T10:04:47+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/2702ed17"
+      ],
+      "summary": "Web retry returned HTTP 403. Prior facts preserved.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-f3f2af2d0966",
+      "checkedAt": "2026-11-23T10:05:10+00:00",
+      "timestampBasis": "actual-web-request-start",
+      "outcome": "failed",
+      "scopeType": "advertisement",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/8852332e"
+      ],
+      "summary": "First AAS Chicago extreme-universe web recovery also returned HTTP 403; prior facts retained.",
+      "coverage": "Bounded recovery read of the linked advertisement or relevant faculty section; no full institutional sweep.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-097e30cbc26f",
+      "checkedAt": "2026-11-23T10:05:10+00:00",
+      "timestampBasis": "actual-web-request-start",
+      "outcome": "partial",
+      "scopeType": "advertisement",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/6b5e3745"
+      ],
+      "summary": "AAS recovery confirms UT Austin cosmology assistant-professor call, December 2, 2026 at 23:59 CST full consideration and fall 2027 start.",
+      "coverage": "Bounded recovery read of the linked advertisement or relevant faculty section; no full institutional sweep.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-1ef98d66d22a",
+      "checkedAt": "2026-11-23T10:05:10+00:00",
+      "timestampBasis": "actual-web-request-start",
+      "outcome": "partial",
+      "scopeType": "advertisement",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/4b7a9ca7"
+      ],
+      "summary": "AAS recovery confirms Florida space-instrumentation faculty call, December 11, 2026 review start and acceptance until filled.",
+      "coverage": "Bounded recovery read of the linked advertisement or relevant faculty section; no full institutional sweep.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-702548789c63",
+      "checkedAt": "2026-11-23T10:05:10+00:00",
+      "timestampBasis": "actual-web-request-start",
+      "outcome": "partial",
+      "scopeType": "advertisement",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/a5ed92fc"
+      ],
+      "summary": "AAS recovery confirms CMU McWilliams director call, rolling review beginning November 8, 2026; no change to recorded milestone.",
+      "coverage": "Bounded recovery read of the linked advertisement or relevant faculty section; no full institutional sweep.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-fbd0cce5ef6d",
+      "checkedAt": "2026-11-23T10:05:19+00:00",
+      "timestampBasis": "actual-web-request-start",
+      "outcome": "partial",
+      "scopeType": "department-page",
+      "evidenceUrls": [
+        "https://physics.mit.edu/about-physics/employment-opportunities/"
+      ],
+      "summary": "MIT employer faculty section confirms December 1, 2026 deadline and July 2027 start. Theory vacancy remains listed. Experimental quantum science remit remains AMO/precision/quantum; prior HEP scope question not resolved.",
+      "coverage": "Bounded recovery read of the linked advertisement or relevant faculty section; no full institutional sweep.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-ca1372f393d9",
+      "checkedAt": "2026-11-23T10:05:19+00:00",
+      "timestampBasis": "actual-web-request-start",
+      "outcome": "failed",
+      "scopeType": "advertisement",
+      "evidenceUrls": [
+        "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=204910"
+      ],
+      "summary": "Web recovery could not access Binghamton detailed advertisement; retained unresolved cycle/deadline lead.",
+      "coverage": "Bounded recovery read of the linked advertisement or relevant faculty section; no full institutional sweep.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-5cbc7c4c19fd",
+      "checkedAt": "2026-11-23T10:05:19+00:00",
+      "timestampBasis": "actual-web-request-start",
+      "outcome": "failed",
+      "scopeType": "advertisement",
+      "evidenceUrls": [
+        "https://icc.ub.edu/node/1715527"
+      ],
+      "summary": "Web recovery timed out at ICCUB; prior hosting EOI facts retained, no closure inferred.",
+      "coverage": "Bounded recovery read of the linked advertisement or relevant faculty section; no full institutional sweep.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-6cef3912a8a5",
+      "checkedAt": "2026-11-23T10:05:25+00:00",
+      "sourceReadAt": "2026-11-23T10:05:25+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/192707"
+      ],
+      "summary": "Web retry returned an Interfolio page with no readable lines. Prior facts preserved.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-e16f435343ed",
+      "checkedAt": "2026-11-23T10:05:25+00:00",
+      "sourceReadAt": "2026-11-23T10:05:25+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/193146"
+      ],
+      "summary": "Web retry returned an Interfolio page with no readable lines. Prior facts preserved.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-915355a557a4",
+      "checkedAt": "2026-11-23T10:05:25+00:00",
+      "sourceReadAt": "2026-11-23T10:05:25+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/194655"
+      ],
+      "summary": "Web retry returned an Interfolio page with no readable lines. Prior facts preserved.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-fbcc287218eb",
+      "checkedAt": "2026-11-23T10:05:25+00:00",
+      "sourceReadAt": "2026-11-23T10:05:25+00:00",
+      "timestampBasis": "actual-web-tool-read-completion",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/193844"
+      ],
+      "summary": "Web retry returned an Interfolio page with no readable lines. Prior facts preserved.",
+      "coverage": "One advertisement via web extraction; source crawl age stated when provided. No live application portal or directory pagination verified.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-6247f6822e3e",
+      "checkedAt": "2026-11-23T10:05:47.226509+00:00",
+      "timestampBasis": "actual-request-start",
+      "outcome": "partial",
+      "scopeType": "advertisement",
+      "evidenceUrls": [
+        "https://main.tifr.res.in/maincampus/viewNoticeFile.php?f=T2VJdndNNzVhbGtHUEEzbXVxam9aQT09&s=WFdXaTkwL1ZDTGdxaHp6eHA1bkh1QT09"
+      ],
+      "summary": "Recovered and read TIFR faculty PDF after removing a non-PDF prefix. Advt. 2026/16 still defines July 1–December 31, 2026 evaluation period; applications before the end, assessment on receipt. No faculty deadline change.",
+      "coverage": "Bounded recovery read of the linked advertisement or relevant faculty section; no full institutional sweep.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-25dbc62f56a9",
+      "checkedAt": "2026-11-23T10:05:55+00:00",
+      "timestampBasis": "actual-web-request-start",
+      "outcome": "partial",
+      "scopeType": "vacancy-list",
+      "evidenceUrls": [
+        "https://www.jaxa.jp/about/employ/educator_j.html"
+      ],
+      "summary": "Current FY2026 faculty list shows two astrophysics calls: Associate Professor and Assistant Professor, both December 9 noon JST. Detailed LiteBIRD calls followed separately.",
+      "coverage": "Read current faculty listings and archive boundary; followed the two astrophysics PDFs, not unrelated engineering/solar-system calls.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-2a1a47618b1c",
+      "checkedAt": "2026-11-23T10:05:55+00:00",
+      "timestampBasis": "actual-web-request-start",
+      "outcome": "partial",
+      "scopeType": "advertisement",
+      "evidenceUrls": [
+        "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126100508"
+      ],
+      "summary": "Employer JRECIN ad confirms theoretical/mathematical physics tenure track, December 8 receipt, April 2027 or soon-after start, and Yoto campus. Explicit particle/nuclear/cosmic/astrophysics theory remit.",
+      "coverage": "One official call or employer-submitted advertisement; not a full institution sweep.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-172cc15b03df",
+      "checkedAt": "2026-11-23T10:06:18.400238+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/?sort=mostrecent&q=ranks%3AJUNIOR%20OR%20ranks%3ASENIOR&size=100&page=4"
+      ],
+      "summary": "Continued at page4 (100 records); screened titles/ranks/dates. Older-cycle faculty and postdoctoral/industrial posts not promoted.",
+      "coverage": "100 returned entries of 5184 total; page4 continuation. Individual calls not all read. Next continuation: page5 of this same query; pages2–3 were checked in preceding runs. Latest page1 must be refreshed each week.",
+      "scopeType": "vacancy-list",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "aas-job-register",
+      "checkedAt": "2026-11-23T10:06:18.492079+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister"
+      ],
+      "summary": "Direct retry returned403; earlier web request timed out. No vacancy conclusion.",
+      "coverage": "Central-board retrieval retry.",
+      "scopeType": "vacancy-list",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "inspire-jobs",
+      "checkedAt": "2026-11-23T10:06:18.664873+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://inspirehep.net/api/jobs/?sort=mostrecent&q=&size=100&page=1"
+      ],
+      "summary": "Screened newest100 job titles/ranks/dates; read candidate faculty bodies and followed new Chicago–Fermilab, KCL, KTH, CCNY, TorVergata and Mines calls. Remote AI contracts and ordinary postdocs excluded.",
+      "coverage": "100 returned entries of 32163 total; newest first page. Individual calls not all read. Next continuation: page5 of this same query; pages2–3 were checked in preceding runs. Latest page1 must be refreshed each week.",
+      "scopeType": "vacancy-list",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "academic-jobs-online",
+      "checkedAt": "2026-11-23T10:06:19+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo/jobs"
+      ],
+      "summary": "Screened first alphabetic page Academia Sinica–Boston. Faculty and postdoctoral headings distinguished; followup full board requested.",
+      "coverage": "First page only; continuation next-page link or all-jobs view.",
+      "scopeType": "vacancy-list",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "euraxess",
+      "checkedAt": "2026-11-23T10:06:35+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://euraxess.ec.europa.eu/jobs/search?keywords=particle%20physics",
+        "https://euraxess.ec.europa.eu/jobs/search?keywords=cosmology"
+      ],
+      "summary": "Web retrieval of both targeted particle-physics/cosmology result URLs failed.",
+      "coverage": "Attempted keyword result pages; no successful scoped survey."
+    },
+    {
+      "sourceId": "source-bfda4ef37627",
+      "checkedAt": "2026-11-23T10:07:16+00:00",
+      "sourceReadAt": "2026-11-23T10:07:16+00:00",
+      "timestampBasis": "actual-web-tool-read-start",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/e39262d4"
+      ],
+      "summary": "Web request returned HTTP 403; search result discovered the call but no successful direct read claimed.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8e92f6ea73e6",
+      "checkedAt": "2026-11-23T10:07:16+00:00",
+      "sourceReadAt": "2026-11-23T10:07:16+00:00",
+      "timestampBasis": "actual-web-tool-read-start",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://trasparenza.uniroma1.it/page/75/details/38748/2026pae010-procedura-selettiva-di-chiamata-per-n-1-posto-prof-di-ii-fascia-ai-sensi-dellart-18-comma-4-l-2402010-gsd-02phys-01-ssd-phys-01a-dipartimento-fisica-facolta-scienze-matematiche-fisiche-e-naturali.html"
+      ],
+      "summary": "Official metadata page retrieved via web extraction (crawl reported five days earlier): call published November 17, 2026; December 17, 2026 at 23:59 deadline; PICA applications from November 18. No timezone stated.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ae29f2cd630f",
+      "checkedAt": "2026-11-23T10:07:16+00:00",
+      "sourceReadAt": "2026-11-23T10:07:16+00:00",
+      "timestampBasis": "actual-web-tool-read-start",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://web.uniroma1.it/trasparenza/sites/default/files/2026PAE010_PHYS-01A_WEB.pdf"
+      ],
+      "summary": "Web tool could not access the official PDF; direct retrieval attempted separately.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8c68d269d3ba",
+      "checkedAt": "2026-11-23T10:07:40.113377+00:00",
+      "sourceReadAt": "2026-11-23T10:07:40.113377+00:00",
+      "timestampBasis": "actual-request-start",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://apply.interfolio.com/196283"
+      ],
+      "summary": "Initial network-restricted request could not resolve the host; no vacancy conclusion.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-57c7d64a9800",
+      "checkedAt": "2026-11-23T10:08:37.373660+00:00",
+      "timestampBasis": "actual-request-start",
+      "outcome": "partial",
+      "scopeType": "department-page",
+      "evidenceUrls": [
+        "https://fanfun.jaxa.jp/visit/sagamihara/"
+      ],
+      "summary": "Official Sagamihara visitor page confirms ISAS campus at 3-1-1 Yoshinodai, Chuo-ku, Sagamihara.",
+      "coverage": "Follow-up HTML request for official campus location/map corroboration only; not vacancy coverage.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-c360c5780e40",
+      "checkedAt": "2026-11-23T10:08:37.373958+00:00",
+      "timestampBasis": "actual-request-start",
+      "outcome": "partial",
+      "scopeType": "department-page",
+      "evidenceUrls": [
+        "https://www.utsunomiya-u.ac.jp/outline/map/access.php"
+      ],
+      "summary": "Official access page identifies Yoto campus for Engineering at 7-1-2 Yoto, Utsunomiya; distinguishes it from Mine campus.",
+      "coverage": "Follow-up HTML request for official campus location/map corroboration only; not vacancy coverage.",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-e42854fb1d44",
+      "checkedAt": "2026-11-23T10:09:10.394616+00:00",
+      "sourceReadAt": "2026-11-23T10:09:10.394616+00:00",
+      "timestampBasis": "actual-request-start",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://hispanicphysicists.org/jhu-astronomy-astrophysics-assistant-professor-2026/"
+      ],
+      "summary": "Direct NSHP request returned HTTP 406; earlier web-extracted advertisement retained as evidence.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-95c530ce4758",
+      "checkedAt": "2026-11-23T10:09:24+00:00",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://internal.jobs.uwa.edu.au/jobs/senior-lecturer-physics-gravitational-wave-instrumentation-crawley-wa-australia"
+      ],
+      "summary": "Second web-reader retrieval failed after initial successful full advertisement read; direct retry follows.",
+      "coverage": "Individual advertisement or employer listing; no complete directory claim.",
+      "scopeType": "advertisement"
+    }
+  ],
+  "summary": "Completed bounded partial source sweep with retained access failures and follow-up attempts. No exhaustive coverage claim."
+}

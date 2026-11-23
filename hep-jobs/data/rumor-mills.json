@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-11-16",
+  "checkedOn": "2026-11-23",
   "sources": [
     {
       "id": "north-america-hep-theory",
@@ -7,11 +7,11 @@
       "region": "North America",
       "field": "HEP theory",
       "url": "https://particle.physics.ucdavis.edu/rumor/doku.php?id=current",
-      "status": "unverified",
+      "status": "current",
       "cycle": "2027",
       "description": "Faculty searches in theoretical particle physics in the United States and Canada.",
-      "note": "The source timed out on November 16, 2026, including retries. The previously established 2027 cycle and source update date are retained; current activity could not be rechecked.",
-      "checkedOn": "2026-11-16",
+      "note": "",
+      "checkedOn": "2026-11-23",
       "sourceUpdatedOn": "2026-10-27",
       "evidenceUrls": [
         "https://particle.physics.ucdavis.edu/rumor/doku.php?id=current",
@@ -27,8 +27,8 @@
       "status": "current",
       "cycle": "2026–2027",
       "description": "Theoretical particle physics faculty searches, linked as the UK and Ireland rumor mill.",
-      "note": "",
-      "checkedOn": "2026-11-16",
+      "note": "Direct retrieval succeeded; a separate web-reader retry timed out. Current2026–2027 cycle and September28 footer update were read.",
+      "checkedOn": "2026-11-23",
       "sourceUpdatedOn": "2026-09-28",
       "evidenceUrls": [
         "https://particle.physics.ucdavis.edu/rumor/doku.php?id=currentuk",
@@ -45,7 +45,7 @@
       "cycle": "2026–2027",
       "description": "US and international tenure-track and permanent searches in collider physics, dark matter, neutrinos and related experimental fields.",
       "note": "",
-      "checkedOn": "2026-11-16",
+      "checkedOn": "2026-11-23",
       "sourceUpdatedOn": "2026-10-30",
       "evidenceUrls": [
         "https://sites.google.com/site/hepexrumor/"
@@ -60,8 +60,8 @@
       "status": "unverified",
       "cycle": null,
       "description": "A regional theory faculty rumor mill linked by the HEP community directories.",
-      "note": "Web retrieval timed out again on November 16, 2026; a direct retry failed certificate verification. Current activity remains unverified; no closure is inferred.",
-      "checkedOn": "2026-11-16",
+      "note": "Direct retrieval failed certificate verification on November23,2026; web retry timed out. Current activity remains unverified; no closure inferred.",
+      "checkedOn": "2026-11-23",
       "sourceUpdatedOn": null,
       "evidenceUrls": [
         "https://sites.google.com/site/postdocrumor/",
@@ -79,7 +79,7 @@
       "cycle": null,
       "description": "An archive of Asian HEP faculty job announcements and hiring reports.",
       "note": "The site announced on 4 July 2024 that it would no longer publish new job announcements or rumors.",
-      "checkedOn": "2026-11-16",
+      "checkedOn": "2026-11-23",
       "sourceUpdatedOn": null,
       "evidenceUrls": [
         "https://sites.google.com/site/heprumorsasia/"

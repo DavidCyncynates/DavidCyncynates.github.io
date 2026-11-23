@@ -1,0 +1,62 @@
+{
+  "runId": "hep-jobs-20261123-sweep-pass-4",
+  "startedAt": "2026-11-23T10:07:53.085181+00:00",
+  "finishedAt": "2026-11-23T10:07:53.450081+00:00",
+  "checks": [
+    {
+      "sourceId": "academic-jobs-online",
+      "checkedAt": "2026-11-23T10:07:53.085181+00:00",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://academicjobsonline.org/ajo?joblst-0-0-0-0------"
+      ],
+      "summary": "Direct bare-query URL recovered full AJO listing after web reader appended=and returned landing page. Screened physics/astronomy faculty headings; followed Tsinghua, TelAviv, Temple, TAMU, Chicago and StonyBrook. Material/AMO-specific and postdoctoral headings excluded or retained for scope review.",
+      "coverage": "Full returned all-jobs list, physics/astronomy department headings and faculty titles only. Linked advertisements not all individually reviewed; broader interdisciplinary headings and field taxonomy remain incomplete. Continue unresolved leads and use newest postings next run.",
+      "scopeType": "vacancy-list",
+      "paginationComplete": false
+    },
+    {
+      "sourceId": "source-bfda4ef37627",
+      "checkedAt": "2026-11-23T10:07:53.447630+00:00",
+      "sourceReadAt": "2026-11-23T10:07:53.447630+00:00",
+      "timestampBasis": "actual-request-start",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://aas.org/jobregister/ad/e39262d4"
+      ],
+      "summary": "Direct public request returned HTTP 403. No job facts inferred.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-ae29f2cd630f",
+      "checkedAt": "2026-11-23T10:07:53.449087+00:00",
+      "sourceReadAt": "2026-11-23T10:07:53.449087+00:00",
+      "timestampBasis": "actual-request-start",
+      "outcome": "partial",
+      "evidenceUrls": [
+        "https://web.uniroma1.it/trasparenza/sites/default/files/2026PAE010_PHYS-01A_WEB.pdf"
+      ],
+      "summary": "Read the full official Sapienza 2026PAE010 PDF. One permanent associate-professor (II fascia) call in PHYS-01/A, focused on operation and hardware development for ground-based gravitational-wave detectors. Article 2 gives ASN/equivalent-position routes and excludes specified Sapienza employment, research grants or course enrollment during the previous three years. Article 3 requires PICA submission by 23:59 on the 30th day following Gazzetta publication; no timezone stated.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    },
+    {
+      "sourceId": "source-8e92f6ea73e6",
+      "checkedAt": "2026-11-23T10:07:53.450081+00:00",
+      "sourceReadAt": "2026-11-23T10:07:53.450081+00:00",
+      "timestampBasis": "actual-request-start",
+      "outcome": "failed",
+      "evidenceUrls": [
+        "https://trasparenza.uniroma1.it/page/75/details/38748/2026pae010-procedura-selettiva-di-chiamata-per-n-1-posto-prof-di-ii-fascia-ai-sensi-dellart-18-comma-4-l-2402010-gsd-02phys-01-ssd-phys-01a-dipartimento-fisica-facolta-scienze-matematiche-fisiche-e-naturali.html"
+      ],
+      "summary": "Direct public request returned HTTP 403. No job facts inferred.",
+      "coverage": "One advertisement; no institutional vacancy list or application workflow checked.",
+      "paginationComplete": false,
+      "scopeType": "advertisement"
+    }
+  ],
+  "summary": "Completed bounded partial source sweep with retained access failures and follow-up attempts. No exhaustive coverage claim."
+}
